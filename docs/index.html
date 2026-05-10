@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>コミネコ — 完成イメージ（公開プレビュー）</title>
+  <style>
+    :root { color-scheme: light; }
+    body {
+      font-family: "Segoe UI", "MS PGothic", "Hiragino Sans", Meiryo, sans-serif;
+      max-width: 36rem;
+      margin: 2.5rem auto;
+      padding: 0 1.25rem;
+      line-height: 1.6;
+      color: #1a2e28;
+    }
+    h1 { font-size: 1.25rem; margin-top: 0; }
+    ul { padding-left: 1.2rem; }
+    a { color: #0d5c45; font-weight: 600; }
+    .note { font-size: 0.875rem; color: #4a5c56; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>コミットレポート（コミネコ）— 完成イメージ資料</h1>
+  <p>以下は静的プレビュー用です。ブラウザでスライドを開き、必要なら印刷から PDF 保存できます。</p>
+  <ul>
+    <li><a href="./slides-completion-image.html">完成イメージスライド（HTML・全ページ）</a></li>
+    <li><a href="./completion-image-slides.pdf">PDF（同内容の生成例）</a></li>
+    <li><a href="./market-brief-mock.html">トレカ IPO リサーチ・ボード（ダミー1枚・左4チャート／右日本・海外ニュース）</a> — <code>market-brief-news.json</code> で上書き（<code>npm run fetch:market-news</code>：M&amp;A=NewsAPI、海外=Yahoo!ニュース RSS＋見出しフィルタ、要 <code>NEWS_API_KEY</code>）。株価終値・指数化は <code>npm run fetch:market-prices</code> → <code>market-brief-prices.json</code>（日本=J-Quants API Key、米国=Polygon API Key）</li>
+    <li><a href="./taki-daily-counter.html">瀧さん — 日報カウンター</a>（営業日カウント・「戻して」でリセット）</li>
+  </ul>
+  <p class="note">
+    公開者: Junya Fujii（藤井順也）<br />
+    ホスティング: Surge（URL のホスト名は英数字のみのため、例はローマ字）<br />
+    例: <code>https://junya-fujii-komineko.surge.sh/</code> — <code>npm run deploy:slides:junya-fujii</code> でこのドメインにデプロイ（既に誰かが使っている場合は別名に変更してください）
+  </p>
+</body>
+</html>

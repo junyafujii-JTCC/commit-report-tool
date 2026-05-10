@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>瀧さん — 日報カウンター</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1a1a1a;
+      --muted: #5c5c5c;
+      --line: #e8e8e8;
+      --accent: #2d6a4f;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100dvh;
+      font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+      background: #fafafa;
+      color: var(--ink);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+    }
+    main {
+      width: 100%;
+      max-width: 22rem;
+      text-align: center;
+    }
+    .photo-wrap {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+      padding: 0.75rem;
+      border: 1px solid var(--line);
+    }
+    .photo-wrap img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1;
+      object-fit: cover;
+      border-radius: 8px;
+      vertical-align: middle;
+    }
+    .day-line {
+      margin-top: 1.25rem;
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+    .day-line span.num {
+      font-variant-numeric: tabular-nums;
+    }
+    .hint {
+      margin-top: 1.5rem;
+      font-size: 0.8125rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+    form.memo {
+      margin-top: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      text-align: left;
+    }
+    form.memo label {
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+    form.memo .row {
+      display: flex;
+      gap: 0.5rem;
+    }
+    form.memo input[type="text"] {
+      flex: 1;
+      padding: 0.6rem 0.75rem;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      font-size: 0.9375rem;
+    }
+    form.memo button {
+      padding: 0.6rem 1rem;
+      border: none;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #fff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      cursor: pointer;
+    }
+    form.memo button:hover {
+      filter: brightness(1.05);
+    }
+    .toast {
+      margin-top: 0.75rem;
+      font-size: 0.8125rem;
+      color: var(--accent);
+      min-height: 1.25em;
+    }
+    .sub {
+      margin-top: 0.35rem;
+      font-size: 0.7rem;
+      color: #999;
+    }
+    .file-hint {
+      text-align: left;
+      background: #fff8e6;
+      border: 1px solid #f0e0b2;
+      border-radius: 8px;
+      padding: 0.75rem 0.85rem;
+      margin-top: 1rem;
+    }
+    .file-hint code { font-size: 0.8em; }
+    .file-hint a { color: var(--accent); font-weight: 600; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="photo-wrap">
+      <img
+        src="./taki-portrait.png"
+        alt="瀧さん"
+        width="400"
+        height="400"
+        id="portrait"
+      />
+    </div>
+    <p class="hint file-hint" id="fileHint" hidden>
+      画像が出ない・数字が動かないときは、HTML をダブルクリックで開かず、プロジェクト直下で
+      <code>npm run preview:docs</code> を実行し、
+      <a href="http://127.0.0.1:4173/taki-daily-counter.html">http://127.0.0.1:4173/taki-daily-counter.html</a>
+      を開いてください（日本語を含むフォルダの <code>file://</code> では Chrome が画像やスクリプトをブロックすることがあります）。
+    </p>
+    <p class="day-line">Day <span class="num" id="dayNum">—</span></p>
+    <p class="sub" id="holidayNote"></p>
+    <p class="hint">
+      営業日だけカウントします（土日・日本の祝日は含みません）。<br />
+      記載がない日に戻すときは、下に「戻して」と入力して送信してください。
+    </p>
+    <form class="memo" id="memoForm" autocomplete="off">
+      <label for="memoInput">メモ</label>
+      <div class="row">
+        <input type="text" id="memoInput" name="memo" placeholder="例：戻して" />
+        <button type="submit">送信</button>
+      </div>
+    </form>
+    <p class="toast" id="toast" aria-live="polite"></p>
+  </main>
+  <script>
+(function () {
+  var STORAGE_RESET = "takiDailyCounter.resetDate";
+  /** 日本の祝日（2024–2028・Nager.Date API と同内容。file:// でも動くよう埋め込み） */
+  var JP_HOLIDAYS_EMBEDDED = [
+    "2024-01-01", "2024-01-08", "2024-02-12", "2024-02-23", "2024-03-20", "2024-04-29", "2024-05-03", "2024-05-04", "2024-05-06", "2024-07-15", "2024-08-12", "2024-09-16", "2024-09-22", "2024-10-14", "2024-11-04", "2024-11-23",
+    "2025-01-01", "2025-01-13", "2025-02-11", "2025-02-24", "2025-03-20", "2025-04-29", "2025-05-03", "2025-05-05", "2025-05-06", "2025-07-21", "2025-08-11", "2025-09-15", "2025-09-23", "2025-10-13", "2025-11-03", "2025-11-24",
+    "2026-01-01", "2026-01-12", "2026-02-11", "2026-02-23", "2026-03-20", "2026-04-29", "2026-05-04", "2026-05-05", "2026-07-20", "2026-08-11", "2026-09-21", "2026-09-23", "2026-10-12", "2026-11-03", "2026-11-23",
+    "2027-01-01", "2027-01-11", "2027-02-11", "2027-02-23", "2027-03-21", "2027-04-29", "2027-05-03", "2027-05-04", "2027-05-05", "2027-07-19", "2027-08-11", "2027-09-20", "2027-09-23", "2027-10-11", "2027-11-03", "2027-11-23",
+    "2028-01-01", "2028-01-10", "2028-02-11", "2028-02-23", "2028-03-20", "2028-04-29", "2028-05-03", "2028-05-04", "2028-05-05", "2028-07-17", "2028-08-11", "2028-09-18", "2028-09-22", "2028-10-09", "2028-11-03", "2028-11-23"
+  ];
+
+  function embeddedHolidaySet() {
+    return new Set(JP_HOLIDAYS_EMBEDDED);
+  }
+
+  function pad2(n) { return String(n).padStart(2, "0"); }
+
+  function toYMD(d) {
+    return d.getFullYear() + "-" + pad2(d.getMonth() + 1) + "-" + pad2(d.getDate());
+  }
+
+  function parseYMD(s) {
+    var p = s.split("-");
+    return new Date(Number(p[0]), Number(p[1]) - 1, Number(p[2]));
+  }
+
+  function todayYMD() {
+    var d = new Date();
+    return toYMD(d);
+  }
+
+  function isWeekendYMD(ymd) {
+    var w = parseYMD(ymd).getDay();
+    return w === 0 || w === 6;
+  }
+
+  function isBusinessDay(ymd, holidaySet) {
+    if (isWeekendYMD(ymd)) return false;
+    return !holidaySet.has(ymd);
+  }
+
+  function firstBusinessOnOrAfter(ymd, holidaySet) {
+    var d = parseYMD(ymd);
+    for (var i = 0; i < 370; i++) {
+      var s = toYMD(d);
+      if (isBusinessDay(s, holidaySet)) return s;
+      d.setDate(d.getDate() + 1);
+    }
+    return ymd;
+  }
+
+  function countBusinessInclusive(fromYmd, toYmd, holidaySet) {
+    if (fromYmd > toYmd) return 0;
+    var n = 0;
+    var d = parseYMD(fromYmd);
+    var end = parseYMD(toYmd);
+    while (d <= end) {
+      var s = toYMD(d);
+      if (isBusinessDay(s, holidaySet)) n++;
+      d.setDate(d.getDate() + 1);
+    }
+    return n;
+  }
+
+  function computeDay(resetYmd, holidaySet) {
+    var today = todayYMD();
+    var startBiz = firstBusinessOnOrAfter(resetYmd, holidaySet);
+    if (today < startBiz) return 1;
+    return countBusinessInclusive(startBiz, today, holidaySet);
+  }
+
+  function getResetDate() {
+    var t = todayYMD();
+    var s = localStorage.getItem(STORAGE_RESET);
+    if (!s) {
+      localStorage.setItem(STORAGE_RESET, t);
+      return t;
+    }
+    return s;
+  }
+
+  function setResetToToday() {
+    localStorage.setItem(STORAGE_RESET, todayYMD());
+  }
+
+  function loadHolidays() {
+    return Promise.resolve(embeddedHolidaySet());
+  }
+
+  var dayEl = document.getElementById("dayNum");
+  var toastEl = document.getElementById("toast");
+  var noteEl = document.getElementById("holidayNote");
+  var form = document.getElementById("memoForm");
+  var input = document.getElementById("memoInput");
+  var portrait = document.getElementById("portrait");
+  var fileHint = document.getElementById("fileHint");
+
+  if (location.protocol === "file:") {
+    fileHint.hidden = false;
+  }
+  portrait.addEventListener("error", function () {
+    fileHint.hidden = false;
+  });
+
+  function showToast(msg) {
+    toastEl.textContent = msg;
+    if (msg) setTimeout(function () { toastEl.textContent = ""; }, 4000);
+  }
+
+  function render(holidaySet) {
+    var reset = getResetDate();
+    dayEl.textContent = String(computeDay(reset, holidaySet));
+    noteEl.textContent =
+      "祝日: 2024–2028 年分をページ内に埋め込み（Nager.Date の日本祝日と同内容）。2029 年以降はデータ更新が必要です。";
+  }
+
+  loadHolidays().then(function (set) {
+    render(set);
+  });
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var text = (input.value || "").trim();
+    if (text.indexOf("戻して") !== -1) {
+      setResetToToday();
+      input.value = "";
+      loadHolidays().then(function (set) {
+        render(set);
+        showToast("カウントを1に戻しました（今日を基準の営業日1日目として再開）。");
+      });
+      return;
+    }
+    showToast(text ? "メモを受け取りました（カウントは変わりません）。" : "");
+  });
+})();
+  </script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+#!/usr/bin/env node
+/**
+ * market-brief-news.json を要約して Slack Incoming Webhook に POST する。
+ *
+ * 環境変数:
+ *   SLACK_WEBHOOK_URL  … 必須（未設定の場合は何もせず exit 0）
+ *   BRIEF_PAGE_URL     … 任意（Surge 等のプレビューURL。本文に「詳細」リンクを付与）
+ *
+ * https://api.slack.com/messaging/webhooks
+ */
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const JSON_PATH = path.join(__dirname, "market-brief-news.json");
+
+const webhook = process.env.SLACK_WEBHOOK_URL;
+if (!webhook) {
+  console.log("SLACK_WEBHOOK_URL 未設定のため Slack 投稿をスキップ");
+  process.exit(0);
+}
+
+const raw = fs.readFileSync(JSON_PATH, "utf8");
+const data = JSON.parse(raw);
+const briefUrl = process.env.BRIEF_PAGE_URL || "";
+
+function link(url, title) {
+  if (!url) return title;
+  return `<${url}|${title.replace(/[<>]/g, "")}>`;
+}
+
+const maLines =
+  (data.ma || []).slice(0, 3).map((a, i) => {
+    const t = a.title || "(無題)";
+    return `${i + 1}. ${link(a.url, t)}${a.source ? ` _${a.source}_` : ""}`;
+  }) || [];
+
+const worldLines =
+  (data.world || []).slice(0, 10).map((a, i) => {
+    const t = a.title || "(無題)";
+    return `${i + 1}. ${link(a.url, t)}`;
+  }) || [];
+
+const fetched = data.fetchedAt
+  ? new Date(data.fetchedAt).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })
+  : "—";
+
+let md = `*ECモーニングブリーフ*（取得 ${fetched} JST）\n\n`;
+md += `*【M&A】*（NewsAPI）\n${maLines.length ? maLines.join("\n") : "—"}\n\n`;
+md += `*【世界経済】*（Yahoo!ニュース RSS）\n${worldLines.length ? worldLines.join("\n") : "—"}\n`;
+if (briefUrl) {
+  md += `\n<${briefUrl}|ブラウザで一覧を開く>`;
+}
+md += `\n_投資助言ではありません。各リンク先の利用条件に従ってください。_`;
+
+const payload = {
+  text: `ECモーニングブリーフ ${fetched}`, // 通知プレビュー用フォールバック
+  blocks: [
+    {
+      type: "section",
+      text: {
+        type: "mrkdwn",
+        text: md.slice(0, 2900),
+      },
+    },
+  ],
+};
+
+if (md.length > 2900) {
+  payload.blocks[0].text.text =
+    md.slice(0, 2800) + "\n…（文字数制限のため省略）";
+}
+
+const res = await fetch(webhook, {
+  method: "POST",
+  headers: { "Content-Type": "application/json; charset=utf-8" },
+  body: JSON.stringify(payload),
+});
+
+if (!res.ok) {
+  const t = await res.text();
+  console.error("Slack webhook error:", res.status, t);
+  process.exit(1);
+}
+console.log("Slack 投稿 OK");

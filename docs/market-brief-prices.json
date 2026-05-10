@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-05-10T13:59:50.509Z",
+  "baseDateRequested": "2026-01-01",
+  "rangeTo": "2026-05-09",
+  "closeLatestNote": "終値の最新日は東京カレンダーの前日まで（当日バーは含めず、前営業日の終値が最新）",
+  "indexBaseValue": 100,
+  "sources": {
+    "jp": null,
+    "us": null
+  },
+  "series": [],
+  "baseSeriesMeta": [],
+  "errors": [
+    {
+      "scope": "jp",
+      "message": "スキップ: JQUANTS_API_KEY または JQUANTS_REFRESH_TOKEN を設定してください（日本株・ETF）"
+    },
+    {
+      "scope": "us",
+      "message": "スキップ: POLYGON_API_KEY を設定してください（米国株・指数）"
+    }
+  ]
+}

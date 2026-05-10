@@ -1,0 +1,97 @@
+{
+  "fetchedAt": "2026-04-13T09:06:55.384Z",
+  "maProvider": "https://newsapi.org/",
+  "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
+  "worldRss": [
+    "https://news.yahoo.co.jp/rss/topics/world.xml",
+    "https://news.yahoo.co.jp/rss/topics/business.xml"
+  ],
+  "ma": [
+    {
+      "title": "TSIホールディングスが攻めのM&Aで今期2000億円へ　「テーラー東洋」を傘下にアメカジ拡大",
+      "url": "https://zuuonline.com/archives/301519",
+      "source": "Zuuonline.com",
+      "publishedAt": "2026-04-12T03:02:00Z",
+      "description": "アパレル大手のTSIホールディングス（以下、TSI HD）は4月10日、2026年2月期の通期連結決算を発表した。売上高は1670億8500万円（前年比6.7％増）、営業利益は43億2500万円（同164.4％増）と大幅な増益を達成した一方で、親会社株主に帰属する当期純利益は37億9300万円（同75.1％減）と大き[…]"
+    },
+    {
+      "title": "企業買収の標的となった経営陣の4つの選択",
+      "url": "https://dhbr.diamond.jp/articles/-/13747",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-04-10T23:00:00Z",
+      "description": "中堅家電メーカーのマイアーソン社は今、乗っ取りの危機に瀕している。経営陣に残された4つの選択のうちとるべき道はどれか。"
+    },
+    {
+      "title": "東京電力ＨＤ---大幅続伸、資本提携先として米ファンドなども関心と伝わり - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1065779",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-04-10T05:48:02Z",
+      "description": "&lt;9501&gt; 東京電力ＨＤ 667.5 +10.2大幅続伸。広く提携先を募っているが、これに対して、ブラックストーンやアポロ・グローバル・マネジメントなどの米投資ファンド、ソフトバンクなどが関心を示したことが分かったと伝わっている。外部からの出資規模は1兆円を超える可能性があるとされているほか、TOBによる株式非公開化も選択肢になるとみられており、資金力のある企業の関心を受けて、再編プレミアムなど"
+    }
+  ],
+  "world": [
+    {
+      "title": "米はなぜ海峡封鎖したいのか 分析",
+      "url": "https://news.yahoo.co.jp/pickup/6576103?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-13T02:20:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "露ウの一時停戦終了 成果は限定的",
+      "url": "https://news.yahoo.co.jp/pickup/6576093?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-13T00:39:18.000Z",
+      "description": ""
+    },
+    {
+      "title": "米 イランに限定的攻撃再開検討か",
+      "url": "https://news.yahoo.co.jp/pickup/6576091?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-13T00:37:44.000Z",
+      "description": ""
+    },
+    {
+      "title": "原油1バレル=100ドル超 再び上昇",
+      "url": "https://news.yahoo.co.jp/pickup/6576081?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-12T22:57:42.000Z",
+      "description": ""
+    },
+    {
+      "title": "米の海峡封鎖受けイラン側が反発",
+      "url": "https://news.yahoo.co.jp/pickup/6576077?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-12T22:25:59.000Z",
+      "description": ""
+    },
+    {
+      "title": "米軍 イラン港の船舶往来を封鎖へ",
+      "url": "https://news.yahoo.co.jp/pickup/6576076?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-12T22:25:34.000Z",
+      "description": ""
+    },
+    {
+      "title": "ハンガリー 16年ぶり政権交代へ",
+      "url": "https://news.yahoo.co.jp/pickup/6576073?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-12T22:16:36.000Z",
+      "description": ""
+    },
+    {
+      "title": "超大型タンカー2隻 海峡通過断念",
+      "url": "https://news.yahoo.co.jp/pickup/6576056?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-12T13:10:05.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国人労働者 露の極東で異例デモ",
+      "url": "https://news.yahoo.co.jp/pickup/6576048?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-04-12T11:10:10.000Z",
+      "description": ""
+    }
+  ]
+}

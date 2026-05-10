@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>トレカ IPO リサーチ（レイアウト確認・ダミー）</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0f1923;
+      --card: #16232f;
+      --card-border: #1e3448;
+      --ink: #e8f0f8;
+      --muted: #7a95ae;
+      --accent: #00c9a7;
+      --line-nikkei: #ef4444;
+      --line-a: #38bdf8;
+      --line-b: #a78bfa;
+      --line-c: #f472b6;
+      --line-d: #fbbf24;
+      --line-us: #22d3ee;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+      color: var(--ink);
+      padding: 16px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      background: radial-gradient(ellipse 120% 80% at 50% -20%, #1a3048 0%, var(--bg) 55%);
+    }
+
+    .board {
+      width: min(1320px, 100%);
+      padding: 18px 20px 14px;
+      border-radius: 16px;
+      background: rgba(22, 35, 47, 0.92);
+      border: 1px solid var(--card-border);
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+    }
+
+    .page-title {
+      text-align: center;
+      margin-bottom: 6px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--card-border);
+    }
+    .page-title h1 {
+      margin: 0;
+      font-size: 1.08rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      line-height: 1.35;
+    }
+    .page-title .sub {
+      margin: 8px 0 0;
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    /* 左：チャート縦積み / 右：ニュース */
+    .treca-layout {
+      display: grid;
+      grid-template-columns: minmax(380px, 1.05fr) minmax(340px, 0.95fr);
+      gap: 14px;
+      margin-top: 14px;
+      align-items: start;
+    }
+
+    .col-charts {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .chart-card {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 10px 12px 8px;
+    }
+    .chart-card .hk {
+      font-size: 0.72rem;
+      font-weight: 800;
+      color: var(--accent);
+      letter-spacing: 0.04em;
+      margin-bottom: 4px;
+    }
+    .chart-card .tickers {
+      font-size: 0.62rem;
+      color: var(--muted);
+      margin: 0 0 8px;
+      line-height: 1.35;
+    }
+    .chart-card svg {
+      display: block;
+      width: 100%;
+      height: 96px;
+      border-radius: 8px;
+      background: rgba(10, 21, 32, 0.65);
+    }
+    .chart-card .leg {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 12px;
+      margin-top: 6px;
+      font-size: 0.58rem;
+      font-weight: 600;
+      color: var(--muted);
+    }
+    .chart-card .leg span {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .chart-card .leg i {
+      width: 12px;
+      height: 3px;
+      border-radius: 1px;
+      flex-shrink: 0;
+    }
+
+    .col-news {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-width: 0;
+      max-height: none;
+    }
+
+    .news-panel {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 10px 12px 10px;
+    }
+    .news-panel > .nh {
+      font-size: 0.78rem;
+      font-weight: 800;
+      color: var(--accent);
+      margin: 0 0 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--card-border);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .news-panel .nh-badge {
+      font-size: 0.58rem;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .sub-block-h {
+      font-size: 0.65rem;
+      font-weight: 700;
+      color: var(--muted);
+      margin: 10px 0 6px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.62rem;
+      line-height: 1.35;
+    }
+    th {
+      text-align: left;
+      font-weight: 700;
+      color: var(--muted);
+      padding: 5px 6px;
+      border-bottom: 1px solid var(--card-border);
+      background: rgba(13, 33, 55, 0.6);
+    }
+    td {
+      padding: 6px 6px;
+      vertical-align: top;
+      border-bottom: 1px solid rgba(30, 52, 72, 0.85);
+      color: var(--ink);
+    }
+    tr:last-child td { border-bottom: none; }
+    tr.row-a td { background: rgba(16, 185, 129, 0.06); }
+    tr.row-b td { background: rgba(245, 158, 11, 0.06); }
+    tr.row-c td { background: rgba(139, 92, 246, 0.06); }
+
+    .ipo-list {
+      margin: 0;
+      padding-left: 1rem;
+      font-size: 0.62rem;
+      line-height: 1.45;
+      color: var(--ink);
+    }
+    .ipo-list li { margin-bottom: 6px; }
+
+    .world-news-grid {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      counter-reset: wn;
+    }
+    .world-news-grid li {
+      counter-increment: wn;
+      display: flex;
+      gap: 6px;
+      align-items: flex-start;
+      font-size: 0.62rem;
+      line-height: 1.4;
+      padding: 5px 0;
+      border-bottom: 1px dashed rgba(122, 149, 174, 0.25);
+      color: var(--ink);
+    }
+    .world-news-grid li::before {
+      content: counter(wn);
+      flex-shrink: 0;
+      width: 1.2rem;
+      height: 1.2rem;
+      border-radius: 4px;
+      background: rgba(0, 201, 167, 0.15);
+      color: var(--accent);
+      font-size: 0.55rem;
+      font-weight: 800;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .world-news-grid li a {
+      color: var(--ink);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+    .world-news-grid li a:hover { color: var(--line-a); }
+
+    .ma-live-link {
+      color: var(--ink);
+      font-weight: 600;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+    .news-src {
+      display: block;
+      margin-top: 3px;
+      font-size: 0.55rem;
+      color: var(--muted);
+    }
+    .world-news-grid li .news-src {
+      display: inline;
+      margin-left: 4px;
+    }
+
+    #news-live-meta,
+    #price-json-meta {
+      display: none;
+      text-align: center;
+      margin-top: 10px;
+      font-size: 0.58rem;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+    .foot-note {
+      text-align: center;
+      margin-top: 12px;
+      font-size: 0.58rem;
+      color: #4a6480;
+      line-height: 1.45;
+    }
+
+    @media (max-width: 1080px) {
+      .treca-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="board">
+    <header class="page-title">
+      <h1 id="page-title-main">🃏 トレカ IPO リサーチ — 株価パフォーマンス &amp; M&amp;A / IPOニュース<span id="title-dummy-tag" style="font-weight:600;font-size:0.85em">（ダミー曲線・構成確認）</span></h1>
+      <p class="sub" id="page-title-sub">2026年1月起点 ｜ 指数化（=100）｜ 左＝業態別ティッカー群、右＝日本ニュース（M&amp;AはJSON）／海外ニュース（JSON）</p>
+    </header>
+
+    <div class="treca-layout">
+      <div class="col-charts">
+        <div class="chart-card">
+          <div class="hk">① 自社IP展開エンタメ</div>
+          <p class="tickers">日経平均 / ブシロード / バンダイナムコ / コナミ</p>
+          <svg id="chartTreca1" viewBox="0 0 320 96" preserveAspectRatio="none" aria-hidden="true"></svg>
+          <div class="leg" id="leg1"></div>
+        </div>
+        <div class="chart-card">
+          <div class="hk">② リユース</div>
+          <p class="tickers">日経平均 / ゲオ / ハードオフ</p>
+          <svg id="chartTreca2" viewBox="0 0 320 96" preserveAspectRatio="none" aria-hidden="true"></svg>
+          <div class="leg" id="leg2"></div>
+        </div>
+        <div class="chart-card">
+          <div class="hk">③ USギャンブル銘柄</div>
+          <p class="tickers">NASDAQ総合 / DraftKings / Evolution</p>
+          <svg id="chartTreca3" viewBox="0 0 320 96" preserveAspectRatio="none" aria-hidden="true"></svg>
+          <div class="leg" id="leg3"></div>
+        </div>
+        <div class="chart-card">
+          <div class="hk">④ US Eコマース</div>
+          <p class="tickers">NASDAQ総合 / Amazon</p>
+          <svg id="chartTreca4" viewBox="0 0 320 96" preserveAspectRatio="none" aria-hidden="true"></svg>
+          <div class="leg" id="leg4"></div>
+        </div>
+      </div>
+
+      <div class="col-news">
+        <div class="news-panel">
+          <div class="nh">
+            🇯🇵 日本 M&amp;A / IPO
+            <span class="nh-badge" id="ma-news-badge">（M&amp;Aはダミー／JSONで上書き可）</span>
+          </div>
+
+          <div class="sub-block-h">M&amp;A ニュース</div>
+          <table>
+            <thead>
+              <tr>
+                <th style="width:30%">見出し</th>
+                <th style="width:14%">金額</th>
+                <th style="width:36%">概要</th>
+                <th style="width:20%">日付</th>
+              </tr>
+            </thead>
+            <tbody id="ma-tbody-live">
+              <tr class="row-a">
+                <td>ダミー：A社によるB社買収検討</td>
+                <td>—</td>
+                <td>（サンプル）</td>
+                <td>—</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <div class="sub-block-h">IPO（サンプル・静的）</div>
+          <ul class="ipo-list">
+            <li><strong>IPO</strong> 2026.03 — スマートニュース、2026年中に東証上場へ（ダミー文言）</li>
+            <li><strong>IPO</strong> 2026.02 — ポケトーク、2026年秋に東証グロース上場計画（ダミー）</li>
+          </ul>
+        </div>
+
+        <div class="news-panel" aria-label="海外ニュース">
+          <div class="nh">
+            🌏 海外ニュース <span class="nh-badge" id="world-news-badge">（ダミー／JSONで上書き可）</span>
+          </div>
+          <ol class="world-news-grid" id="world-news-live">
+            <li>（ダミー）海外ヘッドライン 1</li>
+            <li>（ダミー）海外ヘッドライン 2</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <p id="news-live-meta" role="status"></p>
+    <p id="price-json-meta" role="status"></p>
+    <p class="foot-note" id="foot-note-main">
+      ※株価は <code>market-brief-prices.json</code>（J-Quants・Polygon 取得時）で指数化した終値系列を表示。未取得時は模式曲線です。最新終値は東京日付の前日まで（当日は含めません）。<br />
+      ニュースは <code>market-brief-news.json</code>（M&amp;A=NewsAPI、海外=Yahoo!ニュース RSS）。投資助言ではありません。
+    </p>
+  </div>
+
+  <script>
+    (function loadBriefNewsFromJson() {
+      function escapeHtml(s) {
+        return String(s ?? "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+      function truncate(s, n) {
+        const t = String(s || "").trim();
+        return t.length <= n ? t : t.slice(0, n - 1) + "…";
+      }
+
+      var maBody = document.getElementById("ma-tbody-live");
+      var worldOl = document.getElementById("world-news-live");
+      if (!maBody || !worldOl) return;
+
+      fetch("market-brief-news.json", { cache: "no-store" })
+        .then(function (r) {
+          if (!r.ok) throw new Error("no json");
+          return r.json();
+        })
+        .then(function (data) {
+          var ma = data.ma && data.ma.length ? data.ma.slice(0, 5) : [];
+          var world = data.world && data.world.length ? data.world.slice(0, 10) : [];
+          if (!ma.length && !world.length) return;
+
+          var rowClass = ["row-a", "row-b", "row-c"];
+          if (ma.length) {
+            maBody.innerHTML = ma
+              .map(function (a, i) {
+                var dateStr = a.publishedAt
+                  ? new Date(a.publishedAt).toLocaleDateString("ja-JP")
+                  : "—";
+                var url = a.url || "#";
+                var desc = truncate(a.description, 100) || "—";
+                var src = a.source ? '<div class="news-src">' + escapeHtml(a.source) + "</div>" : "";
+                return (
+                  '<tr class="' +
+                  rowClass[i % 3] +
+                  '"><td title="' +
+                  escapeHtml(a.title) +
+                  '"><a class="ma-live-link" href="' +
+                  escapeHtml(url) +
+                  '" target="_blank" rel="noopener noreferrer">' +
+                  escapeHtml(a.title) +
+                  "</a>" +
+                  src +
+                  "</td><td>—</td><td>" +
+                  escapeHtml(desc) +
+                  "</td><td>" +
+                  escapeHtml(dateStr) +
+                  "</td></tr>"
+                );
+              })
+              .join("");
+            var maBadge = document.getElementById("ma-news-badge");
+            if (maBadge) {
+              maBadge.textContent =
+                data.maProvider && data.maProvider.indexOf("newsapi") !== -1
+                  ? "（M&A・NewsAPI）"
+                  : "（取得済）";
+            }
+          }
+
+          if (world.length) {
+            worldOl.innerHTML = world
+              .map(function (a) {
+                var url = a.url || "#";
+                var src = a.source
+                  ? '<span class="news-src">' + escapeHtml(a.source) + "</span>"
+                  : "";
+                return (
+                  "<li><a href=\"" +
+                  escapeHtml(url) +
+                  '" target="_blank" rel="noopener noreferrer">' +
+                  escapeHtml(a.title) +
+                  "</a> " +
+                  src +
+                  "</li>"
+                );
+              })
+              .join("");
+            var wBadge = document.getElementById("world-news-badge");
+            if (wBadge) {
+              wBadge.textContent =
+                data.worldRss && data.worldRss.length
+                  ? "（Yahoo!ニュース RSS）"
+                  : data.worldProvider && data.worldProvider.indexOf("Yahoo") !== -1
+                    ? "（Yahoo!ニュース）"
+                    : "（NewsAPI）";
+            }
+          }
+
+          var meta = document.getElementById("news-live-meta");
+          if (meta && data.fetchedAt) {
+            meta.style.display = "block";
+            var wSrc =
+              data.worldRss && data.worldRss.length
+                ? "Yahoo RSS（" + data.worldRss.length + "本）"
+                : data.worldProvider ||
+                  (data.provider && !data.worldRss ? "旧JSON・再取得推奨" : "—");
+            meta.textContent =
+              "取得: " +
+              new Date(data.fetchedAt).toLocaleString("ja-JP") +
+              " ／ M&A: NewsAPI ／ 海外: " +
+              wSrc;
+          }
+        })
+        .catch(function () {});
+    })();
+  </script>
+
+  <script>
+    (function () {
+      var W = 320;
+      var H = 96;
+
+      function todayTokyoYmd() {
+        return new Intl.DateTimeFormat("sv-SE", {
+          timeZone: "Asia/Tokyo",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+        }).format(new Date());
+      }
+
+      function addDaysYmd(ymd, delta) {
+        var p = ymd.split("-").map(Number);
+        var u = Date.UTC(p[0], p[1] - 1, p[2] + delta);
+        return new Date(u).toISOString().slice(0, 10);
+      }
+
+      function yesterdayTokyoYmd() {
+        return addDaysYmd(todayTokyoYmd(), -1);
+      }
+
+      function pathLine(vals, x0, x1, y0, y1, minV, maxV) {
+        var n = vals.length;
+        var min = minV !== undefined ? minV : Math.min.apply(null, vals);
+        var max = maxV !== undefined ? maxV : Math.max.apply(null, vals);
+        var r = max - min || 1;
+        var denom = Math.max(n - 1, 1);
+        var d = "";
+        for (var i = 0; i < n; i++) {
+          var x = x0 + (i / denom) * (x1 - x0);
+          var t = (vals[i] - min) / r;
+          var y = y1 - t * (y1 - y0);
+          d += (i ? "L" : "M") + x.toFixed(1) + "," + y.toFixed(1);
+        }
+        return d;
+      }
+
+      function walkSeries(seed, len) {
+        var a = [];
+        var v = 100;
+        for (var i = 0; i < len; i++) {
+          v +=
+            Math.sin(seed + i * 0.42) * 1.0 +
+            Math.cos(seed * 0.65 + i * 1.02) * 0.45;
+          a.push(v);
+        }
+        return a;
+      }
+
+      function rebase100(series) {
+        var b = series[0];
+        return series.map(function (x) {
+          return (x / b) * 100;
+        });
+      }
+
+      function drawBundleFromVals(svgId, valsRows, colors, Wc, Hc) {
+        var pad = { l: 8, r: 8, t: 8, b: 14 };
+        var x0 = pad.l;
+        var x1 = Wc - pad.r;
+        var y0 = pad.t;
+        var y1 = Hc - pad.b;
+        var flat = [];
+        valsRows.forEach(function (row) {
+          row.forEach(function (v) {
+            flat.push(v);
+          });
+        });
+        var minV = Math.min.apply(null, flat);
+        var maxV = Math.max.apply(null, flat);
+        minV -= 0.6;
+        maxV += 0.6;
+        var y100 = y1 - ((100 - minV) / (maxV - minV)) * (y1 - y0);
+        var inner = "";
+        inner +=
+          '<line x1="' +
+          x0 +
+          '" y1="' +
+          y100 +
+          '" x2="' +
+          x1 +
+          '" y2="' +
+          y100 +
+          '" stroke="rgba(122,149,174,0.25)" stroke-width="1" stroke-dasharray="3 2"/>';
+        valsRows.forEach(function (s, idx) {
+          inner +=
+            '<path d="' +
+            pathLine(s, x0, x1, y0, y1, minV, maxV) +
+            '" fill="none" stroke="' +
+            colors[idx % colors.length] +
+            '" stroke-width="' +
+            (valsRows.length > 3 ? "1.6" : "2") +
+            '" stroke-linecap="round"/>';
+        });
+        inner +=
+          '<text x="' +
+          x0 +
+          '" y="' +
+          (Hc - 3) +
+          '" font-size="6" fill="#5c7a92">' +
+          minV.toFixed(1) +
+          "</text>";
+        inner +=
+          '<text x="' +
+          x1 +
+          '" y="' +
+          (Hc - 3) +
+          '" font-size="6" fill="#5c7a92" text-anchor="end">' +
+          maxV.toFixed(1) +
+          "</text>";
+        var el = document.getElementById(svgId);
+        if (el) el.innerHTML = inner;
+      }
+
+      function drawBundleDummy(svgId, seeds, colors, Wc, Hc) {
+        var series = seeds.map(function (s) {
+          return rebase100(walkSeries(s, 28));
+        });
+        drawBundleFromVals(svgId, series, colors, Wc, Hc);
+      }
+
+      function buildSeriesMap(data) {
+        var m = {};
+        (data.series || []).forEach(function (s) {
+          m[s.id] = s;
+        });
+        return m;
+      }
+
+      function alignIndexed(defs, byId, maxDateYmd) {
+        var clipped = defs.map(function (def) {
+          var s = byId[def.id];
+          if (!s || !s.points) return null;
+          var pts = s.points.filter(function (p) {
+            return p.d <= maxDateYmd && p.idx != null && !isNaN(p.idx);
+          });
+          return { id: def.id, label: def.legendLabel || s.label, points: pts };
+        });
+        if (clipped.some(function (x) {
+          return !x || !x.points.length;
+        }))
+          return null;
+        var dateSets = clipped.map(function (c) {
+          return new Set(c.points.map(function (p) {
+            return p.d;
+          }));
+        });
+        var common = dateSets[0];
+        for (var i = 1; i < dateSets.length; i++) {
+          common = new Set(
+            [...common].filter(function (d) {
+              return dateSets[i].has(d);
+            })
+          );
+        }
+        if (!common.size) return null;
+        var dates = [...common].sort();
+        if (dates.length < 2) return null;
+        var vals = clipped.map(function (c) {
+          var map = new Map(c.points.map(function (p) {
+            return [p.d, p.idx];
+          }));
+          return dates.map(function (d) {
+            return map.get(d);
+          });
+        });
+        if (vals.some(function (row) {
+          return row.some(function (v) {
+            return v == null || isNaN(v);
+          });
+        }))
+          return null;
+        var labels = defs.map(function (def, i) {
+          return def.legendLabel || clipped[i].label;
+        });
+        return { dates: dates, vals: vals, labels: labels };
+      }
+
+      function renderLeg(id, labels, colors) {
+        var el = document.getElementById(id);
+        if (!el) return;
+        el.innerHTML = labels
+          .map(function (lab, i) {
+            return (
+              "<span><i style=\"background:" +
+              colors[i % colors.length] +
+              '\"></i>' +
+              lab +
+              "</span>"
+            );
+          })
+          .join("");
+      }
+
+      var CHARTS = [
+        {
+          svg: "chartTreca1",
+          leg: "leg1",
+          defs: [
+            { id: "nikkei225_etf", legendLabel: "日経225連動ETF" },
+            { id: "bushiroad", legendLabel: "ブシロード" },
+            { id: "bandai_namco", legendLabel: "バンダイナムコ" },
+            { id: "konami", legendLabel: "コナミ" },
+          ],
+          colors: ["#ef4444", "#38bdf8", "#a78bfa", "#f472b6"],
+        },
+        {
+          svg: "chartTreca2",
+          leg: "leg2",
+          defs: [
+            { id: "nikkei225_etf", legendLabel: "日経225連動ETF" },
+            { id: "geo", legendLabel: "ゲオ" },
+            { id: "hardoff", legendLabel: "ハードオフ" },
+          ],
+          colors: ["#ef4444", "#38bdf8", "#a78bfa"],
+        },
+        {
+          svg: "chartTreca3",
+          leg: "leg3",
+          defs: [
+            { id: "nasdaq_comp", legendLabel: "NASDAQ" },
+            { id: "draftkings", legendLabel: "DraftKings" },
+            { id: "evolution", legendLabel: "Evolution" },
+          ],
+          colors: ["#22d3ee", "#fbbf24", "#a78bfa"],
+        },
+        {
+          svg: "chartTreca4",
+          leg: "leg4",
+          defs: [
+            { id: "nasdaq_comp", legendLabel: "NASDAQ" },
+            { id: "amazon", legendLabel: "Amazon" },
+          ],
+          colors: ["#22d3ee", "#ff9900"],
+        },
+      ];
+
+      function drawAllDummy() {
+        var C = ["#ef4444", "#38bdf8", "#a78bfa", "#f472b6", "#fbbf24", "#22d3ee"];
+        drawBundleDummy("chartTreca1", [1.1, 2.2, 3.3, 4.4], C.slice(0, 4), W, H);
+        renderLeg("leg1", ["日経225連動ETF", "ブシロード", "バンダイナムコ", "コナミ"], C.slice(0, 4));
+        drawBundleDummy("chartTreca2", [1.15, 2.5, 3.8], C.slice(0, 3), W, H);
+        renderLeg("leg2", ["日経225連動ETF", "ゲオ", "ハードオフ"], C.slice(0, 3));
+        drawBundleDummy("chartTreca3", [3.05, 4.1, 4.9], ["#22d3ee", "#fbbf24", "#a78bfa"], W, H);
+        renderLeg("leg3", ["NASDAQ", "DraftKings", "Evolution"], ["#22d3ee", "#fbbf24", "#a78bfa"]);
+        drawBundleDummy("chartTreca4", [3.62, 2.9], ["#22d3ee", "#ff9900"], W, H);
+        renderLeg("leg4", ["NASDAQ", "Amazon"], ["#22d3ee", "#ff9900"]);
+      }
+
+      function applyLiveHeader(priceData, maxYmd) {
+        var tag = document.getElementById("title-dummy-tag");
+        if (tag) tag.style.display = "none";
+        var sub = document.getElementById("page-title-sub");
+        if (sub) {
+          sub.textContent =
+            "2026年1月起点 ｜ 指数化（=100）｜ 終値・最新は " +
+            maxYmd +
+            " まで（東京・前日まで／当日含まず）｜ 左＝JSON株価、右＝ニュースJSON";
+        }
+        var pm = document.getElementById("price-json-meta");
+        if (pm && priceData && priceData.fetchedAt) {
+          pm.style.display = "block";
+          pm.textContent =
+            "株価JSON 取得: " +
+            new Date(priceData.fetchedAt).toLocaleString("ja-JP") +
+            " ／ 表示終端 rangeTo=" +
+            (priceData.rangeTo || maxYmd);
+        }
+      }
+
+      fetch("market-brief-prices.json", { cache: "no-store" })
+        .then(function (r) {
+          if (!r.ok) throw new Error("no prices file");
+          return r.json();
+        })
+        .then(function (data) {
+          if (!data.series || !data.series.length) throw new Error("empty series");
+          var cap = yesterdayTokyoYmd();
+          var maxD = data.rangeTo || cap;
+          if (maxD > cap) maxD = cap;
+          var byId = buildSeriesMap(data);
+          var ok = true;
+          CHARTS.forEach(function (ch) {
+            var al = alignIndexed(ch.defs, byId, maxD);
+            if (!al) {
+              ok = false;
+              return;
+            }
+            drawBundleFromVals(ch.svg, al.vals, ch.colors, W, H);
+            renderLeg(ch.leg, al.labels, ch.colors);
+          });
+          if (!ok) throw new Error("align failed");
+          applyLiveHeader(data, maxD);
+        })
+        .catch(function () {
+          drawAllDummy();
+        });
+    })();
+  </script>
+</body>
+</html>
