@@ -1,0 +1,23 @@
+{
+  "name": "comi-neko",
+  "version": "1.0.0",
+  "description": "GitHubコミットをAIで分析・図解し、Slackに自動投稿するツール",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "preview:docs": "node docs/local-server.mjs",
+    "fetch:market-news": "node docs/fetch-market-news.mjs",
+    "fetch:market-prices": "node docs/fetch-market-prices.mjs",
+    "post:slack-brief": "node docs/post-slack-market-brief.mjs",
+    "deploy:slides": "surge ./docs",
+    "deploy:slides:junya-fujii": "surge ./docs junya-fujii-komineko.surge.sh"
+  },
+  "dependencies": {
+    "playwright": "^1.57.0"
+  },
+  "devDependencies": {
+    "surge": "^0.24.6"
+  }
+}
