@@ -4,7 +4,7 @@
  *
  * 環境変数:
  *   SLACK_WEBHOOK_URL  … 必須（未設定の場合は何もせず exit 0）
- *   BRIEF_PAGE_URL     … 任意（Surge 等のプレビューURL。本文に「詳細」リンクを付与）
+ *   BRIEF_PAGE_URL     … 任意（追加の一覧URL。マーケットブリーフ固定URLと異なるときだけ本文に「詳細」リンク）
  *
  * https://api.slack.com/messaging/webhooks
  */
@@ -24,6 +24,16 @@ if (!webhook) {
 const raw = fs.readFileSync(JSON_PATH, "utf8");
 const data = JSON.parse(raw);
 const briefUrl = process.env.BRIEF_PAGE_URL || "";
+
+/** 市場デイリーアップデート（HTML）。Slack 本文に常に載せる */
+const MARKET_BRIEF_URL =
+  "https://junya-fujii-komineko.surge.sh/market-brief.html";
+
+function normalizeUrl(u) {
+  return String(u || "")
+    .trim()
+    .replace(/\/+$/, "");
+}
 
 function link(url, title) {
   if (!url) return title;
@@ -60,7 +70,11 @@ let md = `*ECモーニングブリーフ*（取得 ${fetched} JST）\n\n`;
 md += `*【M&A】*（NewsAPI）\n${maLines.length ? maLines.join("\n") : "—"}\n\n`;
 md += `*【IPO】*（NewsAPI）\n${ipoLines.length ? ipoLines.join("\n") : "—"}\n\n`;
 md += `*【世界経済】*（Yahoo!ニュース RSS）\n${worldLines.length ? worldLines.join("\n") : "—"}\n`;
-if (briefUrl) {
+md += `\n*マーケットブリーフ:* ${link(MARKET_BRIEF_URL, MARKET_BRIEF_URL)}`;
+if (
+  briefUrl &&
+  normalizeUrl(briefUrl) !== normalizeUrl(MARKET_BRIEF_URL)
+) {
   md += `\n<${briefUrl}|ブラウザで一覧を開く>`;
 }
 md += `\n_投資助言ではありません。各リンク先の利用条件に従ってください。_`;
