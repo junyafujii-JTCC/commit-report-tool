@@ -1,6 +1,7 @@
 {
-  "fetchedAt": "2026-05-11T00:08:05.147Z",
+  "fetchedAt": "2026-05-11T01:14:03.666Z",
   "maProvider": "https://newsapi.org/",
+  "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
   "worldRss": [
     "https://news.yahoo.co.jp/rss/topics/world.xml",
@@ -8,25 +9,110 @@
   ],
   "ma": [
     {
+      "title": "【人気特集】インフロニアが三井住友建設を“電撃買収”の全内幕・航空管制・土木工事・海保の現場が“国交省の人材不足”で黄信号！ - 見逃し厳禁！編集部イチ推し 人気特集",
+      "url": "https://diamond.jp/articles/-/389535",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-05-09T19:45:00Z",
+      "description": "2025年に人気を集めた特集『三井住友建設 クーデターの深層』と特集『公務員の危機』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
+      "maMarket": "jp"
+    },
+    {
+      "title": "From 3 for 13 to clutch closer: James Harden’s late takeover in Cavaliers’ Game 3 win",
+      "url": "https://sports.yahoo.com/articles/3-13-clutch-closer-james-004515591.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-10T00:45:15Z",
+      "description": "James Harden endured plenty of criticism after the first two games of Cleveland's Eastern Conference semifinal series against Detroit. With the Cavaliers in danger of falling into a 3-0 hole that no NBA team has ever overcome, the 17-year veteran showed he ca…",
+      "maMarket": "us"
+    },
+    {
+      "title": "日本企業の新型“自爆ドローンハンター” 飛行する姿を公開！ 長い滞空時間で「しつこく追跡」して粉砕する？",
+      "url": "https://news.livedoor.com/article/detail/31220449/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-09T09:12:00Z",
+      "description": "多重防御構想を構築する1機産業用ドローンソリューションや運航管理システム（UTM）を提供するテラドローンは、2026年4月28日、公式YouTubeにおいて、子会社および出資先であるアメイジング・ドローンズが共同開発した「Terra A2」の飛行映像を公開しました。【動画】え、かなり速い!? これが、飛行するTerra A2ですTerra A2は、長距離迎撃ドローンとして設計された機体です。最大航続距離は75km、最高速度は時速312km、最大高度は5000mに達します。機首には750グラムの弾頭を搭載全文乗りも…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Strategy plans aggressive Bitcoin purchases, eyes 10-20x more than sales",
+      "url": "https://cryptobriefing.com/strategy-plans-aggressive-bitcoin-purchases-eyes-10-20x-more-than-sales/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-09T22:39:50Z",
+      "description": "Strategy's aggressive Bitcoin acquisition could bolster market confidence, potentially influencing Bitcoin's price trajectory and corporate strategies. The post Strategy plans aggressive Bitcoin purchases, eyes 10-20x more than sales appeared first on Crypto …",
+      "maMarket": "us"
+    },
+    {
       "title": "伊藤忠商事繊維カンパニーが堅調を維持　今期の連結純利益は520億円を目指す",
       "url": "https://www.fashionsnap.com/article/2026-05-09/senken-itochu-campany/",
       "source": "Fashionsnap.com",
       "publishedAt": "2026-05-08T23:59:00Z",
-      "description": "伊藤忠商事・繊維カンパニーが堅調だ。前期（26年3月期）の連結純利益（IFRSベース）は、433億円だった。今期（27年3月期）は、デサントの成長やエドウインの底上げなどで520億円を目指す。 25年度の基礎収益は413億円で過去最高。24年度の283億円から大きく引き上げた。主な要因は、デサントを完全子会社化したことによる取り込み利益の増加やデサントなど海外スポーツ分野、コンビニエンス... このコンテンツは FASHIONSNAP が配信しています。"
+      "description": "伊藤忠商事・繊維カンパニーが堅調だ。前期（26年3月期）の連結純利益（IFRSベース）は、433億円だった。今期（27年3月期）は、デサントの成長やエドウインの底上げなどで520億円を目指す。 25年度の基礎収益は413億円で過去最高。24年度の283億円から大きく引き上げた。主な要因は、デサントを完全子会社化したことによる取り込み利益の増加やデサントなど海外スポーツ分野、コンビニエンス... このコンテンツは FASHIONSNAP が配信しています。",
+      "maMarket": "jp"
     },
     {
-      "title": "戦略的「名古屋証券取引所」上場の裏側とは？高成長企業ウリドキ木暮社長ランチ会レポート",
-      "url": "https://prtimes.jp/main/html/rd/p/000000239.000054393.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-05-08T05:10:00Z",
-      "description": "[IR Robotics] 株式会社IR Robotics（本社：東京都千代田区、代表取締役：金 成柱、HP：https://ir-robotics.co.jp/）は、自社が運営するビジネス系YouTubeチャンネル「IPOとM&Aどっちにする? TV」の出演ゲストであり、弊社..."
+      "title": "$1.58M In Revenue Digital Marketing Agency At 93.64% Profit. 100% O...",
+      "url": "https://app.acquire.com/startup/v6ln7ptfst-1-58m-in-revenue-digital-marketing-agency-at-93-64-profit-100-of-revenue-is-contracted",
+      "source": "Acquire.com",
+      "publishedAt": "2026-05-09T21:25:30Z",
+      "description": "The Opportunity Available for acquisition is a remarkably efficient, lean-operated marketing firm that has achieved a near-perfect balance of high profitabi...",
+      "maMarket": "us"
     },
     {
-      "title": "M&Aキャピタルパートナーズ「キャリア教育」における副読本「中学生のためのお仕事ブック」を協賛",
-      "url": "https://prtimes.jp/main/html/rd/p/000000507.000051639.html",
+      "title": "ソニーGの連結決算、営業利益が1.4兆円と過去最高を更新",
+      "url": "http://matometanews.com/archives/2116396.html",
+      "source": "Matometanews.com",
+      "publishedAt": "2026-05-08T20:51:30Z",
+      "description": "1：2026/05/08(金) 21:44:59.95 ID:mIz70GQQ0https://news.yahoo.co.jp/articles/3c77e2b35e02423ad9f6bce1820fa8ba37e0d1abソニーグループが8日発表した2026年3月期連結決算は、売上高と本業のもうけを示す営業利益が過去最高を更新した。純利益はホンダと共同出資した会社...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Modified 1978 Chevrolet El Camino for the Lewes Fire Department Foundation at No Reserve",
+      "url": "https://bringatrailer.com/listing/1978-chevrolet-el-camino-22/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-05-09T21:20:15Z",
+      "description": "This 1978 Chevrolet El Camino spent 33 years under previous ownership in Maryland before the selling dealer's acquisition in 2025. Modifications include Holley Sniper electronic fuel injection, a high-performance camshaft and cylinder heads, a high-flow air c…",
+      "maMarket": "us"
+    }
+  ],
+  "ipo": [
+    {
+      "title": "Global X Japan株式会社「グローバルＸ シルバー ETF」（銘柄コード：577A）、「グローバルＸ シルバー ETF（為替ヘッジあり）」（銘柄コード：578A）東京証券取引所より上場承認",
+      "url": "https://prtimes.jp/main/html/rd/p/000000082.000137367.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-05-08T04:10:00Z",
-      "description": "[M&Aキャピタルパートナーズ] M&Aキャピタルパートナーズ株式会社(以下、「MACP」。東京都中央区・代表取締役社長 中村 悟) は、2026年4月に発行されたキャリア教育における副読本である2026年度版「中学生のためのお仕事ブック 千代田・..."
+      "publishedAt": "2026-05-08T07:40:38Z",
+      "description": "Global X Japan株式会社のプレスリリース（2026年5月8日 16時30分）Global X Japan株式会社「グローバルＸ シルバー ETF」（銘柄コード：577A）、「グローバルＸ シルバー ETF（為替ヘッジあり）」（銘柄コード：578A）東京証券取引所より上場承認",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Quantinuum filed for an IPO worth 20 billion dollars. It has 31 million in revenue and a quantum computer that does not exist yet.",
+      "url": "https://thenextweb.com/news/quantinuum-ipo-quantum-computing-honeywell/",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-09T11:02:36Z",
+      "description": "Quantinuum filed for a US initial public offering on Thursday that could value the company at more than 20 billion dollars. In the year ended 31 December 2025, Quantinuum reported revenue of 30.9 million dollars and a net loss of 192.6 million dollars. The co…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Lime files for IPO amid debt concerns and liquidity risks",
+      "url": "https://cryptobriefing.com/lime-ipo-filing-debt-liquidity-risks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-09T03:09:03Z",
+      "description": "Lime's IPO highlights the precarious balance between growth and financial stability, underscoring the critical need for strategic debt management. The post Lime files for IPO amid debt concerns and liquidity risks appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "West Enclave Merger Corp. Announces the Separate Trading of its Ordinary Shares and Rights, Commencing May 13, 2026",
+      "url": "https://www.prnewswire.com/news-releases/west-enclave-merger-corp-announces-the-separate-trading-of-its-ordinary-shares-and-rights-commencing-may-13-2026-302767391.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-08T23:19:00Z",
+      "description": "CIUDAD DE MEXICO, Mexico, May 8, 2026 /PRNewswire/ -- West Enclave Merger Corp. (the \"Company\") announced today that, commencing Wednesday, May 13, 2026, holders of the units sold in the Company's initial public offering may elect to separately trade the Comp…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Shreya Acquisition Group Announces Closing of $110 Million Initial Public Offering (Including Partial Exercise of Over-Allotment Option)",
+      "url": "https://www.globenewswire.com/news-release/2026/05/08/3291357/0/en/Shreya-Acquisition-Group-Announces-Closing-of-110-Million-Initial-Public-Offering-Including-Partial-Exercise-of-Over-Allotment-Option.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-08T20:30:00Z",
+      "description": "NEW YORK, May 08, 2026 (GLOBE NEWSWIRE) -- Shreya Acquisition Group (the “Company”), a newly organized special purpose acquisition company formed as a Cayman Islands exempted company, today announced the closing (the “Closing”) of its initial public offering …",
+      "ipoMarket": "us"
     }
   ],
   "world": [

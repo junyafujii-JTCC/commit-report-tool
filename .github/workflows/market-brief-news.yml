@@ -11,9 +11,10 @@
 #   NEWS_API_KEY      … NewsAPI.org（必須）
 #   SLACK_WEBHOOK_URL … Slack Incoming Webhook URL（推奨・未設定なら投稿スキップ）
 #   POLYGON_API_KEY   … Polygon.io（米国株・任意）
+#   SURGE_TOKEN       … surge.sh のトークン（Surge デプロイ用・未設定だとデプロイステップが失敗します）
 #
 # Variables（任意）:
-#   BRIEF_PAGE_URL    … Surge 等の公開URL（Slack 本文に「詳細」リンク）
+#   BRIEF_PAGE_URL    … 公開URL（Slack 本文に「詳細」リンク）。例: https://junya-fujii-komineko.surge.sh/market-brief.html
 #   PRICE_TO_DATE     … 通常は未設定のまま（当日終値を含めず前日まで）。固定したい日だけ YYYY-MM-DD
 #   YAHOO_DELAY_MS    … Yahoo chart 連続リクエスト間隔 ms（任意）
 name: Market brief news
@@ -71,3 +72,8 @@ jobs:
             git commit -m "chore(docs): refresh market brief JSON [skip ci]"
             git push
           fi
+
+      - name: Deploy docs to Surge
+        env:
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: npx --yes surge@latest ./docs junya-fujii-komineko.surge.sh

@@ -31,9 +31,11 @@ function link(url, title) {
 }
 
 const maLines =
-  (data.ma || []).slice(0, 3).map((a, i) => {
+  (data.ma || []).slice(0, 8).map((a, i) => {
     const t = a.title || "(無題)";
-    return `${i + 1}. ${link(a.url, t)}${a.source ? ` _${a.source}_` : ""}`;
+    const mk =
+      a.maMarket === "jp" ? " _JP_" : a.maMarket === "us" ? " _US_" : "";
+    return `${i + 1}. ${link(a.url, t)}${mk}${a.source ? ` _${a.source}_` : ""}`;
   }) || [];
 
 const worldLines =
@@ -42,12 +44,21 @@ const worldLines =
     return `${i + 1}. ${link(a.url, t)}`;
   }) || [];
 
+const ipoLines =
+  (data.ipo || []).slice(0, 8).map((a, i) => {
+    const t = a.title || "(無題)";
+    const mk =
+      a.ipoMarket === "jp" ? " _JP_" : a.ipoMarket === "us" ? " _US_" : "";
+    return `${i + 1}. ${link(a.url, t)}${mk}${a.source ? ` _${a.source}_` : ""}`;
+  }) || [];
+
 const fetched = data.fetchedAt
   ? new Date(data.fetchedAt).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })
   : "—";
 
 let md = `*ECモーニングブリーフ*（取得 ${fetched} JST）\n\n`;
 md += `*【M&A】*（NewsAPI）\n${maLines.length ? maLines.join("\n") : "—"}\n\n`;
+md += `*【IPO】*（NewsAPI）\n${ipoLines.length ? ipoLines.join("\n") : "—"}\n\n`;
 md += `*【世界経済】*（Yahoo!ニュース RSS）\n${worldLines.length ? worldLines.join("\n") : "—"}\n`;
 if (briefUrl) {
   md += `\n<${briefUrl}|ブラウザで一覧を開く>`;
