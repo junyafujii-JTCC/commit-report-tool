@@ -3,20 +3,18 @@
  *
  * 運用想定: GitHub Actions などで毎日1回実行。当日の終値は含めず、東京カレンダーの前日までが既定（PRICE_TO_DATE 省略時）。
  *
- * 日本: J-Quants API V2（API Key）— レート制限はプラン別（Free は 5 req/分 目安）
+ * 日本: Yahoo Finance chart API（yfinance と同系統の query1.finance.yahoo.com/v8/finance/chart）。API キー不要。
+ *   参考: https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?interval=1d&range=1y
+ *   本スクリプトは BASE/TO に合わせ period1/period2 で期間指定（range=1y より取りこぼしにくい）。
  * 米国: Polygon.io Aggregates（API Key）
  *
  * Secrets / env（GitHub Actions）:
- *   JQUANTS_API_KEY   … J-Quants ダッシュボードの API Key（推奨・V2）
- *   POLYGON_API_KEY   … Polygon API Key
- *
- * 旧 V1 利用者向け（どちらか一方）:
- *   JQUANTS_REFRESH_TOKEN … リフレッシュトークン → ID トークン取得して /v1/prices/daily_quotes
+ *   POLYGON_API_KEY   … Polygon API Key（米国株）
  *
  * 任意:
- *   PRICE_BASE_DATE     … 指数化の起点日 YYYY-MM-DD（既定: 2026-01-01、最初の取引終値を100に）
- *   PRICE_TO_DATE       … 取得終了日 YYYY-MM-DD（既定: 東京カレンダーの前日＝当日の終値は含めない）
- *   JQUANTS_DELAY_MS    … J-Quants 連続リクエスト間隔 ms（既定: 12500 = Free 5/分 目安）
+ *   PRICE_BASE_DATE     … 指数化の起点日 YYYY-MM-DD（既定: 2026-01-01）
+ *   PRICE_TO_DATE       … 取得終了日 YYYY-MM-DD（既定: 東京カレンダーの前日）
+ *   YAHOO_DELAY_MS      … Yahoo 連続リクエスト間隔 ms（既定: 800）
  *   POLYGON_DELAY_MS    … Polygon 間隔 ms（既定: 350）
  */
 
@@ -55,20 +53,25 @@ function defaultPriceToDateTokyo() {
 const TO_DATE =
   (process.env.PRICE_TO_DATE || "").trim() || defaultPriceToDateTokyo();
 
-const JQUANTS_DELAY_MS = Number(process.env.JQUANTS_DELAY_MS || "12500");
+const YAHOO_CHART_BASE =
+  "https://query1.finance.yahoo.com/v8/finance/chart";
+const YAHOO_DELAY_MS = Number(process.env.YAHOO_DELAY_MS || "800");
 const POLYGON_DELAY_MS = Number(process.env.POLYGON_DELAY_MS || "350");
 
-/** 日経平均に相当するプロキシ: 日経225連動ETF（銘柄コード 1321 → API は 13210） */
+/** 東証銘柄は Yahoo ティッカー末尾 .T（例: 7203.T） */
 const JP_EQUITIES = [
-  { id: "nikkei225_etf", label: "日経225連動ETF", code: "13210" },
-  { id: "bushiroad", label: "ブシロード", code: "78030" },
-  { id: "bandai_namco", label: "バンダイナムコ", code: "78320" },
-  { id: "konami", label: "コナミ", code: "97660" },
-  { id: "geo", label: "ゲオ", code: "26810" },
-  { id: "hardoff", label: "ハードオフ", code: "26740" },
+  { id: "nikkei225_etf", label: "日経225連動ETF", yahooTicker: "1321.T" },
+  { id: "bushiroad", label: "ブシロード", yahooTicker: "7803.T" },
+  { id: "bandai_namco", label: "バンダイナムコ", yahooTicker: "7832.T" },
+  { id: "konami", label: "コナミ", yahooTicker: "9766.T" },
+  { id: "geo", label: "ゲオ", yahooTicker: "2681.T" },
+  { id: "hardoff", label: "ハードオフ", yahooTicker: "2674.T" },
 ];
 
-/** Polygon: 指数は I: プレフィックス（NASDAQ Composite 等） */
+/**
+ * 米国株・指数（変更しない想定）: Polygon.io のみ。ティッカー・取得ロジックは従来どおり。
+ * 日本株のみ Yahoo chart に切り替え済み。
+ */
 const US_TICKERS = [
   { id: "nasdaq_comp", label: "NASDAQ総合", ticker: "I:COMP" },
   { id: "draftkings", label: "DraftKings", ticker: "DKNG" },
@@ -80,107 +83,82 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-function ymdToJQuants(d) {
-  return d.replace(/-/g, "");
+/** Yahoo のバー時刻を東京日付 YYYY-MM-DD に */
+function tsToYmdTokyo(sec) {
+  return new Intl.DateTimeFormat("sv-SE", {
+    timeZone: "Asia/Tokyo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date(sec * 1000));
 }
 
-async function jquantsGetIdToken() {
-  const rt = process.env.JQUANTS_REFRESH_TOKEN;
-  if (!rt) return null;
-  const url = new URL("https://api.jquants.com/v1/token/auth_refresh");
-  url.searchParams.set("refreshtoken", rt);
-  const r = await fetch(url.toString(), { method: "POST" });
+/**
+ * Yahoo Finance v8 chart（日足）。period1/period2 は Unix 秒（UTC）。
+ * range=1y の例: …/chart/7203.T?interval=1d&range=1y
+ */
+async function yahooChartFetchDaily(ticker, fromYmd, toYmd) {
+  const period1 = Math.floor(
+    new Date(fromYmd + "T00:00:00.000Z").getTime() / 1000
+  );
+  const period2 = Math.floor(
+    new Date(toYmd + "T23:59:59.999Z").getTime() / 1000
+  );
+  const u = new URL(`${YAHOO_CHART_BASE}/${encodeURIComponent(ticker)}`);
+  u.searchParams.set("interval", "1d");
+  u.searchParams.set("period1", String(period1));
+  u.searchParams.set("period2", String(period2));
+
+  const r = await fetch(u.toString(), {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (compatible; commit-report-tool/1.0; +https://github.com/)",
+      Accept: "application/json",
+    },
+  });
+  const text = await r.text();
   if (!r.ok) {
-    const t = await r.text();
-    throw new Error(`J-Quants auth_refresh ${r.status}: ${t}`);
+    throw new Error(`Yahoo chart ${ticker} HTTP ${r.status}: ${text.slice(0, 200)}`);
   }
-  const j = await r.json();
-  return j.idToken || null;
-}
-
-async function jquantsFetchDailyV2(code, fromYmd, toYmd) {
-  const key = process.env.JQUANTS_API_KEY;
-  if (!key) throw new Error("JQUANTS_API_KEY missing");
-  const headers = { "x-api-key": key };
-  let paginationKey = "";
-  const rows = [];
-  const from = ymdToJQuants(fromYmd);
-  const to = ymdToJQuants(toYmd);
-  for (;;) {
-    const u = new URL("https://api.jquants.com/v2/equities/bars/daily");
-    u.searchParams.set("code", code);
-    u.searchParams.set("from", from);
-    u.searchParams.set("to", to);
-    if (paginationKey) u.searchParams.set("pagination_key", paginationKey);
-    const r = await fetch(u.toString(), { headers });
-    if (!r.ok) {
-      const t = await r.text();
-      throw new Error(`J-Quants v2 equities ${r.status}: ${t}`);
-    }
-    const j = await r.json();
-    const chunk = Array.isArray(j.data) ? j.data : [];
-    rows.push(...chunk);
-    paginationKey = j.pagination_key || "";
-    if (!paginationKey) break;
+  const j = JSON.parse(text);
+  const err = j.chart?.error;
+  if (err) {
+    throw new Error(
+      `Yahoo chart ${ticker}: ${err.description || err.code || JSON.stringify(err)}`
+    );
   }
-  return rows;
-}
-
-async function jquantsFetchDailyV1(idToken, code, fromYmd, toYmd) {
-  let paginationKey = "";
-  const rows = [];
-  const from = ymdToJQuants(fromYmd);
-  const to = ymdToJQuants(toYmd);
-  const headers = { Authorization: `Bearer ${idToken}` };
-  for (;;) {
-    const u = new URL("https://api.jquants.com/v1/prices/daily_quotes");
-    u.searchParams.set("code", code);
-    u.searchParams.set("from", from);
-    u.searchParams.set("to", to);
-    if (paginationKey) u.searchParams.set("pagination_key", paginationKey);
-    const r = await fetch(u.toString(), { headers });
-    if (!r.ok) {
-      const t = await r.text();
-      throw new Error(`J-Quants v1 daily_quotes ${r.status}: ${t}`);
-    }
-    const j = await r.json();
-    const chunk = Array.isArray(j.daily_quotes) ? j.daily_quotes : [];
-    rows.push(...chunk);
-    paginationKey = j.pagination_key || "";
-    if (!paginationKey) break;
+  const result = j.chart?.result?.[0];
+  if (!result) {
+    throw new Error(`Yahoo chart ${ticker}: empty result`);
   }
-  return rows;
-}
-
-function closeFromJQuantsRow(row, v2) {
-  if (v2) {
-    const adj = row.AdjC;
-    const raw = row.C;
-    if (adj != null && !Number.isNaN(Number(adj))) return Number(adj);
-    if (raw != null && !Number.isNaN(Number(raw))) return Number(raw);
-    return null;
-  }
-  const adj = row.AdjustmentClose;
-  const raw = row.Close;
-  if (adj != null && !Number.isNaN(Number(adj))) return Number(adj);
-  if (raw != null && !Number.isNaN(Number(raw))) return Number(raw);
-  return null;
-}
-
-function normalizeJpRows(rows, v2) {
-  const map = new Map();
-  for (const row of rows) {
-    const d = row.Date;
-    if (!d) continue;
-    const c = closeFromJQuantsRow(row, v2);
+  const ts = result.timestamp || [];
+  const quote = result.indicators?.quote?.[0] || {};
+  const adjRow = result.indicators?.adjclose?.[0];
+  const adjArr = adjRow && Array.isArray(adjRow.adjclose) ? adjRow.adjclose : null;
+  const closesRaw = quote.close;
+  const points = [];
+  for (let i = 0; i < ts.length; i++) {
+    const sec = ts[i];
+    if (sec == null) continue;
+    const d = tsToYmdTokyo(sec);
+    let c =
+      adjArr && adjArr[i] != null && !Number.isNaN(Number(adjArr[i]))
+        ? Number(adjArr[i])
+        : closesRaw && closesRaw[i] != null && !Number.isNaN(Number(closesRaw[i]))
+          ? Number(closesRaw[i])
+          : null;
     if (c == null || c <= 0) continue;
-    map.set(d, c);
+    points.push({ d, close: c });
   }
-  return [...map.entries()]
+  points.sort((a, b) => a.d.localeCompare(b.d));
+  const dedup = new Map();
+  for (const p of points) dedup.set(p.d, p.close);
+  return [...dedup.entries()]
     .sort((a, b) => a[0].localeCompare(b[0]))
     .map(([d, close]) => ({ d, close }));
 }
 
+/** 米国: Polygon 日足（日本株側の変更の影響を受けない） */
 async function polygonFetchDaily(ticker, fromYmd, toYmd) {
   const apiKey = process.env.POLYGON_API_KEY;
   if (!apiKey) throw new Error("POLYGON_API_KEY missing");
@@ -193,12 +171,12 @@ async function polygonFetchDaily(ticker, fromYmd, toYmd) {
   )}`;
   const points = [];
   for (;;) {
-    const r = await fetch(url);
-    if (!r.ok) {
-      const t = await r.text();
-      throw new Error(`Polygon ${ticker} ${r.status}: ${t}`);
+    const res = await fetch(url);
+    if (!res.ok) {
+      const t = await res.text();
+      throw new Error(`Polygon ${ticker} ${res.status}: ${t}`);
     }
-    const j = await r.json();
+    const j = await res.json();
     const results = j.results || [];
     for (const bar of results) {
       const ms = bar.t;
@@ -245,48 +223,31 @@ async function main() {
   const fetchedAt = new Date().toISOString();
   const errors = [];
   const series = [];
-  const jpMode = process.env.JQUANTS_API_KEY ? "v2-api-key" : process.env.JQUANTS_REFRESH_TOKEN ? "v1-refresh" : "none";
 
-  let idToken = null;
-  if (jpMode === "v1-refresh") {
+  let i = 0;
+  for (const s of JP_EQUITIES) {
+    if (i++ > 0) await sleep(YAHOO_DELAY_MS);
     try {
-      idToken = await jquantsGetIdToken();
-      if (!idToken) errors.push({ scope: "jp", message: "J-Quants V1: idToken を取得できませんでした" });
+      const pts = clipPointsThrough(
+        await yahooChartFetchDaily(s.yahooTicker, BASE_DATE, TO_DATE),
+        TO_DATE
+      );
+      series.push({
+        id: s.id,
+        market: "jp",
+        label: s.label,
+        ticker: s.yahooTicker,
+        currency: "JPY",
+        provider: "yahoo-chart",
+        points: rebaseTo100(pts, BASE_DATE),
+      });
     } catch (e) {
-      errors.push({ scope: "jp", message: String(e.message || e) });
+      errors.push({
+        scope: "jp",
+        ticker: s.yahooTicker,
+        message: String(e.message || e),
+      });
     }
-  }
-
-  if (jpMode !== "none" && (process.env.JQUANTS_API_KEY || idToken)) {
-    const v2 = !!process.env.JQUANTS_API_KEY;
-    let i = 0;
-    for (const s of JP_EQUITIES) {
-      if (i++ > 0) await sleep(JQUANTS_DELAY_MS);
-      try {
-        const raw = v2
-          ? await jquantsFetchDailyV2(s.code, BASE_DATE, TO_DATE)
-          : await jquantsFetchDailyV1(idToken, s.code, BASE_DATE, TO_DATE);
-        const pts = clipPointsThrough(normalizeJpRows(raw, v2), TO_DATE);
-        series.push({
-          id: s.id,
-          market: "jp",
-          label: s.label,
-          code: s.code,
-          currency: "JPY",
-          provider: "j-quants",
-          providerMode: jpMode,
-          points: rebaseTo100(pts, BASE_DATE),
-        });
-      } catch (e) {
-        errors.push({ scope: "jp", code: s.code, message: String(e.message || e) });
-      }
-    }
-  } else {
-    errors.push({
-      scope: "jp",
-      message:
-        "スキップ: JQUANTS_API_KEY または JQUANTS_REFRESH_TOKEN を設定してください（日本株・ETF）",
-    });
   }
 
   const polyKey = process.env.POLYGON_API_KEY;
@@ -336,7 +297,7 @@ async function main() {
       "終値の最新日は東京カレンダーの前日まで（当日バーは含めず、前営業日の終値が最新）",
     indexBaseValue: 100,
     sources: {
-      jp: jpMode === "none" ? null : process.env.JQUANTS_API_KEY ? "j-quants-v2" : "j-quants-v1",
+      jp: "yahoo-finance-chart-unofficial",
       us: polyKey ? "polygon" : null,
     },
     series,
