@@ -361,7 +361,7 @@
     <p id="news-live-meta" role="status"></p>
     <p id="price-json-meta" role="status"></p>
     <p class="foot-note" id="foot-note-main">
-      ※株価は <code>market-brief-prices.json</code>（J-Quants・Polygon 取得時）で指数化した終値系列を表示。未取得時は模式曲線です。最新終値は東京日付の前日まで（当日は含めません）。<br />
+      ※株価は <code>market-brief-prices.json</code>（日本=Yahoo Finance chart、米国=Polygon 取得時）で指数化した終値系列を表示。未取得時は模式曲線です。最新終値は東京日付の前日まで（当日は含めません）。<br />
       ニュースは <code>market-brief-news.json</code>（M&amp;A=NewsAPI、海外=Yahoo!ニュース RSS）。投資助言ではありません。
     </p>
   </div>
@@ -720,16 +720,28 @@
         },
       ];
 
+      var DUMMY_SEEDS_BY_SVG = {
+        chartTreca1: [1.1, 2.2, 3.3, 4.4],
+        chartTreca2: [1.15, 2.5, 3.8],
+        chartTreca3: [3.05, 4.1, 4.9],
+        chartTreca4: [3.62, 2.9],
+      };
+
+      function drawChartDummy(ch) {
+        var seeds = DUMMY_SEEDS_BY_SVG[ch.svg];
+        if (!seeds) return;
+        drawBundleDummy(ch.svg, seeds, ch.colors, W, H);
+        renderLeg(
+          ch.leg,
+          ch.defs.map(function (d) {
+            return d.legendLabel;
+          }),
+          ch.colors
+        );
+      }
+
       function drawAllDummy() {
-        var C = ["#ef4444", "#38bdf8", "#a78bfa", "#f472b6", "#fbbf24", "#22d3ee"];
-        drawBundleDummy("chartTreca1", [1.1, 2.2, 3.3, 4.4], C.slice(0, 4), W, H);
-        renderLeg("leg1", ["日経225連動ETF", "ブシロード", "バンダイナムコ", "コナミ"], C.slice(0, 4));
-        drawBundleDummy("chartTreca2", [1.15, 2.5, 3.8], C.slice(0, 3), W, H);
-        renderLeg("leg2", ["日経225連動ETF", "ゲオ", "ハードオフ"], C.slice(0, 3));
-        drawBundleDummy("chartTreca3", [3.05, 4.1, 4.9], ["#22d3ee", "#fbbf24", "#a78bfa"], W, H);
-        renderLeg("leg3", ["NASDAQ", "DraftKings", "Evolution"], ["#22d3ee", "#fbbf24", "#a78bfa"]);
-        drawBundleDummy("chartTreca4", [3.62, 2.9], ["#22d3ee", "#ff9900"], W, H);
-        renderLeg("leg4", ["NASDAQ", "Amazon"], ["#22d3ee", "#ff9900"]);
+        CHARTS.forEach(drawChartDummy);
       }
 
       function applyLiveHeader(priceData, maxYmd) {
@@ -764,18 +776,18 @@
           var maxD = data.rangeTo || cap;
           if (maxD > cap) maxD = cap;
           var byId = buildSeriesMap(data);
-          var ok = true;
+          var anyLive = false;
           CHARTS.forEach(function (ch) {
             var al = alignIndexed(ch.defs, byId, maxD);
-            if (!al) {
-              ok = false;
-              return;
+            if (al) {
+              anyLive = true;
+              drawBundleFromVals(ch.svg, al.vals, ch.colors, W, H);
+              renderLeg(ch.leg, al.labels, ch.colors);
+            } else {
+              drawChartDummy(ch);
             }
-            drawBundleFromVals(ch.svg, al.vals, ch.colors, W, H);
-            renderLeg(ch.leg, al.labels, ch.colors);
           });
-          if (!ok) throw new Error("align failed");
-          applyLiveHeader(data, maxD);
+          if (anyLive) applyLiveHeader(data, maxD);
         })
         .catch(function () {
           drawAllDummy();

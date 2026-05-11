@@ -5,16 +5,17 @@
 # 株価（market-brief-prices.mjs）:
 #   - 取得頻度はこのワークフローに従い毎日
 #   - 当日の終値は使わない。PRICE_TO_DATE 未設定時は東京カレンダーの「前日」までが既定（前営業日の終値が最新）
+#   - 日本株: Yahoo Finance chart API（API キー不要）／米国: Polygon（要キー）
 #
 # Secrets:
 #   NEWS_API_KEY      … NewsAPI.org（必須）
 #   SLACK_WEBHOOK_URL … Slack Incoming Webhook URL（推奨・未設定なら投稿スキップ）
-#   JQUANTS_API_KEY   … J-Quants API V2（株価・任意）
 #   POLYGON_API_KEY   … Polygon.io（米国株・任意）
 #
 # Variables（任意）:
 #   BRIEF_PAGE_URL    … Surge 等の公開URL（Slack 本文に「詳細」リンク）
 #   PRICE_TO_DATE     … 通常は未設定のまま（当日終値を含めず前日まで）。固定したい日だけ YYYY-MM-DD
+#   YAHOO_DELAY_MS    … Yahoo chart 連続リクエスト間隔 ms（任意）
 name: Market brief news
 
 on:
@@ -44,14 +45,12 @@ jobs:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: node docs/fetch-market-news.mjs
 
-      - name: Fetch market prices JSON (J-Quants JP + Polygon US)
+      - name: Fetch market prices JSON (Yahoo JP + Polygon US)
         env:
-          JQUANTS_API_KEY: ${{ secrets.JQUANTS_API_KEY }}
-          JQUANTS_REFRESH_TOKEN: ${{ secrets.JQUANTS_REFRESH_TOKEN }}
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
           PRICE_BASE_DATE: ${{ vars.PRICE_BASE_DATE }}
           PRICE_TO_DATE: ${{ vars.PRICE_TO_DATE }}
-          JQUANTS_DELAY_MS: ${{ vars.JQUANTS_DELAY_MS }}
+          YAHOO_DELAY_MS: ${{ vars.YAHOO_DELAY_MS }}
           POLYGON_DELAY_MS: ${{ vars.POLYGON_DELAY_MS }}
         run: node docs/fetch-market-prices.mjs
 
