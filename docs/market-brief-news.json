@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-12T08:11:17.434Z",
+  "fetchedAt": "2026-05-13T08:22:05.475Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "KGモーターズ、株式会社ミツバから技術連携強化に向けた出資受け入れを発表",
-      "url": "https://prtimes.jp/main/html/rd/p/000000031.000112621.html",
+      "title": "国内自動車メーカー10社が出資、26ヶ国で自動運転インフラを構築する「ダイナミックマッププラットフォーム」のリサーチ・カバレッジを開始｜次世代型の株式リサーチ「ENVALITH（エンヴァリス）」",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000176312.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-05-11T08:00:00Z",
-      "description": "[KGモーターズ] KGモーターズ株式会社（本社：広島県東広島市、代表取締役CEO：楠 一成、以下「KGモーターズ」）は、株式会社ミツバ（本社：群馬県桐生市、代表取締役社長：日野 貞実、以下「ミツバ」）より、小型モビリティ「mi...",
+      "publishedAt": "2026-05-12T07:18:15Z",
+      "description": "株式会社エンヴァリスのプレスリリース（2026年5月12日 16時18分）国内自動車メーカー10社が出資、26ヶ国で自動運転インフラを構築する「ダイナミックマッププラットフォーム」のリサーチ・カバレッジを開始｜次世代型の株式リサーチ「ENVALITH（エンヴァリス）」",
       "maMarket": "jp"
     },
     {
-      "title": "GameStop's Bold $56B Bid to Buy eBay Shakes Markets as Ryan Cohen Pushes for E-Commerce Giant",
-      "url": "https://www.ibtimes.com.au/gamestops-bold-56b-bid-buy-ebay-shakes-markets-ryan-cohen-pushes-e-commerce-giant-1868549",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-05-11T07:10:51Z",
-      "description": "GRAPEVINE, Texas — GameStop Corp. stunned Wall Street on May 3 by launching an unsolicited $55.5 billion bid to acquire eBay Inc., proposing $125 per share in a cash-and-stock deal that would create a massive combined retail and e-commerce powerhouse under CE…",
-      "maMarket": "us"
-    },
-    {
-      "title": "株式会社FUNDiTFUNDiT、シリーズDの資金調達を実施、累計調達総額はデットを含めて60億円規模を突破～中小型IT事業のM&Aロールアップ戦略・AI投資を加速～",
-      "url": "https://japan.cnet.com/release/31167177/",
-      "source": "CNET",
-      "publishedAt": "2026-05-11T06:00:02Z",
-      "description": "中小型IT事業のM&Aとロールアップを行う株式会社FUNDiT（本社：東京都品川区、代表取締役：廣瀬寛、以下「当社」）は、ファンド、法人、およびエンジェル投資家5名に加え、特定投資家向け銘柄制度（J-Ships）を活用した複数の特定投資家を引受先とする第三者割当増資を実施いたしました。これにより、金融機関か...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "thalamus-neuro 1.0.11",
-      "url": "https://pypi.org/project/thalamus-neuro/1.0.11/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-11T06:58:39Z",
-      "description": "Data Acquisition and Behavioral Experiment Platform",
-      "maMarket": "us"
-    },
-    {
-      "title": "非エンジニアでも手軽にアプリを公開HANAMII、国産PaaS本格展開に向けエンジェルラウンドを実施",
-      "url": "https://thebridge.jp/2026/05/hanamii-raises-angel-round-for-domestic-paas",
-      "source": "Thebridge.jp",
-      "publishedAt": "2026-05-11T00:28:59Z",
-      "description": "国産クラウド基盤上で非エンジニアでも手軽にアプリを公開できる PaaS「hanamii」を提供する HANAMII は7日、同サービスの本格展開に向け、2026年3月にエンジェルラウンドを実施したことを公表した。出資者は […]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Small Indian IT firms’ rankings reshuffle as growth slows",
-      "url": "https://www.livemint.com/industry/infotech/india-small-it-firms-rankings-shift-growth-slows-zensar-birlasoft-sasken-11778471308663.html",
-      "source": "Livemint",
-      "publishedAt": "2026-05-11T06:56:59Z",
-      "description": "Soft demand and uneven deal wins widen the gap among small IT firms, with Sasken crossing the $100 million mark on acquisition-led growth.",
-      "maMarket": "us"
-    },
-    {
-      "title": "ミネベアミツミ貝沼会長が明かす「負けない組織」の作り方、不況でも赤字を回避する「8本槍」戦略の全貌 - 経営のためのIT活用実学",
-      "url": "https://jbpress.ismedia.jp/articles/-/94503",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-05-10T21:00:00Z",
-      "description": "ボールベアリングに代表される超精密加工技術を起点に事業領域を広げながら成長を続けてきたミネベアミツミ。M＆Aによる規模の拡大がクローズアップされることが多いが、経営の軸となる思想や見据える将来像はどのような姿なのか。代表取締役会長CEOの貝沼由久氏に聞いた。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Former Looker/Google Executive Ronaldo Ama Joins Birdie to Help Build the Next Layer of Enterprise AI: Context-Driven Decision Intelligence",
-      "url": "https://www.globenewswire.com/news-release/2026/05/11/3291561/0/en/Former-Looker-Google-Executive-Ronaldo-Ama-Joins-Birdie-to-Help-Build-the-Next-Layer-of-Enterprise-AI-Context-Driven-Decision-Intelligence.html",
+      "title": "State Bank of India Digital Transformation Strategy Analysis Report 2026: Technology Focus and Initiatives, Partnerships and Acquisitions, ICT Budget & Contracts, Tech Ecosystem",
+      "url": "https://www.globenewswire.com/news-release/2026/05/12/3292546/28124/en/State-Bank-of-India-Digital-Transformation-Strategy-Analysis-Report-2026-Technology-Focus-and-Initiatives-Partnerships-and-Acquisitions-ICT-Budget-Contracts-Tech-Ecosystem.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-05-11T06:14:00Z",
-      "description": "SAN FRANCISCO, CALIFORNIA, May 11, 2026 (GLOBE NEWSWIRE) -- Birdie today announced that Ronaldo Amá, former VP of Engineering at Looker through its acquisition by Google Cloud, former General Manager at Google Cloud, and former Chief Development Officer at Sn…",
+      "publishedAt": "2026-05-12T08:11:00Z",
+      "description": "SBI leverages digital transformation and fintech partnerships to enhance personal, corporate, and international banking. Key opportunities lie in tech-driven innovation, expanding digital banking solutions, and strengthening global presence through strategic …",
+      "maMarket": "us"
+    },
+    {
+      "title": "渋沢倉---名鉄ワールドトランスポートを子会社化へ - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1066996",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-05-12T07:13:22Z",
+      "description": "&lt;9304&gt; 渋沢倉 1420 +26澁澤倉庫&lt;9304&gt;は11日、名古屋鉄道&lt;9048&gt;から名鉄ワールドトランスポートの全株式を取得し、子会社化するため株式等譲渡契約を締結したと発表した。株式譲渡実行日は2026年05月29日を予定しており、取得株式数は2,000株、取得後の所有割合は100.0％となる。取得価格は契約上の守秘義務により非開示としている。名鉄ワールドトランスポートは2026年05",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Dubai Holding Acquires 22.27% Stake in Emaar Properties from ICD, Becomes Largest Shareholder",
+      "url": "https://www.dubaichronicle.com/2026/05/12/dubai-holding-acquires-22-27-stake-in-emaar-properties-from-icd-becomes-largest-shareholder/",
+      "source": "Dubaichronicle.com",
+      "publishedAt": "2026-05-12T07:47:49Z",
+      "description": "Dubai Holding has completed the acquisition of a 22.27% equity stake in Emaar Properties PJSC from the Investment Corporation of Dubai (ICD). The transaction raises Dubai Holding’s total shareholding in Emaar Properties to 29.73%, making it the company’s sing…",
+      "maMarket": "us"
+    },
+    {
+      "title": "吉田美月喜、「non-no」専属モデル加入決定　初登場する先行カット解禁",
+      "url": "https://news.livedoor.com/article/detail/31245568/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-12T07:13:00Z",
+      "description": "女優の吉田美月喜が20日発売の「non-no」7・8月合併号より、新しくノンノに加入することが決定。専属モデルとして初登場する企画の中から先行カットが解禁された。【写真】レッドカーペットに登場した吉田美月喜花柄レースドレス吉田は、東京都出身の23歳、事務所のスカウトを経て2018年にデビュー。劇場アニメ『ルックバック』（24）にて京本役でW主演を務め、注目を集める。直近は映画『万事快調〈オール・グリーンズ〉』や『GEMNIBUS vol.2』『顔のない街』などに出演。現在全文クランクイン！ 05月12日16時13分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Strategy Adds Another 535 Bitcoin As Holdings Approach 820,000 BTC",
+      "url": "https://bitcoinist.com/strategy-adds-535-bitcoin-holdings-820000-btc/",
+      "source": "Bitcoinist",
+      "publishedAt": "2026-05-12T07:00:46Z",
+      "description": "Strategy has resumed its Bitcoin accumulation with a new $43 million acquisition, which has taken its holdings close to the 820,000 BTC milestone. Strategy Has Expanded Its Holdings By Another 535 Bitcoin As revealed by Strategy co-founder and chairman Michae…",
+      "maMarket": "us"
+    },
+    {
+      "title": "カカクコムは誰が買収する？：「キャッシュカウ」になったネット企業の争奪戦",
+      "url": "https://agora-web.jp/archives/260512065125.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-05-12T07:08:30Z",
+      "description": "カカクコムに買収観測が浮上している。発端は、スウェーデンの投資会社EQTがカカクコムの買収を検討しているという報道である。ロイターによれば、検討はまだ初期段階で、TOBに進む保証はない。一方、報道を受けてカカクコム株は急騰し、時価総額は約5...…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "eBay Rejects Unsolicited Proposal from GameStop",
+      "url": "https://www.ebayinc.com/stories/news/ebay-rejects-unsolicited-proposal-from-gamestop/",
+      "source": "Ebayinc.com",
+      "publishedAt": "2026-05-12T07:00:00Z",
+      "description": "eBay Inc. today announced that, following a thorough review with the support of its financial and legal advisors, the company's Board of Directors has determined to reject GameStop's unsolicited, non-binding acquisition proposal.",
       "maMarket": "us"
     }
   ],
@@ -83,93 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Exclusive: Cerebras to raise IPO price range to $150-$160 as demand surges, sources say - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183178836",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-11T05:12:53Z",
-      "description": "Exclusive: Cerebras to raise IPO price range to $150-$160 as demand surges, sources sayReuters Cerebras IPO Will Test Investor Appetite for AI Chip StartupsThe Information Cerebras to Boost Price of IPO to as High as $160, Reuters SaysBloomberg.com Cerebras, …",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO | TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-12T00:11:40Z",
+      "description": "Robinhood files confidentially for its second venture fund, this time targeting growth as well as early-stage startups.",
       "ipoMarket": "us"
     },
     {
-      "title": "Florida, Louisiana Insurer Safepoint Reveals 97% Revenue Surge in Its IPO filing",
-      "url": "https://www.insurancejournal.com/news/southeast/2026/05/11/869242.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-05-11T05:02:02Z",
-      "description": "Safepoint Insurance on Friday filed its paperwork for a U.S. initial public offering, disclosing a 96.9% revenue jump last year as a strong run of new IPO listings from Florida-based insurers extends into 2026. The company reported a net income …",
+      "title": "Sunshine Silver Mining & Refining Files Registration Statement for Proposed Initial Public Offering",
+      "url": "https://www.prnewswire.com/news-releases/sunshine-silver-mining--refining-files-registration-statement-for-proposed-initial-public-offering-302768726.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-11T21:29:00Z",
+      "description": "KELLOGG, Idaho, May 11, 2026 /PRNewswire/ -- Sunshine Silver Mining & Refining Company (the \"Company\" or \"Sunshine\") today announced that it has publicly filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to a…",
       "ipoMarket": "us"
     },
     {
-      "title": "Cerebras to raise IPO price range to $150-$160 as demand surges",
-      "url": "https://economictimes.indiatimes.com/tech/technology/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges/articleshow/131001223.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-11T00:51:41Z",
-      "description": "Cerebras Systems plans to increase its IPO size and price. Demand for its artificial intelligence chips is surging. The company is considering a higher share price and more shares for its public offering. This move follows strong adoption of AI technology. Ce…",
+      "title": "The Nasty Truth About the SpaceX IPO",
+      "url": "https://www.thegatewaypundit.com/?p=1561772",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-05-11T21:00:03Z",
+      "description": "Note: The information provided here or in any related communications is for informational purposes only and should not be considered as financial advice. The post The Nasty Truth About the SpaceX IPO appeared first on The Gateway Pundit.",
       "ipoMarket": "us"
     },
     {
-      "title": "Report: AI chipmaker Cerebras to increase IPO price target amid surging investor demand",
-      "url": "https://siliconangle.com/2026/05/10/report-ai-chipmaker-cerebras-increase-ipo-price-target-amid-surging-investor-demand/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-05-11T00:25:40Z",
-      "description": "Artificial intelligence chipmaker Cerebras Systems Inc. is expected to increase the size and price of its initial public offering later today as investor demand for access to its shares continues to rise. Reuters reported Sunday that the chipmaker is now cons…",
+      "title": "Starlink AI Acquisition Corporation Announces Closing of $100 Million Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292398/0/en/Starlink-AI-Acquisition-Corporation-Announces-Closing-of-100-Million-Initial-Public-Offering.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-11T21:00:00Z",
+      "description": "New York, New York, May 11, 2026 (GLOBE NEWSWIRE) -- Starlink AI Acquisition Corporation, a blank check company incorporated in the Cayman Islands as an exempted company with limited liability (the “Company”), today announced the closing of its initial public…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ソウル邦人死傷事故 男に懲役5年",
-      "url": "https://news.yahoo.co.jp/pickup/6579803?source=rss",
+      "title": "ナウル 国名変更の国民投票実施へ",
+      "url": "https://news.yahoo.co.jp/pickup/6579951?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-12T07:03:56.000Z",
+      "publishedAt": "2026-05-13T07:35:02.000Z",
       "description": ""
     },
     {
-      "title": "米加州市長 中国工作員疑い認める",
-      "url": "https://news.yahoo.co.jp/pickup/6579779?source=rss",
+      "title": "エヌビディアCEO 中国訪問に同行",
+      "url": "https://news.yahoo.co.jp/pickup/6579939?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-12T04:05:09.000Z",
+      "publishedAt": "2026-05-13T06:43:54.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 停戦は「極めて脆弱」",
-      "url": "https://news.yahoo.co.jp/pickup/6579774?source=rss",
+      "title": "北朝鮮 平壌で「マイカーブーム」",
+      "url": "https://news.yahoo.co.jp/pickup/6579930?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-12T03:28:05.000Z",
+      "publishedAt": "2026-05-13T05:07:05.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏訪中 マスク氏ら同行へ",
-      "url": "https://news.yahoo.co.jp/pickup/6579760?source=rss",
+      "title": "露が終戦に舵? 背景にイラン戦争",
+      "url": "https://news.yahoo.co.jp/pickup/6579927?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-12T02:15:43.000Z",
+      "publishedAt": "2026-05-13T04:49:21.000Z",
       "description": ""
     },
     {
-      "title": "英首相に退陣要求 与党議員70人超",
-      "url": "https://news.yahoo.co.jp/pickup/6579747?source=rss",
+      "title": "あす米中会談 両首脳駆け引き注目",
+      "url": "https://news.yahoo.co.jp/pickup/6579917?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-11T23:53:03.000Z",
+      "publishedAt": "2026-05-13T03:58:53.000Z",
       "description": ""
     },
     {
-      "title": "ゼレンスキー氏の元最側近を捜査",
-      "url": "https://news.yahoo.co.jp/pickup/6579742?source=rss",
+      "title": "米中 海峡通航料「認めず」で同意",
+      "url": "https://news.yahoo.co.jp/pickup/6579889?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-11T23:52:10.000Z",
+      "publishedAt": "2026-05-12T23:45:54.000Z",
       "description": ""
     },
     {
-      "title": "米夕食会発砲事件 被告が無罪主張",
-      "url": "https://news.yahoo.co.jp/pickup/6579736?source=rss",
+      "title": "露大統領 新型ICBMを年末配備へ",
+      "url": "https://news.yahoo.co.jp/pickup/6579882?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-11T22:46:26.000Z",
+      "publishedAt": "2026-05-12T23:09:02.000Z",
       "description": ""
     },
     {
-      "title": "聖母像にたばこ イスラエル兵処分",
-      "url": "https://news.yahoo.co.jp/pickup/6579728?source=rss",
+      "title": "トランプ氏 米中会談は貿易最優先",
+      "url": "https://news.yahoo.co.jp/pickup/6579870?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-11T21:45:44.000Z",
+      "publishedAt": "2026-05-12T21:18:10.000Z",
       "description": ""
     }
   ]
