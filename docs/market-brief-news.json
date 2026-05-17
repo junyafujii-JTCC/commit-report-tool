@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-16T22:52:47.754Z",
+  "fetchedAt": "2026-05-17T22:56:26.089Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,38 @@
   ],
   "ma": [
     {
+      "title": "復活した米老舗書店チェーン　アマゾンに対抗する「脱チェーンストア」という生き残り策",
+      "url": "https://www.fashionsnap.com/article/2026-05-16/walmart-barnes-noble/",
+      "source": "Fashionsnap.com",
+      "publishedAt": "2026-05-16T09:59:00Z",
+      "description": "アマゾンの猛攻から蘇った老舗書店チェーン かつて、アマゾンの台頭により絶滅の危機に瀕していたアメリカの老舗書店チェーン、バーンズ＆ノーブルが奇跡的な復活を遂げている。 2019年にエリオット・マネジメント（Elliott Management）が6億8300万ドル（約1024億円）で同社を買収した当時、売上は減少し、巨額の損失を抱え、まさに瀕死の状態であった。 しかし、イギリスの書店チェーン... このコンテンツは FASHIONSNAP が配信しています。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "qtpy-datalogger 1.0.7",
+      "url": "https://pypi.org/project/qtpy-datalogger/1.0.7/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-16T22:46:14Z",
+      "description": "A remote control and data acquisition system using Adafruit QT Py S3",
+      "maMarket": "us"
+    },
+    {
+      "title": "テレビ離れや人口減少…地方民放の経営統合を容認へ、系列超え「１局２波」の再編可能に",
+      "url": "https://kuromacyo.livedoor.biz/archives/2048745.html",
+      "source": "Livedoor.biz",
+      "publishedAt": "2026-05-16T09:00:24Z",
+      "description": "1 名前：首都圏の虎 ★：2026/05/16(土) 08:47:37.63 ID:npnB0NyS9.net 総務省の有識者会議は１５日、同じ地域の民放テレビ局が経営統合することを容認する報告書案を正式に了承した。テレビ離れや人口減少などで地方テレビ局の経営は悪化しており、経営基盤の強化につな...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "South Carolina County Unanimously Rejects Mosque Permit After Residents Protest: ‘Islam Is Not a Religion — It’s a Takeover’",
+      "url": "https://freerepublic.com/focus/f-news/4379591/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-16T20:33:03Z",
+      "description": "South Carolina’s Lancaster County Council voted unanimously last week to deny a conditional-use permit for a proposed Islamic Mosque and community center in the Indian Land area after angry residents passionately spoke out against it. The rejection came after…",
+      "maMarket": "us"
+    },
+    {
       "title": "アイリッジ---2026年3月期通期決算説明会文字起こし - 最新株式ニュース",
       "url": "https://diamond.jp/zai/articles/-/1067335",
       "source": "Diamond.jp",
@@ -17,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Blue Water Acquisition Corp. IV Announces Mutual Termination of Proposed Business Combination with Maha Capital",
-      "url": "https://www.prnewswire.com/news-releases/blue-water-acquisition-corp-iv-announces-mutual-termination-of-proposed-business-combination-with-maha-capital-302773985.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-15T22:49:00Z",
-      "description": "NEW YORK, May 15, 2026 /PRNewswire/ -- Blue Water Acquisition Corp. IV (\"BWAC IV\" or the \"Company\"), a special purpose acquisition company focused on transformative opportunities in the artificial intelligence, energy, and next-generation infrastructure secto…",
+      "title": "Risky Integration or Rewarding Returns? The Stakes of SoundHound's LivePerson Acquisition.",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8edd6e0-e32c-4d07-901e-3722b66389e9",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-16T19:50:00Z",
+      "description": "",
       "maMarket": "us"
     },
     {
@@ -33,135 +65,103 @@
       "maMarket": "jp"
     },
     {
-      "title": "UniUni, Leading North American Ecommerce Last-Mile Delivery Platform, to Go Public via MAK Acquisition",
-      "url": "https://financialpost.com/globe-newswire/uniuni-leading-north-american-ecommerce-last-mile-delivery-platform-to-go-public-via-mak-acquisition",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-15T22:42:30Z",
-      "description": "(All amounts are expressed in United States Dollars unless otherwise indicated.) UniUni processes over 1 million parcels daily1 through a network of over 100,000 drivers2 and a technology-enabled platform, and expects over $1 billion in 2026 revenue, with org…",
-      "maMarket": "us"
-    },
-    {
-      "title": "SBI VCトレードとSBINFTの合併に関するお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000201.000059421.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-05-15T07:00:00Z",
-      "description": "[SBI VCトレード株式会社] SBIホールディングス株式会社（本社：東京都港区、代表取締役会長兼社長：北尾 吉孝）の連結子会社で暗号資産交換業を営むSBI VCトレード株式会社（本社：東京都港区、代表取締役社長：近藤 智彦、以下「SBI VCト...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "UniUni, Leading North American Ecommerce Last-Mile Delivery Platform, to Go Public via MAK Acquisition",
-      "url": "https://www.globenewswire.com/news-release/2026/05/15/3296186/0/en/UniUni-Leading-North-American-Ecommerce-Last-Mile-Delivery-Platform-to-Go-Public-via-MAK-Acquisition.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-05-15T22:36:00Z",
-      "description": "(All amounts are expressed in United States Dollars unless otherwise indicated.) UniUni processes over 1 million parcels daily1 through a network of over...",
-      "maMarket": "us"
-    },
-    {
-      "title": "LP Information Co.,Ltd自動車用シートモーター市場、2032年に24億ドル突破見込み - ブラシレスモーターがけん引する安定成長",
-      "url": "https://japan.cnet.com/release/31168464/",
-      "source": "CNET",
-      "publishedAt": "2026-05-15T06:00:00Z",
-      "description": "2026年5月、LP Information株式会社（所在地：東京都）が発表した最新の市場調査レポート「世界自動車用シートモーター市場成長予測レポート（2026-2032年）」です。本のレポートは、単なるデータ集計にとどまらず深い洞察を提供し、競合企業マップ、収益シェア、市場動向、業界のM&A活動などを通じて、全球自動車用シー...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Allegiant’s integration with Sun Country will be two-year effort, exec says",
-      "url": "https://www.reviewjournal.com/post/3824668",
-      "source": "Las Vegas Review-Journal",
-      "publishedAt": "2026-05-15T22:33:05Z",
-      "description": "The merger of Allegiant Air with Sun Country Airlines was completed in record time, but there’s plenty of challenges ahead to integrate the airlines’ two systems.",
+      "title": "Merger Brings Met $1.5B in New Art",
+      "url": "https://www.newser.com/story/389223/merger-brings-met-15b-in-new-art.html",
+      "source": "Newser",
+      "publishedAt": "2026-05-16T19:05:00Z",
+      "description": "New York's biggest art museum is about to get a very gilded annex. The Metropolitan Museum of Art on Thursday announced it will take over the Neue Galerie—the Ronald Lauder–founded museum devoted to German and Austrian modernism—starting in 2028, in a merger …",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "We’re Entering an Economic Bubble Worse Than the Dot-Com Crash. Thank Donald Trump and Elon Musk.",
-      "url": "https://slate.com/business/2026/05/ai-trump-musk-stock-bubble-ipo.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-05-15T20:17:48Z",
-      "description": "The incoming IPO wave is rewriting stock market rules in real time—and setting us up for a lot of risk.",
+      "title": "SpaceX shareholders approve 5-for-1 stock split ahead of IPO, reports Bloomberg - Yahoo Finance",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183241937",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-16T17:32:31Z",
+      "description": "SpaceX shareholders approve 5-for-1 stock split ahead of IPO, reports BloombergYahoo Finance SpaceX to Go Public June 12WSJ SpaceX heads into IPO with 'deepest moat that exists' as investors vow to 'never bet against Elon'Fortune SpaceX shareholders approve 5…",
       "ipoMarket": "us"
     },
     {
-      "title": "GSR V Acquisition Corp. Announces the Closing of its $230 Million Initial Public Offering, Including Full-Exercise Of Over-Allotment Option",
-      "url": "https://www.globenewswire.com/news-release/2026/05/15/3296137/0/en/GSR-V-Acquisition-Corp-Announces-the-Closing-of-its-230-Million-Initial-Public-Offering-Including-Full-Exercise-Of-Over-Allotment-Option.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-05-15T20:15:00Z",
-      "description": "New York, NY, May 15, 2026 (GLOBE NEWSWIRE) -- GSR V Acquisition Corp. (NASDAQ: GSRV) (“GSRV” or the “Company”) announced today that it closed its initial public offering of 23,000,000 units at a price of $10.00 per unit, for aggregate gross proceeds of $230,…",
+      "title": "BlackRock in talks to invest up to $10 billion in SpaceX IPO: Report",
+      "url": "https://cryptobriefing.com/blackrock-in-talks-spacex-ipo-investment/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-16T16:47:41Z",
+      "description": "BlackRock's potential investment in SpaceX's IPO could significantly boost institutional confidence in the commercial space sector. The post BlackRock in talks to invest up to $10 billion in SpaceX IPO: Report appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "Elon Musk’s SpaceX accelerates timeline for blockbuster Nasdaq IPO",
-      "url": "https://nypost.com/2026/05/15/business/elon-musks-spacex-targets-june-12-listing-on-nasdaq-in-blockbuster-ipo-report/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-15T20:13:06Z",
-      "description": "The accelerated schedule pulls forward a process that had originally been planned for around late June, around Elon Musk’s birthday.",
+      "title": "SpaceX heads into a record-shattering IPO with the ‘deepest moat that exists today’ as investors vow to ‘never bet against Elon’",
+      "url": "https://fortune.com/2026/05/16/spacex-ipo-spcx-stock-valuation-space-market-moat-elon-musk-starlink-xai/",
+      "source": "Fortune",
+      "publishedAt": "2026-05-16T16:39:54Z",
+      "description": "SpaceX is seeking to raise up to $75 billion at a valuation of $1.75 trillion.",
       "ipoMarket": "us"
     },
     {
-      "title": "Exclusive-SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say",
-      "url": "https://www.livemint.com/companies/exclusivespacex-accelerates-ipo-timeline-targets-june-12-listing-on-nasdaq-sources-say-11778874615504.html",
-      "source": "Livemint",
-      "publishedAt": "2026-05-15T19:50:15Z",
-      "description": "SPACEX-IPO:Exclusive-SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq, sources say",
+      "title": "BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-weighs-multibillion-dollar-investment-161440412.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-16T16:14:40Z",
+      "description": "BlackRock has discussed investing $5 billion to $10 billion in SpaceX's ‌initial public offering next month, the ‌Information news outlet reported on Saturday,...",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "コンゴ民主共和国 エボラ死者80人",
-      "url": "https://news.yahoo.co.jp/pickup/6580442?source=rss",
+      "title": "トランプ氏 イラン再攻撃を示唆",
+      "url": "https://news.yahoo.co.jp/pickup/6580591?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T13:47:48.000Z",
+      "publishedAt": "2026-05-17T22:27:06.000Z",
       "description": ""
     },
     {
-      "title": "米中 一部の関税引き下げで合意",
-      "url": "https://news.yahoo.co.jp/pickup/6580441?source=rss",
+      "title": "中国 米農産品170億ドル3年購入へ",
+      "url": "https://news.yahoo.co.jp/pickup/6580582?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T13:47:01.000Z",
+      "publishedAt": "2026-05-17T21:27:00.000Z",
       "description": ""
     },
     {
-      "title": "カーグ島周辺 大規模な石油流出か",
-      "url": "https://news.yahoo.co.jp/pickup/6580434?source=rss",
+      "title": "海峡 イラン独自の保険制度計画か",
+      "url": "https://news.yahoo.co.jp/pickup/6580562?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T12:49:07.000Z",
+      "publishedAt": "2026-05-17T12:58:48.000Z",
       "description": ""
     },
     {
-      "title": "台湾総統府 米に武器売却継続望む",
-      "url": "https://news.yahoo.co.jp/pickup/6580430?source=rss",
+      "title": "米中首脳会談 曖昧さ残る成果",
+      "url": "https://news.yahoo.co.jp/pickup/6580556?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T12:15:06.000Z",
+      "publishedAt": "2026-05-17T12:20:21.000Z",
       "description": ""
     },
     {
-      "title": "ハマス軍事部門トップを殺害 発表",
-      "url": "https://news.yahoo.co.jp/pickup/6580423?source=rss",
+      "title": "ウがモスクワ大規模攻撃 3人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6580541?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T11:49:51.000Z",
+      "publishedAt": "2026-05-17T10:17:18.000Z",
       "description": ""
     },
     {
-      "title": "ナイジェリアで園児ら数十人拉致",
-      "url": "https://news.yahoo.co.jp/pickup/6580402?source=rss",
+      "title": "独で論争呼んだクジラ 沖で死ぬ",
+      "url": "https://news.yahoo.co.jp/pickup/6580529?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T09:25:14.000Z",
+      "publishedAt": "2026-05-17T08:39:32.000Z",
       "description": ""
     },
     {
-      "title": "プーチン氏 19-20日に中国を訪問",
-      "url": "https://news.yahoo.co.jp/pickup/6580385?source=rss",
+      "title": "ルワンダ大虐殺 カブガ被告が死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6580523?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T07:32:32.000Z",
+      "publishedAt": "2026-05-17T08:22:41.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 ISナンバー2殺害と投稿",
-      "url": "https://news.yahoo.co.jp/pickup/6580381?source=rss",
+      "title": "下船のカナダ人 ハンタ推定陽性",
+      "url": "https://news.yahoo.co.jp/pickup/6580487?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-16T06:51:57.000Z",
+      "publishedAt": "2026-05-17T03:39:15.000Z",
       "description": ""
     }
   ]
