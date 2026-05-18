@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-17T22:56:26.089Z",
+  "fetchedAt": "2026-05-18T23:06:31.661Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "韓国が「半導体の果実」分ける時…日本は「半導体王国」再建に速度出す（1）",
+      "url": "https://news.livedoor.com/article/detail/31300704/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-17T22:08:52Z",
+      "description": "人工知能（AI）半導体好況を享受する韓国と日本が全く異なる風景を見せている。韓国では過去最大級の半導体超過税収を国民に還元する「国民配当」論争とサムスン電子労組の大規模スト予告が重なり、「好況の果実をだれが持っていくのか」という分配が争点に浮上した。これに対し日本では政府が半導体企業に補助金と出資を大挙投入する方式で「失われた半導体王国」の再建に乗り出している。日本経済新聞などによるとSMBC日興証券が16日に集計した日本の上場企業1117社の2025年度純利益 全文中央日報 05月18日 07時08分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Reports Say NextEra in Talks to Acquire Dominion Energy",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_093bc073-ecf8-4198-8a5c-0e663a119c3d",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-17T22:41:10Z",
+      "description": "",
+      "maMarket": "us"
+    },
+    {
+      "title": "インドSun Pharma社、米Organon社を117.5億ドルで買収へ",
+      "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/26/05/15/14571/",
+      "source": "Nikkeibp.co.jp",
+      "publishedAt": "2026-05-17T22:00:00Z",
+      "description": "インドSun Pharma（サンファーマ）社と米Organon（オルガノン）社は2026年4月26日、Sun Pharma社によるOrganon社買収に関する正式契約を結んだと発表した。契約に基づいてSun Pharma社は、Organon社の発行済み株式の全てを1株当たり14.00ドルの現金と引き換えに取得する。この取引によるOrganon社の企業価値は、117億5000万ドルとなる。取引は、Organon社とSun Pharma社の子会社の合併により行われ、Organon社は合併後も存続する。取引完了は、20…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The state is supplanting settlers as the driving force of West Bank takeover",
+      "url": "https://www.haaretz.com/opinion/2026-05-18/ty-article-opinion/.premium/the-state-is-supplanting-settlers-as-the-driving-force-of-west-bank-takeover/0000019e-3772-d4f9-a7bf-fffa91e00000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-17T22:06:31Z",
+      "description": "The New Conversation in the Military About the Need to Curb \"Jewish Terror\" Evokes Disbelief on the Left Side of the Political Spectrum. Could It Be That the On",
+      "maMarket": "us"
+    },
+    {
+      "title": "日立買収で弱くなる？ノジマ社長M＆Aの不可解",
+      "url": "https://agora-web.jp/archives/260517095422.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-05-17T21:45:21Z",
+      "description": "ノジマの経営者 野島廣司氏は不可解だ。過去のM&amp;amp;A対象には、企業向け研修、動物向けの医療品、アニメの衛星放送まで含まれる。ノジマとどう関係するのだろうか？M&amp;amp;Aには鉄則がある。「不要なピースを買っても意味はない」。70社近くのM&amp;amp;Aを成功さ...…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The next Chris Hemsworth? Robert Irwin eyeing Hollywood takeover amid increasing popularity in the US",
+      "url": "https://www.dailymail.com/tvshowbiz/article-15819551/Robert-Irwin-Hollywood-takeover.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-17T21:35:54Z",
+      "description": "Robert Irwin may currently be one of the most sought-after stars in Australian television, but insiders now claim that Hollywood could be preparing to steal him away completely.",
+      "maMarket": "us"
+    },
+    {
       "title": "復活した米老舗書店チェーン　アマゾンに対抗する「脱チェーンストア」という生き残り策",
       "url": "https://www.fashionsnap.com/article/2026-05-16/walmart-barnes-noble/",
       "source": "Fashionsnap.com",
@@ -17,102 +65,96 @@
       "maMarket": "jp"
     },
     {
-      "title": "qtpy-datalogger 1.0.7",
-      "url": "https://pypi.org/project/qtpy-datalogger/1.0.7/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-16T22:46:14Z",
-      "description": "A remote control and data acquisition system using Adafruit QT Py S3",
-      "maMarket": "us"
-    },
-    {
-      "title": "テレビ離れや人口減少…地方民放の経営統合を容認へ、系列超え「１局２波」の再編可能に",
-      "url": "https://kuromacyo.livedoor.biz/archives/2048745.html",
-      "source": "Livedoor.biz",
-      "publishedAt": "2026-05-16T09:00:24Z",
-      "description": "1 名前：首都圏の虎 ★：2026/05/16(土) 08:47:37.63 ID:npnB0NyS9.net 総務省の有識者会議は１５日、同じ地域の民放テレビ局が経営統合することを容認する報告書案を正式に了承した。テレビ離れや人口減少などで地方テレビ局の経営は悪化しており、経営基盤の強化につな...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "South Carolina County Unanimously Rejects Mosque Permit After Residents Protest: ‘Islam Is Not a Religion — It’s a Takeover’",
-      "url": "https://freerepublic.com/focus/f-news/4379591/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-16T20:33:03Z",
-      "description": "South Carolina’s Lancaster County Council voted unanimously last week to deny a conditional-use permit for a proposed Islamic Mosque and community center in the Indian Land area after angry residents passionately spoke out against it. The rejection came after…",
-      "maMarket": "us"
-    },
-    {
-      "title": "アイリッジ---2026年3月期通期決算説明会文字起こし - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1067335",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-05-15T09:54:35Z",
-      "description": "&lt;3917&gt; アイリッジ 450 -5アイリッジ&lt;3917&gt;・大型案件のずれ込みに加え、2025年7月1日付で株式譲渡を行った関係会社が営むフィンテック事業の数値が乗った前期比較の見え方が株価を抑制してきたように見える。・足もとの業績は回復基調が鮮明化しており、ディップ&lt;2379&gt;と手掛けるEX-DX（Employee Experience Digital Transformation：従業員が会",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Risky Integration or Rewarding Returns? The Stakes of SoundHound's LivePerson Acquisition.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8edd6e0-e32c-4d07-901e-3722b66389e9",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-16T19:50:00Z",
-      "description": "",
-      "maMarket": "us"
-    },
-    {
-      "title": "荘内銀行が過去最高の経常収益 貸出金利息増加で2期連続の増収増益　合併後の業績予想は",
-      "url": "https://news.livedoor.com/article/detail/31280961/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-05-15T09:36:01Z",
-      "description": "荘内銀行は15日、昨年度の決算を発表しました。貸出金利息の増加や与信関係費用の減少などで2期連続の増収増益となりました。荘内銀行が発表したことし3月期の昨年度決算は、一般企業の売上高に相当する経常収益が前の年より45億3,100万円多い285億2,000万円となり、過去最高となりました。また、銀行の最終的な利益となる純利益は前の年より13億5,800万円多い29億5,800万円で、2期連続で増収増益となりました。荘内銀行によりますと、金利上昇による貸出金利息の利益などが増加した一全文YBC山形放送ニュース 05月…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Merger Brings Met $1.5B in New Art",
-      "url": "https://www.newser.com/story/389223/merger-brings-met-15b-in-new-art.html",
-      "source": "Newser",
-      "publishedAt": "2026-05-16T19:05:00Z",
-      "description": "New York's biggest art museum is about to get a very gilded annex. The Metropolitan Museum of Art on Thursday announced it will take over the Neue Galerie—the Ronald Lauder–founded museum devoted to German and Austrian modernism—starting in 2028, in a merger …",
+      "title": "U.S. Upstream Mergers Hit $38B As M&A Rebounds",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Upstream-Mergers-Hit-38B-As-MA-Rebounds.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-17T21:00:00Z",
+      "description": "Dealmaking in the U.S. shale patch jumped to a two-year high in the first quarter as M&A activity rebounded from a slump. U.S. upstream mergers hit $38 billion in Q1 2026, marking the highest quarterly total in two years despite a sharp slowdown in March due …",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "SpaceX shareholders approve 5-for-1 stock split ahead of IPO, reports Bloomberg - Yahoo Finance",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183241937",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-16T17:32:31Z",
-      "description": "SpaceX shareholders approve 5-for-1 stock split ahead of IPO, reports BloombergYahoo Finance SpaceX to Go Public June 12WSJ SpaceX heads into IPO with 'deepest moat that exists' as investors vow to 'never bet against Elon'Fortune SpaceX shareholders approve 5…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "BlackRock in talks to invest up to $10 billion in SpaceX IPO: Report",
-      "url": "https://cryptobriefing.com/blackrock-in-talks-spacex-ipo-investment/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-16T16:47:41Z",
-      "description": "BlackRock's potential investment in SpaceX's IPO could significantly boost institutional confidence in the commercial space sector. The post BlackRock in talks to invest up to $10 billion in SpaceX IPO: Report appeared first on Crypto Briefing.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX heads into a record-shattering IPO with the ‘deepest moat that exists today’ as investors vow to ‘never bet against Elon’",
-      "url": "https://fortune.com/2026/05/16/spacex-ipo-spcx-stock-valuation-space-market-moat-elon-musk-starlink-xai/",
-      "source": "Fortune",
-      "publishedAt": "2026-05-16T16:39:54Z",
-      "description": "SpaceX is seeking to raise up to $75 billion at a valuation of $1.75 trillion.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-weighs-multibillion-dollar-investment-161440412.html",
+      "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-220104374.html",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-16T16:14:40Z",
-      "description": "BlackRock has discussed investing $5 billion to $10 billion in SpaceX's ‌initial public offering next month, the ‌Information news outlet reported on Saturday,...",
+      "publishedAt": "2026-05-17T22:01:04Z",
+      "description": "Top Pension officials from New York and California have written to SpaceX CEO Elon Musk, expressing concern over the “extreme” governance structure of the...",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Cerebras just had the biggest US tech IPO since Snowflake. SpaceX, OpenAI, and Anthropic are next.",
+      "url": "https://thenextweb.com/news/cerebras-ipo-spacex-openai-anthropic-listings/",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-17T12:06:07Z",
+      "description": "Cerebras Systems closed its first day on the Nasdaq at $311.07, up 68% from its $185 IPO price, giving the wafer-scale chip company a market capitalisation of approximately $95 billion. The offering raised $5.55 billion, making it the largest US tech IPO sinc…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Elon Musk wants SpaceX to go public. Here's how it works",
+      "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wants-spacex-to-go-public-heres-how-it-works/articleshow/131152395.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-17T10:37:38Z",
+      "description": "Companies like SpaceX and OpenAI are eyeing stock market debuts, potentially in 2026. Going public involves choosing an exchange, filing detailed financial documents with the SEC, pitching to investors, and crucially, setting a share price. This complex proce…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX plans IPO by June with valuation akin to seven years of Hungary’s GDP",
+      "url": "https://cryptobriefing.com/spacex-plans-ipo-by-june-with-valuation-akin-to-seven-years-of-hungarys-gdp/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-17T08:23:00Z",
+      "description": "SpaceX's IPO could significantly influence global financial markets, highlighting the growing economic impact of private aerospace ventures. The post SpaceX plans IPO by June with valuation akin to seven years of Hungary’s GDP appeared first on Crypto Briefin…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "トランプ氏 イラン再攻撃を示唆",
-      "url": "https://news.yahoo.co.jp/pickup/6580591?source=rss",
+      "title": "トランプ氏 イラン再攻撃「延期」",
+      "url": "https://news.yahoo.co.jp/pickup/6580741?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T22:27:06.000Z",
+      "publishedAt": "2026-05-18T22:35:42.000Z",
+      "description": ""
+    },
+    {
+      "title": "WHO総会 台湾の参加案を否決",
+      "url": "https://news.yahoo.co.jp/pickup/6580735?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-18T21:41:50.000Z",
+      "description": ""
+    },
+    {
+      "title": "ハンタ感染の船 最終目的地に到着",
+      "url": "https://news.yahoo.co.jp/pickup/6580727?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-18T13:37:43.000Z",
+      "description": ""
+    },
+    {
+      "title": "金正恩氏「国境線を難攻不落に」",
+      "url": "https://news.yahoo.co.jp/pickup/6580655?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-18T06:11:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "タリバンが児童婚を公認 団体批判",
+      "url": "https://news.yahoo.co.jp/pickup/6580613?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-18T00:42:52.000Z",
+      "description": ""
+    },
+    {
+      "title": "キューバ 米攻撃検討との報道否定",
+      "url": "https://news.yahoo.co.jp/pickup/6580611?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-18T00:26:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "紛争地域でエボラ熱 危機悪化恐れ",
+      "url": "https://news.yahoo.co.jp/pickup/6580604?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-17T23:43:40.000Z",
       "description": ""
     },
     {
@@ -120,48 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6580582?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-05-17T21:27:00.000Z",
-      "description": ""
-    },
-    {
-      "title": "海峡 イラン独自の保険制度計画か",
-      "url": "https://news.yahoo.co.jp/pickup/6580562?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T12:58:48.000Z",
-      "description": ""
-    },
-    {
-      "title": "米中首脳会談 曖昧さ残る成果",
-      "url": "https://news.yahoo.co.jp/pickup/6580556?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T12:20:21.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウがモスクワ大規模攻撃 3人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6580541?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T10:17:18.000Z",
-      "description": ""
-    },
-    {
-      "title": "独で論争呼んだクジラ 沖で死ぬ",
-      "url": "https://news.yahoo.co.jp/pickup/6580529?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T08:39:32.000Z",
-      "description": ""
-    },
-    {
-      "title": "ルワンダ大虐殺 カブガ被告が死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6580523?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T08:22:41.000Z",
-      "description": ""
-    },
-    {
-      "title": "下船のカナダ人 ハンタ推定陽性",
-      "url": "https://news.yahoo.co.jp/pickup/6580487?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-17T03:39:15.000Z",
       "description": ""
     }
   ]
