@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-20T23:16:02.484Z",
+  "fetchedAt": "2026-05-21T23:06:20.936Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "リサ・パートナーズ、『西新宿プライムスクエア』への投資実行のお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000008.000175028.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-05-19T22:38:20Z",
-      "description": "[株式会社リサ・パートナーズ] このたび、株式会社リサ・パートナーズ（以下「RISA」）は、不動産信託受益権の取得・運用を行う合同会社Rオフィス1号への匿名組合出資を通じて、東京都新宿区西新宿に所在するオフィスビル『西新宿プライムスク...",
+      "title": "豊田通商が赤字スクラップ企業に1300億円投じた勝算、EV時代の覇権を握る「自動車循環網」の正体【勃発！鉄スクラップ争奪戦／後編】 - クローズアップ商社",
+      "url": "https://diamond.jp/articles/-/390399",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-05-20T19:45:00Z",
+      "description": "脱炭素と地政学リスクの変動を背景に、鉄スクラップの価値が世界的に高まっている。高炉から電炉へのシフトが進み、かつて「廃材」だったスクラップは、各国が囲い込む“都市鉱山”へと変わりつつある。こうした中、豊田通商は2025年、米スクラップ大手を約1300億円で買収した。赤字企業への巨額投資は高値づかみなのか、それともEV（電気自動車）時代を見据えた資源戦略なのか。豊田通商が狙う「自動車循環網」の実像を追った。",
       "maMarket": "jp"
     },
     {
-      "title": "Shoe brand Minelli announces permanent closure on May 30",
-      "url": "https://fashionunited.uk/news/business/shoe-brand-minelli-announces-permanent-closure-on-may-30/2026051388085",
-      "source": "FashionUnited UK",
-      "publishedAt": "2026-05-19T23:14:20Z",
-      "description": "Shoe brand Minelli, currently in administration, has announced its permanent closure on May 30 due to a lack of comprehensive takeover bids.",
-      "maMarket": "us"
-    },
-    {
-      "title": "アルファポリス、26年3月期決算は単体ベースで売上高18％増、営業益16％増に　WHITE FOXとNIAアニメーションの子会社化によるアニメ事業の拡大に注力 | gamebiz",
-      "url": "https://gamebiz.jp/news/426164",
-      "source": "Gamebiz.jp",
-      "publishedAt": "2026-05-19T22:21:24Z",
-      "description": "アルファポリス<9467>は、5月15日、2026年3月期の連結決算を発表、WHITE FOXの子会社化で連結決算に移行したため、前年同期比較はないものの、アルファポリス単体では、売上高18.4％増、営業利益16.4％増と2ケタ増収増益を達成した。■2026年3月期決算実績売上高166億1000万円営業利益34億5600万円経常利益35億1200万円最終利益23億1600万円■セグメント別の状況…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "SpaceX plans to buy Cursor for $60 billion once its record IPO wraps",
-      "url": "https://thenextweb.com/news/spacex-plans-to-buy-cursor-for-60-billion-once-its-record-ipo-wraps/",
-      "source": "The Next Web",
-      "publishedAt": "2026-05-19T23:04:26Z",
-      "description": "SpaceX expects to complete its $60 billion acquisition of AI coding startup Cursor roughly 30 days after it begins trading publicly, according to Bloomberg, a timeline that would place the deal in July if the company’s blockbuster IPO proceeds on schedule. Th…",
-      "maMarket": "us"
-    },
-    {
-      "title": "モードコミューターがポップアップ開催　都市と自然に着想した最新コレクションを販売",
-      "url": "https://www.fashionsnap.com/article/2026-05-19/mode-commuter-hankyuumeda/",
-      "source": "Fashionsnap.com",
-      "publishedAt": "2026-05-19T10:12:50Z",
-      "description": "アーバンアスレチックをテーマとしたファッションブランド「モードコミューター（MODE COMMUTER）」が、阪急うめだ本店 8階 コトコトステージ81でポップアップを開催する。期間は5月20日から26日まで。モードコミューターは2020年に中国で始動。LVMHグループからの出資も受けている新鋭ブランドで、ミニマルで都会的なシルエットに、スポーツウェア...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Marlins' Sandy Alcantara remains attractive acquisition target",
-      "url": "https://www.sportingnews.com/us/mlb/miami-marlins/news/marlins-sandy-alcantara-attractive-acquisition-target/555f78f86407803e688336b7",
-      "source": "Sporting News",
-      "publishedAt": "2026-05-19T22:28:39Z",
-      "description": "Florida's starting pitcher continues to be the center of several MLB trade rumors.",
-      "maMarket": "us"
-    },
-    {
-      "title": "トランプ、くら寿司買収へ",
-      "url": "http://blog.livedoor.jp/news23vip/archives/6242844.html",
-      "source": "Livedoor.jp",
-      "publishedAt": "2026-05-19T09:59:39Z",
-      "description": "1 名前：名無しさん＠おーぷん[] 投稿日：26/05/19(火) 17:33:14 ID:JMxP トランプ氏が「くら寿司」株買い付け、開示資料で判明…取得額１・６億円～８億円https://t.co/bXq8PtCmf5#経済— 読売新聞オンライン (@Yomiuri_Online) May 19, 2026 失望しました 2 名前：名...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Bank First Corporation Signs Agreement to Acquire PSB Holdings, Inc.",
-      "url": "https://www.prnewswire.com/news-releases/bank-first-corporation-signs-agreement-to-acquire-psb-holdings-inc-302776812.html",
+      "title": "Empresa Distribuidora de Electricidad de Mendoza S.A. (EDEMSA) announces cash tender offer for any and all of its Outstanding 9.75% Step-up Notes due 2031 and Concurrent Consent Solicitation",
+      "url": "https://www.prnewswire.com/news-releases/empresa-distribuidora-de-electricidad-de-mendoza-sa-edemsa-announces-cash-tender-offer-for-any-and-all-of-its-outstanding-9-75-step-up-notes-due-2031-and-concurrent-consent-solicitation-302778230.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-05-19T21:30:00Z",
-      "description": "Highlights of the Announced Transaction Combines Two Strong Community Banks. Unites two relationship-driven institutions with deep community roots and a shared commitment to responsive, solutions-oriented service. Strategic Geographic Expansion. Extends Bank …",
+      "publishedAt": "2026-05-20T21:37:00Z",
+      "description": "(CUSIP Nos. 29245H AG1 and P37213 AG3; ISIN Nos. US29245HAG11 and USP37213AG34) BUENOS AIRES, Argentina, May 20, 2026 /PRNewswire/ -- Empresa Distribuidora de Electricidad de Mendoza S.A. (EDEMSA S.A.) (the \"Company\") announced today the commencement of (i) a…",
+      "maMarket": "us"
+    },
+    {
+      "title": "みずほ、楽天銀に5%超出資　ネット銀の預金をメガの融資に「活用」",
+      "url": "https://www.asahi.com/articles/ASV5N3RZSV5NULFA01XM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-05-20T12:19:08Z",
+      "description": "みずほフィナンシャルグループ（FG）は20日、傘下のみずほ銀行と、ネット専業の楽天銀行が資本業務提携を結んだと発表した。みずほ銀が楽天銀の5.81%の株式を10月に取得する。楽天銀が個人から集めた預…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Enviri Announces Merger Consideration for Sale of Clean Earth and Update Regarding Spin-Off of New Enviri",
+      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298931/625/en/Enviri-Announces-Merger-Consideration-for-Sale-of-Clean-Earth-and-Update-Regarding-Spin-Off-of-New-Enviri.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-20T21:25:00Z",
+      "description": "PHILADELPHIA, May 20, 2026 (GLOBE NEWSWIRE) -- As previously announced, Enviri Corporation (NYSE: NVRI) (“Enviri” or the “Company”) expects to close the sale of Clean Earth to Veolia Environnement S.A. as well as complete the spin-off of Harsco Environmental …",
+      "maMarket": "us"
+    },
+    {
+      "title": "少数株ドットコム、株式会社河野メリクロン（本社：徳島県美馬市、代表取締役社長：河野　圭佑）へのマジョリティ出資（株式過半数の取得）実施のお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000307.000158730.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-05-20T09:40:38Z",
+      "description": "[少数株ドットコム株式会社] 少数株ドットコム株式会社（本社：東京都練馬区、代表取締役会長：山中 裕、以下「当社」）は、最先端の植物バイオテクノロジーおよび組織培養技術において国内屈指の実績を有する株式会社河野メリクロン（本社...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "James Murdoch, media scion, strikes deal for New York Magazine and Vox",
+      "url": "https://abcnews.com/US/wireStory/james-murdoch-media-scion-strikes-deal-new-york-133164363",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-20T21:19:43Z",
+      "description": "Media scion James Murdoch has struck a deal with the Vox Media digital company to acquire New York magazine, the Vox Media Podcast Network and the Vox editorial brand",
+      "maMarket": "us"
+    },
+    {
+      "title": "LP Information Co.,Ltdプリントオンデマンドアプリの世界市場競合分析調査レポート2026-2032",
+      "url": "https://japan.cnet.com/release/31170100/",
+      "source": "CNET",
+      "publishedAt": "2026-05-20T06:30:00Z",
+      "description": "2026年5月、LP Information株式会社（所在地：東京都）が発表した最新の市場調査レポート「世界プリントオンデマンドアプリ市場成長予測レポート（2026-2032年）」です。本のレポートは、単なるデータ集計にとどまらず深い洞察を提供し、競合企業マップ、収益シェア、市場動向、業界のM&A活動などを通じて、全球プリント...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "1967 Jaguar Mk II 3.4 4-Speed",
+      "url": "https://bringatrailer.com/listing/1967-jaguar-mk-ii-25/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-05-20T21:19:32Z",
+      "description": "This 1967 Jaguar Mk II was built in February 1967 and dispatched to a distributor in New York, and it was refurbished in 2016, around the time of the current owner's acquisition of the vehicle. Powered by a 3.4-liter inline-six linked with a four-speed manual…",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "株価5万円超えのキオクシアのウラで同年上場の東京メトロは…「2大IPO」明暗の深層",
+      "url": "https://news.livedoor.com/article/detail/31330814/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-20T22:00:00Z",
+      "description": "2024年2大IPO銘柄といえば…2024年秋から冬にかけて、東京市場は20年に一度クラスの大型IPOラッシュに沸いた。10月には都民の誰もが乗ったことがあるであろう東京メトロが、12月には純国産メモリ企業キオクシアホールディングスが、相次いで東証プライムに上場した。当時、市場の見立てはほぼ正反対だった。「安全資産」「潰れない」などと称された東京メトロは個人投資家が殺到する超人気IPOとなった。一方キオクシアは、前身が不正会計で経営危機に瀕したこともある東芝グループだっ全文現代ビジネス 05月21日07時00分",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date",
+      "url": "https://www.cnbc.com/2026/05/20/spacex-is-the-biggest-ipo-ever-these-debuts-also-set-records.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-20T22:58:32Z",
+      "description": "Before SpaceX's upcoming IPO sets an expected record, Alibaba, Facebook and Visa raised historic sums in the U.S.",
+      "ipoMarket": "us"
+    },
     {
       "title": "ビットゲットIPOプライム、オープンAIで4兆ドル (約635兆円) 規模のAIオポチュニティに参入",
       "url": "https://www.globenewswire.com/news-release/2026/05/19/3297298/0/ja/%E3%83%93%E3%83%83%E3%83%88%E3%82%B2%E3%83%83%E3%83%88IPO%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E3%81%A74%E5%85%86%E3%83%89%E3%83%AB-%E7%B4%84635%E5%85%86%E5%86%86-%E8%A6%8F%E6%A8%A1%E3%81%AEAI%E3%82%AA%E3%83%9D%E3%83%81%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%AB%E5%8F%82%E5%85%A5.html",
@@ -83,31 +99,59 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX plans to buy Cursor for $60 billion once its record IPO wraps",
-      "url": "https://thenextweb.com/news/spacex-plans-to-buy-cursor-for-60-billion-once-its-record-ipo-wraps/",
-      "source": "The Next Web",
-      "publishedAt": "2026-05-19T23:04:26Z",
-      "description": "SpaceX expects to complete its $60 billion acquisition of AI coding startup Cursor roughly 30 days after it begins trading publicly, according to Bloomberg, a timeline that would place the deal in July if the company’s blockbuster IPO proceeds on schedule. Th…",
+      "title": "Elon Musk’s SpaceX readies for Wall Street blastoff with new filing projecting $28.5 trillion in future revenue",
+      "url": "https://nypost.com/2026/05/20/business/elon-musks-spacex-readies-for-wall-street-blastoff-with-new-filing-projecting-28-5-trillion-in-future-revenue/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-20T22:47:55Z",
+      "description": "Elon Musk's SpaceX on Wednesday filed paperwork to go public next month, aiming for an out-of-this-world valuation projected around $1.5 trillion – the biggest IPO in history. Wednesday’s filing also disclosed new business details and ownership structure – in…",
       "ipoMarket": "us"
     },
     {
-      "title": "Lincoln International Announces Pricing of Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/lincoln-international-announces-pricing-of-initial-public-offering-302776889.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-19T22:39:00Z",
-      "description": "CHICAGO, May 19, 2026 /PRNewswire/ -- Lincoln International, Inc. (\"Lincoln International\" or the \"Company\"), a global investment banking advisory firm, today announced the pricing of its initial public offering of 21,049,988 shares of its Class A common stoc…",
+      "title": "OpenAI aiming for speedy IPO, source says, as market awaits SpaceX filing - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183301995",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-20T22:32:30Z",
+      "description": "OpenAI aiming for speedy IPO, source says, as market awaits SpaceX filingReuters OpenAI Prepares to File to Go Public in Coming WeeksThe New York Times OpenAI Faces IPO Unknowns Even After Victory Over Elon MuskBloomberg.com Factbox-Mega IPOs loom on Wall St …",
       "ipoMarket": "us"
     },
     {
-      "title": "Is this the easiest way to invest in the SpaceX IPO on the ASX?",
-      "url": "https://www.fool.com.au/2026/05/20/is-this-the-easiest-way-to-invest-in-the-spacex-ipo-on-the-asx/",
-      "source": "Motley Fool Australia",
-      "publishedAt": "2026-05-19T20:45:00Z",
-      "description": "If SpaceX IPOs, there's an easy way to buy in. The post Is this the easiest way to invest in the SpaceX IPO on the ASX? appeared first on The Motley Fool Australia.",
+      "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
+      "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-20T22:30:29Z",
+      "description": "A successful sale could value the company at a record-setting $1.75 trillion.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "ウラン国外搬出を禁止 モジタバ師",
+      "url": "https://news.yahoo.co.jp/pickup/6581171?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-21T23:01:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "露司令部攻撃し100人死傷 ウ主張",
+      "url": "https://news.yahoo.co.jp/pickup/6581158?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-21T14:45:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "習主席が近く訪朝か 韓国側注視",
+      "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-21T03:01:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国で切り付け 在留邦人は不安",
+      "url": "https://news.yahoo.co.jp/pickup/6581064?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-21T02:20:14.000Z",
+      "description": ""
+    },
     {
       "title": "米大統領 イランとの交渉最終段階",
       "url": "https://news.yahoo.co.jp/pickup/6581039?source=rss",
@@ -123,13 +167,6 @@
       "description": ""
     },
     {
-      "title": "ホルムズ タンカー含む26隻が通過",
-      "url": "https://news.yahoo.co.jp/pickup/6581028?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-20T13:49:50.000Z",
-      "description": ""
-    },
-    {
       "title": "習氏 中露は軍国主義復活に反対",
       "url": "https://news.yahoo.co.jp/pickup/6581022?source=rss",
       "source": "Yahoo!ニュース",
@@ -141,27 +178,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581020?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-05-20T12:50:56.000Z",
-      "description": ""
-    },
-    {
-      "title": "知らない人と買い物 韓国の節約術",
-      "url": "https://news.yahoo.co.jp/pickup/6581016?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-20T12:31:35.000Z",
-      "description": ""
-    },
-    {
-      "title": "中露首脳が会談 強固な関係を称賛",
-      "url": "https://news.yahoo.co.jp/pickup/6581011?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-20T11:47:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "上海で切り付け 負傷は森ビル社員",
-      "url": "https://news.yahoo.co.jp/pickup/6580998?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-20T10:19:40.000Z",
       "description": ""
     }
   ]
