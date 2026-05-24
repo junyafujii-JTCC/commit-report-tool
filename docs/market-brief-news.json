@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T22:56:28.228Z",
+  "fetchedAt": "2026-05-24T23:00:54.870Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,38 @@
   ],
   "ma": [
     {
+      "title": "ロードサイドにおしゃれイタリアンを続々出店…迷走するすかいらーくグループ、資さんうどんが「頼みの綱」か",
+      "url": "https://news.livedoor.com/article/detail/31355599/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-23T22:00:00Z",
+      "description": "ファミレス業界で店舗数1位を誇る「ガスト」だが、現在既存のガスト店舗が他ブランドへ続々と“衣替え”されている。ガストを運営するすかいらーくHDは、2024年に買収した北九州発のうどんチェーン「資さんうどん」の店舗を、2030年までをめどに現在の約4倍にあたる400店舗に引き上げると発表し、既存のガスト店舗などを、より割安な業態である資さんうどんの店舗へと切り替えていく方針だ。こうしていまガストが静かに消えつつある背景にはどんな事情があるのだろうか。外食産業に精全文現代ビジネス 05月24日07時00分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "What to Know About This Fund's $65 Million Homebuilder Bet Before a $47-Per-Share Buyout",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80f24fa3-29b6-4fa9-8bbd-6b5986e51afa",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-23T22:55:33Z",
+      "description": "",
+      "maMarket": "us"
+    },
+    {
+      "title": "【金融・企業法務】　M&A実務の基礎（第３版）",
+      "url": "https://shimanami.way-nifty.com/report/2026/05/post-cc4e1f.html",
+      "source": "Way-nifty.com",
+      "publishedAt": "2026-05-23T15:00:00Z",
+      "description": "商事法務から出版された「M&amp;A実務の基礎（第３版）」です。 M&amp;Aは、最近、ご相談や関わりが増えている相談分野の１つです。 もっとも、ビックなM&amp;Aにおいては、田舎弁護...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "adidas' Smoking Hot Tobacco Sneaker Is (Almost) Literally Addicting",
+      "url": "https://www.highsnobiety.com/p/adidas-tobacco-sneaker-brown/",
+      "source": "Highsnobiety",
+      "publishedAt": "2026-05-23T22:33:01Z",
+      "description": "adidas' Tobacco sneaker is a smoking hot flat shoe that looks like a sweet & suede Samba.",
+      "maMarket": "us"
+    },
+    {
       "title": "ウインテスト株式会社共同出資による「AI Data Partners株式会社」の設立に関するお知らせ",
       "url": "https://japan.cnet.com/release/31171419/",
       "source": "CNET",
@@ -17,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Grady Judd puts parents on notice over TikTok teen takeovers: 'We're gonna come lock you up too'",
-      "url": "https://www.foxnews.com/us/grady-judd-puts-parents-notice-tiktok-teen-takeovers-gonna-come-lock",
-      "source": "Fox News",
-      "publishedAt": "2026-05-22T21:15:54Z",
-      "description": "Florida Sheriff Grady Judd vows to charge parents if their children take part in the teen takeover TikTok trend sweeping cities across the country.",
+      "title": "2005 Harley-Davidson Sportster 1200 Roadster at No Reserve",
+      "url": "https://bringatrailer.com/listing/2005-harley-davidson-sportster-5/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-05-23T21:20:12Z",
+      "description": "This 2005 Harley-Davidson Sportster 1200 Roadster was initially sold in Connecticut and remained under original ownership until the selling dealer's acquisition in 2026. Finished in Black Cherry Pearl and Birch White, the bike is powered by an air-cooled 1,20…",
       "maMarket": "us"
     },
     {
@@ -33,36 +65,12 @@
       "maMarket": "jp"
     },
     {
-      "title": "pyForceDAQ 2.0.1.dev2",
-      "url": "https://pypi.org/project/pyforcedaq/2.0.1.dev2/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-22T21:03:05Z",
-      "description": "A Python package for data acquisition and analysis in force-based experiments.",
+      "title": "The Minnesota Lynx quietly signed one of the WNBA’s most impactful free agents",
+      "url": "https://www.sbnation.com/womens-sports/1115590/wnba-free-agency-natasha-howard-minnesota-lynx",
+      "source": "SB Nation",
+      "publishedAt": "2026-05-23T19:58:41Z",
+      "description": "Natasha Howard poured in 26 points in the Minnesota Lynx’s 85-75 win over the Chicago Sky — the latest reminder she was one of the WNBA’s best free agency acquisitions.",
       "maMarket": "us"
-    },
-    {
-      "title": "Fスターズ、住友電工、INESTなど - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1067778",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-05-22T07:00:05Z",
-      "description": "&lt;3687&gt; Fスターズ 1970 +400ストップ高。米商務省では、量子コンピュータなどを手掛ける国内企業9社に計20億ドルを出資すると発表している。IBMが量子計算向けウエハー製造子会社設立に10億ドルを受け取るほか、グローバルファウンドリーズやアトムコンピューティング、D-ウェーブ・クオンタムなどが対象。米国市場ではIBMが12％超の急騰となっている。東京市場でも、同社など量子コンピュータ関",
-      "maMarket": "jp"
-    },
-    {
-      "title": "$HAREHOLDER ALERT: The M&A Class Action Continues to Investigate the Merger--ASRT, SILA, KW, and UNF",
-      "url": "https://www.prnewswire.com/news-releases/hareholder-alert-the-ma-class-action-continues-to-investigate-the-mergerasrt-sila-kw-and-unf-302780428.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-22T20:42:00Z",
-      "description": "NEW YORK, May 22, 2026 /PRNewswire/ -- Class Action Attorney Juan Monteverde with Monteverde & Associates PC (the \"M&A Class Action Firm\"), has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm in the 2025 ISS Securities Class …",
-      "maMarket": "us"
-    },
-    {
-      "title": "党首討論でも鮮明「バラバラ野党」　弱小同志の立憲、公明は果たして合流できるのか",
-      "url": "https://news.livedoor.com/article/detail/31343997/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-05-22T06:45:00Z",
-      "description": "2026年5月20日の党首討論は、「細切れ野党」の危うい実態を改めて浮かび上がらせる結果になった。中道改革連合のほかに合併しなかった立憲民主、公明の3党代表が10分から5分の短い質疑を重ねたが、20日夜の「報道1930」(BS-TBS)では、「今日の内容であれば、予算委員会で十分。党首討論は国家の基本問題を議論し、国家の進路を語り合う場です」（佐藤千矢子・毎日新聞専門編集委員）とこきおろされた。合併もせず元にも戻らない「中道」の行方はなおはっきりせず、「高市一強」の国会全文J-CASTニュース 05月22日15時…",
-      "maMarket": "jp"
     }
   ],
   "ipo": [
@@ -75,58 +83,86 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Aperture AC Announces Closing of $102,000,000 Initial Public Offering, Including Partial Exercise of Underwriters’ Over-Allotment Option",
-      "url": "https://www.globenewswire.com/news-release/2026/05/22/3300385/0/en/Aperture-AC-Announces-Closing-of-102-000-000-Initial-Public-Offering-Including-Partial-Exercise-of-Underwriters-Over-Allotment-Option.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-05-22T21:15:00Z",
-      "description": "Los Angeles, CA, May 22, 2026 (GLOBE NEWSWIRE) -- Aperture AC (the “Company”) (Nasdaq: APURU) announced today the closing of its initial public offering of 10,200,000 units, which includes 1,200,000 units issued pursuant to the partial exercise by the underwr…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "The SpaceX Insiders Set to Make Billions in Its Blockbuster IPO",
-      "url": "https://observer.com/2026/05/spacex-ipo-billionaire-execs-investors/",
-      "source": "Observer",
-      "publishedAt": "2026-05-22T19:46:48Z",
-      "description": "SpaceX’s long-awaited IPO filing puts COO Gwynne Shotwell, CFO Bret Johnsen and a small circle of early backers in line for multibillionaire paydays.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX nears $1.8T IPO as market confidence grows",
-      "url": "https://cryptobriefing.com/spacex-nears-18t-ipo-as-market-confidence-grows/",
+      "title": "SpaceX files for IPO, aims for $1T valuation with NASDAQ listing",
+      "url": "https://cryptobriefing.com/spacex-files-for-ipo-aims-for-1t-valuation-with-nasdaq-listing/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-05-22T18:13:59Z",
-      "description": "SpaceX's potential IPO could significantly influence market dynamics, investor strategies, and regulatory landscapes, shaping future tech valuations. The post SpaceX nears $1.8T IPO as market confidence grows appeared first on Crypto Briefing.",
+      "publishedAt": "2026-05-23T19:08:22Z",
+      "description": "SpaceX's IPO could redefine market dynamics, setting a precedent for tech valuations and influencing investor strategies globally. The post SpaceX files for IPO, aims for $1T valuation with NASDAQ listing appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "The big questions looming over OpenAI’s trillion-dollar IPO",
-      "url": "https://fortune.com/2026/05/22/openai-ipo-filing-1-trillion-may-finally-answer-these-big-questions/",
+      "title": "ビットゲットIPOプライム、オープンAIで4兆ドル (約635兆円) 規模のAIオポチュニティに参入",
+      "url": "https://www.globenewswire.com/news-release/2026/05/19/3297298/0/ja/%E3%83%93%E3%83%83%E3%83%88%E3%82%B2%E3%83%83%E3%83%88IPO%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E3%81%A74%E5%85%86%E3%83%89%E3%83%AB-%E7%B4%84635%E5%85%86%E5%86%86-%E8%A6%8F%E6%A8%A1%E3%81%AEAI%E3%82%AA%E3%83%9D%E3%83%81%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%AB%E5%8F%82%E5%85%A5.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-19T10:51:00Z",
+      "description": "セーシェル共和国ビクトリア発, May 19, 2026 (GLOBE NEWSWIRE) -- 世界最大のユニバーサル取引所 (UEX) であるビットゲット (Bitget) は、IPOプライム (IPO Prime) プラットフォームでの2社目の上場企業として、オープンAI (OpenAI) (プレOPAI (preOPAI)) を追加し、人工知能分野で最も注目されている企業の1社へのIPO前の投資機会を拡大した。",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Nuclear startup Deep Fission says it's going public, again, and I have questions | TechCrunch",
+      "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-23T14:50:00Z",
+      "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Elon Musk’s SpaceX IPO filing just told us what business he’s betting on for the future—and it’s not rockets",
+      "url": "https://fortune.com/2026/05/23/what-business-is-space-x-in-ipo-filing-stock/",
       "source": "Fortune",
-      "publishedAt": "2026-05-22T16:54:33Z",
-      "description": "A public listing would be one of Silicon Valley’s biggest wealth events, but OpenAI’s filing may also expose the financial and existential risks at the heart of the AI boom.",
+      "publishedAt": "2026-05-23T08:00:00Z",
+      "description": "Elon Musk's creation has essentially re-invented itself from a commercial space pioneer facing little competition, to an AI-centric player battling all the hyperscalers.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米大統領 米イラン合意近く発表か",
-      "url": "https://news.yahoo.co.jp/pickup/6581443?source=rss",
+      "title": "比でビル倒壊 20人以上が下敷きか",
+      "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T22:46:42.000Z",
+      "publishedAt": "2026-05-24T22:24:32.000Z",
       "description": ""
     },
     {
-      "title": "中東情勢 追いつめられる建設業者",
-      "url": "https://news.yahoo.co.jp/pickup/6581424?source=rss",
+      "title": "米イラン終結向け基本合意か 報道",
+      "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T13:01:51.000Z",
+      "publishedAt": "2026-05-24T21:17:50.000Z",
       "description": ""
     },
     {
-      "title": "インドで「ゴキブリ人民党」人気",
-      "url": "https://news.yahoo.co.jp/pickup/6581390?source=rss",
+      "title": "露 最新式ミサイルでウ大規模攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T08:47:48.000Z",
+      "publishedAt": "2026-05-24T11:45:09.000Z",
+      "description": ""
+    },
+    {
+      "title": "日本へのトマホーク納入遅れ 英紙",
+      "url": "https://news.yahoo.co.jp/pickup/6581488?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-24T05:32:10.000Z",
+      "description": ""
+    },
+    {
+      "title": "米大統領警護隊 発砲容疑者を射殺",
+      "url": "https://news.yahoo.co.jp/pickup/6581482?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-24T04:54:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国炭鉱爆発「企業が違法行為」",
+      "url": "https://news.yahoo.co.jp/pickup/6581449?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-24T00:10:14.000Z",
+      "description": ""
+    },
+    {
+      "title": "米中会談 習主席が高市首相を非難",
+      "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-23T23:03:20.000Z",
       "description": ""
     },
     {
@@ -134,41 +170,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6581388?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-05-23T08:37:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "トランプ氏 長男の結婚式を欠席へ",
-      "url": "https://news.yahoo.co.jp/pickup/6581379?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T07:35:06.000Z",
-      "description": ""
-    },
-    {
-      "title": "旧統一総裁 病気で一時釈放長期化",
-      "url": "https://news.yahoo.co.jp/pickup/6581375?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T07:12:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "CPTPP非加盟の中国 行事無断開催",
-      "url": "https://news.yahoo.co.jp/pickup/6581374?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T07:05:13.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国の炭鉱でガス爆発 80人超死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6581361?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T05:35:54.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ侵攻失速 露攻勢不発で前線安定",
-      "url": "https://news.yahoo.co.jp/pickup/6581351?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T04:39:02.000Z",
       "description": ""
     }
   ]
