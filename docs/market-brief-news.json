@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-24T23:00:54.870Z",
+  "fetchedAt": "2026-05-25T23:10:07.324Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,19 +9,51 @@
   ],
   "ma": [
     {
-      "title": "ロードサイドにおしゃれイタリアンを続々出店…迷走するすかいらーくグループ、資さんうどんが「頼みの綱」か",
-      "url": "https://news.livedoor.com/article/detail/31355599/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-05-23T22:00:00Z",
-      "description": "ファミレス業界で店舗数1位を誇る「ガスト」だが、現在既存のガスト店舗が他ブランドへ続々と“衣替え”されている。ガストを運営するすかいらーくHDは、2024年に買収した北九州発のうどんチェーン「資さんうどん」の店舗を、2030年までをめどに現在の約4倍にあたる400店舗に引き上げると発表し、既存のガスト店舗などを、より割安な業態である資さんうどんの店舗へと切り替えていく方針だ。こうしていまガストが静かに消えつつある背景にはどんな事情があるのだろうか。外食産業に精全文現代ビジネス 05月24日07時00分",
+      "title": "りそなHDとJR西日本の資本業務提携は「金融×鉄道」時代の号砲か？JR各社の社長・幹部が明かした“金融参入”の現実味 - 金融インサイド",
+      "url": "https://diamond.jp/articles/-/390778",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-05-24T19:50:00Z",
+      "description": "りそなホールディングスとJR西日本の資本業務提携を機に、「金融×鉄道」の連携が新たな局面に入った。JR東日本は楽天銀行と「JRE BANK」を立ち上げたが、JR西日本が目を付けたのは、関西みらい銀行が持つリアルな顧客接点だった。他のJR各社も金融事業に踏み込む可能性はあるのか。JR各社の社長・幹部らへの取材と、金利のある世界で加速する地銀再編の動向を基に、JR東海やJR九州が金融事業に参入する現実味を検証。JR各社の首脳が銀行参入を現実的な選択肢として探っている実態が浮かび上がった。",
       "maMarket": "jp"
     },
     {
-      "title": "What to Know About This Fund's $65 Million Homebuilder Bet Before a $47-Per-Share Buyout",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80f24fa3-29b6-4fa9-8bbd-6b5986e51afa",
+      "title": "SYS Financial hits €1bn threshold with latest acquisition",
+      "url": "https://www.irishtimes.com/business/2026/05/25/sys-financial-hits-1bn-threshold-with-latest-acquisition/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-24T23:00:00Z",
+      "description": "Group founded by former Tipperary hurler Tony Delaney acquires IRS Financial Services",
+      "maMarket": "us"
+    },
+    {
+      "title": "シント・トロイデンをEL出場に導いた指揮官が退任…立石敬之CEO「貢献に心から感謝」",
+      "url": "https://www.soccer-king.jp/news/world/world_other/20260524/2162953.html",
+      "source": "Soccer-king.jp",
+      "publishedAt": "2026-05-24T01:24:11Z",
+      "description": "日本人選手8名を擁するシント・トロイデン（STVV）は23日、ワウター・ヴランケン監督が契約満了に伴い2025－26シーズン限りで退任することを発表した。 現在47歳のヴランケン監督はシント・トロイデンの街で生まれ、現役時代にもSTVVで約7年間に渡りプレー。引退後はゲンクやヘントなどでの指揮を経て、2025年4月から指揮官としてSTVVに復帰した。今季は『DMM.com』による買収後初となる...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Azzi Fudd’s third-quarter takeover at Barclays Center lifts the Wings past the Liberty",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad84bf59-da8d-40f7-b33f-7addebc59634",
       "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-23T22:55:33Z",
-      "description": "",
+      "publishedAt": "2026-05-24T22:53:44Z",
+      "description": "Azzi Fudd wanted to slow her game down and let it come to her. “My goal was to just play a little bit slower,” Fudd said. The 17 points was tied for the second-most by a rookie in a quarter, trailing only the 20 that Shoni Schimmel had when she played for Pho…",
+      "maMarket": "us"
+    },
+    {
+      "title": "シント・トロイデンをEL出場に導いた指揮官が退任…立石敬之CEO「貢献に心から感謝」",
+      "url": "https://news.livedoor.com/article/detail/31356541/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-05-24T01:24:11Z",
+      "description": "日本人選手8名を擁するシント・トロイデン（STVV）は23日、ワウター・ヴランケン監督が契約満了に伴い2025－26シーズン限りで退任することを発表した。現在47歳のヴランケン監督はシント・トロイデンの街で生まれ、現役時代にもSTVVで約7年間に渡りプレー。引退後はゲンクやヘントなどでの指揮を経て、2025年4月から指揮官としてSTVVに復帰した。今季は『DMM.com』による買収後初となるプレーオフ1出場を果たすと、3位で終えて来季のヨーロッパリーグ（EL）予選プレーオフ出場権を全文SOCCER KING 05…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "dd-agents 1.7.0",
+      "url": "https://pypi.org/project/dd-agents/1.7.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-24T22:25:59Z",
+      "description": "Find what gets buried in the data room — open-source integrated M&A due diligence across 9 specialist domains",
       "maMarket": "us"
     },
     {
@@ -33,43 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "adidas' Smoking Hot Tobacco Sneaker Is (Almost) Literally Addicting",
-      "url": "https://www.highsnobiety.com/p/adidas-tobacco-sneaker-brown/",
-      "source": "Highsnobiety",
-      "publishedAt": "2026-05-23T22:33:01Z",
-      "description": "adidas' Tobacco sneaker is a smoking hot flat shoe that looks like a sweet & suede Samba.",
-      "maMarket": "us"
-    },
-    {
-      "title": "ウインテスト株式会社共同出資による「AI Data Partners株式会社」の設立に関するお知らせ",
-      "url": "https://japan.cnet.com/release/31171419/",
-      "source": "CNET",
-      "publishedAt": "2026-05-22T11:10:08Z",
-      "description": "上場企業５社を含む６社連合のインフラ・マーケティング力と、次世代サーバー技術を融合し、AI特化型データセンター市場へ本格参入当社は、abc株式会社（東証スタンダード：8783）、ReYuu Japan株式会社（東証スタンダード：9425）、株式会社イメージワン（東証スタンダード：2667）、株式会社FD、および株式会社Birdman...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2005 Harley-Davidson Sportster 1200 Roadster at No Reserve",
-      "url": "https://bringatrailer.com/listing/2005-harley-davidson-sportster-5/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-05-23T21:20:12Z",
-      "description": "This 2005 Harley-Davidson Sportster 1200 Roadster was initially sold in Connecticut and remained under original ownership until the selling dealer's acquisition in 2026. Finished in Black Cherry Pearl and Birch White, the bike is powered by an air-cooled 1,20…",
-      "maMarket": "us"
-    },
-    {
-      "title": "業界再編の足がかりに？　国内線ネットワーク維持へ出資規制撤廃へ",
-      "url": "https://www.asahi.com/articles/ASV5Q31LMV5QUTIL02FM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-05-22T10:06:25Z",
-      "description": "収益性が低下している国内の航空路線のネットワーク維持に向けた国土交通省の有識者会議が22日、対策案を示した。出資規制を廃止する内容もあり、今後の航空業界再編につながる可能性もある。 今回の対策案では…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "The Minnesota Lynx quietly signed one of the WNBA’s most impactful free agents",
-      "url": "https://www.sbnation.com/womens-sports/1115590/wnba-free-agency-natasha-howard-minnesota-lynx",
-      "source": "SB Nation",
-      "publishedAt": "2026-05-23T19:58:41Z",
-      "description": "Natasha Howard poured in 26 points in the Minnesota Lynx’s 85-75 win over the Chicago Sky — the latest reminder she was one of the WNBA’s best free agency acquisitions.",
+      "title": "Uber Makes $11 Billion Bid to Acquire Delivery Hero",
+      "url": "https://www.pymnts.com/acquisitions/2026/uber-makes-11-billion-bid-to-acquire-delivery-hero/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-05-24T22:23:49Z",
+      "description": "European food delivery platform Delivery Hero says it has received a takeover offer from Uber. “Uber Technologies reached out with an indicative proposal of €33 per share in respect of a potential takeover offer to all shareholders,” the company said in a new…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX files for IPO, aims for $1T valuation with NASDAQ listing",
-      "url": "https://cryptobriefing.com/spacex-files-for-ipo-aims-for-1t-valuation-with-nasdaq-listing/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-23T19:08:22Z",
-      "description": "SpaceX's IPO could redefine market dynamics, setting a precedent for tech valuations and influencing investor strategies globally. The post SpaceX files for IPO, aims for $1T valuation with NASDAQ listing appeared first on Crypto Briefing.",
+      "title": "SpaceX's IPO charts reveal a company spending like an AI giant: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/spacexs-ipo-charts-reveal-a-company-spending-like-an-ai-giant-chart-of-the-day-120213160.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-24T12:02:13Z",
+      "description": "SpaceX is going public with a rocket-company reputation, but its IPO filing points investors mainly to AI.",
       "ipoMarket": "us"
     },
     {
@@ -99,77 +99,85 @@
       "ipoMarket": "jp"
     },
     {
+      "title": "Here's when SpaceX could show up in major indexes and popular ETFs after its IPO",
+      "url": "https://www.businessinsider.com/spacex-ipo-index-investing-etfs-spy-vti-qqq-spcx-stock-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-24T09:40:01Z",
+      "description": "SpaceX stock could show up in major indexes and the ETFs that track them soon after the company's IPO. Here's a rundown of what to expect.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX files for IPO, aims for $1T valuation with NASDAQ listing",
+      "url": "https://cryptobriefing.com/spacex-files-for-ipo-aims-for-1t-valuation-with-nasdaq-listing/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-23T19:08:22Z",
+      "description": "SpaceX's IPO could redefine market dynamics, setting a precedent for tech valuations and influencing investor strategies globally. The post SpaceX files for IPO, aims for $1T valuation with NASDAQ listing appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
       "title": "Nuclear startup Deep Fission says it's going public, again, and I have questions | TechCrunch",
       "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-23T14:50:00Z",
       "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Elon Musk’s SpaceX IPO filing just told us what business he’s betting on for the future—and it’s not rockets",
-      "url": "https://fortune.com/2026/05/23/what-business-is-space-x-in-ipo-filing-stock/",
-      "source": "Fortune",
-      "publishedAt": "2026-05-23T08:00:00Z",
-      "description": "Elon Musk's creation has essentially re-invented itself from a commercial space pioneer facing little competition, to an AI-centric player battling all the hyperscalers.",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "比でビル倒壊 20人以上が下敷きか",
-      "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
+      "title": "米イラン 高濃縮ウランの扱いで溝",
+      "url": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-24T22:24:32.000Z",
+      "publishedAt": "2026-05-25T13:57:00.000Z",
       "description": ""
     },
     {
-      "title": "米イラン終結向け基本合意か 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
+      "title": "米国の「正当な戦争」教皇が一蹴",
+      "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-24T21:17:50.000Z",
+      "publishedAt": "2026-05-25T12:38:50.000Z",
       "description": ""
     },
     {
-      "title": "露 最新式ミサイルでウ大規模攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
+      "title": "習氏が高市氏巡り激高か 中国否定",
+      "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-24T11:45:09.000Z",
+      "publishedAt": "2026-05-25T12:00:21.000Z",
       "description": ""
     },
     {
-      "title": "日本へのトマホーク納入遅れ 英紙",
-      "url": "https://news.yahoo.co.jp/pickup/6581488?source=rss",
+      "title": "トランプ氏 対中融和に転じた背景",
+      "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-24T05:32:10.000Z",
+      "publishedAt": "2026-05-25T11:48:04.000Z",
       "description": ""
     },
     {
-      "title": "米大統領警護隊 発砲容疑者を射殺",
-      "url": "https://news.yahoo.co.jp/pickup/6581482?source=rss",
+      "title": "北朝鮮サッカー女子 なぜ会見退席",
+      "url": "https://news.yahoo.co.jp/pickup/6581657?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-24T04:54:20.000Z",
+      "publishedAt": "2026-05-25T09:59:11.000Z",
       "description": ""
     },
     {
-      "title": "中国炭鉱爆発「企業が違法行為」",
-      "url": "https://news.yahoo.co.jp/pickup/6581449?source=rss",
+      "title": "米イラン ホルムズと核に食い違い",
+      "url": "https://news.yahoo.co.jp/pickup/6581613?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-24T00:10:14.000Z",
+      "publishedAt": "2026-05-25T06:24:53.000Z",
       "description": ""
     },
     {
-      "title": "米中会談 習主席が高市首相を非難",
-      "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
+      "title": "政権批判する芸人追放 露の現状は",
+      "url": "https://news.yahoo.co.jp/pickup/6581576?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T23:03:20.000Z",
+      "publishedAt": "2026-05-25T03:53:20.000Z",
       "description": ""
     },
     {
-      "title": "ハンガリー首相 ICC脱退を撤回",
-      "url": "https://news.yahoo.co.jp/pickup/6581388?source=rss",
+      "title": "イラン合意急ぐな トランプ氏指示",
+      "url": "https://news.yahoo.co.jp/pickup/6581563?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-23T08:37:52.000Z",
+      "publishedAt": "2026-05-25T00:07:01.000Z",
       "description": ""
     }
   ]
