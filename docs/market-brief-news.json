@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-25T23:10:07.324Z",
+  "fetchedAt": "2026-05-26T23:13:07.992Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "りそなHDとJR西日本の資本業務提携は「金融×鉄道」時代の号砲か？JR各社の社長・幹部が明かした“金融参入”の現実味 - 金融インサイド",
-      "url": "https://diamond.jp/articles/-/390778",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-05-24T19:50:00Z",
-      "description": "りそなホールディングスとJR西日本の資本業務提携を機に、「金融×鉄道」の連携が新たな局面に入った。JR東日本は楽天銀行と「JRE BANK」を立ち上げたが、JR西日本が目を付けたのは、関西みらい銀行が持つリアルな顧客接点だった。他のJR各社も金融事業に踏み込む可能性はあるのか。JR各社の社長・幹部らへの取材と、金利のある世界で加速する地銀再編の動向を基に、JR東海やJR九州が金融事業に参入する現実味を検証。JR各社の首脳が銀行参入を現実的な選択肢として探っている実態が浮かび上がった。",
+      "title": "SHEINによるEverlane買収が、完全に理にかなっている理由",
+      "url": "https://wired.jp/article/made-in-china-why-shein-bought-everlane/",
+      "source": "Wired.jp",
+      "publishedAt": "2026-05-25T23:00:00Z",
+      "description": "低価格路線で成長してきたファッションECのSHEINが、透明性を掲げるEverlaneを買収した。一見意外に思える取引は、中国EC大手だけでなく、中国の製造業にも広がる大きな流れを映している。",
       "maMarket": "jp"
     },
     {
-      "title": "SYS Financial hits €1bn threshold with latest acquisition",
-      "url": "https://www.irishtimes.com/business/2026/05/25/sys-financial-hits-1bn-threshold-with-latest-acquisition/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-24T23:00:00Z",
-      "description": "Group founded by former Tipperary hurler Tony Delaney acquires IRS Financial Services",
-      "maMarket": "us"
-    },
-    {
-      "title": "シント・トロイデンをEL出場に導いた指揮官が退任…立石敬之CEO「貢献に心から感謝」",
-      "url": "https://www.soccer-king.jp/news/world/world_other/20260524/2162953.html",
-      "source": "Soccer-king.jp",
-      "publishedAt": "2026-05-24T01:24:11Z",
-      "description": "日本人選手8名を擁するシント・トロイデン（STVV）は23日、ワウター・ヴランケン監督が契約満了に伴い2025－26シーズン限りで退任することを発表した。 現在47歳のヴランケン監督はシント・トロイデンの街で生まれ、現役時代にもSTVVで約7年間に渡りプレー。引退後はゲンクやヘントなどでの指揮を経て、2025年4月から指揮官としてSTVVに復帰した。今季は『DMM.com』による買収後初となる...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Azzi Fudd’s third-quarter takeover at Barclays Center lifts the Wings past the Liberty",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad84bf59-da8d-40f7-b33f-7addebc59634",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-24T22:53:44Z",
-      "description": "Azzi Fudd wanted to slow her game down and let it come to her. “My goal was to just play a little bit slower,” Fudd said. The 17 points was tied for the second-most by a rookie in a quarter, trailing only the 20 that Shoni Schimmel had when she played for Pho…",
-      "maMarket": "us"
-    },
-    {
-      "title": "シント・トロイデンをEL出場に導いた指揮官が退任…立石敬之CEO「貢献に心から感謝」",
-      "url": "https://news.livedoor.com/article/detail/31356541/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-05-24T01:24:11Z",
-      "description": "日本人選手8名を擁するシント・トロイデン（STVV）は23日、ワウター・ヴランケン監督が契約満了に伴い2025－26シーズン限りで退任することを発表した。現在47歳のヴランケン監督はシント・トロイデンの街で生まれ、現役時代にもSTVVで約7年間に渡りプレー。引退後はゲンクやヘントなどでの指揮を経て、2025年4月から指揮官としてSTVVに復帰した。今季は『DMM.com』による買収後初となるプレーオフ1出場を果たすと、3位で終えて来季のヨーロッパリーグ（EL）予選プレーオフ出場権を全文SOCCER KING 05…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "dd-agents 1.7.0",
-      "url": "https://pypi.org/project/dd-agents/1.7.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-24T22:25:59Z",
-      "description": "Find what gets buried in the data room — open-source integrated M&A due diligence across 9 specialist domains",
-      "maMarket": "us"
-    },
-    {
-      "title": "【金融・企業法務】　M&A実務の基礎（第３版）",
-      "url": "https://shimanami.way-nifty.com/report/2026/05/post-cc4e1f.html",
-      "source": "Way-nifty.com",
-      "publishedAt": "2026-05-23T15:00:00Z",
-      "description": "商事法務から出版された「M&amp;A実務の基礎（第３版）」です。 M&amp;Aは、最近、ご相談や関わりが増えている相談分野の１つです。 もっとも、ビックなM&amp;Aにおいては、田舎弁護...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Uber Makes $11 Billion Bid to Acquire Delivery Hero",
-      "url": "https://www.pymnts.com/acquisitions/2026/uber-makes-11-billion-bid-to-acquire-delivery-hero/",
+      "title": "Robinhood’s Purchase of WonderFi OK’d by Canadian Regulators",
+      "url": "https://www.pymnts.com/acquisitions/2026/robinhoods-purchase-of-wonderfi-okd-by-canadian-regulators/",
       "source": "pymnts.com",
-      "publishedAt": "2026-05-24T22:23:49Z",
-      "description": "European food delivery platform Delivery Hero says it has received a takeover offer from Uber. “Uber Technologies reached out with an indicative proposal of €33 per share in respect of a potential takeover offer to all shareholders,” the company said in a new…",
+      "publishedAt": "2026-05-25T23:10:06Z",
+      "description": "Canadian regulators have approved Robinhood’s bid to acquire digital asset products and services company WonderFi. The Toronto-based WonderFi announced Monday (May 25) that the Canadian Investment Regulatory Organization (CIRO) had approved the deal, which R…",
+      "maMarket": "us"
+    },
+    {
+      "title": "同人でゲーム制作した時、ファンから「新人声優を起用しろ」と言われたが、新人を抜擢する様なリスクコスト、時間、労力は掛けられない事を説明しても、理解されなかった話",
+      "url": "https://togetter.com/li/2696495",
+      "source": "Togetter.com",
+      "publishedAt": "2026-05-25T22:06:34Z",
+      "description": "原田ひとみ @vhitomin 前に同人でゲーム制作した時に、ファンの方から「新人声優を起用しろ」と言われた。企業出資も断り自腹で一千万かけて作るものに、更にコストかけてオーディションして育てるつもりで新人さん抜擢する様なリスクコスト時間労力は掛けられない事を説明しても、理解されなかった。形は違えど似た話に...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "1957 Porsche 356A 1600 Speedster",
+      "url": "https://bringatrailer.com/listing/1957-porsche-356a-speedster-57/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-05-25T22:00:44Z",
+      "description": "This 1957 Porsche 356A Speedster is said to have been stored from 1976 until the current owner's acquisition in 2022. The car is powered by a replacement 1.6-liter 1600S flat-four paired with a four-speed manual transaxle and is finished in silver over black …",
+      "maMarket": "us"
+    },
+    {
+      "title": "M&Aの成否を分ける「企業不動産」の機能：経営資本としての再定義",
+      "url": "https://agora-web.jp/archives/260525064401.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-05-25T21:40:01Z",
+      "description": "問題提起：利益の背後に隠された「真の企業価値」近年、中小企業のM&amp;amp;Aが急増している。その背景には、経営者の高齢化、後継者不足、人口減少、事業承継問題など、深刻な構造的課題が存在する。かつてM&amp;amp;Aは大企業の世界の話という印象が強かったが、現在...…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "College football recruiting: Elite prospects committing early at a record pace",
+      "url": "https://www.on3.com/rivals/news/college-football-recruiting-elite-prospects-committing-early-at-a-record-pace/",
+      "source": "On3.com",
+      "publishedAt": "2026-05-25T21:25:24Z",
+      "description": "The dawn of the NIL and revenue-sharing era have forever changed college football recruiting — in many expected ways and some unexpected. The money surrounding player acquisition is higher than it’s ever been, with a number of Power 4 rosters expected to surp…",
+      "maMarket": "us"
+    },
+    {
+      "title": "孫正義がソフトバンクG「10兆円出資」で入れ込む経営者の実名 - 今週のキーワード　真壁昭夫",
+      "url": "https://diamond.jp/articles/-/390868",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-05-25T21:00:00Z",
+      "description": "ソフトバンクグループの戦略に関して、主要投資家から「孫正義氏がある人物に傾倒し過ぎている」との懸念もある。その人物とは、ChatGPTの米オープンAIの創業者のひとりであるアルトマンCEOのことだ。同社に10兆円を出資している孫氏は、特定企業に賭けるリスクを十分に理解しているのだろうか？孫氏が、アルトマン氏にオープンAIの新規株式公開の早期実現を求めた狙いとは……。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "traderepublic-sync 0.3.1",
+      "url": "https://pypi.org/project/traderepublic-sync/0.3.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-25T21:19:52Z",
+      "description": "Unofficial Trade Republic sync library: WAF acquisition, login + 2FA, WebSocket data fetching, transaction parsing.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX's IPO charts reveal a company spending like an AI giant: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/spacexs-ipo-charts-reveal-a-company-spending-like-an-ai-giant-chart-of-the-day-120213160.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-24T12:02:13Z",
-      "description": "SpaceX is going public with a rocket-company reputation, but its IPO filing points investors mainly to AI.",
+      "title": "Elon Musk’s best friend could make more than $100 billion from SpaceX’s IPO. His firm is also owed billions by SpaceX - Fortune",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183389886",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-25T18:32:07Z",
+      "description": "Elon Musk’s best friend could make more than $100 billion from SpaceX’s IPO. His firm is also owed billions by SpaceXFortune SpaceX’s IPO Is a Bet Gravity Doesn’t Apply to Elon MuskWSJ A million people on Mars, a billion SpaceX shares: Inside Elon Musk’s pecu…",
       "ipoMarket": "us"
     },
     {
@@ -99,85 +99,84 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Here's when SpaceX could show up in major indexes and popular ETFs after its IPO",
-      "url": "https://www.businessinsider.com/spacex-ipo-index-investing-etfs-spy-vti-qqq-spcx-stock-2026-5",
-      "source": "Business Insider",
-      "publishedAt": "2026-05-24T09:40:01Z",
-      "description": "SpaceX stock could show up in major indexes and the ETFs that track them soon after the company's IPO. Here's a rundown of what to expect.",
+      "title": "AI Agents on Base Turn $1.5T SpaceX IPO Into 12-Minute Research Job – Here’s How",
+      "url": "https://coingape.com/block-of-fame/pulse/base-ai-agents-turn-1-5t-spacex-ipo-into-12-minute-research-job-heres-how/",
+      "source": "Coingape",
+      "publishedAt": "2026-05-25T11:43:44Z",
+      "description": "AI Agents:- The upcoming SpaceX IPO, expected to be valued between $1.5 trillion and $2 trillion, is already shaping up to be one of the biggest public...",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX files for IPO, aims for $1T valuation with NASDAQ listing",
-      "url": "https://cryptobriefing.com/spacex-files-for-ipo-aims-for-1t-valuation-with-nasdaq-listing/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-23T19:08:22Z",
-      "description": "SpaceX's IPO could redefine market dynamics, setting a precedent for tech valuations and influencing investor strategies globally. The post SpaceX files for IPO, aims for $1T valuation with NASDAQ listing appeared first on Crypto Briefing.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Nuclear startup Deep Fission says it's going public, again, and I have questions | TechCrunch",
-      "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-23T14:50:00Z",
-      "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+      "title": "SpaceX Is A 'Money Furnace,' Former Hedge Fund Manager Says As Filing Reveals $4.3 Billion Quarterly Loss",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-money-furnace-former-hedge-113054242.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-25T11:30:54Z",
+      "description": "Elon Musk’s SpaceX is racing toward what may be the largest IPO in history, but Patrick Boyle, former hedge fund manager, says the numbers look more like a...",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米イラン 高濃縮ウランの扱いで溝",
-      "url": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
+      "title": "トランプ氏苦境「譲歩」余儀なく",
+      "url": "https://news.yahoo.co.jp/pickup/6581840?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T13:57:00.000Z",
+      "publishedAt": "2026-05-26T22:42:13.000Z",
       "description": ""
     },
     {
-      "title": "米国の「正当な戦争」教皇が一蹴",
-      "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
+      "title": "日系企業の米工場で爆発 死傷者",
+      "url": "https://news.yahoo.co.jp/pickup/6581835?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T12:38:50.000Z",
+      "publishedAt": "2026-05-26T22:14:44.000Z",
       "description": ""
     },
     {
-      "title": "習氏が高市氏巡り激高か 中国否定",
-      "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
+      "title": "トランプ氏 健康診断「全て完璧」",
+      "url": "https://news.yahoo.co.jp/pickup/6581832?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T12:00:21.000Z",
+      "publishedAt": "2026-05-26T21:41:17.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 対中融和に転じた背景",
-      "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
+      "title": "ソウルで高架道路が崩落 3人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6581828?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T11:48:04.000Z",
+      "publishedAt": "2026-05-26T14:23:18.000Z",
       "description": ""
     },
     {
-      "title": "北朝鮮サッカー女子 なぜ会見退席",
-      "url": "https://news.yahoo.co.jp/pickup/6581657?source=rss",
+      "title": "MANGO創業者の息子 副社長辞任",
+      "url": "https://news.yahoo.co.jp/pickup/6581822?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T09:59:11.000Z",
+      "publishedAt": "2026-05-26T13:17:16.000Z",
       "description": ""
     },
     {
-      "title": "米イラン ホルムズと核に食い違い",
-      "url": "https://news.yahoo.co.jp/pickup/6581613?source=rss",
+      "title": "フェラーリ株価が急落 欧州市場",
+      "url": "https://news.yahoo.co.jp/pickup/6581813?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T06:24:53.000Z",
+      "publishedAt": "2026-05-26T11:59:32.000Z",
       "description": ""
     },
     {
-      "title": "政権批判する芸人追放 露の現状は",
-      "url": "https://news.yahoo.co.jp/pickup/6581576?source=rss",
+      "title": "習氏が半年以上外遊ゼロ 識者指摘",
+      "url": "https://news.yahoo.co.jp/pickup/6581792?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T03:53:20.000Z",
+      "publishedAt": "2026-05-26T08:42:27.000Z",
       "description": ""
     },
     {
-      "title": "イラン合意急ぐな トランプ氏指示",
-      "url": "https://news.yahoo.co.jp/pickup/6581563?source=rss",
+      "title": "エボラ出血熱巡り現地で騒乱 背景",
+      "url": "https://news.yahoo.co.jp/pickup/6581753?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-05-25T00:07:01.000Z",
+      "publishedAt": "2026-05-26T04:53:15.000Z",
+      "description": ""
+    },
+    {
+      "title": "防衛巡る中国の日本批判 対策3つ",
+      "url": "https://news.yahoo.co.jp/pickup/6581765?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-05-26T04:50:31.000Z",
       "description": ""
     }
   ]
