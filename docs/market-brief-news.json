@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-02T23:50:13.948Z",
+  "fetchedAt": "2026-06-03T23:48:17.089Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "セマグルチドに多量飲酒日数を減らす効果",
-      "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/lancet/202606/593325.html",
-      "source": "Nikkeibp.co.jp",
-      "publishedAt": "2026-06-01T15:00:00Z",
-      "description": "デンマークCopenhagen大学病院のMette Kruse Klausen氏らは、治療を希望するアルコール使用障害患者で、肥満も合併している人を対象に、セマグルチドを週1回26週間皮下注射する臨床試験を行ったところ、ベースラインと比較した介入後の多量飲酒日数はプラセボ群よりもセマグルチド群で大きく減少していたと報告した。結果は2026年5月2日のLancet誌電子版に掲載された。",
+      "title": "「“しなやかにゃんこボディ”良すぎか!?」ミスSPA!2025 グランプリ・三木優彩が『週刊SPA!』で魅せた新星グラドルのしなやかな美ボディ♡",
+      "url": "https://news.livedoor.com/article/detail/31443043/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-02T22:15:00Z",
+      "description": "『週刊SPA! 6月2・9日合併号』は5月26日に発売！ 美女地図～私が主人公～：三木優彩（ミスSPA!2025 グランプリ） 三木優彩が、5月26日発売『週刊SPA! 6月2・9日合併号』の連載「美女地図～私が主人公～」に登場した。 三木優彩 © 撮影:TOYO／週刊SPA! 「ミスSPA!2025」でグランプリに輝いた新星の彼女。今回は「猫グラビア」に挑戦！ 猫カフェを舞台に、彼女が隠し持つ“しなやかにゃんこボディ”を大胆に引き出して全文ラブすぽ 06月03日07時15分",
       "maMarket": "jp"
     },
     {
-      "title": "Longtime Disney Exec Jim Kapenstein, Who Helped Oversee Some Of Its Biggest Acquisitions, Joins Starz as Chief Legal and Strategy Officer",
-      "url": "https://variety.com/2026/tv/news/disney-jim-kapenstein-starz-chief-legal-strategy-officer-1236764548/",
-      "source": "Variety",
-      "publishedAt": "2026-06-01T23:38:50Z",
-      "description": "Starz has tapped longtime Disney exec Jim Kapenstein to serve as the company’s new chief legal and strategy officer. Kapenstein will join Starz next week and report to president/CEO Jeffrey Hirsch, who announced the news on Monday. According to the company, K…",
+      "title": "Ex-Red Sox Infielder Leading MLB In This Stat After Struggling For Three Years In Boston",
+      "url": "https://nesn.com/boston-red-sox/news/ex-red-sox-infielder-leading-mlb-stat-after-struggling-three-years-boston/74b30235403f3d2c13203e3b",
+      "source": "NESN",
+      "publishedAt": "2026-06-02T23:47:25Z",
+      "description": "The Boston Red Sox traded David Hamilton as part of the deal to acquire Caleb Durbin last offseason.",
       "maMarket": "us"
     },
     {
-      "title": "国内最大級のビジネスチャット「Chatwork」を運営する株式会社kubellが「かいしゃカジュアル面談」に参画",
-      "url": "https://prtimes.jp/main/html/rd/p/000000004.000179070.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-06-01T13:40:38Z",
-      "description": "[株式会社M&Aサクシード] Visionalグループの株式会社M&Aサクシード（所在地：東京都渋谷区／代表取締役社長：金 蓮実）が運営する法人限定M&Aプラットフォーム「M&Aサクシード」（https://ma-succeed.jp/）は、6月1日に、「...",
+      "title": "「耳にやさしい」軟骨伝導イヤホン　パソナ、子会社化で普及めざす",
+      "url": "https://www.asahi.com/articles/ASV622QYZV62PLFA001M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-06-02T22:00:00Z",
+      "description": "人材サービス大手のパソナグループが、昨年の大阪・関西万博で試した「耳にやさしい」イヤホン技術の普及に乗り出す。1日には「軟骨伝導」と呼ばれる技術を使った音響機器の開発と販売を手がける「CCHサウンド…",
       "maMarket": "jp"
     },
     {
-      "title": "data-aggregator-mcp 0.19.0",
-      "url": "https://pypi.org/project/data-aggregator-mcp/0.19.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-06-01T23:37:40Z",
-      "description": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
-      "maMarket": "us"
-    },
-    {
-      "title": "サザビー子会社の「ピリングス」が海外販路を拡大　ハンドニットが高評価",
-      "url": "https://www.fashionsnap.com/article/2026-06-01/pillings-sales-grown/",
-      "source": "Fashionsnap.com",
-      "publishedAt": "2026-06-01T10:43:39Z",
-      "description": "村上亮太が手掛ける「ピリングス（pillings）」が、サザビーリーグに事業譲渡してから早2年が過ぎ、国内・海外の販路を着実に広げている。今年2月に東京のオフスケでショーを開催した後、3月にはパリで展示会を開催。海外だけで、取引先を新たに25件増やした。 このコンテンツは FASHIONSNAP が配信しています。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Commercial Funding Inc. Accelerates Growth with Strategic Acquisition of Amegy Business Bank's Factoring Portfolio from Zions Bancorporation, N.A.",
-      "url": "https://www.prnewswire.com/news-releases/commercial-funding-inc-accelerates-growth-with-strategic-acquisition-of-amegy-business-banks-factoring-portfolio-from-zions-bancorporation-na-302787677.html",
+      "title": "All American Home Mortgage Acquires Las Vegas Branch of Liberty Home Mortgage, Expands Team and Market Presence",
+      "url": "https://www.prnewswire.com/news-releases/all-american-home-mortgage-acquires-las-vegas-branch-of-liberty-home-mortgage-expands-team-and-market-presence-302789364.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-06-01T23:25:00Z",
-      "description": "Acquisition expands CFI's footprint in the western and southwestern states and enhances service capabilities for existing and new clients. SALT LAKE CITY, June 1, 2026 /PRNewswire/ -- Commercial Funding Inc. (CFI), a national provider of accounts receivable f…",
+      "publishedAt": "2026-06-02T23:37:00Z",
+      "description": "HENDERSON, Nev., June 1, 2026 /PRNewswire/ -- All American Home Mortgage, L.L.C. (AAHM), a wholly owned subsidiary of Tri-Star Management, Inc., today announced the acquisition of the Las Vegas branch of Liberty Home Mortgage, further strengthening its commit…",
       "maMarket": "us"
     },
     {
-      "title": "株式会社OmakaseOmakaseとDeFimans、資本業務提携に関する基本合意締結のお知らせ",
-      "url": "https://japan.cnet.com/release/31174535/",
-      "source": "CNET",
-      "publishedAt": "2026-06-01T08:00:02Z",
-      "description": "株式会社Omakase（本社：大阪市西区、代表取締役：渡辺 瑛介、以下「Omakase」）は、SBIホールディングス株式会社（本社：東京都港区、代表取締役会長兼社長：北尾吉孝）を最終親会社とするSBIグループ傘下の株式会社DeFimans（本社：東京都港区、代表取締役：小野 暢思・佐藤 太思、以下「DeFimans」）と、資本業務提携...",
+      "title": "脳のない臓器だけの構造体が、医療と長寿の切り札になる",
+      "url": "https://wired.jp/article/sz-a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
+      "source": "Wired.jp",
+      "publishedAt": "2026-06-02T22:00:00Z",
+      "description": "脳をもたないように遺伝子操作された臓器だけの構造体「オーガン・サック（臓器袋）」は動物実験を不要にするという。長期的目標はヒト版の作製だ。出資するビリオネアはその将来性に賭けている。",
       "maMarket": "jp"
     },
     {
-      "title": "Meg Lanning gets AI slop treatment in team promo",
-      "url": "https://www.abc.net.au/news/2026-06-02/manchester-super-giants-ai-promo-meg-lanning/106748338",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-01T23:22:03Z",
-      "description": "The controversial takeover of Hundred franchise Manchester Super Giants continues with a promotional video criticised for seemingly being entirely AI-rendered.",
+      "title": "Diana Rips Genco Board After Third Rejection, Urges Shareholders to Vote for Change",
+      "url": "https://gcaptain.com/diana-rips-genco-board-after-third-rejection-urges-shareholders-to-vote-for-change/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-06-02T23:08:25Z",
+      "description": "The takeover battle between two of the dry bulk shipping sector’s biggest names intensified Tuesday after Diana Shipping publicly blasted Genco Shipping & Trading’s board refusing to engage in negotiations...",
+      "maMarket": "us"
+    },
+    {
+      "title": "【悲報】プレイステーションのファーストパーティソフト売上本数が激減！スタジオ買収やライブサービスも成功せず迷走か",
+      "url": "http://blog.esuteru.com/archives/10532860.html",
+      "source": "Esuteru.com",
+      "publishedAt": "2026-06-02T10:30:28Z",
+      "description": "【悲報】プレイステーションのファーストパーティソフト売上本数が激減！スタジオ買収やライブサービスも成功せず迷走かの記事ページ",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Should Patroits Sign Stefon Diggs, Go All-In On Next Season?",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_27ef5ed9-2959-4478-8220-1af2ed0905dd",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-02T22:56:13Z",
+      "description": "The New England Patriots made a major move to acquire A.J. Brown from the Philadelphia Eagles on Monday.",
       "maMarket": "us"
     }
   ],
@@ -83,100 +83,100 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street",
-      "url": "https://www.cnet.com/tech/services-and-software/anthropic-ipo-first-filing-ai-revenue/",
-      "source": "CNET",
-      "publishedAt": "2026-06-01T23:16:03Z",
-      "description": "The Claude developer is one of a trio of tech firms expected to go public this year, alongside SpaceX and OpenAI.",
+      "title": "AmperCap Acquisition prices 12.5M unit IPO at $10 per unit",
+      "url": "https://www.thefly.com/APMC",
+      "source": "Thefly.com",
+      "publishedAt": "2026-06-02T22:50:48Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic confidentiality files for IPO amid rapid growth",
-      "url": "https://siliconangle.com/2026/06/01/anthropic-confidentiality-files-ipo-amid-rapid-growth/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-06-01T23:02:48Z",
-      "description": "Anthropic PBC today disclosed that it has confidentially filed to go public. The company didn’t share any details about its planned listing in the brief blog post that announced the move. Anthropic is widely expected to hold its public offering this year. The…",
+      "title": "AmperCap Acquisition Company Announces the Pricing of $125,000,000 Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3305736/0/en/AmperCap-Acquisition-Company-Announces-the-Pricing-of-125-000-000-Initial-Public-Offering.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-02T22:32:00Z",
+      "description": "New York, NY, June 02, 2026 (GLOBE NEWSWIRE) -- AmperCap Acquisition Company (the “Company”) announced today the pricing of its initial public offering of 12,500,000 units, at a price of $10.00 per unit. The units are expected to be listed on The Nasdaq Stock…",
       "ipoMarket": "us"
     },
     {
-      "title": "AI giant Anthropic confidentially files for IPO",
-      "url": "https://japantoday.com/category/tech/ai-giant-anthropic-confidentially-files-for-ipo",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-01T21:48:54Z",
-      "description": "AI giant Anthropic, the maker of the Claude chatbot, announced Monday that it had filed confidentially for an initial public offering (IPO), as Silicon Valley AI companies look to raise the enormous sums needed to fuel the sector's rapid expansion. A confiden…",
+      "title": "SpaceX staff band together to negotiate lower fees and tax savings ahead of IPO",
+      "url": "https://cryptobriefing.com/spacex-staff-lower-fees-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-02T22:01:30Z",
+      "description": "SpaceX employees' collective negotiation efforts could set a precedent for future IPO participants seeking to maximize financial outcomes. The post SpaceX staff band together to negotiate lower fees and tax savings ahead of IPO appeared first on Crypto Briefi…",
       "ipoMarket": "us"
     },
     {
-      "title": "Elon Musk's SpaceX Warns $1.75 Billion IPO Investors of Potential Future Share Dilution",
-      "url": "https://decrypt.co/369670/elon-musks-spacex-warns-ipo-investors-potential-future-share-dilution",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-01T21:11:23Z",
-      "description": "SpaceX's amended IPO filing signals the company may issue substantial new shares in future transactions as Elon Musk expands its ambitions.",
+      "title": "SpaceX valued at just $780 billion by Morningstar, less than half its IPO target",
+      "url": "https://finance.yahoo.com/markets/article/spacex-valued-at-just-780-billion-by-morningstar-less-than-half-its-ipo-target-174617034.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-02T17:46:17Z",
+      "description": "SpaceX just got slapped with a bearish valuation ahead of its monster IPO coming up later this month.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "日銀 1%への追加利上げを本格検討",
-      "url": "https://news.yahoo.co.jp/pickup/6582734?source=rss",
+      "title": "天安門事件37年 中国は追悼を抑圧",
+      "url": "https://news.yahoo.co.jp/pickup/6582866?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T23:00:37.000Z",
+      "publishedAt": "2026-06-03T23:14:38.000Z",
       "description": ""
     },
     {
-      "title": "イランで「内部亀裂」交渉が難航",
-      "url": "https://news.yahoo.co.jp/pickup/6582730?source=rss",
+      "title": "日銀総裁 利上げに前向き姿勢示す",
+      "url": "https://news.yahoo.co.jp/pickup/6582835?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T22:13:32.000Z",
+      "publishedAt": "2026-06-03T11:46:46.000Z",
       "description": ""
     },
     {
-      "title": "米イスラエル両首脳に緊張 背景は",
-      "url": "https://news.yahoo.co.jp/pickup/6582684?source=rss",
+      "title": "くら寿司USA株 米大統領なぜ購入",
+      "url": "https://news.yahoo.co.jp/pickup/6582828?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T12:06:55.000Z",
+      "publishedAt": "2026-06-03T11:06:06.000Z",
       "description": ""
     },
     {
-      "title": "江南スタイルの歌手書類送検 韓国",
-      "url": "https://news.yahoo.co.jp/pickup/6582701?source=rss",
+      "title": "イラン クウェート国際空港を攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6582807?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T10:40:28.000Z",
+      "publishedAt": "2026-06-03T08:35:25.000Z",
       "description": ""
     },
     {
-      "title": "21歳客がピアノ代演し窮地救う 豪",
-      "url": "https://news.yahoo.co.jp/pickup/6582682?source=rss",
+      "title": "タイ・タクシン元首相 正式に釈放",
+      "url": "https://news.yahoo.co.jp/pickup/6582809?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T08:17:31.000Z",
+      "publishedAt": "2026-06-03T08:35:25.000Z",
       "description": ""
     },
     {
-      "title": "アフリカで同性愛厳罰化 進む背景",
-      "url": "https://news.yahoo.co.jp/pickup/6582658?source=rss",
+      "title": "米 日本に12.5%の追加関税を検討",
+      "url": "https://news.yahoo.co.jp/pickup/6582802?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T04:45:53.000Z",
+      "publishedAt": "2026-06-03T08:21:38.000Z",
       "description": ""
     },
     {
-      "title": "露がウ各地に大規模攻撃 住宅損壊",
-      "url": "https://news.yahoo.co.jp/pickup/6582661?source=rss",
+      "title": "強硬姿勢崩さぬネタニヤフ氏 背景",
+      "url": "https://news.yahoo.co.jp/pickup/6582774?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T03:54:10.000Z",
+      "publishedAt": "2026-06-03T08:21:38.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 イスラエル首相に怒り",
-      "url": "https://news.yahoo.co.jp/pickup/6582659?source=rss",
+      "title": "米大統領とネタニヤフ氏 あつれき",
+      "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T03:53:28.000Z",
+      "publishedAt": "2026-06-03T04:45:37.000Z",
       "description": ""
     },
     {
-      "title": "金正恩氏 演説で不正蓄財を批判",
-      "url": "https://news.yahoo.co.jp/pickup/6582628?source=rss",
+      "title": "銃撃で中止の米夕食会 7月に開催",
+      "url": "https://news.yahoo.co.jp/pickup/6582755?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-02T00:33:38.000Z",
+      "publishedAt": "2026-06-03T01:56:49.000Z",
       "description": ""
     }
   ]
