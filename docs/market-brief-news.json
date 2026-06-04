@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-03T23:48:17.089Z",
+  "fetchedAt": "2026-06-04T23:12:14.605Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,68 +9,52 @@
   ],
   "ma": [
     {
-      "title": "「“しなやかにゃんこボディ”良すぎか!?」ミスSPA!2025 グランプリ・三木優彩が『週刊SPA!』で魅せた新星グラドルのしなやかな美ボディ♡",
-      "url": "https://news.livedoor.com/article/detail/31443043/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-02T22:15:00Z",
-      "description": "『週刊SPA! 6月2・9日合併号』は5月26日に発売！ 美女地図～私が主人公～：三木優彩（ミスSPA!2025 グランプリ） 三木優彩が、5月26日発売『週刊SPA! 6月2・9日合併号』の連載「美女地図～私が主人公～」に登場した。 三木優彩 © 撮影:TOYO／週刊SPA! 「ミスSPA!2025」でグランプリに輝いた新星の彼女。今回は「猫グラビア」に挑戦！ 猫カフェを舞台に、彼女が隠し持つ“しなやかにゃんこボディ”を大胆に引き出して全文ラブすぽ 06月03日07時15分",
+      "title": "ヤマダHDとエディオンが経営統合へ（共同通信）｜ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026060401000272",
+      "source": "Docomo.ne.jp",
+      "publishedAt": "2026-06-03T22:56:38Z",
+      "description": "家電量販店最大手のヤマダホールディングス（HD）と大手のエディオンが経営統合する方針であることが4日、…",
       "maMarket": "jp"
     },
     {
-      "title": "Ex-Red Sox Infielder Leading MLB In This Stat After Struggling For Three Years In Boston",
-      "url": "https://nesn.com/boston-red-sox/news/ex-red-sox-infielder-leading-mlb-stat-after-struggling-three-years-boston/74b30235403f3d2c13203e3b",
-      "source": "NESN",
-      "publishedAt": "2026-06-02T23:47:25Z",
-      "description": "The Boston Red Sox traded David Hamilton as part of the deal to acquire Caleb Durbin last offseason.",
+      "title": "Bills-Vikings massive trade pitch sees Buffalo break bank to acquire generational $140 million WR",
+      "url": "https://www.sportingnews.com/us/nfl/buffalo-bills/news/bills-vikings-trade-pitch-sees-buffalo-break-bank-acquire-generational-140-million-wr/7462e2b282eee9d833b98b1a",
+      "source": "Sporting News",
+      "publishedAt": "2026-06-03T22:51:31Z",
+      "description": "The Buffalo Bills would go all in for a Minnesota Vikings superstar wide receiver in a monster trade proposal.",
       "maMarket": "us"
     },
     {
-      "title": "「耳にやさしい」軟骨伝導イヤホン　パソナ、子会社化で普及めざす",
-      "url": "https://www.asahi.com/articles/ASV622QYZV62PLFA001M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-06-02T22:00:00Z",
-      "description": "人材サービス大手のパソナグループが、昨年の大阪・関西万博で試した「耳にやさしい」イヤホン技術の普及に乗り出す。1日には「軟骨伝導」と呼ばれる技術を使った音響機器の開発と販売を手がける「CCHサウンド…",
+      "title": "【速報】ヤマダHDとエディオン、経営統合へ",
+      "url": "http://blog.livedoor.jp/itsoku/archives/63252951.html",
+      "source": "Livedoor.jp",
+      "publishedAt": "2026-06-03T22:56:34Z",
+      "description": "1:蚤の市 ★ 2026/06/04(木) 07:05:10.40 ID:1K0vnTZi9 家電量販最大手のヤマダホールディングス（HD）と大手のエディオンが経営統合する方針であることが3日、わかった。持ち株会社を設立し傘下に両社がぶら下がる案を軸に検討する。家電販売は異業種の参入で競争が激化...",
       "maMarket": "jp"
     },
     {
-      "title": "All American Home Mortgage Acquires Las Vegas Branch of Liberty Home Mortgage, Expands Team and Market Presence",
-      "url": "https://www.prnewswire.com/news-releases/all-american-home-mortgage-acquires-las-vegas-branch-of-liberty-home-mortgage-expands-team-and-market-presence-302789364.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-02T23:37:00Z",
-      "description": "HENDERSON, Nev., June 1, 2026 /PRNewswire/ -- All American Home Mortgage, L.L.C. (AAHM), a wholly owned subsidiary of Tri-Star Management, Inc., today announced the acquisition of the Las Vegas branch of Liberty Home Mortgage, further strengthening its commit…",
+      "title": "CI Global Asset Management Announces Name Changes for 37 Former Invesco Mutual Funds and ETFs",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/ci-global-asset-management-announces-name-changes-for-37-former-invesco-mutual-funds-and-etfs-2",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-03T21:11:37Z",
+      "description": "TORONTO — CI Global Asset Management (“CI GAM”) today announced name changes for 37 mutual funds and ETFs previously managed by Invesco Canada Ltd. (“Invesco Canada”). The changes follow the acquisition by CI GAM of the management agreements of 98 Invesco Can…",
       "maMarket": "us"
     },
     {
-      "title": "脳のない臓器だけの構造体が、医療と長寿の切り札になる",
-      "url": "https://wired.jp/article/sz-a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
-      "source": "Wired.jp",
-      "publishedAt": "2026-06-02T22:00:00Z",
-      "description": "脳をもたないように遺伝子操作された臓器だけの構造体「オーガン・サック（臓器袋）」は動物実験を不要にするという。長期的目標はヒト版の作製だ。出資するビリオネアはその将来性に賭けている。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Diana Rips Genco Board After Third Rejection, Urges Shareholders to Vote for Change",
-      "url": "https://gcaptain.com/diana-rips-genco-board-after-third-rejection-urges-shareholders-to-vote-for-change/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-06-02T23:08:25Z",
-      "description": "The takeover battle between two of the dry bulk shipping sector’s biggest names intensified Tuesday after Diana Shipping publicly blasted Genco Shipping & Trading’s board refusing to engage in negotiations...",
-      "maMarket": "us"
-    },
-    {
-      "title": "【悲報】プレイステーションのファーストパーティソフト売上本数が激減！スタジオ買収やライブサービスも成功せず迷走か",
-      "url": "http://blog.esuteru.com/archives/10532860.html",
+      "title": "家電大手2社ヤマダHD・エディオンが経営統合へ！　持ち株会社検討",
+      "url": "http://blog.esuteru.com/archives/10533279.html",
       "source": "Esuteru.com",
-      "publishedAt": "2026-06-02T10:30:28Z",
-      "description": "【悲報】プレイステーションのファーストパーティソフト売上本数が激減！スタジオ買収やライブサービスも成功せず迷走かの記事ページ",
+      "publishedAt": "2026-06-03T22:30:22Z",
+      "description": "家電大手2社ヤマダHD・エディオンが経営統合へ！ 持ち株会社検討の記事ページ",
       "maMarket": "jp"
     },
     {
-      "title": "Should Patroits Sign Stefon Diggs, Go All-In On Next Season?",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_27ef5ed9-2959-4478-8220-1af2ed0905dd",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-02T22:56:13Z",
-      "description": "The New England Patriots made a major move to acquire A.J. Brown from the Philadelphia Eagles on Monday.",
-      "maMarket": "us"
+      "title": "J2栃木C　オーストリア2部クラブ買収へ!　Jクラブ初のマルチオーナー誕生も（スポニチアネックス） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/853b4b7a5446721fa8b9fae04c2eb18edd1409fe",
+      "source": "Yahoo.co.jp",
+      "publishedAt": "2026-06-03T16:01:00Z",
+      "description": "J2栃木Cが、オーストリア2部クラブの買収に動いていることが3日までに分かった。ブレゲンツ市を本拠地とする1919年創設のシュバルツ・バイス・ブレゲンツで、複数の関係者によれば交渉は大詰め。早けれ",
+      "maMarket": "jp"
     }
   ],
   "ipo": [
@@ -83,39 +67,81 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "AmperCap Acquisition prices 12.5M unit IPO at $10 per unit",
-      "url": "https://www.thefly.com/APMC",
-      "source": "Thefly.com",
-      "publishedAt": "2026-06-02T22:50:48Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "title": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO",
+      "url": "https://www.cnbc.com/2026/06/03/elon-musks-net-worth-poised-to-sail-past-1-trillion-in-spacex-ipo.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-03T22:58:33Z",
+      "description": "Based on SpaceX's updated IPO prospectus, Elon Musk owns shares in the company worth over $866 billion.",
       "ipoMarket": "us"
     },
     {
-      "title": "AmperCap Acquisition Company Announces the Pricing of $125,000,000 Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/06/02/3305736/0/en/AmperCap-Acquisition-Company-Announces-the-Pricing-of-125-000-000-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-02T22:32:00Z",
-      "description": "New York, NY, June 02, 2026 (GLOBE NEWSWIRE) -- AmperCap Acquisition Company (the “Company”) announced today the pricing of its initial public offering of 12,500,000 units, at a price of $10.00 per unit. The units are expected to be listed on The Nasdaq Stock…",
+      "title": "SpaceX reveals its share price and record valuation: 555.6 million shares at $135 apiece, at a $1.77 trillion valuation",
+      "url": "https://fortune.com/2026/06/03/spacex-ipo-share-price-index-funds-valuation-public/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-03T21:48:59Z",
+      "description": "The SpaceX filing starts the timer on a hot IPO summer complete with two other highly anticipated IPOs: Anthropic and OpenAI.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX staff band together to negotiate lower fees and tax savings ahead of IPO",
-      "url": "https://cryptobriefing.com/spacex-staff-lower-fees-ipo/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-02T22:01:30Z",
-      "description": "SpaceX employees' collective negotiation efforts could set a precedent for future IPO participants seeking to maximize financial outcomes. The post SpaceX staff band together to negotiate lower fees and tax savings ahead of IPO appeared first on Crypto Briefi…",
+      "title": "Live: ASX to fall, SpaceX eyes mega IPO",
+      "url": "https://www.abc.net.au/news/2026-06-04/asx-markets-business-news-live-updates/106757400",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-03T21:38:25Z",
+      "description": "The ASX is set to fall after Wall Street slipped overnight as hopes for a swift end to the war in Iran faded again. Follow the latest on our live markets blog.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX valued at just $780 billion by Morningstar, less than half its IPO target",
-      "url": "https://finance.yahoo.com/markets/article/spacex-valued-at-just-780-billion-by-morningstar-less-than-half-its-ipo-target-174617034.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-02T17:46:17Z",
-      "description": "SpaceX just got slapped with a bearish valuation ahead of its monster IPO coming up later this month.",
+      "title": "Honeywell's Quantinuum raises $1.68 billion in US IPO as quantum computing heats up",
+      "url": "https://www.channelnewsasia.com/business/honeywells-quantinuum-raises-168-billion-in-us-ipo-quantum-computing-heats-up-6160731",
+      "source": "CNA",
+      "publishedAt": "2026-06-03T20:58:06Z",
+      "description": "June 3 : Honeywell's Quantinuum said on Wednesday it has raised $1.68 billion in its U.S. initial public offering after pricing shares at $60 apiece, as investors flocked to one of the market's fast-growing emerging technology sectors.Broomfield, Colorado-bas…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "ウ大統領 プーチン氏に公開書簡",
+      "url": "https://news.yahoo.co.jp/pickup/6582988?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-04T22:27:27.000Z",
+      "description": ""
+    },
+    {
+      "title": "入隊者の債務を免除 ロシアの焦り",
+      "url": "https://news.yahoo.co.jp/pickup/6582946?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-04T13:35:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "天安門事件 検閲で過去消せずと米",
+      "url": "https://news.yahoo.co.jp/pickup/6582932?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-04T07:55:05.000Z",
+      "description": ""
+    },
+    {
+      "title": "ラオス洞窟閉じ込め なお2人不明",
+      "url": "https://news.yahoo.co.jp/pickup/6582911?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-04T04:47:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国スパイ巡り FiveEyesが警告",
+      "url": "https://news.yahoo.co.jp/pickup/6582892?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-04T02:59:37.000Z",
+      "description": ""
+    },
+    {
+      "title": "イスラエルとレバノン 停戦再合意",
+      "url": "https://news.yahoo.co.jp/pickup/6582881?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-04T00:54:21.000Z",
+      "description": ""
+    },
     {
       "title": "天安門事件37年 中国は追悼を抑圧",
       "url": "https://news.yahoo.co.jp/pickup/6582866?source=rss",
@@ -124,59 +150,10 @@
       "description": ""
     },
     {
-      "title": "日銀総裁 利上げに前向き姿勢示す",
-      "url": "https://news.yahoo.co.jp/pickup/6582835?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T11:46:46.000Z",
-      "description": ""
-    },
-    {
       "title": "くら寿司USA株 米大統領なぜ購入",
       "url": "https://news.yahoo.co.jp/pickup/6582828?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-03T11:06:06.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン クウェート国際空港を攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6582807?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T08:35:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "タイ・タクシン元首相 正式に釈放",
-      "url": "https://news.yahoo.co.jp/pickup/6582809?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T08:35:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "米 日本に12.5%の追加関税を検討",
-      "url": "https://news.yahoo.co.jp/pickup/6582802?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T08:21:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "強硬姿勢崩さぬネタニヤフ氏 背景",
-      "url": "https://news.yahoo.co.jp/pickup/6582774?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T08:21:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領とネタニヤフ氏 あつれき",
-      "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T04:45:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "銃撃で中止の米夕食会 7月に開催",
-      "url": "https://news.yahoo.co.jp/pickup/6582755?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-03T01:56:49.000Z",
       "description": ""
     }
   ]
