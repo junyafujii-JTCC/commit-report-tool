@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-07T23:10:12.641Z",
+  "fetchedAt": "2026-06-08T23:14:14.080Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,19 +9,51 @@
   ],
   "ma": [
     {
-      "title": "ストックオプション以外の株式報酬制度って何がある？ - 起業のコーポレート業務",
-      "url": "https://diamond.jp/articles/-/390496",
+      "title": "テラスカイ---ブリッジインターナショナルと資本業務提携を締結 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1068391",
       "source": "Diamond.jp",
-      "publishedAt": "2026-06-06T23:05:00Z",
-      "description": "スタートアップのバイブルとして名高い『起業のファイナンス』シリーズの最新刊として、『起業のコーポレート業務』が発売されました。オフィスの探し方や社会保険への加入、PR、反社対応、M&A・IPO準備など、総務・経理・労務・法務とEXITに関する全てをカバーする「スタートアップの実務大全」とも言える1冊で、スタートアップ以外の企業のコーポレート部門の人にも大いに役立つ内容となっています。この連載では、主に同書の「コラム」を公開していきます。第14回は「ストックオプション以外の株式報酬制度」についてです。",
+      "publishedAt": "2026-06-07T23:00:00Z",
+      "description": "&lt;3915&gt; テラスカイ 3375 0ブリッジインターナショナルグループ&lt;7039&gt;と、6月5日に資本業務提携に関する覚書を締結した。テラスカイのAIおよびクラウド最新技術と、ブリッジのBPOのノウハウを統合した「セールスエンゲージメントBPaaS」を共同で提案・提供する。顧客企業の利益向上と成果報酬型のサービスであり、両社の事業成長をさらに強固なものとし、DX分野における相互の企業価値向上を図る",
       "maMarket": "jp"
     },
     {
-      "title": "LS3-Powered 1965 Chevrolet Corvette Convertible",
-      "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-convertible-273/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-06T23:03:53Z",
-      "description": "This 1965 Chevrolet Corvette convertible was refurbished and modified following a previous owner's 2015 acquisition, and it was first offered on BaT in August 2023. Work consisted of repainting the body in red and mounting it to a boxed-frame chassis along wi…",
+      "title": "WWE Merger Trial Canceled Days Before McMahon Set to Testify",
+      "url": "https://bleedingcool.com/tv/wwe-merger-trial-canceled-days-before-mcmahon-set-to-testify/",
+      "source": "Bleeding Cool News",
+      "publishedAt": "2026-06-07T22:16:10Z",
+      "description": "The scheduled trial in the shareholder lawsuit challenging the 2023 merger of World Wrestling Entertainment (WWE) and Endeavor has been canceled and removed from the Delaware Chancery Court's calendar, Fightful reports. The four-day trial had been scheduled t…",
+      "maMarket": "us"
+    },
+    {
+      "title": "中国の投資会社HSGがライカ買収の有力候補に（デジカメinfo）",
+      "url": "https://digicame-info.com/2026/06/hsg.html",
+      "source": "Digicame-info.com",
+      "publishedAt": "2026-06-07T15:58:13Z",
+      "description": "PetaPixelのPodcastで、ライカの買収に関するいくつかの新情報が出ています。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Scott Pelley says CBS News is ‘on fire’ after Bari Weiss takeover and ‘60 Minutes’ bloodbath",
+      "url": "https://www.foxnews.com/media/scott-pelley-says-cbs-news-on-fire-after-bari-weiss-takeover-60-minutes-bloodbath",
+      "source": "Fox News",
+      "publishedAt": "2026-06-07T22:00:55Z",
+      "description": "Scott Pelley accuses CBS News leadership of political bias and incompetence in his first sit-down interview since being fired from the network.",
+      "maMarket": "us"
+    },
+    {
+      "title": "CloudflareがViteやRolldownの開発元であるVoidZeroの買収を発表。これでAstroとViteがCloudflareの傘下に",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+      "source": "Publickey1.jp",
+      "publishedAt": "2026-06-07T13:38:09Z",
+      "description": "Cloudflareは、JavaScriptで人気のビルドツール「Vite」やバンドルツール「Rolldown」の開発元であるVoidZeroの買収を発表しました（Cloudflareの発表、VoidZeroの発表）。 Today, Voi...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Corporate Japan Borrows More as Deals, Outflows Pressure Ratings",
+      "url": "https://financialpost.com/pmn/business-pmn/corporate-japan-borrows-more-as-deals-outflows-pressure-ratings",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-07T21:37:22Z",
+      "description": "Japanese businesses are ramping up borrowing to cover cash shortfalls fueled by record merger activity, booming capital investments and mounting investor pressure for shareholder returns, putting their credit ratings at risk.",
       "maMarket": "us"
     },
     {
@@ -33,142 +65,103 @@
       "maMarket": "jp"
     },
     {
-      "title": "Communiqué Orange : Orange signs a joint agreement to acquire SFR, a decisive step that will reinforce its leadership in France",
-      "url": "https://www.globenewswire.com/news-release/2026/06/06/3307710/0/en/Communiqu%C3%A9-Orange-Orange-signs-a-joint-agreement-to-acquire-SFR-a-decisive-step-that-will-reinforce-its-leadership-in-France.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-06T22:11:00Z",
-      "description": "Press releaseParis, 6 June 2026 Orange signs a joint agreement to acquire SFR, a decisive step that will reinforce its leadership in France Orange,...",
-      "maMarket": "us"
-    },
-    {
-      "title": "【8月17日(月)】ロードスターキャピタル（東証PRM3482）岩野社長を囲む経営者交流会を開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000260.000054393.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-06-06T02:10:00Z",
-      "description": "[IR Robotics] 株式会社IR Robotics（本社：東京都千代田区、代表取締役：金 成柱、HP：https://ir-robotics.co.jp/）は、自社が運営するビジネス系YouTubeチャンネル「IPOとM&Aどっちにする? TV」にてロードスターキャピタ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "US states are reportedly planning to sue to block Paramount's Warner Bros. takeover",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183623684",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-06T21:12:11Z",
-      "description": "California's attorney general Rob Bonta launched a probe into the deal shortly after it was announced.",
-      "maMarket": "us"
-    },
-    {
-      "title": "みんなで大家さん、敗北…4億5500万円を出資者に返還命令下る！投資家、逆転勝利へ",
-      "url": "http://blog.livedoor.jp/nanjstu/archives/63257058.html",
-      "source": "Livedoor.jp",
-      "publishedAt": "2026-06-05T23:43:39Z",
-      "description": "転載元: https://nova.5ch.io/test/read.cgi/livegalileo/1780659904/1: それでも動く名無し 2026/06/05(金) 20:45:04.19 ID:yjQPFVxE0 『みんなで大家さん』を巡る集団訴訟 出資者84人分の4億5500万円返還命じる判決 大阪地裁 「みんなで大家さん」を巡る集団訴訟で",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Manchester City Are In Pole Position To Re-Sign This Real Madrid Winger: Good Move For Everyone Involved?",
-      "url": "https://the4thofficial.net/2026/06/manchester-city-are-in-pole-position-to-re-sign-this-real-madrid-winger/",
-      "source": "The4thofficial.net",
-      "publishedAt": "2026-06-06T21:05:00Z",
-      "description": "In a recent report, Fichajes mentioned that Manchester City are in pole position to re-sign Real Madrid winger Brahim Diaz. It has been stated that the Mancunian giants are the favorites to acquire th...",
+      "title": "United Airlines CEO says big merger unlikely after American rebuff, asset buys possible",
+      "url": "https://nypost.com/2026/06/07/business/united-airlines-ceo-says-big-merger-unlikely-after-american-rebuff-asset-buys-possible/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-07T19:55:29Z",
+      "description": "Kirby said United expects that higher fares will put it on track to recover later this year the full hit it has taken from surging fuel prices, underscoring the carrier's confidence in demand despite rising ticket prices.",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Elon Musk’s $1.8 Trillion SpaceX IPO Is Too Big to Succeed - Barron's",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183623702",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-06T21:13:03Z",
-      "description": "Elon Musk’s $1.8 Trillion SpaceX IPO Is Too Big to SucceedBarron's There’s More to Space Stocks Than SpaceXWSJ Here's How SpaceX's IPO Will Affect S&P 500 and Nasdaq-100 InvestorsYahoo Finance Musk Leaves Investors Starstruck at Dimon’s SpaceX ExtravaganzaBlo…",
+      "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
+      "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-07T22:43:39Z",
+      "description": "Tensions in the Gulf had already been escalating as the U.S. and Iran increasingly exchange fire, with both sides trying to establish their own shipping lanes in the Strait of Hormuz.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX targets $75B IPO with 30% of shares reserved for retail investors",
-      "url": "https://cryptobriefing.com/spacex-75b-ipo-retail-investors-2/",
+      "title": "Stock futures fall as investors look ahead to SpaceX IPO",
+      "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-07T22:05:31Z",
+      "description": "Investors will also be focused on inflation data and the public debut of SpaceX on Friday.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX IPO oversubscribed at $150B in demand as largest-ever listing nears",
+      "url": "https://cryptobriefing.com/spacex-ipo-oversubscribed-150b-demand/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-06T21:00:47Z",
-      "description": "SpaceX's IPO strategy could democratize investment access, potentially reshaping market dynamics and influencing future public offerings. The post SpaceX targets $75B IPO with 30% of shares reserved for retail investors appeared first on Crypto Briefing.",
+      "publishedAt": "2026-06-07T20:14:26Z",
+      "description": "The oversubscription highlights immense investor confidence in SpaceX, potentially reshaping market dynamics and influencing future IPO strategies. The post SpaceX IPO oversubscribed at $150B in demand as largest-ever listing nears appeared first on Crypto Br…",
       "ipoMarket": "us"
     },
     {
-      "title": "Here's How SpaceX's IPO Will Affect S&P 500 and Nasdaq-100 Investors",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6719837e-f84b-463a-8a22-d3a661ba17b4",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-06T18:16:00Z",
-      "description": "",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Elon Musk sets SpaceX IPO price in blunt message to Wall Street",
-      "url": "https://www.thestreet.com/investing/elon-musk-sets-fixed-spacex-ipo-price",
-      "source": "TheStreet",
-      "publishedAt": "2026-06-06T15:55:35Z",
-      "description": "Companies preparing for an initial public offering normally set a price range, gauge demand on a roadshow, and negotiate a final share price. SpaceX skipped ...",
+      "title": "SpaceX IPO gets Cryptocurrency touch. Here's how",
+      "url": "https://economictimes.indiatimes.com/news/international/us/spacex-ipo-gets-cryptocurrency-touch-heres-how/articleshow/131569091.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-07T15:05:46Z",
+      "description": "SpaceX, which began its roadshow last week, has drawn investor demand of about $150 billion for its IPO, about double the $75 billion it ‌is seeking to raise, said two people familiar with the matter on Friday.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "習近平主席 きょう7年ぶり訪朝へ",
-      "url": "https://news.yahoo.co.jp/pickup/6583364?source=rss",
+      "title": "中朝首脳会談 非核化には触れず",
+      "url": "https://news.yahoo.co.jp/pickup/6583488?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T22:28:16.000Z",
+      "publishedAt": "2026-06-08T13:29:04.000Z",
       "description": ""
     },
     {
-      "title": "イラン イスラエルへミサイル発射",
-      "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
+      "title": "イラン 対イスラエル作戦一時停止",
+      "url": "https://news.yahoo.co.jp/pickup/6583485?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T21:47:18.000Z",
+      "publishedAt": "2026-06-08T13:15:49.000Z",
       "description": ""
     },
     {
-      "title": "イスラエル 米高官への盗聴疑惑",
-      "url": "https://news.yahoo.co.jp/pickup/6583347?source=rss",
+      "title": "任天堂欧州法人に制裁金65億円 仏",
+      "url": "https://news.yahoo.co.jp/pickup/6583483?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T13:19:53.000Z",
+      "publishedAt": "2026-06-08T13:05:56.000Z",
       "description": ""
     },
     {
-      "title": "湾岸諸国復興にイラン資産 米検討",
-      "url": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
+      "title": "フィリピンで地震 30人超が死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6583479?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T12:04:34.000Z",
+      "publishedAt": "2026-06-08T12:43:34.000Z",
       "description": ""
     },
     {
-      "title": "人口制限是非 スイスで国民投票へ",
-      "url": "https://news.yahoo.co.jp/pickup/6583334?source=rss",
+      "title": "中国「高考」開始 出願者減の背景",
+      "url": "https://news.yahoo.co.jp/pickup/6583456?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T11:20:30.000Z",
+      "publishedAt": "2026-06-08T11:38:22.000Z",
       "description": ""
     },
     {
-      "title": "トヨタ超えたい 中国勢がHV注力",
-      "url": "https://news.yahoo.co.jp/pickup/6583330?source=rss",
+      "title": "エボラ巡りケニアで抗議デモ 背景",
+      "url": "https://news.yahoo.co.jp/pickup/6583445?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T10:12:06.000Z",
+      "publishedAt": "2026-06-08T11:33:42.000Z",
       "description": ""
     },
     {
-      "title": "非核化巡る米側見解 虚偽と与正氏",
-      "url": "https://news.yahoo.co.jp/pickup/6583299?source=rss",
+      "title": "トランプ氏の共和党 離反が拡大",
+      "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T06:23:27.000Z",
+      "publishedAt": "2026-06-08T08:40:25.000Z",
       "description": ""
     },
     {
-      "title": "米で2人が銃撃ち合いか 12人負傷",
-      "url": "https://news.yahoo.co.jp/pickup/6583293?source=rss",
+      "title": "比のM8.2地震で建物が倒壊 映像",
+      "url": "https://news.yahoo.co.jp/pickup/6583421?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T05:28:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "独移民政策 1年で3.6万人入国拒否",
-      "url": "https://news.yahoo.co.jp/pickup/6583262?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-07T00:16:24.000Z",
+      "publishedAt": "2026-06-08T04:12:18.000Z",
       "description": ""
     }
   ]
