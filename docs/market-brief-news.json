@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-08T23:14:14.080Z",
+  "fetchedAt": "2026-06-09T23:19:24.058Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,124 +9,159 @@
   ],
   "ma": [
     {
-      "title": "テラスカイ---ブリッジインターナショナルと資本業務提携を締結 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1068391",
+      "title": "日本経済新聞社の売上高が過去10年の最高額に、買収した英紙が業績けん引…メディア企業の“勝ち組”日経の「弱点」とは？ - エネルギー危機、インフレ、人手不足で明暗！通期決算「勝ち組＆負け組」【2026春】",
+      "url": "https://diamond.jp/articles/-/391979",
       "source": "Diamond.jp",
-      "publishedAt": "2026-06-07T23:00:00Z",
-      "description": "&lt;3915&gt; テラスカイ 3375 0ブリッジインターナショナルグループ&lt;7039&gt;と、6月5日に資本業務提携に関する覚書を締結した。テラスカイのAIおよびクラウド最新技術と、ブリッジのBPOのノウハウを統合した「セールスエンゲージメントBPaaS」を共同で提案・提供する。顧客企業の利益向上と成果報酬型のサービスであり、両社の事業成長をさらに強固なものとし、DX分野における相互の企業価値向上を図る",
+      "publishedAt": "2026-06-08T19:40:00Z",
+      "description": "大手新聞社の中で唯一デジタルシフトを軌道に乗せた日本経済新聞社が、順調に売上高を伸ばしている。2025年12月期の売上高は3938億円と、ここ10年で最高となった。純利益も110億円と3年ぶりに100億円台を回復した。一方、ダイヤモンド編集部が同社の財務を分析すると、“稼ぐ力”は劇的には向上していない実態が明らかになった。",
       "maMarket": "jp"
     },
     {
-      "title": "WWE Merger Trial Canceled Days Before McMahon Set to Testify",
-      "url": "https://bleedingcool.com/tv/wwe-merger-trial-canceled-days-before-mcmahon-set-to-testify/",
-      "source": "Bleeding Cool News",
-      "publishedAt": "2026-06-07T22:16:10Z",
-      "description": "The scheduled trial in the shareholder lawsuit challenging the 2023 merger of World Wrestling Entertainment (WWE) and Endeavor has been canceled and removed from the Delaware Chancery Court's calendar, Fightful reports. The four-day trial had been scheduled t…",
+      "title": "9k-Mile 1985 Pontiac Firebird Trans Am WS6",
+      "url": "https://bringatrailer.com/listing/1985-pontiac-firebird-trans-am-12/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-06-08T23:15:59Z",
+      "description": "This 1985 Pontiac Firebird Trans Am was ordered with the WS6 Special Performance Package and was initially delivered to Bob Sellers Pontiac-GMC of Farmington Hills, Michigan. It was driven for a few months prior to its 1986 acquisition by the seller, who repo…",
       "maMarket": "us"
     },
     {
-      "title": "中国の投資会社HSGがライカ買収の有力候補に（デジカメinfo）",
-      "url": "https://digicame-info.com/2026/06/hsg.html",
-      "source": "Digicame-info.com",
-      "publishedAt": "2026-06-07T15:58:13Z",
-      "description": "PetaPixelのPodcastで、ライカの買収に関するいくつかの新情報が出ています。",
+      "title": "スパイスコード株式会社との資本業務提携について",
+      "url": "https://prtimes.jp/main/html/rd/p/000000889.000003092.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-08T06:00:00Z",
+      "description": "[エスビー食品株式会社] エスビー食品株式会社は、スパイスコード株式会社（本社：東京都中央区、代表取締役：中河宏文）と資本業務提携を行いました。 本提携により、当社が長年培ってきた食品開発における知見と、スパイスコードのAIエ...",
       "maMarket": "jp"
     },
     {
-      "title": "Scott Pelley says CBS News is ‘on fire’ after Bari Weiss takeover and ‘60 Minutes’ bloodbath",
-      "url": "https://www.foxnews.com/media/scott-pelley-says-cbs-news-on-fire-after-bari-weiss-takeover-60-minutes-bloodbath",
-      "source": "Fox News",
-      "publishedAt": "2026-06-07T22:00:55Z",
-      "description": "Scott Pelley accuses CBS News leadership of political bias and incompetence in his first sit-down interview since being fired from the network.",
+      "title": "Sports store company to close 175 US locations as part of reorganization, cost-cutting strategy",
+      "url": "https://www.foxbusiness.com/markets/hibbett-sports-owner-plans-close-175-underperforming-stores-major-north-american-reorganization",
+      "source": "Fox Business",
+      "publishedAt": "2026-06-08T23:05:21Z",
+      "description": "The athletic footwear chain had nearly 1,000 stores when JD Sports completed its acquisition in 2024",
       "maMarket": "us"
     },
     {
-      "title": "CloudflareがViteやRolldownの開発元であるVoidZeroの買収を発表。これでAstroとViteがCloudflareの傘下に",
-      "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
-      "source": "Publickey1.jp",
-      "publishedAt": "2026-06-07T13:38:09Z",
-      "description": "Cloudflareは、JavaScriptで人気のビルドツール「Vite」やバンドルツール「Rolldown」の開発元であるVoidZeroの買収を発表しました（Cloudflareの発表、VoidZeroの発表）。 Today, Voi...",
+      "title": "「SANAE TOKEN」騒動を引き起こした溝口勇児氏、今度はマンジャロを使ったオンラインサービスに出資して波紋を呼ぶ「素人が安易に勧めないで頂きたいです」",
+      "url": "https://togetter.com/li/2701995",
+      "source": "Togetter.com",
+      "publishedAt": "2026-06-08T04:29:58Z",
+      "description": "ととろ @tottottottoro 溝口勇児がマンジャロを使ったオンラインサービスに出資しているとのこと マンジャロは糖尿病患者向けのものであって痩せるためにあるわけではない こんなクソサービスは撲滅せんといけんね pic.x.com/SpXrcwr9S6 2026-05-25 07:31:17",
       "maMarket": "jp"
     },
     {
-      "title": "Corporate Japan Borrows More as Deals, Outflows Pressure Ratings",
-      "url": "https://financialpost.com/pmn/business-pmn/corporate-japan-borrows-more-as-deals-outflows-pressure-ratings",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-07T21:37:22Z",
-      "description": "Japanese businesses are ramping up borrowing to cover cash shortfalls fueled by record merger activity, booming capital investments and mounting investor pressure for shareholder returns, putting their credit ratings at risk.",
+      "title": "Crèche shut rooms up to 175 times since October due to staff shortages",
+      "url": "https://www.thejournal.ie/tigers-childcare-room-closures-7060180-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-08T23:05:00Z",
+      "description": "Parents with children cared for by centres run by Tigers Childcare say they are consistently informed last minute of room closures, forcing them to seek alternate childcare options.",
       "maMarket": "us"
     },
     {
-      "title": "未だ明かされないシティの不正疑惑に対する判決　ムバラク会長は判決が下されれば「すべて話す」と宣言",
-      "url": "https://news.livedoor.com/article/detail/31475224/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-06T06:00:30Z",
-      "description": "2008年のクラブ買収以降、急激な勢いで成長を遂げているプレミアリーグのマンチェスター・シティ。2016年から10年間続いたペップ・グアルディオラ政権ではプレミア4連覇を含む多くのタイトルを獲得している。しかし、そんな好成績の裏で指摘され続けているのが、115件にも及ぶ財政に関する不正疑惑だ。『BBC』が改めて詳細を報じている。・2009年から2018年にかけて正確な財務情報を提供しなかった件数が54件・同時期に選手および監督への支払いに関する詳細情報を提供しなかった件数全文theWORLD（ザ・ワールド） 06…",
+      "title": "Phoxter、製造業向け搬送・検査自動化ソリューションでANA系ファンドが出資",
+      "url": "https://thebridge.jp/2026/06/phoxter-receives-investment-from-ana-mirai-fund",
+      "source": "Thebridge.jp",
+      "publishedAt": "2026-06-08T03:30:00Z",
+      "description": "AI と自律搬送ロボット（AMR）で製造現場の搬送と外観検査を自動化するソリューションを提供する Phoxter は5月29日、ANA 未来創造ファンド（AH-GB 未来創造投資事業有限責任組合）からの出資を公表している […]",
       "maMarket": "jp"
     },
     {
-      "title": "United Airlines CEO says big merger unlikely after American rebuff, asset buys possible",
-      "url": "https://nypost.com/2026/06/07/business/united-airlines-ceo-says-big-merger-unlikely-after-american-rebuff-asset-buys-possible/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-07T19:55:29Z",
-      "description": "Kirby said United expects that higher fares will put it on track to recover later this year the full hit it has taken from surging fuel prices, underscoring the carrier's confidence in demand despite rising ticket prices.",
+      "title": "'Obsession' Becomes Top-Grossing Fest Acquisition of All Time",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/obsession-becomes-top-grossing-fest-acquisition-1236616776/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-06-08T22:50:44Z",
+      "description": "The feature, which has grossed $225.5 million globally, landed at Focus after a bidding war out of the Toronto Film Festival.",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
-      "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-07T22:43:39Z",
-      "description": "Tensions in the Gulf had already been escalating as the U.S. and Iran increasingly exchange fire, with both sides trying to establish their own shipping lanes in the Strait of Hormuz.",
+      "title": "Former SpaceX Welder’s $10,000 Equity Grant is Now Worth Nearly $900,000 Ahead of IPO",
+      "url": "https://www.justjared.com/2026/06/08/former-spacex-welders-10000-equity-grant-is-now-worth-nearly-900000-ahead-of-ipo/",
+      "source": "Just Jared",
+      "publishedAt": "2026-06-08T23:14:21Z",
+      "description": "A former SpaceX welder is heading into the company’s IPO with a life-changing payday. Juan Hernandez, who immigrated from Mexico […] The post Former SpaceX Welder’s $10,000 Equity Grant is Now Worth Nearly $900,000 Ahead of IPO appeared first on Just Jared - …",
       "ipoMarket": "us"
     },
     {
-      "title": "Stock futures fall as investors look ahead to SpaceX IPO",
-      "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "publishedAt": "2026-06-07T22:05:31Z",
-      "description": "Investors will also be focused on inflation data and the public debut of SpaceX on Friday.",
+      "title": "OpenAI Files For IPO",
+      "url": "https://news.slashdot.org/story/26/06/08/2242200/openai-files-for-ipo",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-08T23:00:00Z",
+      "description": "OpenAI has confidentially filed for an IPO, \"setting it up for what may be the most highly anticipated market debut in recent history and a massive payday for early investors,\" reports CNN. The decision follows recent IPO announcements from Anthropic and Spac…",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX IPO oversubscribed at $150B in demand as largest-ever listing nears",
-      "url": "https://cryptobriefing.com/spacex-ipo-oversubscribed-150b-demand/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-07T20:14:26Z",
-      "description": "The oversubscription highlights immense investor confidence in SpaceX, potentially reshaping market dynamics and influencing future IPO strategies. The post SpaceX IPO oversubscribed at $150B in demand as largest-ever listing nears appeared first on Crypto Br…",
+      "title": "OpenAI makes move to go public one week after rival Anthropic",
+      "url": "https://japantoday.com/category/tech/openai-makes-move-to-go-public-one-week-after-rival-anthropic",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-08T22:32:49Z",
+      "description": "ChatGPT-maker OpenAI on Monday took the first step toward going public, one week after arch-rival Anthropic announced its own filing, as both companies look to raise the massive sums needed to expand. In a social media post, the Sam Altman-led company said it…",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX IPO gets Cryptocurrency touch. Here's how",
-      "url": "https://economictimes.indiatimes.com/news/international/us/spacex-ipo-gets-cryptocurrency-touch-heres-how/articleshow/131569091.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-07T15:05:46Z",
-      "description": "SpaceX, which began its roadshow last week, has drawn investor demand of about $150 billion for its IPO, about double the $75 billion it ‌is seeking to raise, said two people familiar with the matter on Friday.",
+      "title": "OpenAI Files for IPO",
+      "url": "https://www.newser.com/story/390658/openai-files-for-ipo.html",
+      "source": "Newser",
+      "publishedAt": "2026-06-08T22:28:00Z",
+      "description": "ChatGPT maker OpenAI has filed preliminary paperwork that would open the door to it becoming a publicly traded company, making itself the third in a powerhouse trio of artificial intelligence companies racing to Wall Street debuts. The company said Monday it …",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "中朝首脳会談 非核化には触れず",
-      "url": "https://news.yahoo.co.jp/pickup/6583488?source=rss",
+      "title": "米軍 ヘリ撃墜でイランに報復開始",
+      "url": "https://news.yahoo.co.jp/pickup/6583620?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T13:29:04.000Z",
+      "publishedAt": "2026-06-09T22:13:47.000Z",
       "description": ""
     },
     {
-      "title": "イラン 対イスラエル作戦一時停止",
-      "url": "https://news.yahoo.co.jp/pickup/6583485?source=rss",
+      "title": "NZ首都に11mの高波 数百人が避難",
+      "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T13:15:49.000Z",
+      "publishedAt": "2026-06-09T12:05:56.000Z",
       "description": ""
     },
     {
-      "title": "任天堂欧州法人に制裁金65億円 仏",
-      "url": "https://news.yahoo.co.jp/pickup/6583483?source=rss",
+      "title": "日銀1%に利上げへ 家計への影響",
+      "url": "https://news.yahoo.co.jp/pickup/6583597?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T13:05:56.000Z",
+      "publishedAt": "2026-06-09T11:57:26.000Z",
+      "description": ""
+    },
+    {
+      "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
+      "url": "https://news.yahoo.co.jp/pickup/6583578?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-09T08:54:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "米との合意近かった イラン高官",
+      "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-09T05:12:08.000Z",
+      "description": ""
+    },
+    {
+      "title": "中朝関係発展へ「新章」北の報道",
+      "url": "https://news.yahoo.co.jp/pickup/6583532?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-09T02:32:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "独仏 次世代戦闘機の共同開発中止",
+      "url": "https://news.yahoo.co.jp/pickup/6583522?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-09T00:47:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "トランプ氏がナルト動画投稿 物議",
+      "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-09T00:16:51.000Z",
       "description": ""
     },
     {
@@ -134,34 +169,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583479?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-08T12:43:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国「高考」開始 出願者減の背景",
-      "url": "https://news.yahoo.co.jp/pickup/6583456?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T11:38:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "エボラ巡りケニアで抗議デモ 背景",
-      "url": "https://news.yahoo.co.jp/pickup/6583445?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T11:33:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "トランプ氏の共和党 離反が拡大",
-      "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T08:40:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "比のM8.2地震で建物が倒壊 映像",
-      "url": "https://news.yahoo.co.jp/pickup/6583421?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-08T04:12:18.000Z",
       "description": ""
     }
   ]
