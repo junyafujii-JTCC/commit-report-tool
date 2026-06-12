@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T23:27:51.172Z",
+  "fetchedAt": "2026-06-12T23:21:36.988Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,68 +9,60 @@
   ],
   "ma": [
     {
-      "title": "NTT 次世代のIT技術 実用化や事業展開が課題に",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015146421000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-06-10T20:33:32Z",
-      "description": "NTTは、次世代のIT技術の普及に向け、国内外の企業が出資するファンドを設立し、世界の新興企業への投資を進めていくことを明らかにしました。海外の巨大企業との間で競争が激しくなる中、技術の実用化や事業展開を迅速に進められるかが課題となります。",
+      "title": "ボルボを買収した吉利汽車、日産・ホンダを抜き去ったBYD…日本企業が直視すべき中国EV「知能化の最前線」 - 経営のためのIT活用実学",
+      "url": "https://jbpress.ismedia.jp/articles/-/95294",
+      "source": "Ismedia.jp",
+      "publishedAt": "2026-06-11T20:30:00Z",
+      "description": "欧米、日本で「EV減速論」が語られる一方、中国の自動車産業はすでに次の競争軸へと踏み出している──。中国EVの新たな動向について、「生成AIの登場が車づくりの前提を大きく変えた」と分析するのは、ナカニシ自動車産業リサーチ代表アナリストの中西孝樹氏だ。2025年10月に著書『トヨタ対中国EV 熾烈な競争が最強メーカーを生む』（日経BP 日本経済新聞出版）を出版した同氏に、日本企業が直視すべき中国EVの最新動向と、日産・ホンダを抜き去った比亜迪（BYD）、したたかな買収戦略で存在感を高める吉利汽車（ジーリー）の強さに…",
       "maMarket": "jp"
     },
     {
-      "title": "Lee Raymond, Exxon CEO Who Doubted Climate Change, Dies at 87",
-      "url": "https://financialpost.com/pmn/business-pmn/lee-raymond-exxon-ceo-who-doubted-climate-change-dies-at-87",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-10T23:04:50Z",
-      "description": "Lee Raymond, the former head of Exxon Mobil Corp. who oversaw the biggest corporate merger in the history of the oil industry and was derided as “the Darth Vader of global warming” for his skepticism toward climate change, has died. He was 87.",
+      "title": "2002 Kawasaki Vulcan 800 Drifter at No Reserve",
+      "url": "https://bringatrailer.com/listing/2002-kawasaki-vulcan-800-drifter-2/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-06-11T22:30:50Z",
+      "description": "This 2002 Kawasaki Vulcan 800 Drifter spent time in New Hampshire before its 2024 acquisition by the seller, and it now shows 6k miles. Finished in Black Pearl with gold-outlined off-white graphics, the motorcycle is powered by a liquid-cooled 805cc SOHC V-tw…",
       "maMarket": "us"
     },
     {
-      "title": "ワコムが同社社外取の経営する赤字企業を買収→社外取をワコムCOOに抜擢…前代未聞の「スライド人事」にアクティビスト猛反発の深層 - 社外取10821人の全序列【2026最新版】熱狂バブルの落とし穴",
-      "url": "https://diamond.jp/articles/-/392172",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-06-10T19:40:00Z",
-      "description": "ペンタブレット世界最大手のワコムが揺れている。社外取締役が代表を務めていた企業を約17億円で買収し、直後にその社外取を実務トップのCOOへ抜てきするという異例の人事が波紋を呼んでいるのだ。筆頭株主の英投資ファンドが「利益相反の疑い」を指摘して解任を迫る一方、井出信孝社長は「中長期的な成長に不可欠な戦略」と真っ向から反論。対立の構図から浮かび上がるのは、日本企業におけるガバナンスの実効性と、資本市場との対話に潜む深い溝だ。",
+      "title": "CAR（キメラ抗原受容体）配列創製技術「Eumbody System」を用いた創薬研究・開発を行うオプティアム・バイオテクノロジーズ株式会社に出資",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000133125.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-11T20:00:00Z",
+      "description": "[株式会社ビジョンインキュベイト] 株式会社ビジョンインキュベイト（本社：石川県金沢市、代表取締役：松本邦夫、以下「当社」）は、オプティアム・バイオテクノロジーズ株式会社（愛媛県東温市、代表取締役CEO 西岡駿、以下「オプティアム社」...",
       "maMarket": "jp"
     },
     {
-      "title": "Greenberg Traurig Advises Kayne Anderson-BKM Joint Venture on $1.81B Light Industrial Portfolio Acquisition",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-kayne-anderson-bkm-joint-venture-on-1-81b-light-industrial-portfolio-acquisition-302797253.html",
+      "title": "Anti-Paramount-Warner Bros. Block the Merger movement is the work of anti-American left-wing billionaires: sources",
+      "url": "https://nypost.com/2026/06/11/us-news/anti-paramount-warner-bros-block-the-merger-movement-the-work-of-left-wing-billionaires-sources/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-11T22:11:21Z",
+      "description": "\"The Paramount camp is all pro-Israel, pro-America centrists, but they're coming at us really hard.\"",
+      "maMarket": "us"
+    },
+    {
+      "title": "スポンサー離脱から一転 エスコンが最大50億円出資 モンテディオ山形新スタ建設が本格化",
+      "url": "https://news.livedoor.com/article/detail/31521999/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-11T09:28:00Z",
+      "description": "サッカーJ2・モンテディオ山形の新たなスタジアムの建設工事が本格化しています。建設への出資を予定しているエスコンとの共同会見が開かれる6月15日を前に、11日の工事現場を取材してきました。小坂憲央アナウンサー「現在のスタジアムの南側にある新スタジアム建設現場です。数台のクレーン車が稼働し作業が行われています」新スタジアムの建設現場では11日、鉄筋を配置する作業などが進められていたほか、土が盛られている場所も見られました。2026年3月から工事全文YBC山形放送ニュース 06月11日18時28分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "XLCS Partners advises Aero Controls on sale to Air Transport Components",
+      "url": "https://www.prnewswire.com/news-releases/xlcs-partners-advises-aero-controls-on-sale-to-air-transport-components-302798603.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-06-10T23:00:00Z",
-      "description": "NEW YORK, June 10, 2026 /PRNewswire/ -- Attorneys at global law firm Greenberg Traurig, LLP represented Kayne Anderson Real Estate (Kayne Anderson) and BKM Capital Partners (BKM) in their joint venture acquisition of an 8.5 million square foot portfolio of 51…",
+      "publishedAt": "2026-06-11T21:29:00Z",
+      "description": "NASHVILLE, Tenn., June 11, 2026 /PRNewswire/ -- XLCS Partners, Inc., a leading middle market investment bank, is pleased to announce that it served as exclusive M&A advisor to Aero Controls, Inc. (ACI) on its acquisition by Air Transport Components (ATC Group…",
       "maMarket": "us"
     },
     {
-      "title": "NTTの「IOWN AIファンド」にKDDIも出資へ　理由は？",
-      "url": "https://japan.cnet.com/article/35248741/",
-      "source": "CNET",
-      "publishedAt": "2026-06-10T09:11:00Z",
-      "description": "NTTは6月10日、AI時代の先端技術に投資する「IOWN AI Fund」を組成すると発表した。ファンド規模は約800億円（約5億ドル）。出資参加に関心を示している企業は世界で20社以上に上り、その中にKDDIも含まれる。KDDIは同日、本ファンドへの出資を明らかにした。",
+      "title": "地盤ネットHD、ANYCOLOR、ハウテレビジョンなど - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1068627",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-06-11T07:03:06Z",
+      "description": "&lt;6072&gt; 地盤ネットHD 1100 -400ストップ安比例配分。前日に「新規事業に関する検討状況および今後の方針について」をリリース。資本業務提携先Kaihou社との協議および検討の状況について、グループの中長期的成長および企業価値向上に向けた協議を進めているが、具体的に決定した事実はなく、今後の検討の進展により変更または中止となる可能性があると。和製バークシャーへの転換期待が株価の大幅水準訂",
       "maMarket": "jp"
-    },
-    {
-      "title": "How Contact Energy pulled off its $2.3b Manawa takeover without a leak",
-      "url": "https://www.nzherald.co.nz/business/business-reports/capital-markets-report/how-contact-energy-pulled-off-its-23b-manawa-takeover-without-a-leak/premium/4ZCCR4ZHAFDZJEG32JKTOIYGBM/",
-      "source": "New Zealand Herald",
-      "publishedAt": "2026-06-10T23:00:00Z",
-      "description": "The takeover made Contact the country’s second-largest renewable generator.",
-      "maMarket": "us"
-    },
-    {
-      "title": "Keychron、天然木×薄型磁気スイッチ搭載キーボード「K3 HE」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2116020.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-06-10T06:08:50Z",
-      "description": "Keychronは6月10日、ロープロファイルキーボード「K3」シリーズの新モデル「Keychron K3 HE」「Keychron K3 Ultra」の先行販売をMakuakeで開始した。執筆時点で製品入手に必要な最低出資額はKeychron K3 HEが1万6,800円、Keychron K3 Ultraが1万5,400円。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Review – Emperor Aquaman #18: Hostile Takeover",
-      "url": "https://geekdad.com/2026/06/review-emperor-aquaman-18-hostile-takeover/",
-      "source": "Geekdad.com",
-      "publishedAt": "2026-06-10T22:56:29Z",
-      "description": "Aquaman's portals face their biggest challenge yet - corporate greed.",
-      "maMarket": "us"
     }
   ],
   "ipo": [
@@ -83,44 +75,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Franklin Templeton to participate in SpaceX IPO, CEO Jenny Johnson confirms",
-      "url": "https://cryptobriefing.com/franklin-templeton-spacex-ipo-participation/",
+      "title": "SpaceX retail demand reportedly reaches $100B as historic IPO nears",
+      "url": "https://cryptobriefing.com/spacex-retail-demand-100-billion-ipo/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-10T22:44:37Z",
-      "description": "Franklin Templeton's participation in the SpaceX IPO highlights growing institutional interest in space technology and its market potential. The post Franklin Templeton to participate in SpaceX IPO, CEO Jenny Johnson confirms appeared first on Crypto Briefing.",
+      "publishedAt": "2026-06-11T23:14:10Z",
+      "description": "SpaceX's IPO could reshape market dynamics, setting new benchmarks for tech valuations and investor expectations in space and AI sectors. The post SpaceX retail demand reportedly reaches $100B as historic IPO nears appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "Sen. Elizabeth Warren Makes Hail Mary Plea to Delay SpaceX IPO",
-      "url": "https://gizmodo.com/sen-elizabeth-warren-makes-hail-mary-plea-to-delay-spacex-ipo-2000770190",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-06-10T22:10:33Z",
-      "description": "The IPO's net result could be \"disastrous,\" Warren said.",
+      "title": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
+      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-11T23:00:16Z",
+      "description": "SpaceX’s IPO could challenge pension funds as concerns grow over its valuation and governance structure under Musk.",
       "ipoMarket": "us"
     },
     {
-      "title": "Leverage Shares by Themes Launches 2X Long and 2X Short SpaceX ETFs Following Historic SpaceX IPO",
-      "url": "https://www.globenewswire.com/news-release/2026/06/10/3310152/0/en/Leverage-Shares-by-Themes-Launches-2X-Long-and-2X-Short-SpaceX-ETFs-Following-Historic-SpaceX-IPO.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-10T22:04:00Z",
-      "description": "SPCH and SSPC Provide Leveraged Bullish and Bearish Exposure to One of the Market's Most Anticipated Public Listings at an Industry-Low .75% Expense Ratio SPCH and SSPC Provide Leveraged Bullish and Bearish Exposure to One of the Market's Most Anticipated Pub…",
+      "title": "SpaceX IPO live updates: Elon Musk's SpaceX opens at $150 per share in record debut as Dow, S&P 500, Nasdaq rise",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1242c907-47e5-4c05-8597-11f4df9e5740",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-11T23:00:15Z",
+      "description": "",
       "ipoMarket": "us"
     },
     {
-      "title": "The SpaceX IPO will make lots of people rich. Just not you",
-      "url": "https://www.fool.com.au/2026/06/11/the-spacex-ipo-will-make-lots-of-people-rich-just-not-you/",
-      "source": "Motley Fool Australia",
-      "publishedAt": "2026-06-10T19:58:31Z",
-      "description": "SpaceX is about to float, but could it sink early investors? The post The SpaceX IPO will make lots of people rich. Just not you appeared first on The Motley Fool Australia.",
+      "title": "SpaceX raised $75B in record IPO – here’s why insiders like Elon Musk are much likelier than public stock buyers to get rocket-powered returns these days",
+      "url": "https://theconversation.com/spacex-raised-75b-in-record-ipo-heres-why-insiders-like-elon-musk-are-much-likelier-than-public-stock-buyers-to-get-rocket-powered-returns-these-days-285134",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-11T22:36:36Z",
+      "description": "In the old days, companies went public early to access cash to grow. These days, soon-to-be-public companies are already flush with cash from private finance.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "コンゴのエボラ熱 15～44歳が中心",
-      "url": "https://news.yahoo.co.jp/pickup/6583908?source=rss",
+      "title": "スペースX 米ナスダックに上場",
+      "url": "https://news.yahoo.co.jp/pickup/6584031?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-11T22:53:27.000Z",
+      "publishedAt": "2026-06-12T14:25:16.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国 TPP加盟申請の方針固める",
+      "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-12T14:16:09.000Z",
+      "description": ""
+    },
+    {
+      "title": "米イラン覚書に海峡開放 内容報道",
+      "url": "https://news.yahoo.co.jp/pickup/6584012?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-12T12:11:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "3年半意識不明 タイ王女が死去",
+      "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-12T12:10:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "ホワイトハウスに格闘技会場 賛否",
+      "url": "https://news.yahoo.co.jp/pickup/6583980?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-12T08:27:10.000Z",
+      "description": ""
+    },
+    {
+      "title": "米首都公園に不審な暗号 当局調査",
+      "url": "https://news.yahoo.co.jp/pickup/6583943?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-12T02:51:14.000Z",
+      "description": ""
+    },
+    {
+      "title": "尹氏に懲役30年 平壌への作戦指示",
+      "url": "https://news.yahoo.co.jp/pickup/6583935?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-12T02:18:43.000Z",
+      "description": ""
+    },
+    {
+      "title": "資金洗浄疑い 国際共同捜査で逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6583911?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-11T23:28:20.000Z",
       "description": ""
     },
     {
@@ -128,55 +169,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6583906?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-11T22:34:33.000Z",
-      "description": ""
-    },
-    {
-      "title": "米 イラン協議受け攻撃中止と表明",
-      "url": "https://news.yahoo.co.jp/pickup/6583899?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-11T21:24:04.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国で「抹茶発祥の地」アピール",
-      "url": "https://news.yahoo.co.jp/pickup/6583883?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-11T13:42:48.000Z",
-      "description": ""
-    },
-    {
-      "title": "欧州中銀 2年9カ月ぶり利上げ決定",
-      "url": "https://news.yahoo.co.jp/pickup/6583880?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-11T12:51:19.000Z",
-      "description": ""
-    },
-    {
-      "title": "ミャンマーで米大使館員が死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-11T10:25:10.000Z",
-      "description": ""
-    },
-    {
-      "title": "河野洋平氏死去 韓国首相が追悼",
-      "url": "https://news.yahoo.co.jp/pickup/6583815?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-11T07:10:17.000Z",
-      "description": ""
-    },
-    {
-      "title": "高級かんきつ新品種 中国流出か",
-      "url": "https://news.yahoo.co.jp/pickup/6583756?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-10T22:25:30.000Z",
-      "description": ""
-    },
-    {
-      "title": "サグラダファミリア主塔完成 祝福",
-      "url": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-10T21:40:17.000Z",
       "description": ""
     }
   ]
