@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T23:10:06.085Z",
+  "fetchedAt": "2026-06-14T23:11:58.350Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "【独自】「クールジャパン機構」廃止案　政府検討へ、累積赤字が拡大 | NEWSjp",
-      "url": "https://news.jp/i/1438136405158069105",
-      "source": "News.jp",
-      "publishedAt": "2026-06-12T14:06:33Z",
-      "description": "日本文化の海外への売り込みを目指し、主に国内企業に資金を投じる官民ファンド、海外需要開拓支援機構（クールジャパン機構）が、統廃合の検討対象となる見通しであることが12日分かった。政府は廃止を視野に入れているとみられる。出資先である新興企業の業績が振るわず、累積赤字の一段の拡大が不可避となったためだ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Man United pile on more long-term debt in latest financial move",
-      "url": "https://biztoc.com/x/0841a86a90021c4d",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-12T23:09:36Z",
-      "description": "Manchester United have taken out an additional $125million in long-term debt as part of a refinancing of borrowings stemming from the Glazers’ controversial leveraged buyout of the club in 2005. Refinancing plans Earlier this month, a report covered by The Pe…",
-      "maMarket": "us"
-    },
-    {
-      "title": "Smile Holdings(7084)、｢増配｣を発表し、配当利回りが5.4％にアップ！ 年間配当は1年で10.5％増加、2027年3月期は前期比10円増の｢1株あたり105円｣に - 配当【増配・減配】最新ニュース！",
-      "url": "https://diamond.jp/zai/articles/-/1068689",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-06-12T10:05:00Z",
-      "description": "Smile Holdings（7084）が、2027年3月期の配当予想の修正（増配）を発表し、配当利回りが5.41%に！ Smile Holdingsは、2027年3月期の年間配当を前回予想比で「10円」の増配、前期比でも「10円」の増配となる「1株あたり105円」に修正すると発表した。これにより、配当利回り（予想）は4.89％⇒5.41％にアップした。Smile Holdingsによると、「WITH HD社の完全子会社化に伴い収益基盤の強化および今後の力強い業績拡大が見込まれることから、日頃より当社をご支援いた…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Paramount Skydance merger with Warner Bros. Discovery won't harm competition, consumers, DOJ says",
-      "url": "https://www.seattlepi.com/entertainment/article/paramount-skydance-merger-with-warner-bros-22303429.php",
-      "source": "seattlepi.com",
-      "publishedAt": "2026-06-12T23:06:45Z",
-      "description": "The U.S. Justice Department has determined that Paramount Skydance’s proposed acquisition of Warner Bros. Discovery is unlikely to be harmful to consumers. The agency said Friday that an investigation by antitrust regulators concluded that the merger would in…",
-      "maMarket": "us"
-    },
-    {
-      "title": "三井化学、歯のホワイトニング材料で世界首位の米企業を買収へ",
-      "url": "https://www.asahi.com/articles/ASV6D32CGV6DULFA01TM.html",
+      "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響",
+      "url": "https://www.asahi.com/articles/ASV6D22GFV6DUTIL00PM.html",
       "source": "Asahi.com",
-      "publishedAt": "2026-06-12T09:54:24Z",
-      "description": "三井化学は12日、歯科材料の開発や販売を手がける米ウルトラデント・プロダクツを買収すると発表した。ウルトラ社は、歯のホワイトニング材料で世界首位で、シェアは約3割を持つ。買収によって市場規模が大きい…",
+      "publishedAt": "2026-06-13T22:00:00Z",
+      "description": "1日5億件とされるX（旧ツイッター）上での投稿。ビッグデータを使ってその傾向をつかむ分析が「費用」という壁に阻まれている。研究者向けに無料で提供されてきた情報取得がイーロン・マスク氏の買収後、有料化…",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount merger with Warner won't harm competition, consumers: DOJ",
-      "url": "https://www.bostonherald.com/2026/06/12/warner-paramount-doj/",
-      "source": "Boston Herald",
-      "publishedAt": "2026-06-12T23:04:33Z",
-      "description": "Paramount merger with Warner won't harm competition, consumers: DOJbostonherald.com",
+      "title": "Paramount Gets Justice Dept. Approval to Buy Warner Bros",
+      "url": "https://biztoc.com/x/a8ffbe5bd988c0c5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-13T22:56:59Z",
+      "description": "“Good” news, everyone: the Department of Justice has said it’s a-OK for Paramount to continue with the Warner Bros. merger! On Friday, the department gave a thumbs up to the $110 billion acquisition that’s been in the works since earlier this year. According …",
       "maMarket": "us"
     },
     {
-      "title": "株式会社Ｍ＆Ａ　Ｄｏ譲渡企業の着手金・中間金・成功報酬0円、畜産会社・牧場の事業承継を支える「畜産M&A総合センター」を開設",
-      "url": "https://japan.cnet.com/release/31178021/",
-      "source": "CNET",
-      "publishedAt": "2026-06-12T09:00:00Z",
-      "description": "株式会社M&A Do（本社：東京都港区、代表取締役：濱田 啓揮）は、畜産会社・牧場・畜産関連事業者に向けたM&A・事業承継の相談窓口「畜産M&A総合センター」を開設しました。 対象は、酪農・乳牛牧場、肉牛・繁殖肥育、養豚、養鶏・採卵/ブロイラー、飼料・畜産設備、堆肥処理、畜産物の運搬・販売など、畜産関連事業で会...",
+      "title": "エンゼルス買収説にミスター・ビーストが浮上！？　未確認の噂にも「集客力抜群」「すげぇなぁーーー」",
+      "url": "https://news.livedoor.com/article/detail/31541876/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-13T10:15:00Z",
+      "description": "米人気YouTuberのミスター・ビーストことジミー・ドナルドソン（28）をめぐり、ロサンゼルス・エンゼルスの買収説がSNSで取り沙汰されている。エンゼルスはアート・モレノオーナー体制のもと、近年はポストシーズン進出から遠ざかっており、売却を望むファンの声も根強い。現時点で球団売却やドナルドソンによる買収が正式に発表された事実はなく、あくまで噂段階ながらも、世界的クリエイターの名前が挙がったことで大きな関心を全文SPORTS DATA and ARTICLE 06月13日19時15分",
       "maMarket": "jp"
     },
     {
-      "title": "Justice Department Greenlights Paramount-Warner Bros Merger With No Conditions",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/justice-department-greenlights-paramount-warner-bros-merger-with-no-conditions/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-12T23:03:44Z",
-      "description": "Paramount Skydance defeated Netflix in the battle to acquire Warner Bros. Discovery, committing $111 billion for the merger.",
+      "title": "Paramount Gets Justice Dept. Approval to Buy Warner Bros. - Gizmodo",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183803694",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-13T22:52:25Z",
+      "description": "Paramount Gets Justice Dept. Approval to Buy Warner Bros.Gizmodo Justice Dept. Clears Way for Paramount-Warner Bros. MergerThe New York Times Justice Department approves Paramount’s acquisition of Warner Bros.Politico Justice Department clears way for Paramou…",
+      "maMarket": "us"
+    },
+    {
+      "title": "明治期からの悲願だった61年越しの鉄道誘致　「伊豆半島」を舞台に繰り広げられた東急vs西武の鉄路争奪戦",
+      "url": "https://otonano-shumatsu.com/articles/562471",
+      "source": "Otonano-shumatsu.com",
+      "publishedAt": "2026-06-13T06:33:39Z",
+      "description": "「伊豆に鉄道を」。伊豆半島に鉄道路線を誘致しようと、地元住民らが国（政府）に対して請願を行ったのは、1900（明治33）年にまでさかのぼる。それから61年後となる1961（昭和36）年12月に、悲願だった鉄道が静岡県伊東市湯川から同県賀茂郡下田町（現・下田市東本郷）まで開通した。そこに至るまでには、国策としての伊豆半島縦貫鉄道計画や、東急vs西武の競合対決、用地買収の難航、地元バス会社の反対など、決して順風満帆とはいえない道のりだった。こうした時代背景を振り返りながら、伊豆半島を走る鉄道の生い立ちをひも解いてみた…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Celtics working on 'gigantic' trade for $287 million star duo, per report",
+      "url": "https://www.sportingnews.com/us/nba/boston-celtics/news/celtics-working-gigantic-trade-287-million-star-duo-report/16831c0863edd7db930d254d",
+      "source": "Sporting News",
+      "publishedAt": "2026-06-13T22:48:26Z",
+      "description": "The Boston Celtics are reportedly hoping to acquire two high-profile contributors this summer.",
+      "maMarket": "us"
+    },
+    {
+      "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149191000",
+      "source": "Web.nhk",
+      "publishedAt": "2026-06-13T05:23:03Z",
+      "description": "アメリカ司法省は12日、メディア大手「パラマウント・スカイダンス」による「ワーナー・ブラザース・ディスカバリー」の買収について、アメリカの消費者にとって有害になる可能性は低いなどとして承認したことを明らかにしました。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "2009 Porsche Cayenne Turbo S at No Reserve",
+      "url": "https://bringatrailer.com/listing/2009-porsche-cayenne-turbo-s-69/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-06-13T20:40:17Z",
+      "description": "This 2009 Porsche Cayenne Turbo S was initially delivered to Porsche of Boulder in Colorado, and it has remained registered in the state through the seller's acquisition in 2023. Now with 106k miles, it is powered by a twin-turbocharged 4.8-liter V8 paired wi…",
       "maMarket": "us"
     }
   ],
@@ -83,93 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "3 things to look out for on Monday",
-      "url": "https://biztoc.com/x/3f063f9f5d68c379",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-12T23:09:14Z",
-      "description": "U.S. stocks ended higher on Friday as the highly anticipated SpaceX (SPCX) IPO launch lifted sentiment among investors. The benchmark S&P 500 (SP500) finished +0.5%, while the tech-focused Nasdaq Composite (COMP:IND) ended +0.3%, and the blue-chip Dow (DJI) …",
+      "title": "You're About To Own SpaceX. You Didn't Have A Choice.",
+      "url": "https://crooksandliars.com/2026/06/youre-about-own-spacex-you-didnt-have",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-06-13T21:35:08Z",
+      "description": "SpaceX, arguably the most legitimate of Elon Musk’s businesses, is set to have the largest initial public offering ever. But even if you’re not someone whose heart goes aflutter at the prospect of a multibazillion-dollar tech deal, and even if you’re not som…",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX makes history in largest ever initial public offering",
-      "url": "https://www.yahoo.com/news/videos/spacex-makes-history-largest-ever-224343440.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-12T22:43:43Z",
-      "description": "When SpaceX stock began trading on the NASDAQ, company founder Elon Musk became the world’s first trillionaire. Many of his current and former employees also...",
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "url": "https://www.thetelegraph.com/business/article/openai-hit-with-multistate-probe-into-possible-22304086.php",
+      "source": "Alton Telegraph",
+      "publishedAt": "2026-06-13T21:19:49Z",
+      "description": "OpenAI received a subpoena from several states as part of a probe into the safety of customers using its chatbot as it prepares to offer stock to the public for the first time. The company behind the...",
       "ipoMarket": "us"
     },
     {
-      "title": "Jim Cramer says SpaceX’s blockbuster IPO could have major implications for the week ahead",
-      "url": "https://www.cnbc.com/2026/06/12/jim-cramer-spacex-ipo-implications-week-ahead.html",
-      "source": "CNBC",
-      "publishedAt": "2026-06-12T22:28:39Z",
-      "description": "CNBC’s Jim Cramer said the successful debut of SpaceX could pave the way for more AI-related offerings and help create a more constructive backdrop for stocks.",
+      "title": "OpenAI hit with multistate probe into possible user harm, days after filing for a highly anticipated IPO",
+      "url": "https://fortune.com/2026/06/13/openai-multistate-probe-possible-user-harm-confidential-filing-ipo/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-13T21:14:09Z",
+      "description": "“AI is a new and powerful technology, and we work every day to safely bring its benefits to people in a responsible way,\" OpenAI said.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX achieves largest IPO in history, elevating Elon Musk to trillionaire status",
-      "url": "https://cryptobriefing.com/spacex-ipo-musk-trillionaire-4/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-12T21:53:48Z",
-      "description": "SpaceX's IPO success and Musk's trillionaire status highlight the growing influence of tech giants and blockchain in global finance. The post SpaceX achieves largest IPO in history, elevating Elon Musk to trillionaire status appeared first on Crypto Briefing.",
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "url": "https://japantoday.com/category/tech/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-13T21:10:55Z",
+      "description": "OpenAI received a subpoena from several states as part of a probe into the safety of users of its chatbot as it prepares to offer stock to the public for the first time. The company behind the popular chatbot, ChatGPT, said it will respond to the inquiry “con…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米イラン 戦闘終結へ合意間近か",
-      "url": "https://news.yahoo.co.jp/pickup/6584127?source=rss",
+      "title": "ホルムズ海峡全面開放へ 米大統領",
+      "url": "https://news.yahoo.co.jp/pickup/6584280?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-13T13:09:21.000Z",
+      "publishedAt": "2026-06-14T23:08:52.000Z",
       "description": ""
     },
     {
-      "title": "ウ攻撃 露都市の住民に湧く不満",
-      "url": "https://news.yahoo.co.jp/pickup/6584108?source=rss",
+      "title": "米イランが和平合意 戦闘終結へ",
+      "url": "https://news.yahoo.co.jp/pickup/6584278?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-13T09:30:51.000Z",
+      "publishedAt": "2026-06-14T23:08:04.000Z",
       "description": ""
     },
     {
-      "title": "ウクライナ戦況好転 露の侵略停滞",
-      "url": "https://news.yahoo.co.jp/pickup/6584101?source=rss",
+      "title": "異例ずくめ トランプ氏80歳誕生日",
+      "url": "https://news.yahoo.co.jp/pickup/6584274?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-13T08:44:40.000Z",
+      "publishedAt": "2026-06-14T22:49:26.000Z",
       "description": ""
     },
     {
-      "title": "米軍 ベネズエラ犯罪組織幹部殺害",
-      "url": "https://news.yahoo.co.jp/pickup/6584082?source=rss",
+      "title": "中国とモンゴル 軍国主義を非難",
+      "url": "https://news.yahoo.co.jp/pickup/6584261?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-13T06:32:30.000Z",
+      "publishedAt": "2026-06-14T14:16:51.000Z",
       "description": ""
     },
     {
-      "title": "韓国 TPP加盟申請の方針固める",
-      "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
+      "title": "英 露「影の船団」タンカーを拿捕",
+      "url": "https://news.yahoo.co.jp/pickup/6584253?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-12T14:16:09.000Z",
+      "publishedAt": "2026-06-14T13:27:20.000Z",
       "description": ""
     },
     {
-      "title": "3年半意識不明 タイ王女が死去",
-      "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
+      "title": "53年ぶりNBA優勝 ファンが暴徒化",
+      "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-12T12:10:38.000Z",
+      "publishedAt": "2026-06-14T13:20:09.000Z",
       "description": ""
     },
     {
-      "title": "米首都公園に不審な暗号 当局調査",
-      "url": "https://news.yahoo.co.jp/pickup/6583943?source=rss",
+      "title": "メキシコでまた市長殺害 抗争激化",
+      "url": "https://news.yahoo.co.jp/pickup/6584232?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-12T02:51:14.000Z",
+      "publishedAt": "2026-06-14T09:29:57.000Z",
       "description": ""
     },
     {
-      "title": "尹氏に懲役30年 平壌への作戦指示",
-      "url": "https://news.yahoo.co.jp/pickup/6583935?source=rss",
+      "title": "米大統領に健康不安説 払拭に躍起",
+      "url": "https://news.yahoo.co.jp/pickup/6584222?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-12T02:18:43.000Z",
+      "publishedAt": "2026-06-14T08:46:06.000Z",
       "description": ""
     }
   ]
