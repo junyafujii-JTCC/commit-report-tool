@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T23:11:58.350Z",
+  "fetchedAt": "2026-06-15T23:49:16.790Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,38 @@
   ],
   "ma": [
     {
+      "title": "なぜ「魁力屋」は、天下一品の“子分”を買収したのか…激化する「京都ラーメン戦争」のゆくえ",
+      "url": "https://news.livedoor.com/article/detail/31551465/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-14T21:10:00Z",
+      "description": "〈「パクリっぽいラーメン」で閉店ラッシュ…天下一品の“愛弟子”が仕掛けたチェーン「伍福軒」がたった1年で消滅してしまったワケ〉から続く上位数社がシェアの大半を占める牛丼やハンバーガーなどと違って、ラーメン業界は最大規模の「幸楽苑」でも約360店、ほか200店前後でスガキヤ・来来亭・丸源ラーメン・天下一品などがひしめき、群雄割拠の様相を呈している。【写真】魁力屋が買収した「天下一品の子分」が出していたラーメンや、京都発祥の各チェーンの商品などをたっぷり全文文春オンライン 06月15日06時10分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "riftbound-database 0.1.1",
+      "url": "https://pypi.org/project/riftbound-database/0.1.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-06-14T22:02:47Z",
+      "description": "Acquisition, normalization, versioning, and persistence for Riftbound data.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【大激論】ジャンプ黄金期世代に聞きたい　聖闘士星矢・北斗の拳・キン肉マン、一番人気だったのはどれ？",
+      "url": "https://nwknews.jp/archives/6245848.html",
+      "source": "Nwknews.jp",
+      "publishedAt": "2026-06-14T11:53:34Z",
+      "description": "1：名無し募集中。。。：2011/07/21(木) 23:20:19.71 ID:0 ★70年代連載スター―ト こちら亀 1976年42号 - 連載中 キン肉マン 1979年22号 - 1987年21号 ★80年代前半連載スタート アラレちゃん 1980年5・6合併号 - 1984年39号",
+      "maMarket": "jp"
+    },
+    {
+      "title": "How A $40K Coffee Kiosk Grew Into A 912-Store, $859M Business — And Why Its Owners Declined A $1B Buyout",
+      "url": "https://biztoc.com/x/63798f187a7cfc81",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-14T21:30:18Z",
+      "description": "How A $40K Coffee Kiosk Grew Into A 912-Store, $859M Business — And Why Its Owners Declined A $1B Buyout Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Don and Linda Eckles launched Scooter's Coffee after …",
+      "maMarket": "us"
+    },
+    {
       "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響",
       "url": "https://www.asahi.com/articles/ASV6D22GFV6DUTIL00PM.html",
       "source": "Asahi.com",
@@ -17,27 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Paramount Gets Justice Dept. Approval to Buy Warner Bros",
-      "url": "https://biztoc.com/x/a8ffbe5bd988c0c5",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-13T22:56:59Z",
-      "description": "“Good” news, everyone: the Department of Justice has said it’s a-OK for Paramount to continue with the Warner Bros. merger! On Friday, the department gave a thumbs up to the $110 billion acquisition that’s been in the works since earlier this year. According …",
-      "maMarket": "us"
-    },
-    {
-      "title": "エンゼルス買収説にミスター・ビーストが浮上！？　未確認の噂にも「集客力抜群」「すげぇなぁーーー」",
-      "url": "https://news.livedoor.com/article/detail/31541876/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-13T10:15:00Z",
-      "description": "米人気YouTuberのミスター・ビーストことジミー・ドナルドソン（28）をめぐり、ロサンゼルス・エンゼルスの買収説がSNSで取り沙汰されている。エンゼルスはアート・モレノオーナー体制のもと、近年はポストシーズン進出から遠ざかっており、売却を望むファンの声も根強い。現時点で球団売却やドナルドソンによる買収が正式に発表された事実はなく、あくまで噂段階ながらも、世界的クリエイターの名前が挙がったことで大きな関心を全文SPORTS DATA and ARTICLE 06月13日19時15分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Paramount Gets Justice Dept. Approval to Buy Warner Bros. - Gizmodo",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183803694",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-13T22:52:25Z",
-      "description": "Paramount Gets Justice Dept. Approval to Buy Warner Bros.Gizmodo Justice Dept. Clears Way for Paramount-Warner Bros. MergerThe New York Times Justice Department approves Paramount’s acquisition of Warner Bros.Politico Justice Department clears way for Paramou…",
+      "title": "Liberland Fires Tech Secretary After Alleged Blockchain And Website Takeover Attempt",
+      "url": "https://bitcoinist.com/liberland-fires-tech-secretary-after-alleged-blockchain-and-website-takeover-att/",
+      "source": "Bitcoinist",
+      "publishedAt": "2026-06-14T21:30:08Z",
+      "description": "Liberland’s congress voted to remove Secretary of Technology Dorian Stern Vukotić.",
       "maMarket": "us"
     },
     {
@@ -49,27 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Celtics working on 'gigantic' trade for $287 million star duo, per report",
-      "url": "https://www.sportingnews.com/us/nba/boston-celtics/news/celtics-working-gigantic-trade-287-million-star-duo-report/16831c0863edd7db930d254d",
-      "source": "Sporting News",
-      "publishedAt": "2026-06-13T22:48:26Z",
-      "description": "The Boston Celtics are reportedly hoping to acquire two high-profile contributors this summer.",
-      "maMarket": "us"
-    },
-    {
-      "title": "パラマウントによるワーナー買収 アメリカ司法省が承認",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015149191000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-06-13T05:23:03Z",
-      "description": "アメリカ司法省は12日、メディア大手「パラマウント・スカイダンス」による「ワーナー・ブラザース・ディスカバリー」の買収について、アメリカの消費者にとって有害になる可能性は低いなどとして承認したことを明らかにしました。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2009 Porsche Cayenne Turbo S at No Reserve",
-      "url": "https://bringatrailer.com/listing/2009-porsche-cayenne-turbo-s-69/",
+      "title": "29-Years-Owned 1981 Chevrolet Corvette Project at No Reserve",
+      "url": "https://bringatrailer.com/listing/1981-chevrolet-corvette-139/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-13T20:40:17Z",
-      "description": "This 2009 Porsche Cayenne Turbo S was initially delivered to Porsche of Boulder in Colorado, and it has remained registered in the state through the seller's acquisition in 2023. Now with 106k miles, it is powered by a twin-turbocharged 4.8-liter V8 paired wi…",
+      "publishedAt": "2026-06-14T21:25:06Z",
+      "description": "This 1981 Chevrolet Corvette project was refinished in red prior to the seller's acquisition in 1997, and it is powered by a 350ci L81 V8 linked to a three-speed automatic transmission and a Positraction differential. It rolls on 15\" eight-slot alloy wheels a…",
       "maMarket": "us"
     }
   ],
@@ -83,93 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "You're About To Own SpaceX. You Didn't Have A Choice.",
-      "url": "https://crooksandliars.com/2026/06/youre-about-own-spacex-you-didnt-have",
-      "source": "Crooksandliars.com",
-      "publishedAt": "2026-06-13T21:35:08Z",
-      "description": "SpaceX, arguably the most legitimate of Elon Musk’s businesses, is set to have the largest initial public offering ever. But even if you’re not someone whose heart goes aflutter at the prospect of a multibazillion-dollar tech deal, and even if you’re not som…",
+      "title": "Longtime SpaceX Investor Cathie Wood Made This Move on IPO Day. Should You Follow?",
+      "url": "https://biztoc.com/x/4e7fd6eb23681871",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-14T22:46:10Z",
+      "description": "Cathie Wood, the founder of Ark Invest, is known for her support of Elon Musk's innovations and ambitions. Wood's biggest holding in the flagship Ark Innovation fund is Tesla, and SpaceX (NASDAQ: SPCX) is the top holding in the Ark Venture fund. Musk is the c…",
       "ipoMarket": "us"
     },
     {
-      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-      "url": "https://www.thetelegraph.com/business/article/openai-hit-with-multistate-probe-into-possible-22304086.php",
-      "source": "Alton Telegraph",
-      "publishedAt": "2026-06-13T21:19:49Z",
-      "description": "OpenAI received a subpoena from several states as part of a probe into the safety of customers using its chatbot as it prepares to offer stock to the public for the first time. The company behind the...",
+      "title": "SpaceX completes largest-ever IPO at $75B, reveals massive Bitcoin treasury",
+      "url": "https://cryptobriefing.com/spacex-ipo-bitcoin-treasury/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-14T22:19:48Z",
+      "description": "SpaceX's IPO and Bitcoin holdings could significantly influence market dynamics, highlighting the growing intersection of tech and crypto finance. The post SpaceX completes largest-ever IPO at $75B, reveals massive Bitcoin treasury appeared first on Crypto Br…",
       "ipoMarket": "us"
     },
     {
-      "title": "OpenAI hit with multistate probe into possible user harm, days after filing for a highly anticipated IPO",
-      "url": "https://fortune.com/2026/06/13/openai-multistate-probe-possible-user-harm-confidential-filing-ipo/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-13T21:14:09Z",
-      "description": "“AI is a new and powerful technology, and we work every day to safely bring its benefits to people in a responsible way,\" OpenAI said.",
+      "title": "Hasan Piker Calls Musk a ’F***ing Failure as Leftist Meltdown Over SpaceX IPO Intensifies",
+      "url": "https://legalinsurrection.com/2026/06/hasan-piker-calls-musk-a-fing-failure-as-leftist-meltdown-over-spacex-ipo-intensifies/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-06-14T22:00:34Z",
+      "description": "\"He happened to be at the right place at the right time ... He’s a horrible person, an unbelievably insecure person, and yet he’s the richest person on the planet.\" The post Hasan Piker Calls Musk a ’F***ing Failure as Leftist Meltdown Over SpaceX IPO Intensi…",
       "ipoMarket": "us"
     },
     {
-      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-      "url": "https://japantoday.com/category/tech/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-13T21:10:55Z",
-      "description": "OpenAI received a subpoena from several states as part of a probe into the safety of users of its chatbot as it prepares to offer stock to the public for the first time. The company behind the popular chatbot, ChatGPT, said it will respond to the inquiry “con…",
+      "title": "Live: ASX set to rise on US-Iran peace hopes, Wall St lifts on SpaceX IPO debut",
+      "url": "https://www.abc.net.au/news/2026-06-15/asx-markets-business-news-live-updates-jun-15/106796716",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-14T20:59:54Z",
+      "description": "Wall Street closed the week higher, buoyed by hopes of peace in the Middle East and a successful debut of the SpaceX float. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ホルムズ海峡全面開放へ 米大統領",
-      "url": "https://news.yahoo.co.jp/pickup/6584280?source=rss",
+      "title": "米大統領は宮殿で夕食 G7で厚遇",
+      "url": "https://news.yahoo.co.jp/pickup/6584405?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T23:08:52.000Z",
+      "publishedAt": "2026-06-15T22:38:06.000Z",
       "description": ""
     },
     {
-      "title": "米イランが和平合意 戦闘終結へ",
-      "url": "https://news.yahoo.co.jp/pickup/6584278?source=rss",
+      "title": "9カ国共同声明 米イラン覚書歓迎",
+      "url": "https://news.yahoo.co.jp/pickup/6584401?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T23:08:04.000Z",
+      "publishedAt": "2026-06-15T22:22:37.000Z",
       "description": ""
     },
     {
-      "title": "異例ずくめ トランプ氏80歳誕生日",
-      "url": "https://news.yahoo.co.jp/pickup/6584274?source=rss",
+      "title": "米とイランの戦争 何を残したのか",
+      "url": "https://news.yahoo.co.jp/pickup/6584379?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T22:49:26.000Z",
+      "publishedAt": "2026-06-15T11:41:57.000Z",
       "description": ""
     },
     {
-      "title": "中国とモンゴル 軍国主義を非難",
-      "url": "https://news.yahoo.co.jp/pickup/6584261?source=rss",
+      "title": "米イラン合意 イスラエル反応せず",
+      "url": "https://news.yahoo.co.jp/pickup/6584335?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T14:16:51.000Z",
+      "publishedAt": "2026-06-15T06:43:04.000Z",
       "description": ""
     },
     {
-      "title": "英 露「影の船団」タンカーを拿捕",
-      "url": "https://news.yahoo.co.jp/pickup/6584253?source=rss",
+      "title": "スイスの人口1000万人制限案 否決",
+      "url": "https://news.yahoo.co.jp/pickup/6584329?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T13:27:20.000Z",
+      "publishedAt": "2026-06-15T06:39:36.000Z",
       "description": ""
     },
     {
-      "title": "53年ぶりNBA優勝 ファンが暴徒化",
-      "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
+      "title": "露がキーウに空爆 世界遺産炎上",
+      "url": "https://news.yahoo.co.jp/pickup/6584326?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T13:20:09.000Z",
+      "publishedAt": "2026-06-15T06:08:43.000Z",
       "description": ""
     },
     {
-      "title": "メキシコでまた市長殺害 抗争激化",
-      "url": "https://news.yahoo.co.jp/pickup/6584232?source=rss",
+      "title": "ジャガイモ余りが深刻化 ベルギー",
+      "url": "https://news.yahoo.co.jp/pickup/6584312?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T09:29:57.000Z",
+      "publishedAt": "2026-06-15T03:34:51.000Z",
       "description": ""
     },
     {
-      "title": "米大統領に健康不安説 払拭に躍起",
-      "url": "https://news.yahoo.co.jp/pickup/6584222?source=rss",
+      "title": "米イラン和平合意 19日に覚書署名",
+      "url": "https://news.yahoo.co.jp/pickup/6584310?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-14T08:46:06.000Z",
+      "publishedAt": "2026-06-15T03:20:00.000Z",
       "description": ""
     }
   ]
