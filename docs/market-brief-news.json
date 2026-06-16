@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T23:49:16.790Z",
+  "fetchedAt": "2026-06-16T23:25:51.724Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "なぜ「魁力屋」は、天下一品の“子分”を買収したのか…激化する「京都ラーメン戦争」のゆくえ",
-      "url": "https://news.livedoor.com/article/detail/31551465/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-14T21:10:00Z",
-      "description": "〈「パクリっぽいラーメン」で閉店ラッシュ…天下一品の“愛弟子”が仕掛けたチェーン「伍福軒」がたった1年で消滅してしまったワケ〉から続く上位数社がシェアの大半を占める牛丼やハンバーガーなどと違って、ラーメン業界は最大規模の「幸楽苑」でも約360店、ほか200店前後でスガキヤ・来来亭・丸源ラーメン・天下一品などがひしめき、群雄割拠の様相を呈している。【写真】魁力屋が買収した「天下一品の子分」が出していたラーメンや、京都発祥の各チェーンの商品などをたっぷり全文文春オンライン 06月15日06時10分",
+      "title": "FoxがRokuを約220億ドルで買収へ｜ストリーミング事業を強化",
+      "url": "https://netaful.jp/news/0205426.html",
+      "source": "Netaful.jp",
+      "publishedAt": "2026-06-15T23:00:00Z",
+      "description": "TechCrunchによると、Foxは動画配信プラットフォームのRokuを株式と現金を組み合わせた約220億ドル（約3兆円超）で買収すると発表しました。取引は両社の取締役会で承認されており、2027年前半の完了を予定して... 投稿 FoxがRokuを約220億ドルで買収へ｜ストリーミング事業を強化 は ネタフル に最初に表示されました。",
       "maMarket": "jp"
     },
     {
-      "title": "riftbound-database 0.1.1",
-      "url": "https://pypi.org/project/riftbound-database/0.1.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-06-14T22:02:47Z",
-      "description": "Acquisition, normalization, versioning, and persistence for Riftbound data.",
-      "maMarket": "us"
-    },
-    {
-      "title": "【大激論】ジャンプ黄金期世代に聞きたい　聖闘士星矢・北斗の拳・キン肉マン、一番人気だったのはどれ？",
-      "url": "https://nwknews.jp/archives/6245848.html",
-      "source": "Nwknews.jp",
-      "publishedAt": "2026-06-14T11:53:34Z",
-      "description": "1：名無し募集中。。。：2011/07/21(木) 23:20:19.71 ID:0 ★70年代連載スター―ト こちら亀 1976年42号 - 連載中 キン肉マン 1979年22号 - 1987年21号 ★80年代前半連載スタート アラレちゃん 1980年5・6合併号 - 1984年39号",
-      "maMarket": "jp"
-    },
-    {
-      "title": "How A $40K Coffee Kiosk Grew Into A 912-Store, $859M Business — And Why Its Owners Declined A $1B Buyout",
-      "url": "https://biztoc.com/x/63798f187a7cfc81",
+      "title": "Paramount-Warner Bros. Discovery Merger Has State AGs Seeing More Than Just Antitrust Issues",
+      "url": "https://biztoc.com/x/59e8c75303be50e0",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-14T21:30:18Z",
-      "description": "How A $40K Coffee Kiosk Grew Into A 912-Store, $859M Business — And Why Its Owners Declined A $1B Buyout Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Don and Linda Eckles launched Scooter's Coffee after …",
+      "publishedAt": "2026-06-15T23:24:28Z",
+      "description": "In a tough and rough election year for incumbents, Paramount’s $111 billion acquisition of Warner Bros Discovery has become a political football in California and across the nation. Just a few feet from Donald Trump, a smiling David Ellison was front and cent…",
       "maMarket": "us"
     },
     {
-      "title": "無料→いきなり月800万円　Xのデータ有料化、情報工作追跡に影響",
-      "url": "https://www.asahi.com/articles/ASV6D22GFV6DUTIL00PM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-06-13T22:00:00Z",
-      "description": "1日5億件とされるX（旧ツイッター）上での投稿。ビッグデータを使ってその傾向をつかむ分析が「費用」という壁に阻まれている。研究者向けに無料で提供されてきた情報取得がイーロン・マスク氏の買収後、有料化…",
+      "title": "信頼される日本からの密輸は安全？中国が狙うAI半導体はどう運び込まれるか、４つのルートと４段階の工程",
+      "url": "https://wedge.ismedia.jp/articles/-/40728",
+      "source": "Ismedia.jp",
+      "publishedAt": "2026-06-15T20:00:00Z",
+      "description": "日本を経由した、米エヌビディア製のAI（人工知能）半導体の中国への密輸事件が浮上した。通関検査官や港湾関係者が買収されやすい途上国ではなく、日本が経由地になったのはなぜか。",
       "maMarket": "jp"
     },
     {
-      "title": "Liberland Fires Tech Secretary After Alleged Blockchain And Website Takeover Attempt",
-      "url": "https://bitcoinist.com/liberland-fires-tech-secretary-after-alleged-blockchain-and-website-takeover-att/",
-      "source": "Bitcoinist",
-      "publishedAt": "2026-06-14T21:30:08Z",
-      "description": "Liberland’s congress voted to remove Secretary of Technology Dorian Stern Vukotić.",
-      "maMarket": "us"
-    },
-    {
-      "title": "明治期からの悲願だった61年越しの鉄道誘致　「伊豆半島」を舞台に繰り広げられた東急vs西武の鉄路争奪戦",
-      "url": "https://otonano-shumatsu.com/articles/562471",
-      "source": "Otonano-shumatsu.com",
-      "publishedAt": "2026-06-13T06:33:39Z",
-      "description": "「伊豆に鉄道を」。伊豆半島に鉄道路線を誘致しようと、地元住民らが国（政府）に対して請願を行ったのは、1900（明治33）年にまでさかのぼる。それから61年後となる1961（昭和36）年12月に、悲願だった鉄道が静岡県伊東市湯川から同県賀茂郡下田町（現・下田市東本郷）まで開通した。そこに至るまでには、国策としての伊豆半島縦貫鉄道計画や、東急vs西武の競合対決、用地買収の難航、地元バス会社の反対など、決して順風満帆とはいえない道のりだった。こうした時代背景を振り返りながら、伊豆半島を走る鉄道の生い立ちをひも解いてみた…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "29-Years-Owned 1981 Chevrolet Corvette Project at No Reserve",
-      "url": "https://bringatrailer.com/listing/1981-chevrolet-corvette-139/",
+      "title": "18k-Mile 2006 Mercedes-Benz CLK55 AMG Cabriolet",
+      "url": "https://bringatrailer.com/listing/2006-mercedes-benz-clk55-amg-cabriolet-6/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-14T21:25:06Z",
-      "description": "This 1981 Chevrolet Corvette project was refinished in red prior to the seller's acquisition in 1997, and it is powered by a 350ci L81 V8 linked to a three-speed automatic transmission and a Positraction differential. It rolls on 15\" eight-slot alloy wheels a…",
+      "publishedAt": "2026-06-15T22:40:19Z",
+      "description": "This 2006 Mercedes-Benz CLK55 AMG cabriolet spent time registered in California, Virginia, and New York before its recent acquisition by the selling dealer. Now indicating 18k miles, the car is finished in Alabaster White over black leather. Power is provided…",
+      "maMarket": "us"
+    },
+    {
+      "title": "米メディア大手FOXが動画配信のRokuを買収へ　約3.5兆円で",
+      "url": "https://www.asahi.com/articles/ASV6H4VSVV6HSFVU3KGM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-06-15T15:15:00Z",
+      "description": "米国のメディア企業「FOX（フォックス）」が15日、動画配信プラットフォームの「Roku（ロク）」を220億ドル（約3兆5千億円）で買収することで合意したと発表した。フォックスによると、買収によって…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "DOJ’s Clearance of Paramount-WBD Merger Surprised Staff Investigators | Report",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-doj-clearance-surprised-investigators/",
+      "source": "TheWrap",
+      "publishedAt": "2026-06-15T22:40:13Z",
+      "description": "The Wall Street Journal reports that a group of career lawyers were due to recommend a lawsuit to challenge the $110 billion merger The post DOJ’s Clearance of Paramount-WBD Merger Surprised Staff Investigators | Report appeared first on TheWrap.",
+      "maMarket": "us"
+    },
+    {
+      "title": "船井電機の前社長に2億円の賠償請求　「世界のFUNAI」が世間に見せつけた跡継ぎ問題の難しさ",
+      "url": "https://news.livedoor.com/article/detail/31560058/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-15T11:02:00Z",
+      "description": "民事再生法の適用申請が取り下げられ、破産手続きを進めている船井電機の破産管財人が、10日に開いた債権者集会で前社長の上田智一氏に約2億円の損害賠償を求めて提訴したことが明らかになった。 船井電機は2023年4月に脱毛サロンを運営する「ミュゼプラチナム」を買収したが、翌年に香港系の投資ファンドKOC・JAPANに売却していた。売却の際、上田氏の指示でゴルフスクールなどを経営する合同会社に約2億円を支払ったという。社内規則で定められた投融資審議会を経ることなく全文内外タイムス 06月15日20時02分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Report: Sony saved Bungie in 'emergency acquisition,' studio may have closed otherwise",
+      "url": "https://www.tweaktown.com/news/112167/report-sony-saved-bungie-in-emergency-acquisition-studio-may-have-closed-otherwise/index.html",
+      "source": "TweakTown",
+      "publishedAt": "2026-06-15T22:35:06Z",
+      "description": "Sony may have actually saved Bungie from demise, buying the studio time with its $3.7 billion purchase of the studio and facilitating Marathon's launch.Continue reading at TweakTown",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1068781",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-06-15T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞15:30 内田真一日銀副総裁が会見(植田総裁が入院中のため) 日銀政策委員会・金融政策決定会合(2日目)、終了後決定内容発表 1.00％ 0.75％ GOが東証グロースに新規上場(公開価格:2400円)＜海外＞10:30 中・新築住宅価格(5月) 0.19％10:30 中・中古住宅価格(5月) 0.23％11:00 中・小売売上高(5月) 0％ 0.2％11",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "SpaceX IPO gives Elon Musk net worth number that stuns Wall Street",
+      "url": "https://biztoc.com/x/e11000fa3dfcdc40",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-15T23:10:11Z",
+      "description": "Elon Musk recently posted on X, the social media platform he owns, that \"whoever said 'money can't buy happiness' really knew what they were talking about.\" He's now in a position to test that theory at a scale nobody in history has ever faced. On June 12, 20…",
+      "ipoMarket": "us"
+    },
     {
       "title": "Invesco インベスコQQQ 587A 東京証券取引所に新規上場　運用資産残高 65兆円　NISA成長投資枠の“次の一手” ETF を日本市場に展開　東証取引時間中に円建てで売買を可能に",
       "url": "https://getnews.jp/archives/3723029",
@@ -83,39 +99,80 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Longtime SpaceX Investor Cathie Wood Made This Move on IPO Day. Should You Follow?",
-      "url": "https://biztoc.com/x/4e7fd6eb23681871",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-14T22:46:10Z",
-      "description": "Cathie Wood, the founder of Ark Invest, is known for her support of Elon Musk's innovations and ambitions. Wood's biggest holding in the flagship Ark Innovation fund is Tesla, and SpaceX (NASDAQ: SPCX) is the top holding in the Ark Venture fund. Musk is the c…",
+      "title": "Japan’s biggest taxi app raised $553 million in the country’s largest IPO this year",
+      "url": "https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs/",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-15T22:18:27Z",
+      "description": "Go Inc., Japan’s most widely used taxi-hailing app, begins trading on the Tokyo Stock Exchange on Tuesday after raising ¥88.6 billion ($553 million) in the country’s largest initial public offering this year. The offering was more than 25 times oversubscribed…",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX completes largest-ever IPO at $75B, reveals massive Bitcoin treasury",
-      "url": "https://cryptobriefing.com/spacex-ipo-bitcoin-treasury/",
+      "title": "RMG ML Sports Holdings Announces Closing of Partial Exercise of Over-Allotment Option in Connection with its Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/06/15/3312180/0/en/RMG-ML-Sports-Holdings-Announces-Closing-of-Partial-Exercise-of-Over-Allotment-Option-in-Connection-with-its-Initial-Public-Offering.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-15T21:15:00Z",
+      "description": "Incline Village, NV, June 15, 2026 (GLOBE NEWSWIRE) -- RMG ML Sports Holdings (the “Company”), a newly organized special purpose acquisition company formed as a Cayman Islands exempted company and led by Chief Executive Officer, James Carpenter, and President…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX shares climb for second straight day as IPO sparks crypto market frenzy",
+      "url": "https://cryptobriefing.com/spacex-ipo-shares-rise-crypto-impact/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-14T22:19:48Z",
-      "description": "SpaceX's IPO and Bitcoin holdings could significantly influence market dynamics, highlighting the growing intersection of tech and crypto finance. The post SpaceX completes largest-ever IPO at $75B, reveals massive Bitcoin treasury appeared first on Crypto Br…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Hasan Piker Calls Musk a ’F***ing Failure as Leftist Meltdown Over SpaceX IPO Intensifies",
-      "url": "https://legalinsurrection.com/2026/06/hasan-piker-calls-musk-a-fing-failure-as-leftist-meltdown-over-spacex-ipo-intensifies/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-06-14T22:00:34Z",
-      "description": "\"He happened to be at the right place at the right time ... He’s a horrible person, an unbelievably insecure person, and yet he’s the richest person on the planet.\" The post Hasan Piker Calls Musk a ’F***ing Failure as Leftist Meltdown Over SpaceX IPO Intensi…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Live: ASX set to rise on US-Iran peace hopes, Wall St lifts on SpaceX IPO debut",
-      "url": "https://www.abc.net.au/news/2026-06-15/asx-markets-business-news-live-updates-jun-15/106796716",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-14T20:59:54Z",
-      "description": "Wall Street closed the week higher, buoyed by hopes of peace in the Middle East and a successful debut of the SpaceX float. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "publishedAt": "2026-06-15T21:05:49Z",
+      "description": "SpaceX's IPO surge highlights the growing intersection of traditional finance and crypto, raising questions about market stability and investor protection. The post SpaceX shares climb for second straight day as IPO sparks crypto market frenzy appeared first …",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "原油先物が5%急落 3カ月ぶり安値",
+      "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T22:24:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "米イラン合意 ネタニヤフ氏悪夢に",
+      "url": "https://news.yahoo.co.jp/pickup/6584521?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T13:58:32.000Z",
+      "description": ""
+    },
+    {
+      "title": "利上げ 若年層の住宅ローン負担増",
+      "url": "https://news.yahoo.co.jp/pickup/6584519?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T13:46:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "W杯のチケット高騰 NYの現状は",
+      "url": "https://news.yahoo.co.jp/pickup/6584446?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T04:34:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "ペルシャ湾で日本関係の船舶損傷",
+      "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T02:22:21.000Z",
+      "description": ""
+    },
+    {
+      "title": "米でB52爆撃機墜落 乗員8人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T02:04:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "米イラン 戦闘終結の覚書に署名",
+      "url": "https://news.yahoo.co.jp/pickup/6584424?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-16T01:38:56.000Z",
+      "description": ""
+    },
     {
       "title": "米大統領は宮殿で夕食 G7で厚遇",
       "url": "https://news.yahoo.co.jp/pickup/6584405?source=rss",
@@ -131,45 +188,10 @@
       "description": ""
     },
     {
-      "title": "米とイランの戦争 何を残したのか",
-      "url": "https://news.yahoo.co.jp/pickup/6584379?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T11:41:57.000Z",
-      "description": ""
-    },
-    {
-      "title": "米イラン合意 イスラエル反応せず",
-      "url": "https://news.yahoo.co.jp/pickup/6584335?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T06:43:04.000Z",
-      "description": ""
-    },
-    {
       "title": "スイスの人口1000万人制限案 否決",
       "url": "https://news.yahoo.co.jp/pickup/6584329?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-15T06:39:36.000Z",
-      "description": ""
-    },
-    {
-      "title": "露がキーウに空爆 世界遺産炎上",
-      "url": "https://news.yahoo.co.jp/pickup/6584326?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T06:08:43.000Z",
-      "description": ""
-    },
-    {
-      "title": "ジャガイモ余りが深刻化 ベルギー",
-      "url": "https://news.yahoo.co.jp/pickup/6584312?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T03:34:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "米イラン和平合意 19日に覚書署名",
-      "url": "https://news.yahoo.co.jp/pickup/6584310?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T03:20:00.000Z",
       "description": ""
     }
   ]
