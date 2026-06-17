@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T23:25:51.724Z",
+  "fetchedAt": "2026-06-17T23:42:12.724Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "FoxがRokuを約220億ドルで買収へ｜ストリーミング事業を強化",
-      "url": "https://netaful.jp/news/0205426.html",
-      "source": "Netaful.jp",
-      "publishedAt": "2026-06-15T23:00:00Z",
-      "description": "TechCrunchによると、Foxは動画配信プラットフォームのRokuを株式と現金を組み合わせた約220億ドル（約3兆円超）で買収すると発表しました。取引は両社の取締役会で承認されており、2027年前半の完了を予定して... 投稿 FoxがRokuを約220億ドルで買収へ｜ストリーミング事業を強化 は ネタフル に最初に表示されました。",
+      "title": "高橋盾とNIGO®の37年の歩みから紐解く、HUMAN MADEがアンダーカバーを買収した意味",
+      "url": "https://www.fashionsnap.com/article/human-made-undercover/",
+      "source": "Fashionsnap.com",
+      "publishedAt": "2026-06-16T23:30:05Z",
+      "description": "HUMAN MADEが、アンダーカバーの全株式取得に向けた基本合意書を締結することを決議した。株式譲渡契約の締結は9月、株式譲渡の実行は2027年2月を想定しており、取得が完了した場合、アンダーカバーは2028年1月期第1四半期からHUMAN MADEの連結子会社となる見込みだ。今回の決議は、単なるブランド買収にとどまらない。高橋盾とNIGO®という、1990年代の東京ストリートを象徴する2人の絆、そして「裏原宿カルチャー」の歴史と深く結びついた、記念碑的なディールである。 このコンテンツは FASHIONSNA…",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount-Warner Bros. Discovery Merger Has State AGs Seeing More Than Just Antitrust Issues",
-      "url": "https://biztoc.com/x/59e8c75303be50e0",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-15T23:24:28Z",
-      "description": "In a tough and rough election year for incumbents, Paramount’s $111 billion acquisition of Warner Bros Discovery has become a political football in California and across the nation. Just a few feet from Donald Trump, a smiling David Ellison was front and cent…",
-      "maMarket": "us"
-    },
-    {
-      "title": "信頼される日本からの密輸は安全？中国が狙うAI半導体はどう運び込まれるか、４つのルートと４段階の工程",
-      "url": "https://wedge.ismedia.jp/articles/-/40728",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-06-15T20:00:00Z",
-      "description": "日本を経由した、米エヌビディア製のAI（人工知能）半導体の中国への密輸事件が浮上した。通関検査官や港湾関係者が買収されやすい途上国ではなく、日本が経由地になったのはなぜか。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "18k-Mile 2006 Mercedes-Benz CLK55 AMG Cabriolet",
-      "url": "https://bringatrailer.com/listing/2006-mercedes-benz-clk55-amg-cabriolet-6/",
+      "title": "1976 Lincoln Continental Town Coupe at No Reserve",
+      "url": "https://bringatrailer.com/listing/1976-lincoln-continental-7/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-15T22:40:19Z",
-      "description": "This 2006 Mercedes-Benz CLK55 AMG cabriolet spent time registered in California, Virginia, and New York before its recent acquisition by the selling dealer. Now indicating 18k miles, the car is finished in Alabaster White over black leather. Power is provided…",
+      "publishedAt": "2026-06-16T23:15:05Z",
+      "description": "This 1976 Lincoln Continental Town coupe is said to have remained with its first owner until its May 2003 acquisition by the seller's late father. Finished in white over Dark Red leather, the car is powered by a 460ci V8 linked with a three-speed automatic tr…",
       "maMarket": "us"
     },
     {
-      "title": "米メディア大手FOXが動画配信のRokuを買収へ　約3.5兆円で",
-      "url": "https://www.asahi.com/articles/ASV6H4VSVV6HSFVU3KGM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-06-15T15:15:00Z",
-      "description": "米国のメディア企業「FOX（フォックス）」が15日、動画配信プラットフォームの「Roku（ロク）」を220億ドル（約3兆5千億円）で買収することで合意したと発表した。フォックスによると、買収によって…",
+      "title": "アメックス、トリップアドバイザーから欧州のレストラン予約プラットフォーム「TheFork」を買収　7億米ドルで",
+      "url": "https://www.traicy.com/posts/20260617373745/",
+      "source": "Traicy.com",
+      "publishedAt": "2026-06-16T22:15:32Z",
+      "description": "アメリカン・エキスプレスは、トリップアドバイザーから欧州のオンラインレストラン予約・管理プラットフォーム「TheFork」を買収する。 買収額は7億米ドルで、全額現金で取得する。当局の承認や労使協議を経て、年内にも取引の […] 投稿 アメックス、トリップアドバイザーから欧州のレストラン予約プラットフォーム「TheFork」を買収 7億米ドルで は TRAICY（トライシー） に最初に表示されました。",
       "maMarket": "jp"
     },
     {
-      "title": "DOJ’s Clearance of Paramount-WBD Merger Surprised Staff Investigators | Report",
-      "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-doj-clearance-surprised-investigators/",
-      "source": "TheWrap",
-      "publishedAt": "2026-06-15T22:40:13Z",
-      "description": "The Wall Street Journal reports that a group of career lawyers were due to recommend a lawsuit to challenge the $110 billion merger The post DOJ’s Clearance of Paramount-WBD Merger Surprised Staff Investigators | Report appeared first on TheWrap.",
+      "title": "Databricks acquires cyberattack detection startup Panther",
+      "url": "https://siliconangle.com/2026/06/16/databricks-acquires-cyberattack-detection-startup-panther/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-06-16T23:03:33Z",
+      "description": "Databricks Inc. today announced plans to acquire Panther Inc., a startup with an artificial intelligence platform for detecting cyberattacks. The companies didn’t disclose the financial terms. Panther received a $1.4 billion valuation in a 2021 funding round …",
       "maMarket": "us"
     },
     {
-      "title": "船井電機の前社長に2億円の賠償請求　「世界のFUNAI」が世間に見せつけた跡継ぎ問題の難しさ",
-      "url": "https://news.livedoor.com/article/detail/31560058/",
+      "title": "予約サービス「The Fork」買収",
+      "url": "https://news.livedoor.com/article/detail/31573041/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-06-15T11:02:00Z",
-      "description": "民事再生法の適用申請が取り下げられ、破産手続きを進めている船井電機の破産管財人が、10日に開いた債権者集会で前社長の上田智一氏に約2億円の損害賠償を求めて提訴したことが明らかになった。 船井電機は2023年4月に脱毛サロンを運営する「ミュゼプラチナム」を買収したが、翌年に香港系の投資ファンドKOC・JAPANに売却していた。売却の際、上田氏の指示でゴルフスクールなどを経営する合同会社に約2億円を支払ったという。社内規則で定められた投融資審議会を経ることなく全文内外タイムス 06月15日20時02分",
+      "publishedAt": "2026-06-16T22:15:32Z",
+      "description": "アメリカン・エキスプレスは、トリップアドバイザーから欧州のオンラインレストラン予約・管理プラットフォーム「TheFork」を買収する。買収額は7億米ドルで、全額現金で取得する。当局の承認や労使協議を経て、年内",
       "maMarket": "jp"
     },
     {
-      "title": "Report: Sony saved Bungie in 'emergency acquisition,' studio may have closed otherwise",
-      "url": "https://www.tweaktown.com/news/112167/report-sony-saved-bungie-in-emergency-acquisition-studio-may-have-closed-otherwise/index.html",
-      "source": "TweakTown",
-      "publishedAt": "2026-06-15T22:35:06Z",
-      "description": "Sony may have actually saved Bungie from demise, buying the studio time with its $3.7 billion purchase of the studio and facilitating Marathon's launch.Continue reading at TweakTown",
+      "title": "mergeron 2026.739782.1",
+      "url": "https://pypi.org/project/mergeron/2026.739782.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-06-16T23:02:59Z",
+      "description": "Python for analyzing merger enforcement policy",
+      "maMarket": "us"
+    },
+    {
+      "title": "WOWOWとNTTドコモ、資本業務提携で「Lemino」運営の新会社設立",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2117507.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-06-16T21:00:00Z",
+      "description": "WOWOWとNTTドコモは16日、映像配信サービス「Lemino」のコンテンツ拡充と競争力強化を目的とした資本業務提携を発表した。吸収分割により、今後「Lemino」は両者が共同で出資する合弁会社の下で運営される。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Toby Neugebauer Supports John Sellers of Double Eagle as Chairman and CEO of Fermi 3.0",
+      "url": "https://www.prnewswire.com/news-releases/toby-neugebauer-supports-john-sellers-of-double-eagle-as-chairman-and-ceo-of-fermi-3-0--302802423.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-16T22:47:00Z",
+      "description": "Neugebauer reaffirms bullishness for Project Matador – excited to take grandkids to site in 2035 Highlights the risk of value destruction by the current Board and management team during the campaign, including failure to replace nine key senior executives who…",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "タクシーアプリ「GO」がグロース市場に上場　国内IPOで今年最大",
+      "url": "https://www.asahi.com/articles/ASV6J2PDPV6JULFA018M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-06-16T09:00:00Z",
+      "description": "タクシーの配車アプリなどを運営する「GO」は16日、東京証券取引所グロース市場に新規株式公開（IPO）した。初値は公開価格（2400円）を21%上回る2910円。終値は2640円で、時価総額は約20…",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "After SpaceX, the Anthropic and OpenAI IPOs are next. Here is what ASX AI investors need to know",
+      "url": "https://www.fool.com.au/2026/06/17/after-spacex-the-anthropic-and-openai-ipos-are-next-here-is-what-asx-ai-investors-need-to-know/",
+      "source": "Motley Fool Australia",
+      "publishedAt": "2026-06-16T23:23:51Z",
+      "description": "Anthropic is targeting a $1.1 trillion IPO in December 2026 and OpenAI follows in 2027. The post After SpaceX, the Anthropic and OpenAI IPOs are next. Here is what ASX AI investors need to know appeared first on The Motley Fool Australia.",
+      "ipoMarket": "us"
+    },
     {
       "title": "本日のスケジュール - 最新株式ニュース",
       "url": "https://diamond.jp/zai/articles/-/1068781",
@@ -83,115 +99,99 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX IPO gives Elon Musk net worth number that stuns Wall Street",
-      "url": "https://biztoc.com/x/e11000fa3dfcdc40",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-15T23:10:11Z",
-      "description": "Elon Musk recently posted on X, the social media platform he owns, that \"whoever said 'money can't buy happiness' really knew what they were talking about.\" He's now in a position to test that theory at a scale nobody in history has ever faced. On June 12, 20…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Invesco インベスコQQQ 587A 東京証券取引所に新規上場　運用資産残高 65兆円　NISA成長投資枠の“次の一手” ETF を日本市場に展開　東証取引時間中に円建てで売買を可能に",
-      "url": "https://getnews.jp/archives/3723029",
-      "source": "Getnews.jp",
-      "publishedAt": "2026-06-09T11:42:49Z",
-      "description": "",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Japan’s biggest taxi app raised $553 million in the country’s largest IPO this year",
-      "url": "https://thenextweb.com/news/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-15T22:18:27Z",
-      "description": "Go Inc., Japan’s most widely used taxi-hailing app, begins trading on the Tokyo Stock Exchange on Tuesday after raising ¥88.6 billion ($553 million) in the country’s largest initial public offering this year. The offering was more than 25 times oversubscribed…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "RMG ML Sports Holdings Announces Closing of Partial Exercise of Over-Allotment Option in Connection with its Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/06/15/3312180/0/en/RMG-ML-Sports-Holdings-Announces-Closing-of-Partial-Exercise-of-Over-Allotment-Option-in-Connection-with-its-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-15T21:15:00Z",
-      "description": "Incline Village, NV, June 15, 2026 (GLOBE NEWSWIRE) -- RMG ML Sports Holdings (the “Company”), a newly organized special purpose acquisition company formed as a Cayman Islands exempted company and led by Chief Executive Officer, James Carpenter, and President…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX shares climb for second straight day as IPO sparks crypto market frenzy",
-      "url": "https://cryptobriefing.com/spacex-ipo-shares-rise-crypto-impact/",
+      "title": "Csquare files for US IPO amid AI infrastructure boom",
+      "url": "https://cryptobriefing.com/csquare-ipo-ai-infrastructure/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-15T21:05:49Z",
-      "description": "SpaceX's IPO surge highlights the growing intersection of traditional finance and crypto, raising questions about market stability and investor protection. The post SpaceX shares climb for second straight day as IPO sparks crypto market frenzy appeared first …",
+      "publishedAt": "2026-06-16T22:57:35Z",
+      "description": "Csquare's IPO highlights the growing demand for AI-optimized infrastructure, potentially reshaping competitive dynamics in the data center market. The post Csquare files for US IPO amid AI infrastructure boom appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Brookfield-Backed Data Center Firm Csquare Files for US IPO",
+      "url": "https://financialpost.com/pmn/business-pmn/brookfield-backed-data-center-firm-csquare-files-for-us-ipo",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-16T22:55:13Z",
+      "description": "Csquare Inc., a data center company backed by Brookfield Corp., filed publicly for a US initial public offering, joining a rush of debuts linked to artificial intelligence infrastructure.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "PicS N.V. (PICS) Faces Securities Class Action Related to IPO Omissions Regarding Credit Procedures and Quality - HBSS",
+      "url": "https://www.prnewswire.com/news-releases/pics-nv-pics-faces-securities-class-action-related-to-ipo-omissions-regarding-credit-procedures-and-quality--hbss-302802261.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-16T22:10:00Z",
+      "description": "SAN FRANCISCO, June 16, 2026 /PRNewswire/ -- PicS N.V. (NASDAQ: PICS) faces a securities class action lawsuit just months after the company completed its initial public offering whereby it issued about 22.9 million shares to investors at $19 per share. The la…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "原油先物が5%急落 3カ月ぶり安値",
-      "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss",
+      "title": "日銀利上げ 利払い増に中小は苦悩",
+      "url": "https://news.yahoo.co.jp/pickup/6584668?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T22:24:24.000Z",
+      "publishedAt": "2026-06-17T23:19:38.000Z",
       "description": ""
     },
     {
-      "title": "米イラン合意 ネタニヤフ氏悪夢に",
-      "url": "https://news.yahoo.co.jp/pickup/6584521?source=rss",
+      "title": "米高官 イランとの覚書の内容公開",
+      "url": "https://news.yahoo.co.jp/pickup/6584664?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T13:58:32.000Z",
+      "publishedAt": "2026-06-17T22:42:54.000Z",
       "description": ""
     },
     {
-      "title": "利上げ 若年層の住宅ローン負担増",
-      "url": "https://news.yahoo.co.jp/pickup/6584519?source=rss",
+      "title": "米FRB 政策金利の据え置きを決定",
+      "url": "https://news.yahoo.co.jp/pickup/6584654?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T13:46:19.000Z",
+      "publishedAt": "2026-06-17T21:09:46.000Z",
       "description": ""
     },
     {
-      "title": "W杯のチケット高騰 NYの現状は",
-      "url": "https://news.yahoo.co.jp/pickup/6584446?source=rss",
+      "title": "トランプ氏 イラン次第で攻撃再開",
+      "url": "https://news.yahoo.co.jp/pickup/6584642?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T04:34:04.000Z",
+      "publishedAt": "2026-06-17T13:28:57.000Z",
       "description": ""
     },
     {
-      "title": "ペルシャ湾で日本関係の船舶損傷",
-      "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
+      "title": "韓国代表FWの兵役免除やゆ 背景",
+      "url": "https://news.yahoo.co.jp/pickup/6584595?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T02:22:21.000Z",
+      "publishedAt": "2026-06-17T06:52:08.000Z",
       "description": ""
     },
     {
-      "title": "米でB52爆撃機墜落 乗員8人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
+      "title": "G7が成果文書を発表 結束を演出",
+      "url": "https://news.yahoo.co.jp/pickup/6584574?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T02:04:02.000Z",
+      "publishedAt": "2026-06-17T04:15:15.000Z",
       "description": ""
     },
     {
-      "title": "米イラン 戦闘終結の覚書に署名",
-      "url": "https://news.yahoo.co.jp/pickup/6584424?source=rss",
+      "title": "露大統領風刺のアーティスト 射殺",
+      "url": "https://news.yahoo.co.jp/pickup/6584566?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-16T01:38:56.000Z",
+      "publishedAt": "2026-06-17T02:56:52.000Z",
       "description": ""
     },
     {
-      "title": "米大統領は宮殿で夕食 G7で厚遇",
-      "url": "https://news.yahoo.co.jp/pickup/6584405?source=rss",
+      "title": "未完成テーマパークが廃虚化 中国",
+      "url": "https://news.yahoo.co.jp/pickup/6584560?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T22:38:06.000Z",
+      "publishedAt": "2026-06-17T02:33:50.000Z",
       "description": ""
     },
     {
-      "title": "9カ国共同声明 米イラン覚書歓迎",
-      "url": "https://news.yahoo.co.jp/pickup/6584401?source=rss",
+      "title": "覚書にイラン復興巡る基金の構想",
+      "url": "https://news.yahoo.co.jp/pickup/6584549?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T22:22:37.000Z",
+      "publishedAt": "2026-06-17T01:32:46.000Z",
       "description": ""
     },
     {
-      "title": "スイスの人口1000万人制限案 否決",
-      "url": "https://news.yahoo.co.jp/pickup/6584329?source=rss",
+      "title": "ホワイトハウスのイベ巡り5人訴追",
+      "url": "https://news.yahoo.co.jp/pickup/6584543?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-15T06:39:36.000Z",
+      "publishedAt": "2026-06-16T23:46:42.000Z",
       "description": ""
     }
   ]
