@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T23:12:35.598Z",
+  "fetchedAt": "2026-06-21T23:19:41.146Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "えごちゃん、『週刊SPA!』カムバック！人気連載で見せた「束の間のオフタイム」♡",
-      "url": "https://news.livedoor.com/article/detail/31604598/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-19T22:50:00Z",
-      "description": "『週刊SPA! 6月23･30日合併特大号』は6月16日に発売！ 美女地図：天使のオフタイム 『週刊SPA! 6月23・30日合併特大号』が6月16日に発売。人気企画「美女地図」に、ソロアイドルとして活躍する“えごちゃん”こと江籠裕奈がカムバックを果たした。 江籠裕奈 ©撮影／岡本武志ヘアメイク／円谷歩美スタイリング／筒井葉子(PEACEMONKEY) 今回は「天使の休息」をテーマに、彼女の束の間のオフタイムをキャッチ。日々の喧騒を忘れ、癒や全文ラブすぽ 06月20日07時50分",
+      "title": "いよいよ始まる東電「解体」：買収するのはソフトバンクか外資か",
+      "url": "https://agora-web.jp/archives/260620213714.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-06-20T22:03:22Z",
+      "description": "実質的な国有化からの脱却と再生を目指す東京電力ホールディングスの再建が、いよいよ大きな山場を迎える。東電が進めている抜本的な再編を伴う資本提携について、交渉先がソフトバンクや国内投資ファンドの日本産業パートナーズ（JIP）、そして外資系ファ...…",
       "maMarket": "jp"
     },
     {
-      "title": "Cathie Wood dumps nearly $60 million in popular growth stocks",
-      "url": "https://biztoc.com/x/c875cea280c8ff04",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-19T23:05:32Z",
-      "description": "On June 18, Cathie Wood’s ARK Invest showed off a notable rotation following a superb run in two of the most popular high-growth stocks. Investors had been rewarding Robinhood (HOOD) for its cost-cutting plan and Roku (ROKU) for its takeover-driven rally, but…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ジャパネット、家電製造のツインバードの完全子会社化を目指しTOBを実施へ",
-      "url": "https://www.gadget2ch.com/archives/post-274730.html",
-      "source": "Gadget2ch.com",
-      "publishedAt": "2026-06-19T22:33:43Z",
-      "description": "攻めてるねぇ 1: 名無しさん＠涙目です。 2026/06/19(金) 21:53:15.41 ID:WWHxZuOJ0● BE:626285372-2BP(2000) ジャパネットがツインバード（燕市）にＴＯＢ、10月 […]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "1976 Fiat 124 Sport Spider at No Reserve",
-      "url": "https://bringatrailer.com/listing/1976-fiat-124-sport-spider-2/",
+      "title": "52-Years-Owned 1967 MG MGB GT",
+      "url": "https://bringatrailer.com/listing/1967-mg-mgb-gt-56/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-19T22:55:14Z",
-      "description": "This 1976 Fiat 124 Sport Spider is a black-finished example that belonged to one of the seller's coworkers before their 2019 acquisition. The seller tells us that subsequent work included reupholstering the seats in red vinyl, re-routing the front seat belts,…",
+      "publishedAt": "2026-06-20T22:45:09Z",
+      "description": "This 1967 MGB GT is said to have belonged to a friend of the seller from new until its acquisition by the seller in 1974, and a refurbishment carried out during the 1990s involved repainting the car in green and reupholstering the seats in black leather with …",
       "maMarket": "us"
     },
     {
-      "title": "三井物産“鉄鉱石の王者”が狙う「次の鉄資源」、長期低迷20年越しの反転攻勢【勃発！鉄スクラップ争奪戦／前編】《再配信》 - 今だからこそ読みたい！注目特集",
-      "url": "https://diamond.jp/articles/-/392053",
+      "title": "【安かろう悪かろうじゃね？】お前らの「ツインバード」のイメージ‥‥ジャパネットたかたがTOBを実施",
+      "url": "https://lifehack2ch.livedoor.biz/archives/51926816.html",
+      "source": "Livedoor.biz",
+      "publishedAt": "2026-06-20T12:00:12Z",
+      "description": "1 ：ヨモーニャ(茸)[ﾆﾀﾞ] 【速報】ジャパネットがツインバード（燕市）にＴＯＢ、10月下旬めど 完全子会社化目指す https://t.co/IkMUPV2nxu— 新潟日報ニュース (@niigata_nippo) June 19, 2026 2026/06/19(金) 21:53:15.41 ID:WWHxZuOJ0●",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Quantum deal boosts France's sovereignty, Alice and Bob COO says",
+      "url": "https://biztoc.com/x/adc56a97bc8ae2a9",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-20T22:40:02Z",
+      "description": "Alice & Bob COO Chloé Poisbeau discusses their agreement with France for the the world's first acquisition of a quantum ...",
+      "maMarket": "us"
+    },
+    {
+      "title": "サツドラホールディングス、株主優待を廃止！ MBOの一環でTOB(公開買い付け)が行われるため、｢北海道の名産品｣などがもらえた優待と配当が廃止されることに - 株主優待【新設・変更・廃止】最新ニュース[2026年]",
+      "url": "https://diamond.jp/zai/articles/-/1069043",
       "source": "Diamond.jp",
-      "publishedAt": "2026-06-19T19:45:00Z",
-      "description": "脱炭素と地政学が鉄鋼産業の勢力図を変え始めている。高炉から電炉へのシフトが進み、その主原料である鉄スクラップは、単なる廃材から各国が囲い込む“都市鉱山”へと変わりつつある。こうした変化を20年近く前から見据えていたのが三井物産だ。長らく「失敗投資」とみられてきた豪・米シムズへの出資から撤退しなかった背景には、次代を見据えた長期戦略があった。鉄鉱石の王者が仕掛ける“次の鉄資源”への布石に迫る。",
+      "publishedAt": "2026-06-20T10:30:00Z",
+      "description": "サツドラホールディングス（3544）が株主優待を「廃止」することを、2026年6月19日の17時30分に発表した。サツドラホールディングスの株主優待は、毎年5月15日時点の株主に実施されており、従来の内容は「100株以上の株主に①株主優待5％OFFカード②そらぷちキッズキャンプ 寄附③北海道名産品④サツドラアプリ専用 株主優待5％OFFクーポン⑤EZOポイント⑥QUOカードPayの中から2点を選択制で贈呈（保有株数に応じて金額は変動）」というものだった。しかし、この株主優待は2027年5月分を最後に「廃止」となる…",
       "maMarket": "jp"
     },
     {
-      "title": "Former Connecticut Attorney General George Jepsen: Paramount-WBD Could Strengthen Hollywood Against Big Tech",
-      "url": "https://www.prnewswire.com/news-releases/former-connecticut-attorney-general-george-jepsen-paramount-wbd-could-strengthen-hollywood-against-big-tech-302805700.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-19T22:03:00Z",
-      "description": "Former Connecticut attorney general George Jepsen shares his thoughts on the merger LOS ANGELES, June 19, 2026 /PRNewswire/ -- The proposed merger between Paramount Skydance and Warner Bros. Discovery deserves serious, evidence-based review. But antitrust enf…",
+      "title": "Archival Producer Rochelle Widdowson Sounds Alarm About Potential Impact Of Paramount-WBD Merger: “It’s Heartbreaking” – Bentonville Film Festival",
+      "url": "http://deadline.com/2026/06/paramount-wbd-merger-archival-producer-rochelle-widdowson-interview-1236963343/",
+      "source": "Deadline",
+      "publishedAt": "2026-06-20T22:09:43Z",
+      "description": "The Paramount-Warner Bros. Discovery merger, if it goes through, would not only have a major impact on the future of the media business, but on our collective past. Skydance Media, through its acquisition of Paramount, already controls the CBS News archive. I…",
       "maMarket": "us"
     },
     {
-      "title": "通販大手のジャパネット、家電メーカーのツインバードにTOB提案",
-      "url": "https://www.asahi.com/articles/ASV6M3VH8V6MULFA02KM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-06-19T12:10:00Z",
-      "description": "通信販売大手のジャパネットホールディングス（HD）は19日、家電メーカーのツインバードに対し、株式公開買い付け（TOB）による買収を提案したと発表した。ジャパネットは家電の販売に強く、メーカーを傘下…",
+      "title": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000182165.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-20T04:40:40Z",
+      "description": "[合同会社Projimo] 意思決定の最初の一歩で、すでに数百万円が消えていく クラウド移行、業務システムの刷新、M&A後のIT統合--重要な意思決定の現場では、「まず現状を診断したい」というニーズが必ず存在する。だが従来、その...",
       "maMarket": "jp"
     },
     {
-      "title": "Go plans robotaxis and acquisitions after ¥88.6B IPO in Japan",
-      "url": "https://cryptobriefing.com/go-robotaxis-ipo-japan/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-19T21:55:20Z",
-      "description": "Go's IPO success highlights the growing investor interest in autonomous tech and platform consolidation, potentially reshaping Japan's taxi industry. The post Go plans robotaxis and acquisitions after ¥88.6B IPO in Japan appeared first on Crypto Briefing.",
+      "title": "msw-core 0.11.0",
+      "url": "https://pypi.org/project/msw-core/0.11.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-06-20T22:06:23Z",
+      "description": "Murine Shift Work acquisition stack: CLI, hardware, hooks, and logic.",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "金高騰の次は「銀・銅」に脚光？新規上場で盛り上がるコモディティETFの活用法 - ホットニュース from ZAi",
+      "url": "https://diamond.jp/articles/-/392636",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-06-20T03:00:00Z",
+      "description": "金（ゴールド）の価格高騰が注目を集める中、それに続く投資対象として今度は「銀」や「銅」に熱い視線が注がれている。2026年5月28日に、東京証券取引所へ「銀」と「銅」に関連するETF（上場投資信託）が4銘柄同時に上場。新NISAの成長投資枠で買えるこのETFの紹介と銀や銅への投資について解説する。",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "12 Months From Now, Will You Wish You Bought SpaceX Today?",
+      "url": "https://biztoc.com/x/595c2f0398b72308",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-20T19:47:27Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX), or SpaceX, couldn't have had a better initial public offering (IPO). After raising an unparalleled $75 billion, which rose to $85.7 billion after underwriters sold more shares via overallotment options, SpaceX cl…",
+      "ipoMarket": "us"
+    },
     {
       "title": "タクシーアプリ「GO」がグロース市場に上場　国内IPOで今年最大",
       "url": "https://www.asahi.com/articles/ASV6J2PDPV6JULFA018M.html",
@@ -83,20 +99,20 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX Is a Secret Autonomous Driving Stock. Here's Why",
-      "url": "https://biztoc.com/x/972bcaaaee4cbeb9",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-19T22:50:16Z",
-      "description": "Now that the Space Exploration Technologies (NASDAQ: SPCX) initial public offering (IPO) is complete, expect the company to start deploying its newfound capital. Originally, the company doing business as SpaceX targeted a capital raise that would provide it w…",
+      "title": "Buy or Sell SpaceX Stock in 2026? Here's What Analysts and the Numbers Actually Say",
+      "url": "https://www.ibtimes.com.au/spacex-stock-volatile-nasdaq-debut-1870963",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-20T09:05:09Z",
+      "description": "SpaceX's IPO on Nasdaq has led to significant stock volatility, sparking debate among investors about its valuation and future prospects, with analysts offering varied price targets and recommendations.",
       "ipoMarket": "us"
     },
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1068781",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-06-15T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞15:30 内田真一日銀副総裁が会見(植田総裁が入院中のため) 日銀政策委員会・金融政策決定会合(2日目)、終了後決定内容発表 1.00％ 0.75％ GOが東証グロースに新規上場(公開価格:2400円)＜海外＞10:30 中・新築住宅価格(5月) 0.19％10:30 中・中古住宅価格(5月) 0.23％11:00 中・小売売上高(5月) 0％ 0.2％11",
-      "ipoMarket": "jp"
+      "title": "Kalshi IPO Talk Shows Prediction Markets Are Moving Into Wall Street’s Mainstream",
+      "url": "http://www.newsbtc.com/news/kalshi-ipo-talk-shows-prediction-markets-are-moving-into-wall-streets-mainstream/",
+      "source": "newsBTC",
+      "publishedAt": "2026-06-19T23:30:36Z",
+      "description": "Kalshi has reportedly held early IPO talks as prediction-market revenue surges, showing how event contracts are moving toward Wall Street.",
+      "ipoMarket": "us"
     },
     {
       "title": "PICS INVESTOR NOTICE: RGRD Law Files Class Action Lawsuit Against PicS N.V. and Announces Opportunity for Investors with Substantial Losses to Lead Class Action Lawsuit",
@@ -105,36 +121,56 @@
       "publishedAt": "2026-06-19T22:30:00Z",
       "description": "SAN DIEGO, June 19, 2026 /PRNewswire/ -- Robbins Geller Rudman & Dowd LLP announces that purchasers of PicS N.V. (NASDAQ: PICS) Class A common stock in and/or traceable to PicS N.V.'s January 30, 2026 initial public offering (the \"IPO\"), have until August 4, …",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Prediction Market Kalshi Eyes IPO as Revenue Triples to $2 Billion",
-      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/prediction-market-kalshi-eyes-ipo-as-revenue-triples-to-2-billion/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-06-19T19:45:36Z",
-      "description": "Kalshi has about tripled its annualized revenue since November, bringing that figure to $2 billion, The Information reported Thursday (June 18), citing unnamed sources. The report attributed the prediction markets platform’s gains to trading around the NBA an…",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米イラン 21日からスイスで協議へ",
-      "url": "https://news.yahoo.co.jp/pickup/6585035?source=rss",
+      "title": "スターマー英首相 近日退任表明か",
+      "url": "https://news.yahoo.co.jp/pickup/6585143?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T22:45:53.000Z",
+      "publishedAt": "2026-06-21T21:31:51.000Z",
       "description": ""
     },
     {
-      "title": "イラン ホルムズを封鎖したと声明",
-      "url": "https://news.yahoo.co.jp/pickup/6585027?source=rss",
+      "title": "米イラン協議 レバノン情勢が焦点",
+      "url": "https://news.yahoo.co.jp/pickup/6585137?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T14:51:14.000Z",
+      "publishedAt": "2026-06-21T13:50:19.000Z",
       "description": ""
     },
     {
-      "title": "北朝鮮ミサイル 精度向上とウ当局",
-      "url": "https://news.yahoo.co.jp/pickup/6585005?source=rss",
+      "title": "イラン 海峡封鎖圧力で交渉主導か",
+      "url": "https://news.yahoo.co.jp/pickup/6585095?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T12:35:12.000Z",
+      "publishedAt": "2026-06-21T07:17:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "米伊首脳 写真撮影巡り対立深める",
+      "url": "https://news.yahoo.co.jp/pickup/6585094?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-21T07:13:16.000Z",
+      "description": ""
+    },
+    {
+      "title": "イスラエル当局 戦闘停止を命令",
+      "url": "https://news.yahoo.co.jp/pickup/6585070?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-21T03:38:55.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国で流通の「痛金」違法商品も",
+      "url": "https://news.yahoo.co.jp/pickup/6585058?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-21T01:19:34.000Z",
+      "description": ""
+    },
+    {
+      "title": "麻薬捜査中にピカソ作品発見 仏",
+      "url": "https://news.yahoo.co.jp/pickup/6585056?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-21T00:48:17.000Z",
       "description": ""
     },
     {
@@ -149,34 +185,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-20T11:27:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "ボリビアが非常事態宣言 経済混乱",
-      "url": "https://news.yahoo.co.jp/pickup/6584986?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T09:56:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国で日本ツアー募集 一転し停止",
-      "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T09:06:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "イスラエル軍 レバノン南部を空爆",
-      "url": "https://news.yahoo.co.jp/pickup/6584965?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T07:25:35.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウクライナ ロシア防空網どう突破",
-      "url": "https://news.yahoo.co.jp/pickup/6584951?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-20T05:55:52.000Z",
       "description": ""
     }
   ]
