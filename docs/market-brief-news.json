@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T23:11:06.377Z",
+  "fetchedAt": "2026-06-24T23:08:08.403Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "レースアンバサダー阿比留あんなが『週刊SPA!』に降臨！小悪魔な表情とメルヘンな素顔のギャップにキュン♡",
-      "url": "https://news.livedoor.com/article/detail/31627320/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-22T22:50:00Z",
-      "description": "『週刊SPA! 6月23･30日合併特大号』は6月16日に発売！ メルヘンか、小悪魔か：阿比留あんな 『週刊SPA! 6月23・30日合併特大号』が6月16日に発売された。企画「メルヘンか、小悪魔か」に、レースアンバサダーとして活躍する阿比留あんなが初登場を果たした。 阿比留あんな © 撮影／土山大輔(TRON)ヘアメイク／新井祐美子スタイリング／米丸友子 誌面では、彼女の持ち味である艶やかな小悪魔的表情をキャッチ。その一方で、カ全文ラブすぽ 06月23日07時50分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Transactions of Managers and Closely Associated Persons",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315670/0/en/Transactions-of-Managers-and-Closely-Associated-Persons.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-22T22:48:00Z",
-      "description": "Attached is a copy of a filing with the Luxembourg Commission de Surveillance du Secteur Financier (CSSF) regarding transactions of managers and closely associated persons, announcing the acquisition of 10,133,333 shares in Alvotech by Celtic Lux Holdings S.a…",
-      "maMarket": "us"
-    },
-    {
-      "title": "LINEヤフーが画策するカカクコム“横やり買収”の手法が判明！法令に触れかねない「グレーなスキーム」とは…一休と食べログなど複数サービスがバッティング - Diamond Premium News",
-      "url": "https://diamond.jp/articles/-/393043",
+      "title": "【日本株】2026年・夏の「おすすめ大型株」2銘柄！ がん治療薬の売上が大幅に伸びる｢アステラス製薬｣、業績好調で株主還元にも積極的な｢伊藤忠商事｣に注目 - ダイヤモンドZAi最新記事",
+      "url": "https://diamond.jp/zai/articles/-/1069000",
       "source": "Diamond.jp",
-      "publishedAt": "2026-06-22T19:00:00Z",
-      "description": "レストラン検索・予約サービス「食べログ」を運営するカカクコムに買収提案しているLINEヤフーの買収スキームがダイヤモンド編集部の取材で分かった。米投資ファンドのベインキャピタルと共同出資会社を設け、共同出資会社がカカクコムにTOB（株式公開買い付け）を実施する方向だ。ところが、詳細を見ると、法令に触れかねないグレーなスキームであることが判明した。欧州系投資ファンドのEQTによるカカクコム買収計画に事実上の横やりを入れる格好となったLINEヤフーのスキームのグレーなスキームとは。",
+      "publishedAt": "2026-06-23T23:00:00Z",
+      "description": "【2026年・夏のおすすめ大型株】がん治療薬などの売上が業績を押し上げる「アステラス製薬」と、伊藤忠食品の子会社化でも話題を呼んだ「伊藤忠商事」に注目！ 発売中のダイヤモンド・ザイ8月号の大特集は、3カ月に一度の恒例特集「人気の株500銘柄＋Jリート14銘柄を激辛診断【2026年・夏】」。この特集では、日本株で注目度の高い人気500銘柄とJリート14銘柄を、アナリストなどの投資の専門家が「買い」「強気」「中立」「弱気」「売り」の5段階で評価。さらに「10万円株」「高配当株」「株主優待株」「Jリート」「大型株」「新…",
       "maMarket": "jp"
     },
     {
-      "title": "FAAB Frenzy and Waivers Wild: Week 14",
-      "url": "https://fantasy.fangraphs.com/faab-frenzy-and-waivers-wild-week-14/",
-      "source": "Fangraphs.com",
-      "publishedAt": "2026-06-22T22:44:51Z",
-      "description": "The top free agent acquisitions of the weekend and some bold Week 14 predictions Source",
-      "maMarket": "us"
-    },
-    {
-      "title": "JCNベア・ロボティクス、キニシ・ロボティクスを買収し、エンドツーエンドの物理AIロボティクスプラットフォームを完成させる",
-      "url": "https://japan.cnet.com/release/31180752/",
-      "source": "CNET",
-      "publishedAt": "2026-06-22T07:00:00Z",
-      "description": "REDWOOD CITY, CA, Jun 22, 2026 - ( JCN Newswire ) - ベア・ロボティクス（Bear Robotics）は本日、キニシ・ロボティクス（Kinisi Robotics）を買収する最終契約を締結したと発表した。この取引により、キニシはベアの一員となる。本取引の完了に伴い、キニシ社のヒューマノイドロボット「KR1」、ブリストルを拠点と...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
-      "url": "https://biztoc.com/x/54fa55fce29f43c9",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-22T22:11:00Z",
-      "description": "Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing the AI chip company at about $4 billion, Bloomberg News reported on Monday, citing people familiar with the matter. If completed, the deal would mark a significant step-up fro…",
-      "maMarket": "us"
-    },
-    {
-      "title": "株式会社トライアイズ、株式会社コーピーとのフィジカルAI分野における将来的な資本提携の可能性を視野に入れた業務提携開始のお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000082.000124346.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-06-22T06:40:00Z",
-      "description": "[株式会社トライアイズ] 2026年6月19日の『日本経済新聞』において、日本政府は「人工知能（AI）を用いてロボットなどを自律的に動かす「フィジカルAI」に、官民で2040年度までに10.5兆円を投資する(引用)」と報道されました。フィジカ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "1983 Kawasaki GPz550 at No Reserve",
-      "url": "https://bringatrailer.com/listing/1983-kawasaki-gpz550-3/",
+      "title": "331-Powered 1965 Ford Falcon 4-Speed VSCDA Race Car",
+      "url": "https://bringatrailer.com/listing/1965-ford-falcon-54/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-22T22:05:14Z",
-      "description": "This 1983 Kawasaki GPz550 was registered in Idaho before its May 2026 acquisition by the seller, reportedly from its first owner. Powered by an air-cooled 553cc inline-four paired with a six-speed transmission, the motorcycle is finished in Firecracker Red wi…",
+      "publishedAt": "2026-06-23T23:04:20Z",
+      "description": "This 1965 Ford Falcon was first delivered as a C-code 289 two-door hardtop, and following its acquisition by the seller it was built into a race car. The car has been fitted with a 331ci V8 that uses a roller block, forged stroker crankshaft, Eagle connecting…",
+      "maMarket": "us"
+    },
+    {
+      "title": "【悲報】病院の70%が赤字に　どうなるんだよ日本",
+      "url": "http://kanasoku.info/articles/34730004.html",
+      "source": "Kanasoku.info",
+      "publishedAt": "2026-06-23T11:03:38Z",
+      "description": "1 今年度の診療報酬改定で3%アップ→焼け石に水 各地で合併の嵐 4 そもそも収入より費用が上がってるって 5 開業クリニックも赤字まみれ 近所の開業内科医も潰れかけてる 国は医療の集約化を促してる 潰れるところは潰していく方針やね 7 >>5 なるほどな 集約化...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Supergirl Producer Says David Ellison Is a 'Big Fan' of DC Studios As Paramount and Warner Bros Merger Looms",
+      "url": "https://www.ign.com/articles/supergirl-producer-says-david-ellison-is-a-big-fan-of-dc-studios-as-paramount-and-warner-bros-merger-looms",
+      "source": "IGN",
+      "publishedAt": "2026-06-23T22:55:49Z",
+      "description": "David Ellison, the CEO of Paramount Skydance, is a big fan of what DC Studios is cooking up.",
+      "maMarket": "us"
+    },
+    {
+      "title": "ROCCATの無線65％メカニカルゲーミングキーボード『Vulcan II Mini Air』が22,980円→2,980円に値下がる",
+      "url": "https://watchmono.com/e/roccat-vulcan-ii-mini-air-sale",
+      "source": "Watchmono.com",
+      "publishedAt": "2026-06-23T11:00:10Z",
+      "description": "2023年7月に発売されたROCCATのキーボード「Vulcan II Mini Air」。今はTurtle Beachに買収されたのでメーカーの名は実質消滅してしまったROCCATが3年前に出した65％メカニカルゲーミングキーボード。独自の光学スイッチ採用や2.4GHz/Bluetoothのワイヤレス対応なども特徴。発売当時の価格は22,980円でしたが、現在2,980円で販売されているようです。【関連記事】ROCCAT、ワイヤレスになった65％レイアウトのメカニカルゲーミング...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Petition To Block EA Acquisition Exceeds 70,000 Signatures",
+      "url": "https://screenrant.com/electronic-arts-acquisition-petition-block-ea/",
+      "source": "Screen Rant",
+      "publishedAt": "2026-06-23T22:41:27Z",
+      "description": "Saudi Arabia's Public Investment Fund is in the midst of acquiring Electronic Arts, but the buyout is proving to be incredibly unpopular.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【悲報】病院の70%が赤字",
+      "url": "https://shikaku2ch.doorblog.jp/archives/59905822.html",
+      "source": "Doorblog.jp",
+      "publishedAt": "2026-06-23T10:01:54Z",
+      "description": "1: それでも動く名無し 2026/06/23(火) 17:29:40.89 ID:Uy6kZ5qb0 今年度の診療報酬改定で3%アップ→焼け石に水 各地で合併の嵐 4: それでも動く名無し 2026/06/23(火) 17:30:53.99 ID:Uy6kZ5qb0 そもそも収入より費用が上がってるって 5: それでも動く名無し 2026",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Superhuman acquires AI detection startup GPTZero for integration into its platform",
+      "url": "https://cryptobriefing.com/superhuman-acquires-gptzero-ai-detection/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-23T22:33:53Z",
+      "description": "Superhuman's acquisition of GPTZero highlights the growing importance of content authenticity, raising data privacy and trust concerns in AI. The post Superhuman acquires AI detection startup GPTZero for integration into its platform appeared first on Crypto …",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "キンドリルジャパン、LiNKXに出資",
+      "url": "https://prtimes.jp/main/html/rd/p/000000202.000089286.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-06-23T07:40:43Z",
+      "description": "[キンドリルジャパン株式会社] キンドリルジャパン株式会社（以下、キンドリルジャパン）は本日、東京証券取引所グロース市場へ新規上場したLiNKX株式会社（以下、LiNKX）の株式を 、親引けにより取得したことを発表しました。 本出資は、キン...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184061026",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-23T21:53:26Z",
+      "description": "S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mountReuters Tech stocks tumble for a second day. Here's what's behind the selloff.CBS News Nasdaq Breaks Support; FedEx, AI Chip IPO Are Movers LateInvestor's Business Daily Nasdaq tumble…",
+      "ipoMarket": "us"
+    },
     {
       "title": "本日のスケジュール - 最新株式ニュース",
       "url": "https://diamond.jp/zai/articles/-/1069113",
@@ -83,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Wilco 63 Corporation Completes $230,000,000 Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/06/22/3315634/0/en/Wilco-63-Corporation-Completes-230-000-000-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-22T21:02:00Z",
-      "description": "New York, NY, June 22, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (the “Company”) announced today the closing of its initial public offering of 23,000,000 units, which includes 3,000,000 units issued pursuant to the exercise by the underwriters of their ov…",
+      "title": "Cerebras reports 92% revenue growth in chipmaker's first earnings report since IPO",
+      "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-23T21:04:53Z",
+      "description": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
       "ipoMarket": "us"
     },
     {
@@ -99,51 +115,63 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX stock tumbles 23% from its high as average investors see gains wiped out",
-      "url": "https://www.nbcnews.com/business/corporations/spacex-stock-investor-losses-rcna351260",
-      "source": "NBC News",
-      "publishedAt": "2026-06-22T20:57:56Z",
-      "description": "Shares of Elon Musk’s SpaceX tech conglomerate plunged 16% Monday to close below their price on June 12, after the company’s massive initial public offering.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "タクシーアプリ「GO」がグロース市場に上場　国内IPOで今年最大",
-      "url": "https://www.asahi.com/articles/ASV6J2PDPV6JULFA018M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-06-16T09:00:00Z",
-      "description": "タクシーの配車アプリなどを運営する「GO」は16日、東京証券取引所グロース市場に新規株式公開（IPO）した。初値は公開価格（2400円）を21%上回る2910円。終値は2640円で、時価総額は約20…",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Bending Spoons prices IPO at up to $1.62 billion, targeting $19 billion Nasdaq valuation",
-      "url": "https://thenextweb.com/news/bending-spoons-ipo-pricing-19-billion-valuation-nasdaq/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-22T18:42:11Z",
-      "description": "Bending Spoons, the Italian software company that acquires and restructures digital businesses, is seeking to raise as much as $1.62 billion in its US initial public offering, Reuters reported on Monday. The company plans to market 58 million shares at $26 to…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "The SpaceX IPO Is Over. History Says Investors Should Do This Next",
-      "url": "https://biztoc.com/x/d4059bf5db780354",
+      "title": "Now That the IPO Has Passed, Here Are 5 Important Milestones SpaceX Investors Should Pay Attention to",
+      "url": "https://biztoc.com/x/6dc944d5e978866d",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-22T18:37:53Z",
-      "description": "After weeks of excitement and controversy, Space Exploration Technologies (NASDAQ: SPCX) completed its historic initial public offering at a price of $135 per share, successfully selling all of its allotted 555,555,555 shares. The IPO initially raised $75 bil…",
+      "publishedAt": "2026-06-23T18:58:00Z",
+      "description": "Now That the IPO Has Passed, Here Are 5 Important Milestones SpaceX Investors Should Pay Attention to Space Exploration Technologies' (NASDAQ: SPCX) blockbuster IPO gave investors a way into one of the world's most ambitious technology companies. But now the …",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX tests novel bond market strategies days after landmark IPO",
+      "url": "https://cryptobriefing.com/spacex-bond-market-strategy-after-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-23T16:59:09Z",
+      "description": "SpaceX's rapid shift to bond markets post-IPO highlights potential financial strategy risks, impacting investor confidence and market stability. The post SpaceX tests novel bond market strategies days after landmark IPO appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "日系電機大手の社員 中国で拘束",
-      "url": "https://news.yahoo.co.jp/pickup/6585427?source=rss",
+      "title": "森保J応援する中国人 バーで狂喜",
+      "url": "https://news.yahoo.co.jp/pickup/6585530?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-23T21:36:12.000Z",
+      "publishedAt": "2026-06-24T13:29:54.000Z",
       "description": ""
     },
     {
-      "title": "韓国 W杯TV中継見られない恐れ",
-      "url": "https://news.yahoo.co.jp/pickup/6585405?source=rss",
+      "title": "ペルー大統領選 ケイコ氏勝利確実",
+      "url": "https://news.yahoo.co.jp/pickup/6585495?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-23T12:04:05.000Z",
+      "publishedAt": "2026-06-24T08:16:27.000Z",
+      "description": ""
+    },
+    {
+      "title": "ストーカー対策アプリ 韓国で開始",
+      "url": "https://news.yahoo.co.jp/pickup/6585490?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-24T07:31:43.000Z",
+      "description": ""
+    },
+    {
+      "title": "7/6ハメネイ師国葬 2千万人参列へ",
+      "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-24T07:03:26.000Z",
+      "description": ""
+    },
+    {
+      "title": "仏で44.3℃ 熱中症などで40人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6585475?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-24T04:33:05.000Z",
+      "description": ""
+    },
+    {
+      "title": "ロシア ウ東部要塞「事実上制圧」",
+      "url": "https://news.yahoo.co.jp/pickup/6585441?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-23T23:47:31.000Z",
       "description": ""
     },
     {
@@ -158,34 +186,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6585384?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-23T09:31:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国空母「遼寧」演習で何が判明",
-      "url": "https://news.yahoo.co.jp/pickup/6585314?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-23T03:25:47.000Z",
-      "description": ""
-    },
-    {
-      "title": "金正恩氏 日本を名指しで非難",
-      "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-23T02:33:48.000Z",
-      "description": ""
-    },
-    {
-      "title": "米とイラン 核査察で相違浮き彫り",
-      "url": "https://news.yahoo.co.jp/pickup/6585299?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-23T00:34:50.000Z",
-      "description": ""
-    },
-    {
-      "title": "クリミア 燃料販売停止で車激減",
-      "url": "https://news.yahoo.co.jp/pickup/6585297?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-22T23:55:44.000Z",
       "description": ""
     }
   ]
