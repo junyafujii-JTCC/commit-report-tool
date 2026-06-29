@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T23:07:37.243Z",
+  "fetchedAt": "2026-06-29T23:02:04.173Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "中国に先を越されたら終わる…「SpaceX上場」のウラで懸念される「AIの軍事利用」とシリコンバレーが抱える深刻なジレンマ",
+      "url": "https://news.livedoor.com/article/detail/31684991/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-28T22:00:00Z",
+      "description": "2026年6月12日、SpaceXがNASDAQに上場した。初日の時価総額は2兆ドルに達し史上最大の歴史的上場となった。創業者CEOであるイーロン・マスクは、予想通り、史上初のトリリオネア（兆万長者）となった。前回触れたように、xAIを飲み込んだSpaceXはもはやAI企業の一角だ。上場後、即座にAIエージェント「Cursor」を開発するAnysphereの買収を発表し、AI開発の2強であるAnthropicとOpenAIの追撃に余念がない。そのAnthropicとOpenAIもすでに上場に向けて目論見書を提出し…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
+      "url": "https://biztoc.com/x/09f1ede7badb2616",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-28T22:37:01Z",
+      "description": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater Quick Take - Michael Saylor posted Strategy’s bitcoin acquisition chart to X on Sunday morning with the caption “We’re gonna need more charts,” his usual signal that a pu…",
+      "maMarket": "us"
+    },
+    {
+      "title": "【物議】任天堂株主総会で「任天堂製ゲームに生成AIを使うな」と迫る株主が現れ話題に",
+      "url": "https://alfalfalfa.com/articles/11054972.html",
+      "source": "Alfalfalfa.com",
+      "publishedAt": "2026-06-28T17:00:35Z",
+      "description": "[悲報]任天堂株主総会に反AIが現れ生成AIを使うなと迫る@momiji_manjyuuなんというか、滅茶苦茶過ぎますね。任天堂側が口約束でもしてしまったら、ハードはおろか対応ソフトに至るまで不使用を要求されそうだ。@momiji_manjyuu質問を「AIについてはゲーム業界も無視できないよな」と聞いていたら「任天堂はAIを使わないと断言すべき」どう言い出して察しました@momiji_manjyuu3割近く持ってれば大体いうこと聞くので、3兆円ぐらい用意してTOBしてくれたら、株主全員大喜びなのに・・・@mom…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Ex-NY gov warns Dems could face extinction if they can’t thwart socialist takeover",
+      "url": "https://nypost.com/2026/06/28/us-news/ex-ny-gov-warns-dems-could-face-extinction-if-they-cant-thwart-socialist-takeover/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-28T21:33:36Z",
+      "description": "The New York Democratic Party faces extinction if it doesn't wake up and turn out voters to the polls to defeat socialist candidates who are taking over the party, said former Gov. and ex-state Democratic Party chairman David Paterson.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【「停電する国」が世界3位になった12年間。】5万軒の屋根が震えている——77億円が動いた「インド太陽光」の正体をあなたはまだ知らない。「環境にいいやつ」という思い込みが、世界のお金の流れを見えなくさせ｜ポス鳥（ビジネス＆投資NEWS解説）おそらく日本で１番「事業の失敗例を載せているnoteアカウント」",
+      "url": "https://note.com/glad_auklet4142/n/nd90c386a8bf9",
+      "source": "Note.com",
+      "publishedAt": "2026-06-28T09:23:53Z",
+      "description": "こんにちは、ポス鳥です。 今日のニュースはこちら。 ━━━ 今日のニュース1分まとめ 2026年6月、インドのムンバイに本社を置く新興企業、ソーラースクエア（SolarSquare）が、5,300万ドル（約77億円）の資金調達を発表しました。 これは、出資の段階を表す「シリーズC（創業から3〜4回目の本格的な資金調達のこと)」と呼ばれるラウンドで、投資会社のビー・キャピタル（B Capital）が中心となって取りまとめました。 これは、何をやっている会社か ソーラースクエアは、 一…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paris Saint-Germain agrees personal terms with Yan Diomandé through 2031",
+      "url": "https://cryptobriefing.com/psg-yan-diomande-contract-2031/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-28T19:45:16Z",
+      "description": "PSG's acquisition of Diomand strengthens their future squad depth, potentially impacting European football dynamics and rival strategies. The post Paris Saint-Germain agrees personal terms with Yan Diomandé through 2031 appeared first on Crypto Briefing.",
+      "maMarket": "us"
+    },
+    {
       "title": "【人気特集】ベイカレントの「コンサルタントの職位別年収水準」を公開！年収1000万円は何年目で可能？・ホンダが「出資比率引き上げ」を視野に入れるサプライヤーの名前とは？ - 見逃し厳禁！編集部イチ推し 人気特集",
       "url": "https://diamond.jp/articles/-/393320",
       "source": "Diamond.jp",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Brighton agrees £20M deal to sign Pascal Struijk from Leeds United",
-      "url": "https://cryptobriefing.com/brighton-struijk-leeds-transfer-deal/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-27T22:18:50Z",
-      "description": "Brighton's acquisition of Struijk enhances their defensive versatility, while Leeds capitalizes on a strategic financial opportunity. The post Brighton agrees £20M deal to sign Pascal Struijk from Leeds United appeared first on Crypto Briefing.",
-      "maMarket": "us"
-    },
-    {
-      "title": "OpenAIのIPO延期でソフトバンクGに激震：AI投資の出口が見えなくなった",
-      "url": "https://agora-web.jp/archives/260627031722.html",
-      "source": "Agora-web.jp",
-      "publishedAt": "2026-06-27T04:06:15Z",
-      "description": "東京株式市場で、ソフトバンクグループ（SBG）の株価が急反落を記録した。出資先であり、生成AIブームの牽引役である米OpenAIが、新規株式公開（IPO）を2027年まで先送りする可能性が浮上したためだ。孫正義社長主導のもと、巨額の資金をA...…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Could Elon Musk’s SpaceX Buy T-Mobile? Analyst Sees Wireless Giant As ‘Clear Choice’",
-      "url": "https://biztoc.com/x/7011b1e1694995a5",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-27T22:01:43Z",
-      "description": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Elon Musk's Space Exploration Technologies Corp. may be considering an acquisition of T-Mobile US Inc. in a strategic move to expand into the wireless busines…",
-      "maMarket": "us"
-    },
-    {
-      "title": "独金融監督庁BaFin、Zalandoを調査開始 株価は急落",
-      "url": "https://fashionunited.jp/news/business/du-jin-rong-jian-du-ting-bafin-zalandowodiao-cha-kai-shi-zhu-jia-haji-luo/20260626562332",
-      "source": "Fashionunited.jp",
-      "publishedAt": "2026-06-26T11:37:42Z",
-      "description": "ドイツの金融監督庁BaFinが、About Youの買収に関連する会計違反の疑いでZalandoを調査しており、これにより株価が下落している。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Price Revealed for Lakers to Reunite Luka Doncic With $54 Million Lob Threat",
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/daniel-gafford-trade-mavericks-price-luka-doncic/",
-      "source": "Heavy.com",
-      "publishedAt": "2026-06-27T21:59:19Z",
-      "description": "The Los Angeles Lakers need to acquire an athletic big man for Luka Doncic. The post Price Revealed for Lakers to Reunite Luka Doncic With $54 Million Lob Threat appeared first on HEAVY.",
-      "maMarket": "us"
-    },
-    {
-      "title": "ゴールドマン・サックス元海外従業員がインサイダー取引で勧告",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015161741000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-06-26T10:58:12Z",
-      "description": "アメリカの金融大手ゴールドマン・サックスなどが国内で行ったTOB＝株式公開買い付けをめぐり、当時、海外子会社で勤務していた従業員がインサイダー取引をしたとして、証券取引等監視委員会は課徴金の納付を命じるよう金融庁に勧告しました。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Anderson Cooper makes his feelings crystal clear on working for Bari Weiss at CBS News",
-      "url": "https://www.the-independent.com/life-style/anderson-cooper-cnn-cbs-merger-paramount-b3004333.html",
-      "source": "The-independent.com",
-      "publishedAt": "2026-06-27T21:40:33Z",
-      "description": "Paramount’s merger with Warner Bros. Discovery will put both CBS and CNN under the same ownership",
+      "title": "2008 Porsche Cayenne Turbo at No Reserve",
+      "url": "https://bringatrailer.com/listing/2008-porsche-cayenne-turbo-76-3/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-06-28T19:10:04Z",
+      "description": "This 2008 Porsche Cayenne Turbo was first registered in Illinois and has remained in the state following the current owner's acquisition in 2022. Service since that time has involved changing the fluids and replacing the starter, thermostat, water pump, spark…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
-      "url": "https://biztoc.com/x/3d5a8669d6aa989a",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-27T21:31:15Z",
-      "description": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor With its historic IPO in the rearview mirror, Space Exploration Technologies (NASDAQ: SPCX), or SpaceX, turned its attention from rockets and mass drivers …",
+      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails. - MarketWatch",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184165182",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-28T20:12:57Z",
+      "description": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.MarketWatch AI stocks melt down again. What’s going on?CNN Stock market today: Dow, S&P 500, Nasdaq slide as report of OpenAI IPO delay rattles techsYahoo Finan…",
       "ipoMarket": "us"
     },
     {
@@ -99,93 +99,91 @@
       "ipoMarket": "jp"
     },
     {
+      "title": "Cerebras Stock's Volatility Comes as AI Stock Momentum Is Slowing. Should Investors Be Worried?",
+      "url": "https://biztoc.com/x/48c5c68e5594af82",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-28T16:29:39Z",
+      "description": "After a blockbuster IPO just a few weeks ago, Cerebras (NASDAQ: CBRS) stock has nosedived recently. The company reported its first-quarter 2026 results on June 24, its first earnings report since going public, and Cerebras shares fell nearly 12%. Notably, Cer…",
+      "ipoMarket": "us"
+    },
+    {
       "title": "The SpaceX IPO Lifted the Whole Space Economy -- Including the Public Companies Building the Road Back to the Moon",
       "url": "https://www.prnewswire.com/news-releases/the-spacex-ipo-lifted-the-whole-space-economy--including-the-public-companies-building-the-road-back-to-the-moon-302812547.html",
       "source": "PRNewswire",
       "publishedAt": "2026-06-27T21:30:00Z",
       "description": "Editorial Commentary — Commercial Space Series SpaceX's listing drew investor attention to the broader space economy, including lunar infrastructure. Intuitive Machines (Nasdaq: LUNR) has emerged as a leading public name in NASA's commercial Moon program, wit…",
       "ipoMarket": "us"
-    },
-    {
-      "title": "自動運転の「ティアフォー」が年内上場へ 10億円出資するトヨタには安すぎるお買い物（森岡英樹／経済ジャーナリスト）",
-      "url": "https://news.livedoor.com/article/detail/31617645/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-21T21:55:00Z",
-      "description": "【経済ニュースの核心】ヤマダ&エディオン経営統合で売上高は2.4兆円規模に SPAで人口減少の波を乗り越えられるのかトヨタ自動車が9日、自動運転技術の導入に向け国内の有力新興企業と資本・業務提携した。自動運転システムの開発や導入を手がけるティアフォー（東京・品川）に傘下のトヨタ・インベンション・パートナーズが出資した。出資比率は1％で、株式の取得金額は10億円規模とみられる。また、ティアフォーは同時に、東京証券取引所グロース市場に上場申請したと発表 全文日刊ゲンダイDIGITAL 06月22日 06時55分",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "AI’s Energy Crunch Has Investors Searching for Next IPO Winners",
-      "url": "https://financialpost.com/pmn/business-pmn/ais-energy-crunch-has-investors-searching-for-next-ipo-winners",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-27T13:25:37Z",
-      "description": "The artificial intelligence boom has a power problem, and Wall Street is betting billions on companies that promise to solve it — even if some of the technology hasn’t been fully developed yet.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn't",
-      "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
-      "source": "CNBC",
-      "publishedAt": "2026-06-27T13:03:17Z",
-      "description": "The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米・イランが攻撃停止で合意 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6586056?source=rss",
+      "title": "ベネズエラ 地震の死者1700人超",
+      "url": "https://news.yahoo.co.jp/pickup/6586181?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-28T22:21:49.000Z",
+      "publishedAt": "2026-06-29T22:42:54.000Z",
       "description": ""
     },
     {
-      "title": "露兵器に日本企業の部品 ウ指摘",
-      "url": "https://news.yahoo.co.jp/pickup/6586042?source=rss",
+      "title": "NY円 一時39年半ぶりの円安水準",
+      "url": "https://news.yahoo.co.jp/pickup/6586160?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-28T13:54:56.000Z",
+      "publishedAt": "2026-06-29T14:42:31.000Z",
       "description": ""
     },
     {
-      "title": "フランスで小型機墜落 11人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6586041?source=rss",
+      "title": "独の福祉施設で銃撃事件 5人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6586156?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-28T13:23:25.000Z",
+      "publishedAt": "2026-06-29T13:40:22.000Z",
       "description": ""
     },
     {
-      "title": "米イラン攻撃応酬 停戦維持に試練",
-      "url": "https://news.yahoo.co.jp/pickup/6586037?source=rss",
+      "title": "なぜうちが 中国禁輸拡大に戸惑い",
+      "url": "https://news.yahoo.co.jp/pickup/6586152?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-28T12:26:49.000Z",
+      "publishedAt": "2026-06-29T13:12:10.000Z",
       "description": ""
     },
     {
-      "title": "ベネズエラ地震 3日後に11歳救出",
-      "url": "https://news.yahoo.co.jp/pickup/6586000?source=rss",
+      "title": "米W杯放映会場近くで銃撃1人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-28T06:44:34.000Z",
+      "publishedAt": "2026-06-29T12:26:30.000Z",
       "description": ""
     },
     {
-      "title": "ドイツで41.5度 最高気温を更新",
-      "url": "https://news.yahoo.co.jp/pickup/6585961?source=rss",
+      "title": "動物保護施設に100匹超の死骸 米",
+      "url": "https://news.yahoo.co.jp/pickup/6586115?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-28T00:27:29.000Z",
+      "publishedAt": "2026-06-29T07:53:58.000Z",
       "description": ""
     },
     {
-      "title": "ベネズエラ地震 死者1400人超",
-      "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
+      "title": "ウクライナ ドローン攻勢なぜ戦果",
+      "url": "https://news.yahoo.co.jp/pickup/6586092?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-27T22:08:08.000Z",
+      "publishedAt": "2026-06-29T05:52:52.000Z",
       "description": ""
     },
     {
-      "title": "中露爆撃機が日本周辺を共同飛行",
-      "url": "https://news.yahoo.co.jp/pickup/6585941?source=rss",
+      "title": "タイ少女人身取引 母に禁錮7年6月",
+      "url": "https://news.yahoo.co.jp/pickup/6586094?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-27T20:55:28.000Z",
+      "publishedAt": "2026-06-29T04:03:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国の輸出管理 日本の20団体追加",
+      "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-29T03:16:29.000Z",
+      "description": ""
+    },
+    {
+      "title": "欧州熱波で1300人以上死亡 WHO",
+      "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-29T02:28:29.000Z",
       "description": ""
     }
   ]
