@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T23:02:04.173Z",
+  "fetchedAt": "2026-06-30T23:16:50.245Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "中国に先を越されたら終わる…「SpaceX上場」のウラで懸念される「AIの軍事利用」とシリコンバレーが抱える深刻なジレンマ",
-      "url": "https://news.livedoor.com/article/detail/31684991/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-06-28T22:00:00Z",
-      "description": "2026年6月12日、SpaceXがNASDAQに上場した。初日の時価総額は2兆ドルに達し史上最大の歴史的上場となった。創業者CEOであるイーロン・マスクは、予想通り、史上初のトリリオネア（兆万長者）となった。前回触れたように、xAIを飲み込んだSpaceXはもはやAI企業の一角だ。上場後、即座にAIエージェント「Cursor」を開発するAnysphereの買収を発表し、AI開発の2強であるAnthropicとOpenAIの追撃に余念がない。そのAnthropicとOpenAIもすでに上場に向けて目論見書を提出し…",
+      "title": "Apple、デザイン賞受賞アプリ「Play」を買収",
+      "url": "https://www.applelinkage.com/2026/06/30/apple-acquires-award-winning-app-play/",
+      "source": "Applelinkage.com",
+      "publishedAt": "2026-06-29T22:02:44Z",
+      "description": "MacRumorsは、Appleが2025年のApple Design Awardを受賞した米国Rabbit 3 Times社から特定の資産を取得することが明らかになったと伝えています。 EUのデジタル市場法（DMA）は … 続きを読む Apple、デザイン賞受賞アプリ「Play」を買収 →",
       "maMarket": "jp"
     },
     {
-      "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
-      "url": "https://biztoc.com/x/09f1ede7badb2616",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-28T22:37:01Z",
-      "description": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater Quick Take - Michael Saylor posted Strategy’s bitcoin acquisition chart to X on Sunday morning with the caption “We’re gonna need more charts,” his usual signal that a pu…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【物議】任天堂株主総会で「任天堂製ゲームに生成AIを使うな」と迫る株主が現れ話題に",
-      "url": "https://alfalfalfa.com/articles/11054972.html",
-      "source": "Alfalfalfa.com",
-      "publishedAt": "2026-06-28T17:00:35Z",
-      "description": "[悲報]任天堂株主総会に反AIが現れ生成AIを使うなと迫る@momiji_manjyuuなんというか、滅茶苦茶過ぎますね。任天堂側が口約束でもしてしまったら、ハードはおろか対応ソフトに至るまで不使用を要求されそうだ。@momiji_manjyuu質問を「AIについてはゲーム業界も無視できないよな」と聞いていたら「任天堂はAIを使わないと断言すべき」どう言い出して察しました@momiji_manjyuu3割近く持ってれば大体いうこと聞くので、3兆円ぐらい用意してTOBしてくれたら、株主全員大喜びなのに・・・@mom…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Ex-NY gov warns Dems could face extinction if they can’t thwart socialist takeover",
-      "url": "https://nypost.com/2026/06/28/us-news/ex-ny-gov-warns-dems-could-face-extinction-if-they-cant-thwart-socialist-takeover/",
+      "title": "IShowSpeed takes part in Japan fans’ famous World Cup cleanup tradition",
+      "url": "https://nypost.com/2026/06/29/sports/ishowspeed-helps-japan-fans-clean-stadium-after-world-cup-2026-loss/",
       "source": "New York Post",
-      "publishedAt": "2026-06-28T21:33:36Z",
-      "description": "The New York Democratic Party faces extinction if it doesn't wake up and turn out voters to the polls to defeat socialist candidates who are taking over the party, said former Gov. and ex-state Democratic Party chairman David Paterson.",
+      "publishedAt": "2026-06-29T23:15:12Z",
+      "description": "IShowSpeed has made the 2026 World Cup part of his personal content takeover, but his latest viral moment came after the final whistle. Following Brazil’s dramatic win over Japan at Houston Stadium, the streamer joined Japanese fans in one of soccer’s most re…",
       "maMarket": "us"
     },
     {
-      "title": "【「停電する国」が世界3位になった12年間。】5万軒の屋根が震えている——77億円が動いた「インド太陽光」の正体をあなたはまだ知らない。「環境にいいやつ」という思い込みが、世界のお金の流れを見えなくさせ｜ポス鳥（ビジネス＆投資NEWS解説）おそらく日本で１番「事業の失敗例を載せているnoteアカウント」",
-      "url": "https://note.com/glad_auklet4142/n/nd90c386a8bf9",
-      "source": "Note.com",
-      "publishedAt": "2026-06-28T09:23:53Z",
-      "description": "こんにちは、ポス鳥です。 今日のニュースはこちら。 ━━━ 今日のニュース1分まとめ 2026年6月、インドのムンバイに本社を置く新興企業、ソーラースクエア（SolarSquare）が、5,300万ドル（約77億円）の資金調達を発表しました。 これは、出資の段階を表す「シリーズC（創業から3〜4回目の本格的な資金調達のこと)」と呼ばれるラウンドで、投資会社のビー・キャピタル（B Capital）が中心となって取りまとめました。 これは、何をやっている会社か ソーラースクエアは、 一…",
+      "title": "バブル時代の日本がヤバすぎる件ｗｗｗｗｗ",
+      "url": "https://news4vip.livedoor.biz/archives/52583027.html",
+      "source": "Livedoor.biz",
+      "publishedAt": "2026-06-29T22:00:31Z",
+      "description": "1: 名無しのニュー速クオリティさん 2020/03/04(水) 04:49:34【バブル期】1985～1991 ・自動車販売台数上位が高級車だらけ ・不動産価値急上昇 ・金融バブル ・世界時価総額上位が日本企業だらけ ・東京23区の土地の値段でアメリカ買収可能 ・アメリカのタワマン日本...",
       "maMarket": "jp"
     },
     {
-      "title": "Paris Saint-Germain agrees personal terms with Yan Diomandé through 2031",
-      "url": "https://cryptobriefing.com/psg-yan-diomande-contract-2031/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-28T19:45:16Z",
-      "description": "PSG's acquisition of Diomand strengthens their future squad depth, potentially impacting European football dynamics and rival strategies. The post Paris Saint-Germain agrees personal terms with Yan Diomandé through 2031 appeared first on Crypto Briefing.",
-      "maMarket": "us"
-    },
-    {
-      "title": "【人気特集】ベイカレントの「コンサルタントの職位別年収水準」を公開！年収1000万円は何年目で可能？・ホンダが「出資比率引き上げ」を視野に入れるサプライヤーの名前とは？ - 見逃し厳禁！編集部イチ推し 人気特集",
-      "url": "https://diamond.jp/articles/-/393320",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-06-27T19:40:00Z",
-      "description": "2025年に人気を集めた連載『コンサル大解剖』と特集『自動車 “最強産業”の死闘』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2008 Porsche Cayenne Turbo at No Reserve",
-      "url": "https://bringatrailer.com/listing/2008-porsche-cayenne-turbo-76-3/",
+      "title": "302-Powered 1962 Ford Falcon 2-Door Sedan 5-Speed at No Reserve",
+      "url": "https://bringatrailer.com/listing/1962-ford-falcon-36/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-06-28T19:10:04Z",
-      "description": "This 2008 Porsche Cayenne Turbo was first registered in Illinois and has remained in the state following the current owner's acquisition in 2022. Service since that time has involved changing the fluids and replacing the starter, thermostat, water pump, spark…",
+      "publishedAt": "2026-06-29T23:12:22Z",
+      "description": "This 1962 Ford Falcon two-door sedan was purchased in 1991 by the prior owner, a retired Boeing engineer in Seattle. It was fitted with a 302ci V8 and the cabin was reupholstered and retrofitted with bucket seats. Following the seller's acquisition in 2023 it…",
+      "maMarket": "us"
+    },
+    {
+      "title": "もう、AIによる社会崩壊は避けられない…サム・アルトマンが「OpenAI」上場のウラでもっとも恐れている「最悪の末路」",
+      "url": "https://news.livedoor.com/article/detail/31694935/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-06-29T22:00:00Z",
+      "description": "2026年6月12日、SpaceXがNASDAQに上場した。初日の時価総額は2兆ドルに達し史上最大の歴史的上場となった。創業者CEOであるイーロン・マスクは、事前の予想通り、史上初のトリリオネア（兆万長者）となった。前回触れたように、xAIを飲み込んだSpaceXはもはやAI企業の一角だ。上場後、即座にAIエージェント「Cursor」を開発するAnysphereの買収を発表し、AI開発の2強であるAnthropicとOpenAIの追撃に余念がない。そのAnthropicとOpenAIもすでに上場に向けて目論見書を…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
+      "url": "https://biztoc.com/x/124cd4532ffc1095",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-29T23:06:08Z",
+      "description": "Every weekday, the CNBC Investing Club with Jim Cramer releases the Homestretch — an actionable afternoon update, just in time for the last hour of trading on Wall Street. A market rally is finally holding on Monday, with the S & P 500 and Nasdaq on pace to s…",
+      "maMarket": "us"
+    },
+    {
+      "title": "Apple Design Award受賞アプリ「Play」、Appleに買収される。Xcode強化につながりそう",
+      "url": "https://gori.me/apple/apple-news/167600",
+      "source": "Gori.me",
+      "publishedAt": "2026-06-29T21:45:15Z",
+      "description": "Appleがアプリ開発を助けるツール「Play」を手に入れた。デザイナーがiPhoneアプリの画面をすばやく試作できる、評価の高いアプリだ。 MacRumorsによると、Appleは2026年2月の時点で、この「Play」を作ったRabbit 3 Timesという会社から、一部の資産と従業員を受け入… The post Apple Design Award受賞アプリ「Play」、Appleに買収される。Xcode強化につながりそう first appeared on ゴリミー. 【もっと読む】",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
+      "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-29T23:05:58Z",
+      "description": "The tokenization firm is expected to begin trading on the NYSE on Thursday, becoming one of the first publicly traded pure-play tokenization companies.",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1069431",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-06-29T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:30 失業率(5月) 2.5％ 2.5％08:30 有効求人倍率(5月) 1.18倍 1.19倍08:50 鉱工業生産(5月) -0.4％ -0.5％14:00 住宅着工件数(5月) 31.8％ 11.4％19:00 外国為替平衡操作の実施状況 (5月28日-6月26日) ネイスが東証グロースに新規上場(公開価格:1320円)＜海外＞10:30 中・製造業PM",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Black Rock Coffee Bar, Inc. (BRCB) Faces Securities Class Action Related to IPO Disclosures Regarding Adverse Impact of Sales Transfer Phenomenon - HBSS",
+      "url": "https://www.prnewswire.com/news-releases/black-rock-coffee-bar-inc-brcb-faces-securities-class-action-related-to-ipo-disclosures-regarding-adverse-impact-of-sales-transfer-phenomenon--hbss-302813517.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-29T19:43:00Z",
+      "description": "SAN FRANCISCO, June 29, 2026 /PRNewswire/ -- Black Rock Coffee Bar, Inc. (NASDAQ: BRCB) faces a securities class action lawsuit related to disclosures the company made to investors within its initial public offering documents whereby it issued about 16.9 mill…",
+      "ipoMarket": "us"
+    },
     {
       "title": "Trailhead、第5回新株予約権の残存全数を取得・消却し、潜在的希薄化懸念を解消",
       "url": "https://prtimes.jp/main/html/rd/p/000000190.000072408.html",
@@ -83,39 +99,80 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails. - MarketWatch",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184165182",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-28T20:12:57Z",
-      "description": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.MarketWatch AI stocks melt down again. What’s going on?CNN Stock market today: Dow, S&P 500, Nasdaq slide as report of OpenAI IPO delay rattles techsYahoo Finan…",
+      "title": "Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of August 4, 2026 in PicS N.V. Lawsuit - PICS",
+      "url": "https://www.globenewswire.com/news-release/2026/06/29/3319256/3080/en/Levi-Korsinsky-Reminds-Shareholders-of-a-Lead-Plaintiff-Deadline-of-August-4-2026-in-PicS-N-V-Lawsuit-PICS.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-29T19:29:00Z",
+      "description": "Pension Funds and Asset Managers Holding PicS N.V. Shares From the 434 Million IPO Face Fiduciary Obligations to Evaluate Recovery Options as Credit Portfolio Losses Exceed 10 Per Share Pension Funds and Asset Managers Holding PicS N.V. Shares From the 434 Mi…",
       "ipoMarket": "us"
     },
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1069113",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-06-22T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞09:30 製造業PMI(6月) 54.509:30 サービス業PMI(6月) 50.009:30 総合PMI(6月) 51.114:00 消費者物価のコア指標(日本銀行) LiNKXが東証グロースに新規上場(公開価格:790円)＜海外＞13:00 欧・ユーロ圏新車販売台数(5月) 5.1％14:00 印・製造業PMI速報(6月) 55.014:00 印・",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Cerebras Stock's Volatility Comes as AI Stock Momentum Is Slowing. Should Investors Be Worried?",
-      "url": "https://biztoc.com/x/48c5c68e5594af82",
+      "title": "SpaceX Just Lost $600 Billion in Value in Less Than Two Weeks. That's Why I'm Buying Bitcoin",
+      "url": "https://biztoc.com/x/c9b4ff134562f018",
       "source": "Biztoc.com",
-      "publishedAt": "2026-06-28T16:29:39Z",
-      "description": "After a blockbuster IPO just a few weeks ago, Cerebras (NASDAQ: CBRS) stock has nosedived recently. The company reported its first-quarter 2026 results on June 24, its first earnings report since going public, and Cerebras shares fell nearly 12%. Notably, Cer…",
+      "publishedAt": "2026-06-29T19:01:52Z",
+      "description": "SpaceX (NASDAQ: SPCX) was valued at $1.77 trillion when it went public at $135 per share on June 12, making it the biggest IPO in history. By June 16, its stock had reached a record high of $225.64, briefly boosting its market cap to $2.66 trillion. As of thi…",
       "ipoMarket": "us"
     },
     {
-      "title": "The SpaceX IPO Lifted the Whole Space Economy -- Including the Public Companies Building the Road Back to the Moon",
-      "url": "https://www.prnewswire.com/news-releases/the-spacex-ipo-lifted-the-whole-space-economy--including-the-public-companies-building-the-road-back-to-the-moon-302812547.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-27T21:30:00Z",
-      "description": "Editorial Commentary — Commercial Space Series SpaceX's listing drew investor attention to the broader space economy, including lunar infrastructure. Intuitive Machines (Nasdaq: LUNR) has emerged as a leading public name in NASA's commercial Moon program, wit…",
+      "title": "SpaceX secures fastest Nasdaq 100 entry on record",
+      "url": "https://cryptobriefing.com/spacex-nasdaq-100-fastest-entry-record/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-29T18:59:05Z",
+      "description": "The fast-track rule change by Nasdaq could accelerate market dynamics, influencing future IPO strategies and index fund rebalancing activities. The post SpaceX secures fastest Nasdaq 100 entry on record appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "出生地主義制限の米大統領令 違憲",
+      "url": "https://news.yahoo.co.jp/pickup/6586293?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T22:39:43.000Z",
+      "description": ""
+    },
+    {
+      "title": "歴史的な円安水準 生活への影響は",
+      "url": "https://news.yahoo.co.jp/pickup/6586279?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T13:39:46.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国政府 サッカー協会特別監査へ",
+      "url": "https://news.yahoo.co.jp/pickup/6586267?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T11:59:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "欧州熱波 ワイン産地に深刻な影響",
+      "url": "https://news.yahoo.co.jp/pickup/6586257?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T09:42:56.000Z",
+      "description": ""
+    },
+    {
+      "title": "フランス SHEINなど対象に法規制",
+      "url": "https://news.yahoo.co.jp/pickup/6586248?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T08:42:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "露で燃料不足 首都の給油所に行列",
+      "url": "https://news.yahoo.co.jp/pickup/6586208?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T02:32:48.000Z",
+      "description": ""
+    },
+    {
+      "title": "独の母子向け施設で発砲 6人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6586197?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-06-30T00:48:41.000Z",
+      "description": ""
+    },
     {
       "title": "ベネズエラ 地震の死者1700人超",
       "url": "https://news.yahoo.co.jp/pickup/6586181?source=rss",
@@ -124,66 +181,10 @@
       "description": ""
     },
     {
-      "title": "NY円 一時39年半ぶりの円安水準",
-      "url": "https://news.yahoo.co.jp/pickup/6586160?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T14:42:31.000Z",
-      "description": ""
-    },
-    {
-      "title": "独の福祉施設で銃撃事件 5人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6586156?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T13:40:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "なぜうちが 中国禁輸拡大に戸惑い",
-      "url": "https://news.yahoo.co.jp/pickup/6586152?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T13:12:10.000Z",
-      "description": ""
-    },
-    {
       "title": "米W杯放映会場近くで銃撃1人死亡",
       "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-06-29T12:26:30.000Z",
-      "description": ""
-    },
-    {
-      "title": "動物保護施設に100匹超の死骸 米",
-      "url": "https://news.yahoo.co.jp/pickup/6586115?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T07:53:58.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウクライナ ドローン攻勢なぜ戦果",
-      "url": "https://news.yahoo.co.jp/pickup/6586092?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T05:52:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "タイ少女人身取引 母に禁錮7年6月",
-      "url": "https://news.yahoo.co.jp/pickup/6586094?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T04:03:30.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国の輸出管理 日本の20団体追加",
-      "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T03:16:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "欧州熱波で1300人以上死亡 WHO",
-      "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-06-29T02:28:29.000Z",
       "description": ""
     }
   ]
