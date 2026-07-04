@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T23:08:33.499Z",
+  "fetchedAt": "2026-07-04T23:00:47.771Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,63 +9,87 @@
   ],
   "ma": [
     {
-      "title": "スペースX、600億ドルのカーソル買収で狙う「宇宙・AI垂直統合」の深層上場後の高株価テコに、インフラの自給体制と法人市場の開拓へ - IT最前線",
-      "url": "https://jbpress.ismedia.jp/articles/-/95720",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-07-02T21:00:00Z",
-      "description": "宇宙開発大手の米スペースXが6月中旬、AIプログラミングツールを開発する米新興カーソル（正式社名：Anysphere）を600億ドル（約9兆7500億円）で買収することで合意した（米証券取引委員会〈SEC〉への臨時報告書「FORM8-K」）。 本取引は全額を株式交換方式で行う。新規株式公開（IPO）後の高い株式価値を背景とし、上場からわずか4日後に合意した大型買収となる。 自社AI事業の競争力を高",
+      "title": "プーマもルンバも 中国企業が取り込む欧米ブランド | 週刊エコノミスト Onlineから | 週刊エコノミスト Online | 毎日新聞「経済プレミア」",
+      "url": "https://mainichi.jp/premier/business/articles/20260620/biz/00m/020/028000c",
+      "source": "The Mainichi",
+      "publishedAt": "2026-07-03T23:00:32Z",
+      "description": "中国消費財企業に海外ブランドのM&Aブームが起きている。その背景には、国内市場の成長鈍化・競争激化と、自社ブランドを強化したいという意識の高まりがある。 背景に中国市場の成長鈍化と競争激化",
       "maMarket": "jp"
     },
     {
-      "title": "B&R Technology Merger files for $325M IPO targeting AI sector",
-      "url": "https://cryptobriefing.com/br-technology-merger-325m-ipo-ai/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-02T22:59:29Z",
-      "description": "The IPO could accelerate AI sector growth, attracting sophisticated investors and potentially reshaping market dynamics with strategic acquisitions. The post B&R Technology Merger files for $325M IPO targeting AI sector appeared first on Crypto Briefing.",
+      "title": "ESPN makes right decision by removing Rich Eisen from play-by-play amid NFL Network acquisition",
+      "url": "https://www.foxnews.com/outkick-sports/espn-makes-right-decision-removing-rich-eisen-play-by-play-amid-nfl-network-acquisition",
+      "source": "Fox News",
+      "publishedAt": "2026-07-03T22:55:16Z",
+      "description": "Rich Eisen says he is done calling NFL games after ESPN removed him from broadcasts, with Dave Pasch expected to replace him on NFL Network.",
       "maMarket": "us"
     },
     {
-      "title": "Raspberry Pi Zeroを外に持ち出せる70キー端末「RootBoard」登場、Linuxターミナルが約115ドルでポケットに",
-      "url": "https://daily-gadget.net/umpc/116732/",
-      "source": "Daily-gadget.net",
-      "publishedAt": "2026-07-02T14:53:49Z",
-      "description": "Raspberry Piを組み込んで使うキーボード一体型の小型端末「RootBoard」が、Kickstarterで出資の受付を開始しました。3.5インチのカラーディスプレイと70キーのキーボード、スピーカー、電源管理回路を1つの筐体にまとめ、手持ちのRaspberry Pi Zeroシリーズを差し込んでポケットサイズのLinuxマシンとして使う構成です...",
+      "title": "日本人の「家電量販店離れ」が止まらない…。ヤマダ・エディオンが統合に追い込まれた理由・・・",
+      "url": "https://news4vip.livedoor.biz/archives/52583424.html",
+      "source": "Livedoor.biz",
+      "publishedAt": "2026-07-03T23:00:30Z",
+      "description": "1: 以下、ニュー速クオリティでお送りします 2026/06/30(火) 08:58:24.81 ID:x01hieB60 ■「2.5兆円」巨大統合の衝撃 「ヤマダ電機」と「エディオン」が、来年10月を目途とする経営統合に合意した。実現すれば、2位以下は売上1兆円を 越えないこの業界で、いきなり2.5兆",
       "maMarket": "jp"
     },
     {
-      "title": "28k-Mile 2001 Chrysler 300M at No Reserve",
-      "url": "https://bringatrailer.com/listing/2001-chrysler-300/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-07-02T22:56:51Z",
-      "description": "This 2001 Chrysler 300M is said to have remained registered with a single owner in New Jersey prior to the selling dealer's 2026 acquisition, and it has 28k miles. Black paint is accented by Light Taupe leather upholstery, and the car is equipped with tractio…",
+      "title": "kapipe 0.1.3",
+      "url": "https://pypi.org/project/kapipe/0.1.3/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-07-03T22:43:06Z",
+      "description": "A modular pipeline for knowledge acquisition",
       "maMarket": "us"
     },
     {
-      "title": "LINEヤフーが食べログ運営カカクコムへの買収を正式提案、争奪戦が本格化",
-      "url": "https://news.livedoor.com/article/detail/31722257/",
+      "title": "日向坂46・金村美玖が『週刊SPA!』表紙に初登場！爽やかな夏カット＆浴衣姿を披露",
+      "url": "https://news.livedoor.com/article/detail/31732286/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-07-02T08:48:19Z",
-      "description": "ざっくり言うと <ul> <li>LINEヤフーが食べログ運営カカクコムへの買収を正式提案した</li> <li>1株最大3500円・総額6700億円規模のTOBを想定しており</li> <li>先行するEQTの5900億円規模の提示額を上回る水準となっている</li> </ul> 記事を読む",
+      "publishedAt": "2026-07-03T08:30:00Z",
+      "description": "『週刊SPA! 7月7･14日合併号』は6月30日に発売！ 『週刊SPA!』7月7･14日合併号 ©扶桑社 表紙の人＆美女地図：金村美玖（日向坂46） 6月30日に発売された『週刊SPA! 7月7･14日合併号』の表紙およびグラビア企画「美女地図」に、日向坂46の金村美玖が登場した。 金村美玖 ©扶桑社撮影：鈴木ゴータ 金村が同誌の表紙を飾るのは今回が初めて。誌面では「夏の始まり」をテーマに、風薫る爽やかで透全文ラブすぽ 07月03日17時30分",
       "maMarket": "jp"
     },
     {
-      "title": "to Acquire South32 Aluminum Assets in $4.1B Deal",
-      "url": "https://biztoc.com/x/e0f755d596806414",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-02T22:31:38Z",
-      "description": "Alcoa Corporation (NYSE:AA) is one of the cheap stocks that are about to explode. On June 30, Alcoa announced a definitive agreement to acquire South32 Limited's bauxite, alumina, and aluminum assets in a transaction valued at $4.1 billion in upfront cash and…",
+      "title": "Euro 1984 Mercedes-Benz 500SL at No Reserve",
+      "url": "https://bringatrailer.com/listing/1984-mercedes-benz-500sl-25/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-07-03T22:04:21Z",
+      "description": "This European-market 1984 Mercedes-Benz 500SL was reportedly imported to the US when new, moved to British Columbia, Canada under previous ownership, and was re-imported to the US following the selling dealer's acquisition in 2026. Finished in Classic White o…",
       "maMarket": "us"
     },
     {
-      "title": "シャネルが老舗シャツメーカー「シャルベ」を買収　取得額は非公表",
-      "url": "https://www.fashionsnap.com/article/2026-07-02/chanel-charvet-acquisition/",
-      "source": "Fashionsnap.com",
-      "publishedAt": "2026-07-02T08:30:02Z",
-      "description": "「シャネル（CHANEL）」が、老舗シャツメーカー「シャルベ（Charvet）」を買収した。パリ・ヴァンドーム広場に位置するシャルベの本社兼ブティックの建物も取得対象に含まれる。金額は非公表。シャルベは1838年にジョゼフ＝クリストフ・シャルベ（Joseph-Christophe Charvet）が創業。フランス最古のシャツメーカーと知られ、1889年...",
+      "title": "シャープ、鴻海傘下入りから10年　液晶の次にめざすものは？",
+      "url": "https://www.asahi.com/articles/ASV732243V73PLFA007M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-07-03T08:00:00Z",
+      "description": "経営危機に陥ったシャープが台湾・鴻海（ホンハイ）精密工業に買収されて今夏で10年になる。会社の看板だった液晶事業を大幅に縮小し、業績はようやく安定してきたが、新しい成長分野への進出は遅れている。4月…",
       "maMarket": "jp"
+    },
+    {
+      "title": "Canfor completes acquisition of Calgary-based PinkWood Ltd.",
+      "url": "https://financialpost.com/globe-newswire/canfor-completes-acquisition-of-calgary-based-pinkwood-ltd",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-03T22:00:43Z",
+      "description": "VANCOUVER, British Columbia, July 03, 2026 (GLOBE NEWSWIRE) — Canfor Corporation (TSX: CFP) is pleased to announce it has completed the acquisition of PinkWood Ltd, Western Canada’s largest I-joist facility based in Calgary, Alberta. The acquisition, announce…",
+      "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "個人株主、過去最多9000万人超え。株高や新NISA背景に投資層拡大、「株式分割」など企業のIR戦略が牽引",
+      "url": "https://www.huffingtonpost.jp/entry/story_jp_6a470902e4b07748e75c9b73",
+      "source": "Huffingtonpost.jp",
+      "publishedAt": "2026-07-03T05:27:17Z",
+      "description": "定時株主総会東京証券取引所など全国4取引所が7月2日に発表した「2025年度株式分布状況調査」によると、国内上場企業における個人株主数（延べ人数）は前年度比839万人増の9198万人となった。12年連続で増加し、過去最高を更新した。 【画像】個人株主、過去最多9000万人越え。急増の要因は？ 流入を牽引したのが、活発化する企業の「株式分割」だ。東証の要因分析では、新規上場による増加（125万人）を大きく上回り、株式分割を実施した企業群だけで263万人もの個人株主を獲得した。 上場廃止に伴う減少分（159万人…",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "First congressional purchases of SpaceX stock emerge after IPO",
+      "url": "https://cryptobriefing.com/congressional-purchases-spacex-stock-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-03T18:26:40Z",
+      "description": "Congressional investments in SpaceX post-IPO highlight ongoing transparency issues, raising concerns about potential conflicts of interest. The post First congressional purchases of SpaceX stock emerge after IPO appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
     {
       "title": "いい生活、株式上場している業界特化型の垂直SaaSの事業者として初の電子決済等代行業の登録を完了",
       "url": "https://prtimes.jp/main/html/rd/p/000000259.000003214.html",
@@ -75,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Osprey Acquisition Corp. III Completes $300.15 Million Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321601/0/en/Osprey-Acquisition-Corp-III-Completes-300-15-Million-Initial-Public-Offering.html",
+      "title": "PicS (PICS) Investor Alert: Analyzing PicS N.V.’s Alleged IPO Credit Procedure Omissions and Shareholder Rights– HBSS",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321967/32716/en/PicS-PICS-Investor-Alert-Analyzing-PicS-N-V-s-Alleged-IPO-Credit-Procedure-Omissions-and-Shareholder-Rights-HBSS.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-07-02T21:05:00Z",
-      "description": "PHILADELPHIA, PA, July 02, 2026 (GLOBE NEWSWIRE) -- Osprey Acquisition Corp. III (NASDAQ:OSPRU) (the “Company”) today announced the closing of its initial public offering of 30,015,000 units, which includes 3,915,000 units issued pursuant to the exercise by t…",
+      "publishedAt": "2026-07-03T18:21:00Z",
+      "description": "Investors who lost money in PICS after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
       "ipoMarket": "us"
     },
     {
@@ -91,69 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "url": "https://biztoc.com/x/ffb7fad3ae25372a",
+      "title": "SpaceX Just Changed the Rules for Every Future IPO. The Market is Now Eyeing These 2 Upcoming IPOs",
+      "url": "https://biztoc.com/x/50fac18fcd24bed5",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-02T20:56:26Z",
-      "description": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq Thursday via a SPAC merger at a valuation of about $1.9 billion. But share prices didn’t pop. They spent most the day below the IPO price — a lukewarm welcome. SPAC mergers are often …",
+      "publishedAt": "2026-07-03T17:33:43Z",
+      "description": "The first half of 2026 is over, and nothing has sparked more excitement on Wall Street than blockbuster initial public offerings (IPOs). Investors watched AI chipmaker Cerebras Systems (CBRS) make a stunning debut with its IPO in May, proving that demand for …",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX, Explained: 8 Things That Matter the Most After the IPO",
+      "url": "https://www.cnet.com/tech/spacex-explained-8-things-that-matter-the-most-after-the-ipo/",
+      "source": "CNET",
+      "publishedAt": "2026-07-03T12:01:08Z",
+      "description": "Some days, Elon Musk is worth $1 trillion. Other days, he's merely an absurdly wealthy billionaire.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米独立記念日 熱波でイベ中止続く",
-      "url": "https://news.yahoo.co.jp/pickup/6586650?source=rss",
+      "title": "露 ウ東部要衝への砲撃停止を提案",
+      "url": "https://news.yahoo.co.jp/pickup/6586760?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T23:03:47.000Z",
+      "publishedAt": "2026-07-04T22:58:25.000Z",
       "description": ""
     },
     {
-      "title": "ペルー大統領選 ケイコ氏が当選",
-      "url": "https://news.yahoo.co.jp/pickup/6586644?source=rss",
+      "title": "米建国250年 プーチン氏が祝電",
+      "url": "https://news.yahoo.co.jp/pickup/6586743?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T22:24:34.000Z",
+      "publishedAt": "2026-07-04T13:28:01.000Z",
       "description": ""
     },
     {
-      "title": "ロシア 日本から燃料の輸入画策か",
-      "url": "https://news.yahoo.co.jp/pickup/6586639?source=rss",
+      "title": "「幸せの国」ブータン 最近の悩み",
+      "url": "https://news.yahoo.co.jp/pickup/6586733?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T14:30:11.000Z",
+      "publishedAt": "2026-07-04T12:06:43.000Z",
       "description": ""
     },
     {
-      "title": "故ハメネイ師のひつぎ公開 イラン",
-      "url": "https://news.yahoo.co.jp/pickup/6586620?source=rss",
+      "title": "W杯アフリカ勢躍進 自賛する中国",
+      "url": "https://news.yahoo.co.jp/pickup/6586729?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T11:15:15.000Z",
+      "publishedAt": "2026-07-04T10:38:39.000Z",
       "description": ""
     },
     {
-      "title": "米イラン 安保理で非難の応酬に",
-      "url": "https://news.yahoo.co.jp/pickup/6586584?source=rss",
+      "title": "露のキーウ攻撃 甚大な被害の理由",
+      "url": "https://news.yahoo.co.jp/pickup/6586726?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T06:17:56.000Z",
+      "publishedAt": "2026-07-04T10:18:53.000Z",
       "description": ""
     },
     {
-      "title": "半年ぶりの休養 ウ東部で兵士交代",
-      "url": "https://news.yahoo.co.jp/pickup/6586569?source=rss",
+      "title": "ハメネイ師の国葬 2000万人参列か",
+      "url": "https://news.yahoo.co.jp/pickup/6586716?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T03:20:10.000Z",
+      "publishedAt": "2026-07-04T08:37:42.000Z",
       "description": ""
     },
     {
-      "title": "セブンイレブンがナイキ提訴 米",
-      "url": "https://news.yahoo.co.jp/pickup/6586565?source=rss",
+      "title": "ドイツ 中国大使呼び出し懸念表明",
+      "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-03T03:00:07.000Z",
+      "publishedAt": "2026-07-04T07:32:41.000Z",
       "description": ""
     },
     {
-      "title": "ウ首都に大規模攻撃 20人超死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6586534?source=rss",
+      "title": "熱波のパリ周辺 1週間の死者6割増",
+      "url": "https://news.yahoo.co.jp/pickup/6586692?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-02T21:07:29.000Z",
+      "publishedAt": "2026-07-04T05:10:14.000Z",
       "description": ""
     }
   ]
