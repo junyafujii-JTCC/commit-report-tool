@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T23:00:47.771Z",
+  "fetchedAt": "2026-07-05T23:05:05.886Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,22 @@
   ],
   "ma": [
     {
+      "title": "不安がいっぱい！／新社名からSBIが消える「ドコモSMTBネット銀行」の前途",
+      "url": "https://facta.co.jp/article/202607023.html",
+      "source": "Facta.co.jp",
+      "publishedAt": "2026-07-04T18:30:00Z",
+      "description": "2025年10月、NTTドコモは、約4200億円で住信SBIネット銀行を連結子会社化した。住信SBIネット銀行は、預金量11兆477億円、口座数915万口座、住宅ローン残高9兆3013億円（2026年3月末）と楽天銀行と並ぶネット銀行最大手だ。 住信SBIネット銀行の持株比率は、NTTドコモ55.37％、三井住友信託銀行（SMTB）44.63％ながら、議決権比率は50対50である（図表）。 ソフトバンクがPayPay銀行、KDDIがauじぶん銀行、楽天が楽天銀行を擁するなか、大手スマホ4社のなかで唯一、グループ内…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Mavericks just made official offer for coveted European prospect in a deal that would send $2 million overseas",
+      "url": "https://www.sportingnews.com/us/nba/dallas-mavericks/news/mavericks-make-official-offer-tarik-biberovic-buyout/4bb14a434f853896d78bcb62",
+      "source": "Sporting News",
+      "publishedAt": "2026-07-04T21:54:50Z",
+      "description": "Mavericks extend official contract offer to EuroLeague sharpshooter Tarik Biberovic, navigating a $2 million buyout hurdle to space floor for Cooper Flagg.",
+      "maMarket": "us"
+    },
+    {
       "title": "プーマもルンバも 中国企業が取り込む欧米ブランド | 週刊エコノミスト Onlineから | 週刊エコノミスト Online | 毎日新聞「経済プレミア」",
       "url": "https://mainichi.jp/premier/business/articles/20260620/biz/00m/020/028000c",
       "source": "The Mainichi",
@@ -17,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "ESPN makes right decision by removing Rich Eisen from play-by-play amid NFL Network acquisition",
-      "url": "https://www.foxnews.com/outkick-sports/espn-makes-right-decision-removing-rich-eisen-play-by-play-amid-nfl-network-acquisition",
-      "source": "Fox News",
-      "publishedAt": "2026-07-03T22:55:16Z",
-      "description": "Rich Eisen says he is done calling NFL games after ESPN removed him from broadcasts, with Dave Pasch expected to replace him on NFL Network.",
+      "title": "1997 Chevrolet K1500 Silverado Z71 4×4 at No Reserve",
+      "url": "https://bringatrailer.com/listing/1997-chevrolet-k1500-pickup-28-2/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-07-04T21:00:05Z",
+      "description": "This 1997 Chevrolet K1500 Silverado was purchased new by the previous owner in New Jersey and spent 20 years with them in California before the seller's 2024 acquisition. The truck now shows 54k miles and was reportedly refinished in its factory shade of Emer…",
       "maMarket": "us"
     },
     {
@@ -33,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "kapipe 0.1.3",
-      "url": "https://pypi.org/project/kapipe/0.1.3/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-03T22:43:06Z",
-      "description": "A modular pipeline for knowledge acquisition",
+      "title": "Recursive Self-Improvement: The AI Takeover Nobody Would Notice Until It’s Too Late",
+      "url": "https://bitrebels.com/technology/recursive-self-improvement-the-ai-takeover-nobody-would-notice-until-its-too-late/",
+      "source": "Bitrebels.com",
+      "publishedAt": "2026-07-04T20:13:31Z",
+      "description": "It begins in the small, ordinary places we all trust our tools to help: an inbox, a calendar, a messy day. That is the deliberate device in the scenario written by Igor Babushkin, cofounder of xAI. The story follows a software engineer named Ivan who, step by…",
       "maMarket": "us"
     },
     {
@@ -49,27 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Euro 1984 Mercedes-Benz 500SL at No Reserve",
-      "url": "https://bringatrailer.com/listing/1984-mercedes-benz-500sl-25/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-07-03T22:04:21Z",
-      "description": "This European-market 1984 Mercedes-Benz 500SL was reportedly imported to the US when new, moved to British Columbia, Canada under previous ownership, and was re-imported to the US following the selling dealer's acquisition in 2026. Finished in Classic White o…",
-      "maMarket": "us"
-    },
-    {
-      "title": "シャープ、鴻海傘下入りから10年　液晶の次にめざすものは？",
-      "url": "https://www.asahi.com/articles/ASV732243V73PLFA007M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-07-03T08:00:00Z",
-      "description": "経営危機に陥ったシャープが台湾・鴻海（ホンハイ）精密工業に買収されて今夏で10年になる。会社の看板だった液晶事業を大幅に縮小し、業績はようやく安定してきたが、新しい成長分野への進出は遅れている。4月…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Canfor completes acquisition of Calgary-based PinkWood Ltd.",
-      "url": "https://financialpost.com/globe-newswire/canfor-completes-acquisition-of-calgary-based-pinkwood-ltd",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-03T22:00:43Z",
-      "description": "VANCOUVER, British Columbia, July 03, 2026 (GLOBE NEWSWIRE) — Canfor Corporation (TSX: CFP) is pleased to announce it has completed the acquisition of PinkWood Ltd, Western Canada’s largest I-joist facility based in Calgary, Alberta. The acquisition, announce…",
+      "title": "Why Rocket Lab Stock Skyrocketed Last Week",
+      "url": "https://biztoc.com/x/2bd3c3c5364ad72f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-04T19:57:39Z",
+      "description": "Shares of burgeoning space systems and rocket launch specialist Rocket Lab (NASDAQ: RKLB) rose 24% last week as the market welcomed the company's latest acquisition announcement. On Monday, Rocket Lab announced that it was acquiring satellite operator Iridium…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "First congressional purchases of SpaceX stock emerge after IPO",
-      "url": "https://cryptobriefing.com/congressional-purchases-spacex-stock-ipo/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-03T18:26:40Z",
-      "description": "Congressional investments in SpaceX post-IPO highlight ongoing transparency issues, raising concerns about potential conflicts of interest. The post First congressional purchases of SpaceX stock emerge after IPO appeared first on Crypto Briefing.",
+      "title": "AOL's Owner Bending Spoons Hits Wall Street with $1.7 billion IPO - Slashdot",
+      "url": "https://slashdot.org/story/26/07/04/0458242/aols-owner-bending-spoons-hits-wall-street-with-17-billion-ipo",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-04T17:38:59Z",
+      "description": "\"The owner of AOL and other tech businesses hit Wall Street with a $1.7 billion initial public offering Wednesday,\" reports the Associated Press: The company is getting $1 billion in proceeds, while the rest is going to shareholders. The stock surged 39.7% …",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "PicS (PICS) Investor Alert: Analyzing PicS N.V.’s Alleged IPO Credit Procedure Omissions and Shareholder Rights– HBSS",
-      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321967/32716/en/PicS-PICS-Investor-Alert-Analyzing-PicS-N-V-s-Alleged-IPO-Credit-Procedure-Omissions-and-Shareholder-Rights-HBSS.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-03T18:21:00Z",
-      "description": "Investors who lost money in PICS after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
+      "title": "Is SpaceX Stock a Buy After Falling From Its Post-IPO High?",
+      "url": "https://biztoc.com/x/ae165b55c42819f6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-04T17:25:38Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX) became a public company on June 12, initially soaring after its initial public offering (IPO), but now the stock is about 19% off its high. Some investors might be wondering if now is a good time to buy the stock …",
       "ipoMarket": "us"
     },
     {
@@ -115,77 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX Just Changed the Rules for Every Future IPO. The Market is Now Eyeing These 2 Upcoming IPOs",
-      "url": "https://biztoc.com/x/50fac18fcd24bed5",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-03T17:33:43Z",
-      "description": "The first half of 2026 is over, and nothing has sparked more excitement on Wall Street than blockbuster initial public offerings (IPOs). Investors watched AI chipmaker Cerebras Systems (CBRS) make a stunning debut with its IPO in May, proving that demand for …",
+      "title": "Apotex Health rises on TSX after IPO block grows by C$620 million following Cumberland deal",
+      "url": "https://ts2.tech/en/apotex-health-rises-on-tsx-after-ipo-block-grows-by-c620-million-following-cumberland-deal/",
+      "source": "Ts2.tech",
+      "publishedAt": "2026-07-03T23:51:51Z",
+      "description": "Apotex Health rises on TSX after IPO block grows by C$620 million following Cumberland deal - TechStock²",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX, Explained: 8 Things That Matter the Most After the IPO",
-      "url": "https://www.cnet.com/tech/spacex-explained-8-things-that-matter-the-most-after-the-ipo/",
-      "source": "CNET",
-      "publishedAt": "2026-07-03T12:01:08Z",
-      "description": "Some days, Elon Musk is worth $1 trillion. Other days, he's merely an absurdly wealthy billionaire.",
+      "title": "First congressional purchases of SpaceX stock emerge after IPO",
+      "url": "https://cryptobriefing.com/congressional-purchases-spacex-stock-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-03T18:26:40Z",
+      "description": "Congressional investments in SpaceX post-IPO highlight ongoing transparency issues, raising concerns about potential conflicts of interest. The post First congressional purchases of SpaceX stock emerge after IPO appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "米建国250年 行事の私物化批判も",
+      "url": "https://news.yahoo.co.jp/pickup/6586853?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T12:40:03.000Z",
+      "description": ""
+    },
+    {
+      "title": "猛暑のパリ セーヌ川での遊泳人気",
+      "url": "https://news.yahoo.co.jp/pickup/6586835?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T10:04:41.000Z",
+      "description": ""
+    },
+    {
+      "title": "中露が軍事演習発表 日本けん制か",
+      "url": "https://news.yahoo.co.jp/pickup/6586820?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T08:01:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "米建国250年 トランプ大統領演説",
+      "url": "https://news.yahoo.co.jp/pickup/6586805?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T06:31:00.000Z",
+      "description": ""
+    },
+    {
+      "title": "武装勢力拠点に響く 長渕の乾杯",
+      "url": "https://news.yahoo.co.jp/pickup/6586787?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T03:30:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "米露首脳 90分近く電話で会談",
+      "url": "https://news.yahoo.co.jp/pickup/6586783?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T02:05:48.000Z",
+      "description": ""
+    },
+    {
+      "title": "ホットドッグ10分38個 12回目V",
+      "url": "https://news.yahoo.co.jp/pickup/6586768?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-05T00:00:51.000Z",
+      "description": ""
+    },
+    {
       "title": "露 ウ東部要衝への砲撃停止を提案",
       "url": "https://news.yahoo.co.jp/pickup/6586760?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-04T22:58:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "米建国250年 プーチン氏が祝電",
-      "url": "https://news.yahoo.co.jp/pickup/6586743?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T13:28:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "「幸せの国」ブータン 最近の悩み",
-      "url": "https://news.yahoo.co.jp/pickup/6586733?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T12:06:43.000Z",
-      "description": ""
-    },
-    {
-      "title": "W杯アフリカ勢躍進 自賛する中国",
-      "url": "https://news.yahoo.co.jp/pickup/6586729?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T10:38:39.000Z",
-      "description": ""
-    },
-    {
-      "title": "露のキーウ攻撃 甚大な被害の理由",
-      "url": "https://news.yahoo.co.jp/pickup/6586726?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T10:18:53.000Z",
-      "description": ""
-    },
-    {
-      "title": "ハメネイ師の国葬 2000万人参列か",
-      "url": "https://news.yahoo.co.jp/pickup/6586716?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T08:37:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "ドイツ 中国大使呼び出し懸念表明",
-      "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T07:32:41.000Z",
-      "description": ""
-    },
-    {
-      "title": "熱波のパリ周辺 1週間の死者6割増",
-      "url": "https://news.yahoo.co.jp/pickup/6586692?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-04T05:10:14.000Z",
       "description": ""
     }
   ]
