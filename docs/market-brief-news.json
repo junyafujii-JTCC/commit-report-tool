@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T23:12:00.027Z",
+  "fetchedAt": "2026-07-07T23:05:21.487Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "イーロン・マスクに「クソ野郎」と呼ばれた日--「それほど価値のない」Twitter買収騒動の真相",
-      "url": "https://news.livedoor.com/article/detail/31748895/",
+      "title": "「トランプをSNSから追放したのは道義的に間違っている」。ツイッター買収前のイーロン・マスクの自論",
+      "url": "https://news.livedoor.com/article/detail/31758286/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-07-05T22:00:00Z",
-      "description": "「デジタル革命の最も有名な記録者」によって、テック業界の巨人たちの素顔がすべて明かされる。「その他大勢のマスク」だった頃からイーロン・マスクとつきあい、1990年にGoogleのセルゲイ・ブリンとラリー・ペイジをとことん取材し、犬猿の仲のジョブズとゲイツの奇跡の対談を成功させ、ジェフ・ベゾスを「野生のマングース」と呼び、マーク・ザッカーバーグを「クソ野郎などではない。それ以上にひどかった」と断じ、19歳のサム・アルトマンに「AIの未来」を語らせた凄腕ジャーナリ全文現代ビジネス 07月06日07時00分",
+      "publishedAt": "2026-07-06T22:00:00Z",
+      "description": "「デジタル革命の最も有名な記録者」によって、テック業界の巨人たちの素顔がすべて明かされる。「その他大勢のマスク」だった頃からイーロン・マスクとつきあい、1990年にGoogleのセルゲイ・ブリンとラリー・ペイジをとことん取材し、犬猿の仲のジョブズとゲイツの奇跡の対談を成功させ、ジェフ・ベゾスを「野生のマングース」と呼び、マーク・ザッカーバーグを「クソ野郎などではない。それ以上にひどかった」と断じ、19歳のサム・アルトマンに「AIの未来」を語らせた凄腕ジャーナリ全文現代ビジネス 07月07日07時00分",
       "maMarket": "jp"
     },
     {
-      "title": "VICI Properties Inc. (VICI) Strengthens Caribbean Portfolio with Carambola Beach Resort Acquisition",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_674084c1-af72-4091-9a71-34b63cbb229e",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-05T22:52:01Z",
-      "description": "",
+      "title": "Solstice CEO defends its $14.5B acquisition after the stock plunges 15%",
+      "url": "https://www.cnbc.com/2026/07/06/solstice-ceo-defends-acquisition-element-solutions-stock-plunges.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T23:02:10Z",
+      "description": "Solstice CEO David Sewell said the company's acquisition of Element Solutions creates a \"world-leading\" supplier of advanced materials.",
       "maMarket": "us"
     },
     {
-      "title": "J & J社、デグレーダー抗体複合体のプラットフォーム保有の米企業を約1600億円で買収",
-      "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/26/07/03/14762/",
-      "source": "Nikkeibp.co.jp",
-      "publishedAt": "2026-07-05T22:00:00Z",
-      "description": "米Johnson & Johnson社は2026年6月8日、米Firefly Bio社を10億ドル（約1600億円）で買収すると発表した。Firefly社は、標的蛋白質分解誘導薬（TPD）と抗体を結合したデグレーダー抗体複合体（DAC：degrader antibody conjugate）を創製するプラットフォーム「Firelink」を保有している。同プラットフォームからKRAS変異型腫瘍を標的とするDACを創出し得ることから、J & J社はKRAS標的薬のパイプラインの強化を図る狙いがある。",
+      "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170471000",
+      "source": "Web.nhk",
+      "publishedAt": "2026-07-06T21:41:57Z",
+      "description": "イギリスの大手テレビ局スカイは、国内民放大手の放送・動画配信事業を日本円にして最大でおよそ3500億円で買収すると発表しました。地元メディアは「イギリスメディアの歴史で最大級の買収案件の1つだ」と報じていて、動画配信大手などとの競争が激しくなる中で規模を拡大して対抗するねらいがあります。",
       "maMarket": "jp"
     },
     {
-      "title": "TD Cowen Rates Vertex (VERX) A Buy; Sees Sentiment Improving On Execution",
-      "url": "https://biztoc.com/x/f406f2e127a81f80",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-05T22:51:24Z",
-      "description": "With strong upside potential, Vertex, Inc. (NASDAQ:VERX) ranks among the overlooked tech stocks to invest in now. A bullish new analyst call follows a first quarter that beat guidance and a strategic acquisition aimed at expanding the company's global reach. …",
+      "title": "NBA Trade Talk: Detroit Pistons Officially Confirm Isaiah Joe Acquisition",
+      "url": "https://roundtable.io/sports/nba/pistons/players/nba-trade-talk-detroit-pistons-officially-confirm-isaiah-joe-acquisition",
+      "source": "Roundtable.io",
+      "publishedAt": "2026-07-06T23:00:35Z",
+      "description": "After spending the last four seasons with the Oklahoma City Thunder, sharp-shooting guard Isaiah Joe is officially going to continue his career with the Detroit Pistons",
       "maMarket": "us"
     },
     {
-      "title": "【人気特集】中央大学法学部の都心移転は正解だったのか？「MARCHダブル合格者が選ぶ進学先」最新データが下した答え・JR東日本の財務トップが「巨額買収のターゲット分野」を激白 - 見逃し厳禁！編集部イチ推し 人気特集",
-      "url": "https://diamond.jp/articles/-/393333",
+      "title": "近くにあったら嬉しいスーパー「トライアル」",
+      "url": "https://agora-web.jp/archives/260704223718.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-07-06T21:00:18Z",
+      "description": "九州発のディスカウントスーパートライアル（TRIAL）が話題になっています。大手スーパーの西友を買収して関東にも進出しています。東京にも何店舗かあるようですが、中野、杉並、練馬といった西地区にしか店舗が無いようで近所に見かけることはありませ...…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "White Sox climb up power rankings just in time for a big bopper to return",
+      "url": "https://www.sportingnews.com/us/mlb/chicago-white-sox/news/white-sox-climb-power-rankings-just-time-big-bopper-return/557aa9eb92df0f08b2bb280a",
+      "source": "Sporting News",
+      "publishedAt": "2026-07-06T22:47:45Z",
+      "description": "It won't be long before the offseason acquisition returns from the IL.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【続報】東証スタンダード上場ANAP「41億円資金還流」錬金術の実態判明！サイバーステップ社でも同一手口の巨額M＆Aを敢行 - Diamond Premium News",
+      "url": "https://diamond.jp/articles/-/394134",
       "source": "Diamond.jp",
-      "publishedAt": "2026-07-05T19:10:00Z",
-      "description": "2025年に人気を集めた連載『教育・受験 最前線』と連載『経営の中枢 CFOに聞く！』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
+      "publishedAt": "2026-07-06T19:55:00Z",
+      "description": "ダイヤモンド・オンラインのスクープにより判明した、東証スタンダード上場ANAPホールディングスにおける「41億円資金還流」事案の調査が大詰めを迎えている。調査委員会の報告書公表が迫る中、取材で新たに、無価値の事業で巨額資金を生み出す錬金術の手口が明らかになった。",
       "maMarket": "jp"
     },
     {
-      "title": "Controversial umpire C.B. Bucknor taking buyout to retire after 2026 MLB season",
-      "url": "https://nypost.com/2026/07/05/sports/controversial-umpire-c-b-bucknor-retiring-after-2026-mlb-season/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-05T22:08:54Z",
-      "description": "Veteran Major League Baseball umpire C.B. Bucknor will retire at the end of the 2026 season, bringing to a close a three-decade career that was as controversial as it was lengthy. Bucknor is one of seven umpires who accepted Major League Baseball’s voluntary …",
-      "maMarket": "us"
-    },
-    {
-      "title": "ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず。公正取引委員会が調査を終了",
-      "url": "https://www.publickey1.jp/blog/26/vmware_9.html",
-      "source": "Publickey1.jp",
-      "publishedAt": "2026-07-05T14:21:07Z",
-      "description": "公正取引委員会は、ブロードコムに対する独占禁止法違反の調査を、違反に認定するに足る事実が認められなかったとして終了すると発表しました。 VMware製品、ライセンス変更により事実上の大幅値上げ ブロードコムは2023年にVMwareを買収。...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Content [K4NT] KDB: A Minimalist E-Ink Dashboard + K4NT Zero-Compromise Wi-Fi Takeover",
-      "url": "https://www.mobileread.com/forums/showthread.php?s=208e5cc2c7cb606e97581d228d24bb81&p=4596420#post4596420",
-      "source": "Mobileread.com",
-      "publishedAt": "2026-07-05T21:56:59Z",
-      "description": "Hi everyone, I want to share a little project Ive been working on to breathe some new life into our legacy devices, specifically the K4NT. It is called KDB (Kindle Desktop Dashboard), a highly optimized, offline-capable smart display for weather, calendar, …",
+      "title": "Another luxury fashion retailer closes 139 stores as merger fails",
+      "url": "https://biztoc.com/x/55b51bb4f0128b89",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-06T22:28:40Z",
+      "description": "Luxury brands are typically considered recession-resistant. Yet recent store closures suggest that luxury is not always enough to keep a business afloat amid shifting consumer habits and economic challenges. McKinsey & Company reveals an important shift in c…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now",
-      "url": "https://biztoc.com/x/e8d7a4a8bd81ddcd",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-05T22:35:55Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX) drew a lot of attention in the weeks leading up to its initial public offering, for many reasons -- from the sheer size of the operation, with SpaceX's goal to become a trillion-dollar company, to the focus on off…",
+      "title": "SpaceX shares are quietly entering millions of retirement accounts after record-shattering IPO",
+      "url": "https://cryptobriefing.com/spacex-ipo-retirement-accounts-index-inclusion/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-06T22:38:15Z",
+      "description": "The rapid inclusion of SpaceX in retirement portfolios highlights evolving index rules, potentially increasing exposure to speculative assets. The post SpaceX shares are quietly entering millions of retirement accounts after record-shattering IPO appeared fir…",
       "ipoMarket": "us"
     },
     {
@@ -99,93 +99,85 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Wall Street's $200 billion IPO wave threatens sell-off",
-      "url": "https://www.thestreet.com/investing/spacex-anthropic-openai-ipo-wave-threatens-trillion-dollar-sell-off",
-      "source": "TheStreet",
-      "publishedAt": "2026-07-05T14:37:00Z",
-      "description": "SpaceX, Anthropic, and OpenAI are collectively moving toward public offerings that could rank among the most valuable stock sales ever completed. The flood o...",
+      "title": "PICS Investor Alert: Kessler Topaz Meltzer & Check, LLP Encourages PICS Investors with Losses to Contact the Firm",
+      "url": "https://www.prnewswire.com/news-releases/pics-investor-alert-kessler-topaz-meltzer--check-llp-encourages-pics-investors-with-losses-to-contact-the-firm-302817139.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-06T22:30:00Z",
+      "description": "Did you buy PICS Class A common stock on or around January 30, 2026? Affected PICS Investor Summary Who: PicS N.V. (NASDAQ: PICS) What: Securities fraud class action lawsuit filed Class Period: pursuant and/or traceable to PicS's initial public offering (IPO)…",
       "ipoMarket": "us"
     },
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1069431",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-06-29T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞08:30 失業率(5月) 2.5％ 2.5％08:30 有効求人倍率(5月) 1.18倍 1.19倍08:50 鉱工業生産(5月) -0.4％ -0.5％14:00 住宅着工件数(5月) 31.8％ 11.4％19:00 外国為替平衡操作の実施状況 (5月28日-6月26日) ネイスが東証グロースに新規上場(公開価格:1320円)＜海外＞10:30 中・製造業PM",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Unitree secures approval for $619M Shanghai IPO to expand AI robotics",
-      "url": "https://cryptobriefing.com/unitree-619m-shanghai-ipo-ai-robotics/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-05T13:36:06Z",
-      "description": "Unitree's IPO highlights China's rapid regulatory processes and signals a significant shift towards increased commercial adoption of AI robotics. The post Unitree secures approval for $619M Shanghai IPO to expand AI robotics appeared first on Crypto Briefing.",
+      "title": "Viking Acquisition Corp. II Announces Closing of $230 Million Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322794/0/en/Viking-Acquisition-Corp-II-Announces-Closing-of-230-Million-Initial-Public-Offering.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-06T21:59:00Z",
+      "description": "Viking Acquisition Corp. II Announces Closing of $230 Million Initial Public Offering...",
       "ipoMarket": "us"
     },
     {
-      "title": "AOL's Owner Bending Spoons Hits Wall Street with $1.7 billion IPO - Slashdot",
-      "url": "https://slashdot.org/story/26/07/04/0458242/aols-owner-bending-spoons-hits-wall-street-with-17-billion-ipo",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-04T17:38:59Z",
-      "description": "\"The owner of AOL and other tech businesses hit Wall Street with a $1.7 billion initial public offering Wednesday,\" reports the Associated Press: The company is getting $1 billion in proceeds, while the rest is going to shareholders. The stock surged 39.7% …",
+      "title": "Semiconductor and software company Syntiant Corp files for US IPO",
+      "url": "https://www.channelnewsasia.com/business/semiconductor-and-software-company-syntiant-corp-files-us-ipo-6236446",
+      "source": "CNA",
+      "publishedAt": "2026-07-06T21:46:14Z",
+      "description": "July 6 : Semiconductor and software company Syntiant Corp filed for an initial public offering in the United States on Monday.The listing is the latest in a string of AI-related IPOs this year, amid a broader revival in the U.S. IPO market as companies seek t…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "熱波影響 欧州各地で山火事が多発",
-      "url": "https://news.yahoo.co.jp/pickup/6586979?source=rss",
+      "title": "ホルムズ海峡で船舶攻撃 混乱続く",
+      "url": "https://news.yahoo.co.jp/pickup/6587119?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-06T12:33:48.000Z",
+      "publishedAt": "2026-07-07T21:43:56.000Z",
       "description": ""
     },
     {
-      "title": "露のほぼ全土で燃料危機 CNN分析",
-      "url": "https://news.yahoo.co.jp/pickup/6586975?source=rss",
+      "title": "トヨタの米投資 トランプ氏が評価",
+      "url": "https://news.yahoo.co.jp/pickup/6587116?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-06T12:16:05.000Z",
+      "publishedAt": "2026-07-07T14:54:14.000Z",
       "description": ""
     },
     {
-      "title": "中国が進める世論工作 圧力拡大か",
-      "url": "https://news.yahoo.co.jp/pickup/6586964?source=rss",
+      "title": "ベネズエラ地震 バレーの主将死去",
+      "url": "https://news.yahoo.co.jp/pickup/6587107?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-06T09:57:32.000Z",
+      "publishedAt": "2026-07-07T13:11:01.000Z",
       "description": ""
     },
     {
-      "title": "中国ミサイル発射実験 成功と発表",
-      "url": "https://news.yahoo.co.jp/pickup/6586935?source=rss",
+      "title": "仏大統領 シリア宿泊先近くで爆発",
+      "url": "https://news.yahoo.co.jp/pickup/6587084?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-06T06:17:33.000Z",
+      "publishedAt": "2026-07-07T10:18:59.000Z",
       "description": ""
     },
     {
-      "title": "陸に加え海へ 北朝鮮の海軍強化",
-      "url": "https://news.yahoo.co.jp/pickup/6586918?source=rss",
+      "title": "西太平洋展開する艦艇 中国正当化",
+      "url": "https://news.yahoo.co.jp/pickup/6587073?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-06T03:55:40.000Z",
+      "publishedAt": "2026-07-07T09:12:01.000Z",
       "description": ""
     },
     {
-      "title": "米・ウクライナ 8日に首脳会談",
-      "url": "https://news.yahoo.co.jp/pickup/6586896?source=rss",
+      "title": "露「爆発的な」銀行危機リスクか",
+      "url": "https://news.yahoo.co.jp/pickup/6587046?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-06T00:53:09.000Z",
+      "publishedAt": "2026-07-07T06:37:57.000Z",
       "description": ""
     },
     {
-      "title": "露「制圧」要衝 ウが砲撃停止拒否",
-      "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
+      "title": "カカオ豆農家 豊作でも困窮の背景",
+      "url": "https://news.yahoo.co.jp/pickup/6587022?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-05T23:04:48.000Z",
+      "publishedAt": "2026-07-07T05:26:55.000Z",
       "description": ""
     },
     {
-      "title": "米建国250年 行事の私物化批判も",
-      "url": "https://news.yahoo.co.jp/pickup/6586853?source=rss",
+      "title": "米国務省 中国のミサイル発射批判",
+      "url": "https://news.yahoo.co.jp/pickup/6587016?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-05T12:40:03.000Z",
+      "publishedAt": "2026-07-07T01:07:24.000Z",
       "description": ""
     }
   ]
