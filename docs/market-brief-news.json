@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-11T22:54:13.228Z",
+  "fetchedAt": "2026-07-12T22:54:33.613Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,22 @@
   ],
   "ma": [
     {
+      "title": "【期待】最上位モデル「Tesla Model Y Performance」が中国MIIT資料に記載〜ギガ上海で製造開始へ",
+      "url": "https://touchlab.jp/2026/07/juniper_modelyp_china_approval/",
+      "source": "Touchlab.jp",
+      "publishedAt": "2026-07-11T03:59:14Z",
+      "description": "中国で、ジュニパー世代の「Model Y Performance」の製造に関する動きが報告されています。 中国の工業情報化部(MIIT)が公開した新車の届出資料に、Teslaの最上位グレードとなる「Model Y Per […]©2019 \"Touch Lab - タッチ ラボ\".",
+      "maMarket": "jp"
+    },
+    {
+      "title": "NextEra’s Acquisition of Dominion Energy Would Result in Corporate Mega-Utility",
+      "url": "https://truthout.org/articles/nexteras-acquisition-of-dominion-energy-would-result-in-corporate-mega-utility/",
+      "source": "Truthout",
+      "publishedAt": "2026-07-11T22:20:28Z",
+      "description": "The utility merger seeks to exploit the data center boom for profit and political clout, at ratepayers’ expense.",
+      "maMarket": "us"
+    },
+    {
       "title": "津梁ファンド、未利用資源から価値ある栄養源を生み出すAlgaleXへ出資",
       "url": "https://prtimes.jp/main/html/rd/p/000000042.000098718.html",
       "source": "Prtimes.jp",
@@ -17,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "1993 Infiniti J30 at No Reserve",
-      "url": "https://bringatrailer.com/listing/1993-infiniti-j30/",
+      "title": "2015 Volkswagen Tiguan S at No Reserve",
+      "url": "https://bringatrailer.com/listing/2015-volkswagen-tiguan-3/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-07-10T22:50:04Z",
-      "description": "This 1993 Infiniti J30 has been registered in Washington and California since new and now has 75k miles following its acquisition by the seller in 2025. It is finished in black over black leather upholstery and is powered by a 3.0-liter V6 paired with a four-…",
+      "publishedAt": "2026-07-11T22:20:01Z",
+      "description": "This 2015 Volkswagen Tiguan S is a front-wheel-drive example that was registered in Florida from new through its recent acquisition by the selling dealer, and it now indicates 80k miles. Finished in Night Blue Metallic over black cloth, the car is powered by …",
       "maMarket": "us"
     },
     {
@@ -33,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "General Fusion completes SPAC merger despite high redemptions to become public company",
-      "url": "https://biztoc.com/x/29d48e8ccbc8a13e",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-10T22:36:23Z",
-      "description": "General Fusion Inc. has completed its go-public transaction despite heavy redemptions by unitholders in the NASDAQ-listed special purpose acquisition company that merged with the Canadian fusion energy developer. The Richmond, B.C.-based company, which will t…",
+      "title": "Detroit Tigers select RHP/OF Evan Dempsey with pick No. 69 of 2026 MLB Draft",
+      "url": "https://www.blessyouboys.com/mlb-draft/94609/detroit-tigers-mlb-draft-2026-evan-dempsey-competitive-balance-round-b-pick",
+      "source": "Bless You Boys",
+      "publishedAt": "2026-07-11T21:54:48Z",
+      "description": "The Tigers make a ‘nice’ acquisition with their Competitive Balance Round B selection.",
       "maMarket": "us"
     },
     {
@@ -49,27 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "General Fusion completes SPAC merger despite high redemptions to become public company",
-      "url": "https://www.theglobeandmail.com/business/article-general-fusion-completes-spac-merger-despite-high-redemptions-to/",
-      "source": "The Globe And Mail",
-      "publishedAt": "2026-07-10T22:29:39Z",
-      "description": "B.C. fusion energy developer now amply capitalized to complete key development work; to trade on Nasdaq under symbol GFUZ",
-      "maMarket": "us"
-    },
-    {
-      "title": "吉野家HD、米ラーメン会社を47億円で買収 「第3の柱」確立へ",
-      "url": "https://www.2nn.jp/newsplus/1783683314/",
-      "source": "Www.2nn.jp",
-      "publishedAt": "2026-07-10T11:35:14Z",
-      "description": "吉野家HD、米ラーメン会社を47億円で買収 「第3の柱」確立へ - 日本経済新聞 -吉野家HDが買収した米キズキインターナショナルの店舗吉野家ホールディングス(HD)は10日、米国でラーメン店を展開するキズキインターナ...https://asahi.5ch.io/test/read.cgi/newsplus/1783683314/",
-      "maMarket": "jp"
-    },
-    {
-      "title": "San Francisco Inches Closer to PG&E Acquisition",
-      "url": "https://www.kqed.org/news/12090521/san-francisco-inches-closer-to-pge-acquisition",
-      "source": "KQED",
-      "publishedAt": "2026-07-10T22:27:43Z",
-      "description": "City leaders argued that public ownership would lower costs, but the utility company has repeatedly disputed the plan, saying a takeover would increase rates.",
+      "title": "Vertex Pharmaceuticals Bets $10 Billion on Crinetics to Build Endocrinology Powerhouse",
+      "url": "https://biztoc.com/x/607472f4217837b6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-11T21:20:43Z",
+      "description": "Key Points - Vertex Pharmaceuticals agreed to buy Crinetics Pharmaceuticals for $85 per share in cash, valuing the deal at about $10 billion equity value ($8.8 billion net of cash). Vertex says the acquisition is a strategic move to build an endocrinology fra…",
       "maMarket": "us"
     }
   ],
@@ -83,51 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Holtec Nuclear Corporation Announces Public Filing of Registration Statement for Proposed Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325776/0/en/Holtec-Nuclear-Corporation-Announces-Public-Filing-of-Registration-Statement-for-Proposed-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-10T22:45:00Z",
-      "description": "CAMDEN, N.J., July 10, 2026 (GLOBE NEWSWIRE) -- Holtec Nuclear Corporation (“Holtec” or the “Company”) today announced that it has publicly filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission (the “SEC”) relating to the…",
+      "title": "OpenAI loses another C-suite executive ahead of IPO",
+      "url": "https://www.thestreet.com/technology/openai-loses-another-c-suite-executive-fidji-simo-ahead-of-ipo",
+      "source": "TheStreet",
+      "publishedAt": "2026-07-11T22:33:00Z",
+      "description": "The year 2026 wasn't supposed to be like this for OpenAI. The company was finally set to go public after years of waiting amid an AI boom that was only going...",
       "ipoMarket": "us"
     },
     {
-      "title": "Tailored Brands Files for IPO",
-      "url": "http://wwd.com/business-news/financial/tailored-brands-ipo-menswear-growth-1239063613/",
-      "source": "WWD",
-      "publishedAt": "2026-07-10T22:10:01Z",
-      "description": "Tailored Brands, parent to Men’s Wearhouse and Jos. A. Bank, files for IPO, aiming to expand in tailored apparel and polished casual markets.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Fed again promises to deliver price stability in semiannual monetary policy report",
-      "url": "https://biztoc.com/x/4589116dab34a0b0",
+      "title": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
+      "url": "https://biztoc.com/x/8e65f2766527b99f",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-10T22:05:57Z",
-      "description": "SK Hynix jumps 13% in Nasdaq debut after pulling off biggest foreign IPO ever Investing.com -- The Federal Reserve once again vowed to deliver price stability and said it was prepared to ’act forcefully’ to keep a lid on longer-term inflation expectations. Th…",
+      "publishedAt": "2026-07-11T21:50:39Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX) entered the Nasdaq-100 index on July 7, and investors will hope it provides additional support for an already successful initial public offering (IPO). But what does the index inclusion really mean, and what can S…",
       "ipoMarket": "us"
     },
     {
-      "title": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
-      "url": "https://financialpost.com/pmn/business-pmn/nuclear-energy-services-firm-holtec-joins-sectors-ipo-rush",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-10T22:02:54Z",
-      "description": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
+      "title": "Il calendario delle IPO cripto rallenta in un contesto di mercato debole",
+      "url": "https://www.coindesk.com/it/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-11T18:11:33Z",
+      "description": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX achieves historic IPO, propelling Elon Musk toward trillionaire status",
+      "url": "https://cryptobriefing.com/spacex-ipo-musk-trillionaire-bitcoin-holdings/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T12:07:22Z",
+      "description": "SpaceX's IPO highlights the growing influence of digital assets in corporate finance, impacting market dynamics and investor strategies globally. The post SpaceX achieves historic IPO, propelling Elon Musk toward trillionaire status appeared first on Crypto B…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "モジタバ師「復讐を誓う」と表明",
-      "url": "https://news.yahoo.co.jp/pickup/6587611?source=rss",
+      "title": "米中央軍 イランに新たな攻撃開始",
+      "url": "https://news.yahoo.co.jp/pickup/6587737?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T14:48:01.000Z",
+      "publishedAt": "2026-07-12T22:36:48.000Z",
       "description": ""
     },
     {
-      "title": "ペルー新生児「ハーランド」急増",
-      "url": "https://news.yahoo.co.jp/pickup/6587595?source=rss",
+      "title": "中国 日本大使館幹部呼び出し抗議",
+      "url": "https://news.yahoo.co.jp/pickup/6587734?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T12:32:18.000Z",
+      "publishedAt": "2026-07-12T22:26:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "米イラン 海峡巡り主張に食い違い",
+      "url": "https://news.yahoo.co.jp/pickup/6587733?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-12T22:16:14.000Z",
+      "description": ""
+    },
+    {
+      "title": "バンコクのパブで火災 27人が死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-12T21:42:39.000Z",
+      "description": ""
+    },
+    {
+      "title": "ウクライナ 内閣改造で首相交代へ",
+      "url": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-12T13:13:59.000Z",
+      "description": ""
+    },
+    {
+      "title": "米共和党ベテラン「急病」で死去",
+      "url": "https://news.yahoo.co.jp/pickup/6587709?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-12T11:40:33.000Z",
+      "description": ""
+    },
+    {
+      "title": "ホルムズ海峡で攻撃 インド人不明",
+      "url": "https://news.yahoo.co.jp/pickup/6587690?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-12T08:23:06.000Z",
+      "description": ""
+    },
+    {
+      "title": "カナダ・トロントで銃撃 2人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6587653?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-12T03:13:16.000Z",
       "description": ""
     },
     {
@@ -135,48 +177,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-11T12:31:35.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 暗殺試みればイラン破壊",
-      "url": "https://news.yahoo.co.jp/pickup/6587592?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T11:30:56.000Z",
-      "description": ""
-    },
-    {
-      "title": "ロシアの燃料不足 近隣国にも影響",
-      "url": "https://news.yahoo.co.jp/pickup/6587566?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T07:27:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "友好変わらず 習氏が正恩氏に書簡",
-      "url": "https://news.yahoo.co.jp/pickup/6587540?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T04:19:41.000Z",
-      "description": ""
-    },
-    {
-      "title": "ヘンリー王子一家 英国王と対面",
-      "url": "https://news.yahoo.co.jp/pickup/6587528?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T02:47:54.000Z",
-      "description": ""
-    },
-    {
-      "title": "欧州機 上空で客の体一部が機外に",
-      "url": "https://news.yahoo.co.jp/pickup/6587512?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T00:28:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国 ヘリウム輸出を一時禁止",
-      "url": "https://news.yahoo.co.jp/pickup/6587509?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-11T00:14:34.000Z",
       "description": ""
     }
   ]
