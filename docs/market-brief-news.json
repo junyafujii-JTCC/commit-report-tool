@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T22:58:14.319Z",
+  "fetchedAt": "2026-07-14T22:59:30.396Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "お金を貸すのではなく出資する！ VCの仕組みと利益の出し方",
-      "url": "https://zuuonline.com/archives/302386",
-      "source": "Zuuonline.com",
-      "publishedAt": "2026-07-12T21:00:00Z",
-      "description": "本記事は、岩澤 脩氏の著書『だからベンチャーキャピタルはやめられない 投資家だけが知っている 起業とお金のリアル』（ディスカヴァー・トゥエンティワン）の中から一部を抜粋・編集しています。 ベンチャーキャピタルとは何か VCの基礎知識 ベンチャーキャピタル（VC）の裏側についてお話ししていきますが、VCについて基本的なと[…]",
+      "title": "Apple、ログ分析ツール「SigLens」開発のSigScalrを買収",
+      "url": "https://www.applelinkage.com/2026/07/14/apple-acquires-sigscalr/",
+      "source": "Applelinkage.com",
+      "publishedAt": "2026-07-13T22:13:44Z",
+      "description": "AppleInsiderは、Appleがデータログ管理・オブザーバビリティ（観測可能性）ツールを開発する米SigScalr, Inc.の一部資産を取得していたことが明らかになったと伝えています。 欧州委員会のデジタル市場 … 続きを読む Apple、ログ分析ツール「SigLens」開発のSigScalrを買収 →",
       "maMarket": "jp"
     },
     {
-      "title": "Edge226 Expanded Its AI Marketing Portfolio Through the Acquisition of AnyClip Ltd.",
-      "url": "https://www.aireporteramerica.com/news/69/2789/edge226-expanded-its-ai-marketing-portfolio-through-the-acquisition-of-anyclip-ltd-.html",
-      "source": "Aireporteramerica.com",
-      "publishedAt": "2026-07-12T22:43:22Z",
-      "description": "Edge226 Expanded Its AI Marketing Portfolio Through the Acquisition of AnyClip Ltd.aireporteramerica.com",
+      "title": "455-Powered 1969 Oldsmobile Cutlass S Convertible 4-Speed",
+      "url": "https://bringatrailer.com/listing/1969-oldsmobile-cutlass-s-5/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-07-13T22:40:13Z",
+      "description": "This 1969 Oldsmobile Cutlass S convertible was refinished in white with light blue accent stripes and fitted with a 455ci V8 following the seller's acquisition in 2018. It is also equipped with a Muncie four-speed manual transmission, a 12-bolt limited-slip r…",
       "maMarket": "us"
     },
     {
-      "title": "LINEヤフー｢カカクコム争奪｣で買収金額の引き上げに透ける本気度…来るAI時代に｢食べログ｣を手に入れたい巨人の本音 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950739?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-07-12T20:40:00Z",
-      "description": "｢食べログ｣などを運営するカカクコムに欧州投資ファンドのEQTがTOBを行っています。EQTを上回る買い付け価格を提示し｢待った｣をかけたのが､LINEヤフーと米投資ファンド･ベインキャピタルの連合です。LINEヤフーがカカクコムを手に入れたい理由は何でしょうか。",
+      "title": "国内市場縮小の中 ビール各社で海外事業強化の動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176051000",
+      "source": "Web.nhk",
+      "publishedAt": "2026-07-13T22:06:02Z",
+      "description": "【NHK】人口減少などを背景に国内のビール市場の縮小が見込まれる中、大手ビールメーカーの間では、アジアやアフリカなど経済成長が期待できる地域に販売網を持つ海外のメーカーに出資したり、買収したりする動きが相次いで",
       "maMarket": "jp"
     },
     {
-      "title": "pagespring added to PyPI",
-      "url": "https://pypi.org/project/pagespring/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-12T21:33:08Z",
-      "description": "Acquire and normalize online software manuals into clean, convertible source files — the acquisition front-end to pagespeak.",
-      "maMarket": "us"
-    },
-    {
-      "title": "SBIが地銀の顧客を握って経営支配を強める「3ステップ」が判明、筑邦銀行の反旗で露呈した“対等な提携”の限界…次に決別する地銀はどこか？ - 金融インサイド",
-      "url": "https://diamond.jp/articles/-/394542",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-07-12T19:45:00Z",
-      "description": "「第4のメガバンク構想」を掲げるSBIホールディングスが、一部の提携地銀に対して出資比率の引き上げや役員派遣、勘定系システムの導入といった強引な要求を突き付けている実態が浮かび上がった。これを拒み、提携解消に至ったのが筑邦銀行である。“筑邦ショック”は、他の地銀にとっても決してひとごとではない。筑邦銀行が直面したSBIの「地銀囲い込み」3ステップを検証し、“筑邦ショック前夜”に揺れる地銀を明らかにする。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
-      "url": "https://biztoc.com/x/9fe61687f4d30704",
+      "title": "Why First Hawaiian Bank (FHB) Stock Is Falling Today",
+      "url": "https://biztoc.com/x/03549626d8442288",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-12T21:01:49Z",
-      "description": "Now that Elon Musk's rocket and satellite company Space Exploration Technologies (NASDAQ: SPCX) trades publicly, Wall Street has started hunting for the next best thing: stocks that can ride its coattails. The most eye-catching call came from J.P. Morgan, who…",
+      "publishedAt": "2026-07-13T22:31:14Z",
+      "description": "What Happened? Shares of hawaiian banking company First Hawaiian (NASDAQ:FHB) fell 4% in the afternoon session after it announced plans to acquire TriCo Bancshares in an all-stock transaction. Under the terms of the agreement, TriCo shareholders will receive …",
       "maMarket": "us"
     },
     {
-      "title": "わずか1ポンドでチェルシーを買収して再建…元会長のベイツ氏が94歳で逝去",
-      "url": "https://news.livedoor.com/article/detail/31805776/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-07-12T04:57:05Z",
-      "description": "かつてチェルシーやリーズで会長を務めたケン・ベイツ氏が94歳で亡くなった。11日、イギリスメディア『BBC』や『スカイスポーツ』などが伝えている。ベイツ氏は運送業や生コンクリート事業で成功を収めた叩き上げの富豪で、サッカー界でのキャリアは1960年代にオールダム・アスレティックでの会長就任から始まり、1980年代初頭にはウィガンのオーナー兼副会長を務めた後、1982年には破産の危機に瀕していたチェルシーをわずか1ポンド（約218円）で買収し、約200万ポンド（約4億360全文SOCCER KING 07月12日1…",
+      "title": "EUの公開情報から、AppleがSigScalrを買収したことが明らかに",
+      "url": "https://www.macotakara.jp/news/entry-51448.html",
+      "source": "Macotakara.jp",
+      "publishedAt": "2026-07-13T15:06:46Z",
+      "description": "EU：List of Acquisitions：Apple <!-- テキスト --> EUが、デジタル市場法（DMA）に基づき、データ収集を可能にする場合、計画されている情報として随時公開する「List of Acquisitions」で、前回の公開情報から、新たにSigScalrを買収していたことが明らかになりました。 SigScalrは、大規模なデータ処理向けに設計されたオープンソースの統合オブザーバビリ…",
       "maMarket": "jp"
     },
     {
-      "title": "The James Webb Space Telescope reveals a striking image of Centaurus A",
-      "url": "https://www.notebookcheck.net/The-James-Webb-Space-Telescope-reveals-a-striking-image-of-Centaurus-A.1340812.0.html",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-07-12T20:55:00Z",
-      "description": "NASA has recently unveiled an image taken by the James Webb Space Telescope showing the merger of two galaxies. Thanks to this instrument, astronomers are able to better understand these structures, although some mysteries remain.",
+      "title": "Jones Ventures INTL Acquisition1 Corp Announces Pricing of $200 Million Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326524/0/en/Jones-Ventures-INTL-Acquisition1-Corp-Announces-Pricing-of-200-Million-Initial-Public-Offering.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-13T22:30:00Z",
+      "description": "NEW YORK, NY, July 13, 2026 (GLOBE NEWSWIRE) -- Jones Ventures INTL Acquisition1 Corp (the “Company”), a blank check company whose business purpose is to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or simil…",
+      "maMarket": "us"
+    },
+    {
+      "title": "芙蓉リース---「静岡市アリーナ整備・運営事業」における特定事業契約を締結 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1070046",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-07-13T10:10:56Z",
+      "description": "&lt;8424&gt; 芙蓉リース 4271 +4芙蓉総合リース&lt;8424&gt;、NTTドコモ、インフロニア・ホールディングス&lt;5076&gt;、SFG不動産投資顧問、SBSプロモーション、静岡鉄道、東急コミュニティー、VELTEXスポーツエンタープライズ、木内建設、静岡ガス&lt;9543&gt;が共同出資により設立した静岡セントラルアリーナは10日、「静岡市アリーナ整備・運営事業」に係る公募手続きに従い、静岡市と静岡市アリー",
+      "maMarket": "jp"
+    },
+    {
+      "title": "California’s Paramount Lawsuit Looks More Like Politics Than a Winning Legal Strategy | Analysis",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-lawsuit-political-analysis/",
+      "source": "TheWrap",
+      "publishedAt": "2026-07-13T22:08:33Z",
+      "description": "The Media Front: The case may have enough legal merit to get a hearing, but probably not enough to stop the industry’s biggest merger The post California’s Paramount Lawsuit Looks More Like Politics Than a Winning Legal Strategy | Analysis appeared first on T…",
       "maMarket": "us"
     }
   ],
@@ -83,100 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Prediction: SpaceX Shares Can Reach $220 by End of 2026",
-      "url": "https://biztoc.com/x/e76f90cdda091ffd",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-12T21:01:59Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX) has become one of the market's most closely watched stocks after its rapid entry into the Nasdaq-100 index on July 7. Shares are trading close to $149 (as of July 10), still above its $135 IPO price, but nearly 34…",
+      "title": "Black Rock Coffee Bar, Inc. (BRCB) Faces Securities Class Action Related to IPO Disclosures Regarding Adverse Impact of Sales Transfer Phenomenon – HBSS",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326531/32716/en/Black-Rock-Coffee-Bar-Inc-BRCB-Faces-Securities-Class-Action-Related-to-IPO-Disclosures-Regarding-Adverse-Impact-of-Sales-Transfer-Phenomenon-HBSS.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-13T22:46:00Z",
+      "description": "Investors who lost money in BRCB after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
       "ipoMarket": "us"
     },
     {
-      "title": "10 Things to Know About SK Hynix's Historic US Nasdaq IPO Listing as Regular Trading Officially Begins Monday",
-      "url": "https://www.ibtimes.com.au/sk-hynix-nasdaq-debut-ai-memory-chips-1872165",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-07-12T14:43:08Z",
-      "description": "SK Hynix's Nasdaq debut marks the largest-ever US equity listing by a foreign company, highlighting the AI-driven memory boom and setting new records in the semiconductor sector.",
+      "title": "YPF’s power-generation unit files for US IPO amid Argentine listings surge",
+      "url": "https://cryptobriefing.com/ypf-luz-us-ipo-argentina-listings/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-13T21:21:31Z",
+      "description": "YPF Luz's US IPO highlights Argentina's growing integration into global financial markets, potentially boosting investor confidence and economic reform. The post YPF’s power-generation unit files for US IPO amid Argentine listings surge appeared first on Cryp…",
       "ipoMarket": "us"
     },
     {
-      "title": "This is how rich SpaceX workers are after the IPO",
-      "url": "https://www.thestreet.com/investing/spacex-ipo-employees-millionaires-wealth",
-      "source": "TheStreet",
-      "publishedAt": "2026-07-12T14:37:00Z",
-      "description": "Juan Hernandez, who now works as a welder at Jeff Bezos-owned rival Blue Origin, is one of more than 4,400 current and former SpaceX employees who became mil...",
+      "title": "YPF Energia Electrica files for IPO of ADSs on NYSE",
+      "url": "https://www.thefly.com/YLUZ",
+      "source": "Thefly.com",
+      "publishedAt": "2026-07-13T20:07:18Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     },
     {
-      "title": "Nasdaq 'Cheated and Changed the Laws' to Fit SpaceX in, Famed Investor Jeremy Grantham Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-cheated-changed-laws-fit-193113947.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-11T19:31:13Z",
-      "description": "The highly anticipated SpaceX IPO was an event to be remembered by investors. The event also saw calls for major stock market indexes to change their inclusi...",
+      "title": "Samos Energy Acquisition Corporation Announces Closing of $230 Million Initial Public Offering",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/samos-energy-acquisition-corporation-announces-closing-of-230-million-initial-public-offering",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-13T19:51:30Z",
+      "description": "NEW YORK — Samos Energy Acquisition Corporation (the “Company”) announced today the closing of its initial public offering (“IPO”) of 23,000,000 units, including the full exercise by the underwriters of their overallotment option to purchase an additional 3,0…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米大統領 イラン海上封鎖再開表明",
-      "url": "https://news.yahoo.co.jp/pickup/6587836?source=rss",
+      "title": "トランプ氏 海峡「通航料」を撤回",
+      "url": "https://news.yahoo.co.jp/pickup/6587970?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-13T21:12:49.000Z",
+      "publishedAt": "2026-07-14T21:58:23.000Z",
       "description": ""
     },
     {
-      "title": "熱波原因か 欧州で死者1万人超に",
-      "url": "https://news.yahoo.co.jp/pickup/6587780?source=rss",
+      "title": "米軍 イランの港湾封鎖を再開",
+      "url": "https://news.yahoo.co.jp/pickup/6587969?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-13T05:21:51.000Z",
+      "publishedAt": "2026-07-14T21:44:05.000Z",
       "description": ""
     },
     {
-      "title": "露スパイの拠点に日本 米紙報道",
-      "url": "https://news.yahoo.co.jp/pickup/6587771?source=rss",
+      "title": "米消費者物価3.5%上昇 大幅鈍化",
+      "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-13T04:07:18.000Z",
+      "publishedAt": "2026-07-14T14:15:37.000Z",
       "description": ""
     },
     {
-      "title": "米軍がイランを追加攻撃 応酬激化",
-      "url": "https://news.yahoo.co.jp/pickup/6587769?source=rss",
+      "title": "米イラン戦争の出口は 3つの想定",
+      "url": "https://news.yahoo.co.jp/pickup/6587917?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-13T03:43:27.000Z",
+      "publishedAt": "2026-07-14T09:05:51.000Z",
       "description": ""
     },
     {
-      "title": "原油先物が急上昇 海峡の懸念再燃",
-      "url": "https://news.yahoo.co.jp/pickup/6587748?source=rss",
+      "title": "BTSジンにキス 邦人の女公判欠席",
+      "url": "https://news.yahoo.co.jp/pickup/6587915?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-13T00:56:40.000Z",
+      "publishedAt": "2026-07-14T08:19:11.000Z",
       "description": ""
     },
     {
-      "title": "中国 日本大使館幹部呼び出し抗議",
-      "url": "https://news.yahoo.co.jp/pickup/6587734?source=rss",
+      "title": "米国務長官「ICC解体」を主張",
+      "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-12T22:26:24.000Z",
+      "publishedAt": "2026-07-14T04:52:13.000Z",
       "description": ""
     },
     {
-      "title": "米イラン 海峡巡り主張に食い違い",
-      "url": "https://news.yahoo.co.jp/pickup/6587733?source=rss",
+      "title": "結婚と子は金次第 世界に拡大傾向",
+      "url": "https://news.yahoo.co.jp/pickup/6587869?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-12T22:16:14.000Z",
+      "publishedAt": "2026-07-14T03:29:05.000Z",
       "description": ""
     },
     {
-      "title": "バンコクのパブで火災 27人が死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
+      "title": "イラン UAEタンカー攻撃1人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-12T21:42:39.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウクライナ 内閣改造で首相交代へ",
-      "url": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-12T13:13:59.000Z",
+      "publishedAt": "2026-07-13T23:39:48.000Z",
       "description": ""
     }
   ]
