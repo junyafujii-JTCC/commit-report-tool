@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T22:59:30.396Z",
+  "fetchedAt": "2026-07-15T23:00:18.007Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "Apple、ログ分析ツール「SigLens」開発のSigScalrを買収",
-      "url": "https://www.applelinkage.com/2026/07/14/apple-acquires-sigscalr/",
-      "source": "Applelinkage.com",
-      "publishedAt": "2026-07-13T22:13:44Z",
-      "description": "AppleInsiderは、Appleがデータログ管理・オブザーバビリティ（観測可能性）ツールを開発する米SigScalr, Inc.の一部資産を取得していたことが明らかになったと伝えています。 欧州委員会のデジタル市場 … 続きを読む Apple、ログ分析ツール「SigLens」開発のSigScalrを買収 →",
+      "title": "OpenAI初のデバイスは”動く”AIスマートスピーカーか。宅内で持ち運べる相棒に",
+      "url": "https://mobilelaby.com/blog-entry-openai-first-device-ai-speaker-rumor.html",
+      "source": "Mobilelaby.com",
+      "publishedAt": "2026-07-14T22:55:32Z",
+      "description": "OpenAIは、ChatGPTに続く新たな柱として、一般消費者向けのAIデバイスを開発しています。 昨年5月には、元Appleのデザイン責任者として知られるJony Ive氏が関わる「io Products」の買収を発表。同年7月にチームの統合を完了して以降、OpenAIのCEOを務めるSam Altman氏は、AIデバイスの構想をたびたび示唆してきました。 今年1月には、OpenAIの最高グローバル渉外責任者を務めるChris Lehane氏が、初のデバイスを2026年後半に公開する予定だと説明。開発の進捗…",
       "maMarket": "jp"
     },
     {
-      "title": "455-Powered 1969 Oldsmobile Cutlass S Convertible 4-Speed",
-      "url": "https://bringatrailer.com/listing/1969-oldsmobile-cutlass-s-5/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-07-13T22:40:13Z",
-      "description": "This 1969 Oldsmobile Cutlass S convertible was refinished in white with light blue accent stripes and fitted with a 455ci V8 following the seller's acquisition in 2018. It is also equipped with a Muncie four-speed manual transmission, a 12-bolt limited-slip r…",
-      "maMarket": "us"
-    },
-    {
-      "title": "国内市場縮小の中 ビール各社で海外事業強化の動き",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015176051000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-07-13T22:06:02Z",
-      "description": "【NHK】人口減少などを背景に国内のビール市場の縮小が見込まれる中、大手ビールメーカーの間では、アジアやアフリカなど経済成長が期待できる地域に販売網を持つ海外のメーカーに出資したり、買収したりする動きが相次いで",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Why First Hawaiian Bank (FHB) Stock Is Falling Today",
-      "url": "https://biztoc.com/x/03549626d8442288",
+      "title": "Why RE/MAX (RMAX) Stock Is Up Today",
+      "url": "https://biztoc.com/x/39997e43c4b00872",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-13T22:31:14Z",
-      "description": "What Happened? Shares of hawaiian banking company First Hawaiian (NASDAQ:FHB) fell 4% in the afternoon session after it announced plans to acquire TriCo Bancshares in an all-stock transaction. Under the terms of the agreement, TriCo shareholders will receive …",
+      "publishedAt": "2026-07-14T22:54:22Z",
+      "description": "What Happened? Shares of real estate franchise company RE/MAX (NYSE:RMAX) jumped 2.9% in the afternoon session after the Department of Justice granted an early termination of the Hart-Scott-Rodino (HSR) waiting period for its proposed merger with The Real Bro…",
       "maMarket": "us"
     },
     {
-      "title": "EUの公開情報から、AppleがSigScalrを買収したことが明らかに",
-      "url": "https://www.macotakara.jp/news/entry-51448.html",
-      "source": "Macotakara.jp",
-      "publishedAt": "2026-07-13T15:06:46Z",
-      "description": "EU：List of Acquisitions：Apple <!-- テキスト --> EUが、デジタル市場法（DMA）に基づき、データ収集を可能にする場合、計画されている情報として随時公開する「List of Acquisitions」で、前回の公開情報から、新たにSigScalrを買収していたことが明らかになりました。 SigScalrは、大規模なデータ処理向けに設計されたオープンソースの統合オブザーバビリ…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Jones Ventures INTL Acquisition1 Corp Announces Pricing of $200 Million Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326524/0/en/Jones-Ventures-INTL-Acquisition1-Corp-Announces-Pricing-of-200-Million-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-13T22:30:00Z",
-      "description": "NEW YORK, NY, July 13, 2026 (GLOBE NEWSWIRE) -- Jones Ventures INTL Acquisition1 Corp (the “Company”), a blank check company whose business purpose is to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or simil…",
-      "maMarket": "us"
-    },
-    {
-      "title": "芙蓉リース---「静岡市アリーナ整備・運営事業」における特定事業契約を締結 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1070046",
+      "title": "メディパル、27/3上方修正 純利益430億円←390億円 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1070108",
       "source": "Diamond.jp",
-      "publishedAt": "2026-07-13T10:10:56Z",
-      "description": "&lt;8424&gt; 芙蓉リース 4271 +4芙蓉総合リース&lt;8424&gt;、NTTドコモ、インフロニア・ホールディングス&lt;5076&gt;、SFG不動産投資顧問、SBSプロモーション、静岡鉄道、東急コミュニティー、VELTEXスポーツエンタープライズ、木内建設、静岡ガス&lt;9543&gt;が共同出資により設立した静岡セントラルアリーナは10日、「静岡市アリーナ整備・運営事業」に係る公募手続きに従い、静岡市と静岡市アリー",
+      "publishedAt": "2026-07-14T21:03:57Z",
+      "description": "メディパル&lt;7459&gt;は2027年3月期業績予想の修正を発表。当期純利益を390億円から430億円に上方修正した。PALTAC&lt;8283&gt;の株式に対する公開買付けは終了。今後は、スクイーズアウト手続を通じて同社の完全子会社化(2026年8月頃を予定)を進める。これにより、従来は非支配株主に帰属していた部分が、すべて同社に帰属することになるため、親会社株主に帰属する当期純利益の増加要因となる。【プラ",
       "maMarket": "jp"
     },
     {
-      "title": "California’s Paramount Lawsuit Looks More Like Politics Than a Winning Legal Strategy | Analysis",
-      "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-lawsuit-political-analysis/",
+      "title": "Paramount Falsely Threatens To Leave California After State Challenges Merger",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184462806",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-14T22:52:38Z",
+      "description": "Paramount is now threatening California regulators that theyll be taking their ball and going home (to Texas? Israel?) after California and 11 other states filed an antitrust lawsuit against the companys unpopular $111 billion merger with Warner Brothers. Par…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「100億円を調達」と「100億円で調達」は何が違う？",
+      "url": "https://zuuonline.com/archives/302388",
+      "source": "Zuuonline.com",
+      "publishedAt": "2026-07-14T21:00:00Z",
+      "description": "本記事は、岩澤 脩氏の著書『だからベンチャーキャピタルはやめられない 投資家だけが知っている 起業とお金のリアル』（ディスカヴァー・トゥエンティワン）の中から一部を抜粋・編集しています。 プレバリューとポストバリューの両方を意識する 出資金額や株式シェアの交渉に関する話をするときによく登場するキーワードが、「プレバリュ[…]",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paramount Gets Offer to Set Up HQ in Tennessee as California Aims to Block Warner Bros. Merger",
+      "url": "https://www.thewrap.com/media-platforms/film-studios/paramount-tennessee-offer-california-warner-bros-merger/",
       "source": "TheWrap",
-      "publishedAt": "2026-07-13T22:08:33Z",
-      "description": "The Media Front: The case may have enough legal merit to get a hearing, but probably not enough to stop the industry’s biggest merger The post California’s Paramount Lawsuit Looks More Like Politics Than a Winning Legal Strategy | Analysis appeared first on T…",
+      "publishedAt": "2026-07-14T22:46:24Z",
+      "description": "\"Companies that choose Tennessee find more than a favorable business climate — they find a state committed to helping them succeed,\" Deputy Gov. Stuart McWhorter writes in a letter to CEO David Ellison The post Paramount Gets Offer to Set Up HQ in Tennessee a…",
+      "maMarket": "us"
+    },
+    {
+      "title": "客よりキャストの数の方が多くガラガラ、怒涛のオペレーションミス…ジャングリア沖縄の現状を綴ったレポートが壮絶「抜本的に再建するには設計からやり直さないと」",
+      "url": "https://togetter.com/li/2720458",
+      "source": "Togetter.com",
+      "publishedAt": "2026-07-14T09:10:33Z",
+      "description": "ジャングリアの今時点の現実レポートがありました。 チケットをいじるとか、それをアピールするといった小手先の改善ではどうにもならない事がわかります。 抜本的に再建するには設計からやり直さないと行けないという事になるのでしょう。しかしそれには資金がないので、株主の追加出資が必要です。 実際行ってみたら実は良かったりするんじゃないの〜…→後悔",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paramount Falsely Threatens To Leave California After State Challenges Merger",
+      "url": "http://www.techdirt.com/2026/07/14/paramount-falsely-threatens-to-leave-california-after-state-challenges-merger/",
+      "source": "Techdirt",
+      "publishedAt": "2026-07-14T22:41:40Z",
+      "description": "Paramount is now threatening California regulators that they’ll be taking their ball and going home (to Texas? Israel?) after California and 11 other states filed an antitrust lawsuit against the company’s unpopular $111 billion merger with Warner Brothers. P…",
       "maMarket": "us"
     }
   ],
@@ -83,39 +83,80 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Black Rock Coffee Bar, Inc. (BRCB) Faces Securities Class Action Related to IPO Disclosures Regarding Adverse Impact of Sales Transfer Phenomenon – HBSS",
-      "url": "https://www.globenewswire.com/news-release/2026/07/13/3326531/32716/en/Black-Rock-Coffee-Bar-Inc-BRCB-Faces-Securities-Class-Action-Related-to-IPO-Disclosures-Regarding-Adverse-Impact-of-Sales-Transfer-Phenomenon-HBSS.html",
+      "title": "Operator of Men’s Wearhouse, Jos A. Bank plans massive expansion with 500 new stores",
+      "url": "https://www.the-independent.com/life-style/mens-warehouse-new-stores-expansion-b3014883.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-07-14T20:43:54Z",
+      "description": "Tailored Brands, the parent company of Men's Wearhouse, Jos. A. Bank, Moores and K&G Fashion Superstore, has filed for an initial public offering and plans to open up to 500 stores over the next decade, marking a major turnaround from its COVID-19 pandemic-er…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Liftoff Appoints Jenn Kettnich as Vice President of Investor Relations",
+      "url": "https://www.globenewswire.com/news-release/2026/07/14/3327298/0/en/Liftoff-Appoints-Jenn-Kettnich-as-Vice-President-of-Investor-Relations.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-07-13T22:46:00Z",
-      "description": "Investors who lost money in BRCB after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
+      "publishedAt": "2026-07-14T20:30:00Z",
+      "description": "Kettnich brings investor relations leadership from Mattel and The Walt Disney Company to guide Liftoff's public company narrative following its recent IPO Kettnich brings investor relations leadership from Mattel and The Walt Disney Company to guide Liftoff's…",
       "ipoMarket": "us"
     },
     {
-      "title": "YPF’s power-generation unit files for US IPO amid Argentine listings surge",
-      "url": "https://cryptobriefing.com/ypf-luz-us-ipo-argentina-listings/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-13T21:21:31Z",
-      "description": "YPF Luz's US IPO highlights Argentina's growing integration into global financial markets, potentially boosting investor confidence and economic reform. The post YPF’s power-generation unit files for US IPO amid Argentine listings surge appeared first on Cryp…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "YPF Energia Electrica files for IPO of ADSs on NYSE",
-      "url": "https://www.thefly.com/YLUZ",
-      "source": "Thefly.com",
-      "publishedAt": "2026-07-13T20:07:18Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Samos Energy Acquisition Corporation Announces Closing of $230 Million Initial Public Offering",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/samos-energy-acquisition-corporation-announces-closing-of-230-million-initial-public-offering",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-13T19:51:30Z",
-      "description": "NEW YORK — Samos Energy Acquisition Corporation (the “Company”) announced today the closing of its initial public offering (“IPO”) of 23,000,000 units, including the full exercise by the underwriters of their overallotment option to purchase an additional 3,0…",
+      "title": "Wall Street banks see AI 'super cycle' set to boost deals, financing",
+      "url": "https://economictimes.indiatimes.com/tech/technology/wall-street-banks-see-ai-super-cycle-set-to-boost-deals-financing/articleshow/132398909.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-14T18:03:26Z",
+      "description": "Investment banks have reaped strong ​fees from AI-related deals, including SK Hynix's $26.5 billion ADR offering and SpaceX's record $86 billion initial public offering, as well as debt issuance.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "ウミウシや子供にW杯選手の名前",
+      "url": "https://news.yahoo.co.jp/pickup/6588082?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-15T12:53:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "米軍 イランを5日連続で攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6588078?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-15T11:51:10.000Z",
+      "description": ""
+    },
+    {
+      "title": "印 中国との関係を再構築する背景",
+      "url": "https://news.yahoo.co.jp/pickup/6588015?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-15T04:22:49.000Z",
+      "description": ""
+    },
+    {
+      "title": "FRB議長「インフレ容認しない」",
+      "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-15T00:40:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "習主席側近の失脚相次ぐ 摘発激化",
+      "url": "https://news.yahoo.co.jp/pickup/6587987?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-15T00:30:50.000Z",
+      "description": ""
+    },
+    {
+      "title": "寄生虫感染症が拡大 米で1600人超",
+      "url": "https://news.yahoo.co.jp/pickup/6587984?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-15T00:10:57.000Z",
+      "description": ""
+    },
+    {
+      "title": "データセンター建設 米社会問題に",
+      "url": "https://news.yahoo.co.jp/pickup/6587978?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-14T23:08:55.000Z",
+      "description": ""
+    },
     {
       "title": "トランプ氏 海峡「通航料」を撤回",
       "url": "https://news.yahoo.co.jp/pickup/6587970?source=rss",
@@ -124,52 +165,10 @@
       "description": ""
     },
     {
-      "title": "米軍 イランの港湾封鎖を再開",
-      "url": "https://news.yahoo.co.jp/pickup/6587969?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-14T21:44:05.000Z",
-      "description": ""
-    },
-    {
       "title": "米消費者物価3.5%上昇 大幅鈍化",
       "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-14T14:15:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "米イラン戦争の出口は 3つの想定",
-      "url": "https://news.yahoo.co.jp/pickup/6587917?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-14T09:05:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "BTSジンにキス 邦人の女公判欠席",
-      "url": "https://news.yahoo.co.jp/pickup/6587915?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-14T08:19:11.000Z",
-      "description": ""
-    },
-    {
-      "title": "米国務長官「ICC解体」を主張",
-      "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-14T04:52:13.000Z",
-      "description": ""
-    },
-    {
-      "title": "結婚と子は金次第 世界に拡大傾向",
-      "url": "https://news.yahoo.co.jp/pickup/6587869?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-14T03:29:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン UAEタンカー攻撃1人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-13T23:39:48.000Z",
       "description": ""
     }
   ]
