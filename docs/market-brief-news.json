@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T23:00:34.234Z",
+  "fetchedAt": "2026-07-17T22:52:56.936Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "東宝、1Q営業利益 28.3％減 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1070197",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-07-15T20:25:31Z",
-      "description": "東宝&lt;9602&gt;が発表した2027年2月期第1四半期の連結業績は、営業収入が前年同期比4.6％増の887億4200万円、営業利益は同28.3％減の138億6900万円だった。IP・アニメ事業では、製作出資したTOHO animation作品の国内外の配信利用、各種配分金収入が業績に貢献した。映画営業事業の営業収入は143億1500万円(前年同期比10.2%増)、営業利益は48億1600万円(15.",
+      "title": "〈44社が出資〉国産AI開発のソフトバンク連合｢ノエトラ｣､エヌビディアの次世代GPUを導入して大型データセンター建設 | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/951830?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-07-16T17:17:00Z",
+      "description": "日本政府と民間企業が進める国産AI基盤開発プロジェクトは､エヌビディアの画像処理半導体（GPU）｢ルービン｣を2万7500個超を搭載する次世代AIサーバーを導入する計画だ。計算資源を確保し､国産AI…",
       "maMarket": "jp"
     },
     {
-      "title": "After 20 Years of ERP Consolidation, M&A Still Moves Faster Than Integration",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/after-20-years-of-erp-consolidation-ma-still-moves-faster-than-integration/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-07-15T22:54:38Z",
-      "description": "The 21st century business corporation is frequently referred to as a single thing. Its executives speak in the singular: one company, one strategy, one balance sheet. Its annual report gathers thousands of employees, hundreds of bank accounts and perhaps doze…",
+      "title": "Japan 7/11 Plans Major Polish Takeover",
+      "url": "https://newsonjapan.com/article/150006.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-07-16T22:51:11Z",
+      "description": "Seven & i Holdings is considering investing several hundred billion yen in Zabka Group, Poland's largest convenience store operator, as the Japanese retailer seeks to expand its presence in Europe. (News On Japan)",
       "maMarket": "us"
     },
     {
-      "title": "【IPOとM＆Aどっちにする？TV／主催】ブロードエンタープライズ（東証GRT4415）中西社長を囲む会開催レポート",
-      "url": "https://prtimes.jp/main/html/rd/p/000000280.000054393.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-07-15T16:40:46Z",
-      "description": "[IR Robotics] 株式会社IR Robotics（本社：東京都千代田区、代表取締役：金 成柱、HP：https://ir-robotics.co.jp/）は、自社が運営するビジネス系YouTubeチャンネル「IPOとM&Aどっちにする? TV」の出演ゲスト株式会社ブロ...",
+      "title": "Apple、AIチップ企業の買収を検討か――The Information報道",
+      "url": "https://www.danshihack.com/2026/07/17/junp/apple-rumour-229.html",
+      "source": "Danshihack.com",
+      "publishedAt": "2026-07-16T15:00:22Z",
+      "description": "Appleが、AI処理向けサーバーチップの開発力を強化するため、半導体スタートアップの買収を検討していると報じられました。高負荷なAI処理で依存するNvidia製GPUを減らし、自社インフラの競争力を高める狙いがあるとみ…",
       "maMarket": "jp"
     },
     {
-      "title": "Can merger revive Korea's regional banks? - The Korea Times",
-      "url": "https://www.koreatimes.co.kr/business/banking-finance/20260716/can-merger-revive-koreas-regional-banks",
-      "source": "코리아타임스",
-      "publishedAt": "2026-07-15T22:50:35Z",
-      "description": "An activist fund's proposal to merge BNK Financial Group and JB Financial Group has reignited debate over whether consolidation is needed to secure...",
-      "maMarket": "us"
-    },
-    {
-      "title": "かえでファイナンシャルアドバイザリー株式会社『セルサイドM&Aの実務』出版記念セミナ―開催のお知らせ",
-      "url": "https://japan.cnet.com/release/31188571/",
-      "source": "CNET",
-      "publishedAt": "2026-07-15T15:00:00Z",
-      "description": "かえでファイナンシャルアドバイザリー株式会社（本社：東京都千代田区、代表取締役：佐武伸）が2026年6月16日に発売開始をした著書『セルサイドM&Aの実務』の出版を記念し、セミナーを開催することをお知らせします。本セミナーでは、書籍『セルサイドM&Aの実務』の内容に加え、書籍では書き切れなかった実務上のポイン...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Uber nears €12.5B deal to acquire Delivery Hero, signaling massive consolidation in global food delivery",
-      "url": "https://cryptobriefing.com/uber-delivery-hero-acquisition-deal-2/",
+      "title": "Uber strikes $14.8B deal to acquire Delivery Hero, creating the largest food delivery platform outside China",
+      "url": "https://cryptobriefing.com/uber-delivery-hero-acquisition-deal-3/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T22:49:46Z",
-      "description": "Uber's acquisition of Delivery Hero could reshape global food delivery, impacting market dynamics and setting new valuation benchmarks. The post Uber nears €12.5B deal to acquire Delivery Hero, signaling massive consolidation in global food delivery appeared …",
+      "publishedAt": "2026-07-16T22:39:19Z",
+      "description": "Uber's acquisition of Delivery Hero positions it as a dominant global player, challenging competitors and reshaping the food delivery landscape. The post Uber strikes $14.8B deal to acquire Delivery Hero, creating the largest food delivery platform outside Ch…",
       "maMarket": "us"
     },
     {
-      "title": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015178011000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-07-15T14:55:08Z",
-      "description": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れ、長年、自社製品を提供する日本の大手ゲーム会社と共同で開いたイベントに出席し、経営が苦しかった時代に出資を受けたエピソードなどを披露しました。",
+      "title": "パラマウント×ワーナー統合に脚本家組合も提訴",
+      "url": "https://eiga.com/news/20260716/24/",
+      "source": "Eiga.com",
+      "publishedAt": "2026-07-16T11:00:00Z",
+      "description": "米脚本家組合が、パラマウントによるワーナーの買収を差し止めるよう求めて提訴したと、米バラエティが報じた。前日には12の州が同じ訴えを起こしたばかりで、この巨大買収に反対する動きが相次いでいる。パラマウントとワーナーは、いずれもハリウッドを代",
       "maMarket": "jp"
     },
     {
-      "title": "Faces EU Antitrust Review Over VMware Licensing Changes",
-      "url": "https://biztoc.com/x/21d47dcfc455f69f",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-15T22:45:20Z",
-      "description": "Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE. - European cloud and infrastructure groups have challenged Broadcom over recent VMware licensing changes following the acquisition. - Trade ass…",
+      "title": "Major League Soccer's NYCFC says it wants to sign Christian Pulisic but AC Milan not interested",
+      "url": "https://sports.yahoo.com/articles/major-league-soccers-nycfc-says-223904532.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-16T22:39:04Z",
+      "description": "New York City FC would like to acquire Christian Pulisic to play in Major League Soccer, but admits AC Milan is not interested in selling the top American player. “If you ask any of my 29 counterparts across the league if they would be interested in having Ch…",
+      "maMarket": "us"
+    },
+    {
+      "title": "セブン＆アイ、ポーランドのコンビニに出資を検討　欧州進出を加速",
+      "url": "https://www.asahi.com/articles/ASV7J3DZLV7JULFA02ZM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-07-16T10:40:00Z",
+      "description": "セブン＆アイ・ホールディングスが、ポーランドのコンビニ最大手「ジャプカ・グループ」に出資する方向で最終調整に入った。店舗網が薄い欧州への進出の足がかりにする狙いがあるとみられる。16日、関係者への取…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "OuterBox Announces Acquisition of TopSpot, Creating a Top Independent Marketing Agency in the US",
+      "url": "https://www.centralcharts.com/en/news/4722782-outerbox-announces-acquisition-of-topspot-creating-a-top-independent-marketing-agency-in-the-us",
+      "source": "Centralcharts.com",
+      "publishedAt": "2026-07-16T22:31:55Z",
+      "description": "With this acquisition, OuterBox is now one of the largest independent marketing agencies in the country. COPLEY, OH / ACCESSWIRE / June 18, 2024 / OuterBox, a",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "ラノベ原作主力の出版社オーバーラップ、上場半年で業績下方修正…理由に「アニメ化書籍の売上未達」など苦戦 | オタク総研",
+      "url": "https://0115765.com/archives/195565",
+      "source": "0115765.com",
+      "publishedAt": "2026-07-16T00:41:09Z",
+      "description": "ラノベ原作主力の出版社オーバーラップ、上場半年で業績下方修正…理由に「アニメ化書籍の売上未達」など苦戦 ライトノベルやマンガの企画・編集・出版を手がけるオーバーラップホールディングス15日、2026年8月期の通期連結業績予想を下方修正すると発表した。同社は2025年10月に東証グロースへ新規上場したばかりで、今...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "SpaceX stock closes below its IPO price for the first time since it went public",
+      "url": "https://biztoc.com/x/15ed3403112c4bb6",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-16T20:32:49Z",
+      "description": "Elon Musk, founder of Space Exploration Technologies Corp. (SpaceX), on screen during the company's initial public offering at the Nasdaq MarketSite in New York City on June 12.",
+      "ipoMarket": "us"
+    },
     {
       "title": "Global X Japan株式会社「グローバルＸ 宇宙テック・トップ10 ETF（除く日本）」（銘柄コード：610A）東京証券取引所より上場承認",
       "url": "https://prtimes.jp/main/html/rd/p/000000092.000137367.html",
@@ -83,93 +99,91 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Black Rock Coffee Bar, Inc. (BRCB) Faces Securities Class Action Related to IPO Disclosures Regarding Adverse Impact of Sales Transfer Phenomenon – HBSS",
-      "url": "https://www.globenewswire.com/news-release/2026/07/15/3328173/32716/en/Black-Rock-Coffee-Bar-Inc-BRCB-Faces-Securities-Class-Action-Related-to-IPO-Disclosures-Regarding-Adverse-Impact-of-Sales-Transfer-Phenomenon-HBSS.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-15T22:03:00Z",
-      "description": "Investors who lost money in BRCB after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
+      "title": "SpaceX stock closes below its IPO price for the first time since it went public",
+      "url": "https://www.nbcnews.com/business/markets/spacex-stock-below-ipo-price-rcna587717",
+      "source": "NBC News",
+      "publishedAt": "2026-07-16T20:01:59Z",
+      "description": "Shares of SpaceX continued their sharp descent Thursday and closed below the company’s IPO price for the first time since its June public offering.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX wipes out post IPO gains as shares fall below $135",
-      "url": "https://cryptobriefing.com/spacex-shares-fall-below-ipo-price-3/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T20:34:46Z",
-      "description": "SpaceX's stock dip highlights market volatility and underscores challenges for crypto platforms in bridging traditional equity markets. The post SpaceX wipes out post IPO gains as shares fall below $135 appeared first on Crypto Briefing.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX Stock Dips Below IPO Price",
-      "url": "https://www.newser.com/story/392905/spacex-stock-dips-below-ipo-price.html",
-      "source": "Newser",
-      "publishedAt": "2026-07-15T19:50:00Z",
-      "description": "Investors are hitting the brakes on SpaceX barely a month after its splashy market debut. The stock slid for a fourth straight day on Wednesday, dipping below its $135 IPO price for the first time, the Wall Street Journal reports. It fell as low as $132.15 be…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "JonesTrading Serves as Sole Book-Running Manager for Jones Ventures INTL Acquisition1 Corp's $200 Million Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/jonestrading-serves-as-sole-book-running-manager-for-jones-ventures-intl-acquisition1-corps-200-million-initial-public-offering-302826747.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-15T18:55:00Z",
-      "description": "LOS ANGELES and NEW YORK, July 15, 2026 /PRNewswire/ -- JonesTrading Institutional Services LLC (\"Jones\") announced Monday, July 13, 2026, that it served as sole book-running manager for the $200 million initial public offering of Jones Ventures INTL Acquisit…",
+      "title": "Brookfield-backed Csquare valued at $3.24 billion as shares fall in NYSE debut",
+      "url": "https://www.channelnewsasia.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-in-nyse-debut-6259216",
+      "source": "CNA",
+      "publishedAt": "2026-07-16T16:22:30Z",
+      "description": "July 16 : Brookfield-backed data center provider Csquare was valued at $3.24 billion after its shares fell 0.5 per cent in their NYSE debut on Thursday.Shares opened at $20.9 after the Dallas-based company priced its IPO at $21 per share, below their marketed…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "米軍 イランの港の監視塔を破壊",
+      "url": "https://news.yahoo.co.jp/pickup/6588350?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T22:42:31.000Z",
+      "description": ""
+    },
+    {
+      "title": "メキシコM7.4地震 日本津波なし",
+      "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T15:38:55.000Z",
+      "description": ""
+    },
+    {
+      "title": "タイの公務員試験 5900人超不正か",
+      "url": "https://news.yahoo.co.jp/pickup/6588345?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T14:59:21.000Z",
+      "description": ""
+    },
+    {
+      "title": "英与党 新党首にバーナム氏を選出",
+      "url": "https://news.yahoo.co.jp/pickup/6588332?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T12:36:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "日銀 政策金利1.0%維持する方針",
+      "url": "https://news.yahoo.co.jp/pickup/6588314?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T10:28:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "日経終値2694円安 5番目の下げ幅",
+      "url": "https://news.yahoo.co.jp/pickup/6588276?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T06:49:54.000Z",
+      "description": ""
+    },
+    {
+      "title": "アルゼンチンの横断幕 英で猛反発",
+      "url": "https://news.yahoo.co.jp/pickup/6588269?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T06:20:47.000Z",
+      "description": ""
+    },
+    {
+      "title": "海上封鎖 イランの影響は限定的?",
+      "url": "https://news.yahoo.co.jp/pickup/6588254?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T04:38:59.000Z",
+      "description": ""
+    },
+    {
+      "title": "イラン 交渉巡り強硬姿勢崩さず",
+      "url": "https://news.yahoo.co.jp/pickup/6588224?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T00:07:31.000Z",
+      "description": ""
+    },
+    {
       "title": "米 留学生ビザを原則4年に短縮へ",
       "url": "https://news.yahoo.co.jp/pickup/6588207?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-16T21:44:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 サッカーW杯決勝観戦へ",
-      "url": "https://news.yahoo.co.jp/pickup/6588206?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T21:33:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウクライナ 国防相更迭に市民怒り",
-      "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T14:31:43.000Z",
-      "description": ""
-    },
-    {
-      "title": "「南米のドバイ」ガイアナ急成長",
-      "url": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T13:18:57.000Z",
-      "description": ""
-    },
-    {
-      "title": "米兵の男性ホルモン毎年検査へ",
-      "url": "https://news.yahoo.co.jp/pickup/6588187?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T12:37:10.000Z",
-      "description": ""
-    },
-    {
-      "title": "ロヒンギャら500人 転覆で死亡か",
-      "url": "https://news.yahoo.co.jp/pickup/6588166?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T08:37:43.000Z",
-      "description": ""
-    },
-    {
-      "title": "アルゼンチン 英の領海通過に抗議",
-      "url": "https://news.yahoo.co.jp/pickup/6588164?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T08:31:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン巡る米大統領発言 二転三転",
-      "url": "https://news.yahoo.co.jp/pickup/6588142?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T04:48:01.000Z",
       "description": ""
     }
   ]
