@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T22:52:56.936Z",
+  "fetchedAt": "2026-07-18T22:54:37.701Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "〈44社が出資〉国産AI開発のソフトバンク連合｢ノエトラ｣､エヌビディアの次世代GPUを導入して大型データセンター建設 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/951830?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-07-16T17:17:00Z",
-      "description": "日本政府と民間企業が進める国産AI基盤開発プロジェクトは､エヌビディアの画像処理半導体（GPU）｢ルービン｣を2万7500個超を搭載する次世代AIサーバーを導入する計画だ。計算資源を確保し､国産AI…",
+      "title": "英政府　ブリティッシュ・スチールを国有化　2020年に中国鉄鋼メーカーが買収するも去年、英政府が管理権を取得　（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/9a7b89421b3b77dbc989310ca54fd0bfdd7375bf",
+      "source": "Yahoo.co.jp",
+      "publishedAt": "2026-07-17T12:40:42Z",
+      "description": "英政府 ブリティッシュ・スチールを国有化 2020年に中国鉄鋼メーカーが買収するも去年、英政府が管理権を取得 （TBS NEWS DIG Powered by JNN） - Yahoo!ニュースyahoo.co.jp",
       "maMarket": "jp"
     },
     {
-      "title": "Japan 7/11 Plans Major Polish Takeover",
-      "url": "https://newsonjapan.com/article/150006.php",
-      "source": "Newsonjapan.com",
-      "publishedAt": "2026-07-16T22:51:11Z",
-      "description": "Seven & i Holdings is considering investing several hundred billion yen in Zabka Group, Poland's largest convenience store operator, as the Japanese retailer seeks to expand its presence in Europe. (News On Japan)",
+      "title": "Fifth Third Sees Comerica Merger Wins Ahead of Labor Day Conversion",
+      "url": "https://www.pymnts.com/earnings/2026/fifth-third-sees-comerica-merger-wins-ahead-of-labor-day-conversion/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-07-17T22:46:30Z",
+      "description": "Fifth Third Bancorp is seeing early results of its merger with Comerica, is making progress on the integration and is set to launch its systems conversion over Labor Day weekend, Fifth Third Chairman, CEO and President Tim Spence said Friday (July 17) during …",
       "maMarket": "us"
     },
     {
-      "title": "Apple、AIチップ企業の買収を検討か――The Information報道",
-      "url": "https://www.danshihack.com/2026/07/17/junp/apple-rumour-229.html",
-      "source": "Danshihack.com",
-      "publishedAt": "2026-07-16T15:00:22Z",
-      "description": "Appleが、AI処理向けサーバーチップの開発力を強化するため、半導体スタートアップの買収を検討していると報じられました。高負荷なAI処理で依存するNvidia製GPUを減らし、自社インフラの競争力を高める狙いがあるとみ…",
+      "title": "Uberがフードデリバリーのライバル・foodpandaを運営するDelivery Heroを買収",
+      "url": "https://news.livedoor.com/article/detail/31852724/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-17T09:06:00Z",
+      "description": "配車サービスやフードデリバリーサービスを展開するUberが、ライバルのfoodpandaなどを運営するドイツ企業・Delivery Heroを買収することになりました。1株あたり41.5ユーロ(約7710円)の株式公開買い付けの形で、Delivery Heroの時価総額は148億ドル(約2兆4000億円)。すでにUberは一部株式を保有しているので、今回の買収分は137億ドル(約2兆2000億円)となります。Uber Technologies, Inc. - Uber Announces Acquisition …",
       "maMarket": "jp"
     },
     {
-      "title": "Uber strikes $14.8B deal to acquire Delivery Hero, creating the largest food delivery platform outside China",
-      "url": "https://cryptobriefing.com/uber-delivery-hero-acquisition-deal-3/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-16T22:39:19Z",
-      "description": "Uber's acquisition of Delivery Hero positions it as a dominant global player, challenging competitors and reshaping the food delivery landscape. The post Uber strikes $14.8B deal to acquire Delivery Hero, creating the largest food delivery platform outside Ch…",
+      "title": "Goldgroup Mining and Gold Resource Corporation Announce Closing of Business Combination and Goldgroup’s Anticipated Listing on the NYSE American",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/goldgroup-mining-and-gold-resource-corporation-announce-closing-of-business-combination-and-goldgroups-anticipated-listing-on-the-nyse-american",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-17T22:45:41Z",
+      "description": "VANCOUVER, British Columbia & DENVER — Goldgroup Mining Inc. (TSX-V: GGA; OTC: GGAZD) (“Goldgroup” or the “Company”) and Gold Resource Corporation (NYSE American: GORO) (“GRC”) are pleased to announce that they have closed the previously announced merger (the…",
       "maMarket": "us"
     },
     {
-      "title": "パラマウント×ワーナー統合に脚本家組合も提訴",
-      "url": "https://eiga.com/news/20260716/24/",
-      "source": "Eiga.com",
-      "publishedAt": "2026-07-16T11:00:00Z",
-      "description": "米脚本家組合が、パラマウントによるワーナーの買収を差し止めるよう求めて提訴したと、米バラエティが報じた。前日には12の州が同じ訴えを起こしたばかりで、この巨大買収に反対する動きが相次いでいる。パラマウントとワーナーは、いずれもハリウッドを代",
+      "title": "株式会社Ｍ＆Ａ　Ｄｏ譲渡企業の着手金・中間金・成功報酬0円、株式会社M&A Doが「センサーM&A総合センター」を開設",
+      "url": "https://japan.cnet.com/release/31189925/",
+      "source": "CNET",
+      "publishedAt": "2026-07-17T09:00:00Z",
+      "description": "株式会社M&A Do（本社：東京都港区、代表取締役：濱田 啓揮）は、センサー領域で会社譲渡や事業承継を検討する経営者に向けたM&A・事業承継の相談窓口「センサーM&A総合センター」を開設しました。 対象は、センサー・計測・検査・IoT企業の会社売却、M&A、事業承継を支援。 センサーM&A総合センターでは、譲渡企業様か...",
       "maMarket": "jp"
     },
     {
-      "title": "Major League Soccer's NYCFC says it wants to sign Christian Pulisic but AC Milan not interested",
-      "url": "https://sports.yahoo.com/articles/major-league-soccers-nycfc-says-223904532.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-16T22:39:04Z",
-      "description": "New York City FC would like to acquire Christian Pulisic to play in Major League Soccer, but admits AC Milan is not interested in selling the top American player. “If you ask any of my 29 counterparts across the league if they would be interested in having Ch…",
+      "title": "BrewDog Founder James Watt Faces Data Privacy Scrutiny Over Takeover Attempt",
+      "url": "https://biztoc.com/x/ef500584d45ba912",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-17T22:43:33Z",
+      "description": "James Watt, the embattled founder of BrewDog, has been accused of violating data privacy laws following his bid to buy the company back from an American cannabis firm. Earlier this week, Watt shocked investors when he announced that he intended to repurchase …",
       "maMarket": "us"
     },
     {
-      "title": "セブン＆アイ、ポーランドのコンビニに出資を検討　欧州進出を加速",
-      "url": "https://www.asahi.com/articles/ASV7J3DZLV7JULFA02ZM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-07-16T10:40:00Z",
-      "description": "セブン＆アイ・ホールディングスが、ポーランドのコンビニ最大手「ジャプカ・グループ」に出資する方向で最終調整に入った。店舗網が薄い欧州への進出の足がかりにする狙いがあるとみられる。16日、関係者への取…",
+      "title": "国産AI基盤モデルの開発を推進する「Noetra」社に出資",
+      "url": "https://prtimes.jp/main/html/rd/p/000001569.000012900.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-07-17T08:43:21Z",
+      "description": "[シャープ] 当社は、ソフトバンク株式会社、本田技研工業株式会社などが主導するNoetra株式会社（本社：東京都渋谷区、以下、Noetra社）に出資し、国産AI基盤モデルの実現に向けた枠組みに参画しました。 ●国産マルチモーダ...",
       "maMarket": "jp"
     },
     {
-      "title": "OuterBox Announces Acquisition of TopSpot, Creating a Top Independent Marketing Agency in the US",
-      "url": "https://www.centralcharts.com/en/news/4722782-outerbox-announces-acquisition-of-topspot-creating-a-top-independent-marketing-agency-in-the-us",
-      "source": "Centralcharts.com",
-      "publishedAt": "2026-07-16T22:31:55Z",
-      "description": "With this acquisition, OuterBox is now one of the largest independent marketing agencies in the country. COPLEY, OH / ACCESSWIRE / June 18, 2024 / OuterBox, a",
+      "title": "United Flow Technologies Expands Midwest Presence with Acquisition of Peterson and Matz",
+      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329320/0/en/United-Flow-Technologies-Expands-Midwest-Presence-with-Acquisition-of-Peterson-and-Matz.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-17T22:30:00Z",
+      "description": "Irving, TX, July 17, 2026 (GLOBE NEWSWIRE) -- United Flow Technologies (UFT), a leading technical distributor and solutions provider serving the municipal and industrial water and wastewater treatment markets and a portfolio company of Berkshire Partners, tod…",
       "maMarket": "us"
     }
   ],
@@ -83,39 +83,88 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX stock closes below its IPO price for the first time since it went public",
-      "url": "https://biztoc.com/x/15ed3403112c4bb6",
+      "title": "Kopi Kenangan IPO: Serena Williams, Jay-Z-backed coffee chain eyes listing",
+      "url": "https://biztoc.com/x/87aa190ee637032d",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-16T20:32:49Z",
-      "description": "Elon Musk, founder of Space Exploration Technologies Corp. (SpaceX), on screen during the company's initial public offering at the Nasdaq MarketSite in New York City on June 12.",
+      "publishedAt": "2026-07-17T17:54:02Z",
+      "description": "Kopi Kenangan, the Indonesian coffee chain whose backers include tennis star Serena Williams and hip-hop entrepreneur Jay-Z, has approached banks about a possible IPO that could put its valuation at as much as $1 billion, according to The Wall Street Journal.…",
       "ipoMarket": "us"
     },
     {
-      "title": "Global X Japan株式会社「グローバルＸ 宇宙テック・トップ10 ETF（除く日本）」（銘柄コード：610A）東京証券取引所より上場承認",
-      "url": "https://prtimes.jp/main/html/rd/p/000000092.000137367.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-07-10T07:40:42Z",
-      "description": "[Global X Japan株式会社] 大和証券グループのGlobal X Japan株式会社（東京都千代田区、代表取締役社長：藤岡 智男、以下「当社」）は、本日、東京証券取引所より「グローバルＸ 宇宙テック・トップ10 ETF（除く日本）」（銘柄コード：6...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "SpaceX stock closes below its IPO price for the first time since it went public",
-      "url": "https://www.nbcnews.com/business/markets/spacex-stock-below-ipo-price-rcna587717",
-      "source": "NBC News",
-      "publishedAt": "2026-07-16T20:01:59Z",
-      "description": "Shares of SpaceX continued their sharp descent Thursday and closed below the company’s IPO price for the first time since its June public offering.",
+      "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+      "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-17T17:27:41Z",
+      "description": "Good times for SpaceX are proving short-lived as Elon Musk’s intergalactic IPO is now giving fodder to bears.",
       "ipoMarket": "us"
     },
     {
-      "title": "Brookfield-backed Csquare valued at $3.24 billion as shares fall in NYSE debut",
-      "url": "https://www.channelnewsasia.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-in-nyse-debut-6259216",
-      "source": "CNA",
-      "publishedAt": "2026-07-16T16:22:30Z",
-      "description": "July 16 : Brookfield-backed data center provider Csquare was valued at $3.24 billion after its shares fell 0.5 per cent in their NYSE debut on Thursday.Shares opened at $20.9 after the Dallas-based company priced its IPO at $21 per share, below their marketed…",
+      "title": "BRCB Investor Alert: HBSS Investigating Black Rock Coffee Bar (BRCB) Over Alleged IPO Misrepresentations Regarding Store Cannibalization Asserted In Class Action",
+      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329185/32716/en/BRCB-Investor-Alert-HBSS-Investigating-Black-Rock-Coffee-Bar-BRCB-Over-Alleged-IPO-Misrepresentations-Regarding-Store-Cannibalization-Asserted-In-Class-Action.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-17T15:30:00Z",
+      "description": "Investors who lost money in BRCB after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "The IPO paradox: Why bigger isn’t always better",
+      "url": "https://www.thehindubusinessline.com/markets/the-ipo-paradox-why-bigger-isnt-always-better/article71234580.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-17T15:08:36Z",
+      "description": "Explore the IPO paradox: why larger offerings often underperform and what investors should consider before investing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "米イランが攻撃応酬 原油は大幅高",
+      "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-18T07:59:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "米国で寄生虫感染症 レタス関連か",
+      "url": "https://news.yahoo.co.jp/pickup/6588386?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-18T05:03:26.000Z",
+      "description": ""
+    },
+    {
+      "title": "トランプ氏 W杯米単独開催に意欲",
+      "url": "https://news.yahoo.co.jp/pickup/6588382?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-18T04:29:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "米イラン 全面戦争のリスク高まる",
+      "url": "https://news.yahoo.co.jp/pickup/6588381?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-18T04:08:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "ドイツ 仏軍の核演習に初参加へ",
+      "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-18T01:03:17.000Z",
+      "description": ""
+    },
+    {
+      "title": "次の英首相バーナム氏 大阪市と縁",
+      "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-18T01:01:58.000Z",
+      "description": ""
+    },
+    {
+      "title": "ベネズエラ地震 死者5000人超に",
+      "url": "https://news.yahoo.co.jp/pickup/6588355?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-17T23:01:09.000Z",
+      "description": ""
+    },
     {
       "title": "米軍 イランの港の監視塔を破壊",
       "url": "https://news.yahoo.co.jp/pickup/6588350?source=rss",
@@ -124,66 +173,10 @@
       "description": ""
     },
     {
-      "title": "メキシコM7.4地震 日本津波なし",
-      "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T15:38:55.000Z",
-      "description": ""
-    },
-    {
-      "title": "タイの公務員試験 5900人超不正か",
-      "url": "https://news.yahoo.co.jp/pickup/6588345?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T14:59:21.000Z",
-      "description": ""
-    },
-    {
       "title": "英与党 新党首にバーナム氏を選出",
       "url": "https://news.yahoo.co.jp/pickup/6588332?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-17T12:36:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "日銀 政策金利1.0%維持する方針",
-      "url": "https://news.yahoo.co.jp/pickup/6588314?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T10:28:19.000Z",
-      "description": ""
-    },
-    {
-      "title": "日経終値2694円安 5番目の下げ幅",
-      "url": "https://news.yahoo.co.jp/pickup/6588276?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T06:49:54.000Z",
-      "description": ""
-    },
-    {
-      "title": "アルゼンチンの横断幕 英で猛反発",
-      "url": "https://news.yahoo.co.jp/pickup/6588269?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T06:20:47.000Z",
-      "description": ""
-    },
-    {
-      "title": "海上封鎖 イランの影響は限定的?",
-      "url": "https://news.yahoo.co.jp/pickup/6588254?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T04:38:59.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン 交渉巡り強硬姿勢崩さず",
-      "url": "https://news.yahoo.co.jp/pickup/6588224?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T00:07:31.000Z",
-      "description": ""
-    },
-    {
-      "title": "米 留学生ビザを原則4年に短縮へ",
-      "url": "https://news.yahoo.co.jp/pickup/6588207?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-16T21:44:25.000Z",
       "description": ""
     }
   ]
