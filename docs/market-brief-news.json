@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T22:54:37.701Z",
+  "fetchedAt": "2026-07-19T22:56:20.112Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "ファミ通編集長「ゲーム会社から取材費もらってるけどレビュー点数は売ってないよ！信じて！」",
+      "url": "https://gahalog.2chblog.jp/archives/52600012.html",
+      "source": "2chblog.jp",
+      "publishedAt": "2026-07-18T17:22:14Z",
+      "description": "◇ 1: 名無し 2026/07/18(土) 12:55:58.50 ID:alHvcpdP0 「週刊ファミ通」編集長、クロスレビュー点数の買収説を否定 ゲーム会社から受ける支援の範囲も説明 https://gamestalk.net/famitsu-cross-review-score-buying-rumor/ 今回のインタビューは、「週刊ファミ通」",
+      "maMarket": "jp"
+    },
+    {
+      "title": "mamut-routing-tools 0.3.0",
+      "url": "https://pypi.org/project/mamut-routing-tools/0.3.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-07-18T22:47:23Z",
+      "description": "Local generation tool suite for MAMUT-routing: OSM acquisition, road-graph engine, route geometry, and CVRP/VRPTW instance generation.",
+      "maMarket": "us"
+    },
+    {
+      "title": "ストリームが債権取立不能、子会社取引先が事業継続断念で - 不景気com",
+      "url": "https://www.fukeiki.com/2026/07/stream-xone-debt-collection.html",
+      "source": "Fukeiki.com",
+      "publishedAt": "2026-07-18T08:48:20Z",
+      "description": "東証スタンダード上場でインターネット通販サイトの「ECカレント」などを運営する「ストリーム」は、連結子会社の「エックスワン」（東京都港区）が保有する債権について、取立不能となったことを明らかにしました。 同子会社が2023年より出資および運転資金の貸付を行って",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Key Reason Why Celtics Traded Jaylen Brown Revealed",
+      "url": "https://heavy.com/sports/nba/boston-celtics/key-reason-why-celtics-traded-jaylen-brown-revealed/",
+      "source": "Heavy.com",
+      "publishedAt": "2026-07-18T22:37:10Z",
+      "description": "The Boston Celtics shocked the NBA when they traded Jaylen Brown to the Philadelphia 76ers on July 6.Brad Stevens had reportedly offered Brown as part of a package to acquire Giannis Antetokounmpo from the Milwaukee Bucks. However, the Miami Heat upped the an…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「色気すごすぎ…!!」幸田あかりが【週刊SPA!】「グラビアン魂」に初登場！アバンギャルドな撮り下ろしを披露",
+      "url": "https://news.livedoor.com/article/detail/31857659/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-18T02:00:00Z",
+      "description": "『週刊SPA! 7月21･28日合併号』は7月14日に発売！ 7月14日発売『週刊SPA! 7月21･28日合併号』©扶桑社 グラビアン魂：幸田あかり 7月14日に発売された『週刊SPA! 7月21・28日合併号』の人気グラビア連載「グラビアン魂」に、幸田あかりが登場した。 幸田あかり ©撮影／笠井爾示扶桑社 モデルや俳優としても活動する彼女が、同連載に登場するのは今回が初めて。みうらじゅんとリリー・フランキ&#12540全文ラブすぽ 07月18日11時00分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "ProPublica's revelations on the FCC and Paramount-Warner Bros. deal",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5895094/propublicas-revelations-on-the-fcc-and-paramount-warner-bros-deal",
+      "source": "NPR",
+      "publishedAt": "2026-07-18T21:20:40Z",
+      "description": "Reporting from ProPublica show that some FCC officials in charge of overseeing the multi-billion dollar deal for Paramount Skydance to acquire Warner Brothers Discover may have a conflict of interest.",
+      "maMarket": "us"
+    },
+    {
       "title": "英政府　ブリティッシュ・スチールを国有化　2020年に中国鉄鋼メーカーが買収するも去年、英政府が管理権を取得　（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/9a7b89421b3b77dbc989310ca54fd0bfdd7375bf",
       "source": "Yahoo.co.jp",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Fifth Third Sees Comerica Merger Wins Ahead of Labor Day Conversion",
-      "url": "https://www.pymnts.com/earnings/2026/fifth-third-sees-comerica-merger-wins-ahead-of-labor-day-conversion/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-07-17T22:46:30Z",
-      "description": "Fifth Third Bancorp is seeing early results of its merger with Comerica, is making progress on the integration and is set to launch its systems conversion over Labor Day weekend, Fifth Third Chairman, CEO and President Tim Spence said Friday (July 17) during …",
-      "maMarket": "us"
-    },
-    {
-      "title": "Uberがフードデリバリーのライバル・foodpandaを運営するDelivery Heroを買収",
-      "url": "https://news.livedoor.com/article/detail/31852724/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-07-17T09:06:00Z",
-      "description": "配車サービスやフードデリバリーサービスを展開するUberが、ライバルのfoodpandaなどを運営するドイツ企業・Delivery Heroを買収することになりました。1株あたり41.5ユーロ(約7710円)の株式公開買い付けの形で、Delivery Heroの時価総額は148億ドル(約2兆4000億円)。すでにUberは一部株式を保有しているので、今回の買収分は137億ドル(約2兆2000億円)となります。Uber Technologies, Inc. - Uber Announces Acquisition …",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Goldgroup Mining and Gold Resource Corporation Announce Closing of Business Combination and Goldgroup’s Anticipated Listing on the NYSE American",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/goldgroup-mining-and-gold-resource-corporation-announce-closing-of-business-combination-and-goldgroups-anticipated-listing-on-the-nyse-american",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-17T22:45:41Z",
-      "description": "VANCOUVER, British Columbia & DENVER — Goldgroup Mining Inc. (TSX-V: GGA; OTC: GGAZD) (“Goldgroup” or the “Company”) and Gold Resource Corporation (NYSE American: GORO) (“GRC”) are pleased to announce that they have closed the previously announced merger (the…",
-      "maMarket": "us"
-    },
-    {
-      "title": "株式会社Ｍ＆Ａ　Ｄｏ譲渡企業の着手金・中間金・成功報酬0円、株式会社M&A Doが「センサーM&A総合センター」を開設",
-      "url": "https://japan.cnet.com/release/31189925/",
-      "source": "CNET",
-      "publishedAt": "2026-07-17T09:00:00Z",
-      "description": "株式会社M&A Do（本社：東京都港区、代表取締役：濱田 啓揮）は、センサー領域で会社譲渡や事業承継を検討する経営者に向けたM&A・事業承継の相談窓口「センサーM&A総合センター」を開設しました。 対象は、センサー・計測・検査・IoT企業の会社売却、M&A、事業承継を支援。 センサーM&A総合センターでは、譲渡企業様か...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "BrewDog Founder James Watt Faces Data Privacy Scrutiny Over Takeover Attempt",
-      "url": "https://biztoc.com/x/ef500584d45ba912",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-17T22:43:33Z",
-      "description": "James Watt, the embattled founder of BrewDog, has been accused of violating data privacy laws following his bid to buy the company back from an American cannabis firm. Earlier this week, Watt shocked investors when he announced that he intended to repurchase …",
-      "maMarket": "us"
-    },
-    {
-      "title": "国産AI基盤モデルの開発を推進する「Noetra」社に出資",
-      "url": "https://prtimes.jp/main/html/rd/p/000001569.000012900.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-07-17T08:43:21Z",
-      "description": "[シャープ] 当社は、ソフトバンク株式会社、本田技研工業株式会社などが主導するNoetra株式会社（本社：東京都渋谷区、以下、Noetra社）に出資し、国産AI基盤モデルの実現に向けた枠組みに参画しました。 ●国産マルチモーダ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "United Flow Technologies Expands Midwest Presence with Acquisition of Peterson and Matz",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329320/0/en/United-Flow-Technologies-Expands-Midwest-Presence-with-Acquisition-of-Peterson-and-Matz.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-17T22:30:00Z",
-      "description": "Irving, TX, July 17, 2026 (GLOBE NEWSWIRE) -- United Flow Technologies (UFT), a leading technical distributor and solutions provider serving the municipal and industrial water and wastewater treatment markets and a portfolio company of Berkshire Partners, tod…",
+      "title": "This is how Tennessee tries to woo Paramount and other companies away from California - Los Angeles Times",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184505180",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-18T21:12:16Z",
+      "description": "This is how Tennessee tries to woo Paramount and other companies away from CaliforniaLos Angeles Times California AG Rob Bonta says a CNN spin-off wouldn’t resolve Paramount–WBD lawsuitCNN Paramount+ Subscribers Fail to Block Warner Bros. Merger as States Wil…",
       "maMarket": "us"
     }
   ],
@@ -83,100 +83,100 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Kopi Kenangan IPO: Serena Williams, Jay-Z-backed coffee chain eyes listing",
-      "url": "https://biztoc.com/x/87aa190ee637032d",
+      "title": "Bill Ackman's New Closed-End Fund Trades 20% Below Its IPO Price. Is the Berkshire-Style Bet Broken?",
+      "url": "https://biztoc.com/x/07fcb60857810efc",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-17T17:54:02Z",
-      "description": "Kopi Kenangan, the Indonesian coffee chain whose backers include tennis star Serena Williams and hip-hop entrepreneur Jay-Z, has approached banks about a possible IPO that could put its valuation at as much as $1 billion, according to The Wall Street Journal.…",
+      "publishedAt": "2026-07-18T18:57:00Z",
+      "description": "Bill Ackman's New Closed-End Fund Trades 20% Below Its IPO Price. Is the Berkshire-Style Bet Broken? Berkshire Hathaway (NYSE: BRKA)(NYSE: BRKB) was a way for people to invest alongside CEO Warren Buffett. Buffett has retired, so the company is now run by Gre…",
       "ipoMarket": "us"
     },
     {
-      "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
-      "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-17T17:27:41Z",
-      "description": "Good times for SpaceX are proving short-lived as Elon Musk’s intergalactic IPO is now giving fodder to bears.",
+      "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184504382",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-18T18:13:04Z",
+      "description": "SpaceX targets next week for another Starship launch attempt as shares slide on abortReuters Starship's Thirteenth Flight TestSpaceX SpaceX stock closes at lows after first test flight since IPO scrubbedYahoo Finance SpaceX scrubs Starship launch after some o…",
       "ipoMarket": "us"
     },
     {
-      "title": "BRCB Investor Alert: HBSS Investigating Black Rock Coffee Bar (BRCB) Over Alleged IPO Misrepresentations Regarding Store Cannibalization Asserted In Class Action",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329185/32716/en/BRCB-Investor-Alert-HBSS-Investigating-Black-Rock-Coffee-Bar-BRCB-Over-Alleged-IPO-Misrepresentations-Regarding-Store-Cannibalization-Asserted-In-Class-Action.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-17T15:30:00Z",
-      "description": "Investors who lost money in BRCB after its stock plunged due to allegedly misleading financial statements are urged to contact Hagens Berman....",
+      "title": "SpaceX short sellers pocket $5 billion in paper profits as stock wipes out $1 trillion in value",
+      "url": "https://www.livemint.com/companies/news/spacex-short-sellers-pocket-5-billion-in-paper-profits-as-stock-wipes-out-1-trillion-in-value-11784390468737.html",
+      "source": "Livemint",
+      "publishedAt": "2026-07-18T16:41:53Z",
+      "description": "SpaceX's IPO generated headlines, but short sellers have reaped $5 billion in paper profits amid a stock decline. The short interest surged from $4.5 billion to $25 billion, with analysts remaining optimistic overall despite recent volatility and a market val…",
       "ipoMarket": "us"
     },
     {
-      "title": "The IPO paradox: Why bigger isn’t always better",
-      "url": "https://www.thehindubusinessline.com/markets/the-ipo-paradox-why-bigger-isnt-always-better/article71234580.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-17T15:08:36Z",
-      "description": "Explore the IPO paradox: why larger offerings often underperform and what investors should consider before investing.",
+      "title": "CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.",
+      "url": "https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-18T14:06:18Z",
+      "description": "The space economy is already having its strongest year on record, and there are still two quarters to go.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米イランが攻撃応酬 原油は大幅高",
-      "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
+      "title": "日比海洋交渉入り合意 中国猛反発",
+      "url": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-18T07:59:02.000Z",
+      "publishedAt": "2026-07-19T13:01:32.000Z",
       "description": ""
     },
     {
-      "title": "米国で寄生虫感染症 レタス関連か",
-      "url": "https://news.yahoo.co.jp/pickup/6588386?source=rss",
+      "title": "韓国「犬肉禁止」施行へ 現場葛藤",
+      "url": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-18T05:03:26.000Z",
+      "publishedAt": "2026-07-19T10:31:29.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 W杯米単独開催に意欲",
-      "url": "https://news.yahoo.co.jp/pickup/6588382?source=rss",
+      "title": "日ウ企業間の技術協力 露が批判",
+      "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-18T04:29:25.000Z",
+      "publishedAt": "2026-07-19T10:26:29.000Z",
       "description": ""
     },
     {
-      "title": "米イラン 全面戦争のリスク高まる",
-      "url": "https://news.yahoo.co.jp/pickup/6588381?source=rss",
+      "title": "露 キーウに弾道ミサイル40発以上",
+      "url": "https://news.yahoo.co.jp/pickup/6588533?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-18T04:08:40.000Z",
+      "publishedAt": "2026-07-19T09:04:47.000Z",
       "description": ""
     },
     {
-      "title": "ドイツ 仏軍の核演習に初参加へ",
-      "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss",
+      "title": "3日間漂流の5人救助 インドネシア",
+      "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-18T01:03:17.000Z",
+      "publishedAt": "2026-07-19T07:41:49.000Z",
       "description": ""
     },
     {
-      "title": "次の英首相バーナム氏 大阪市と縁",
-      "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss",
+      "title": "NY市長 イスラエル首相拘束検討",
+      "url": "https://news.yahoo.co.jp/pickup/6588509?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-18T01:01:58.000Z",
+      "publishedAt": "2026-07-19T06:23:54.000Z",
       "description": ""
     },
     {
-      "title": "ベネズエラ地震 死者5000人超に",
-      "url": "https://news.yahoo.co.jp/pickup/6588355?source=rss",
+      "title": "冷やし甘酒が特産品に 海外輸出も",
+      "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T23:01:09.000Z",
+      "publishedAt": "2026-07-19T05:41:17.000Z",
       "description": ""
     },
     {
-      "title": "米軍 イランの港の監視塔を破壊",
-      "url": "https://news.yahoo.co.jp/pickup/6588350?source=rss",
+      "title": "八幡市長産休巡り 海外報道相次ぐ",
+      "url": "https://news.yahoo.co.jp/pickup/6588500?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T22:42:31.000Z",
+      "publishedAt": "2026-07-19T04:46:15.000Z",
       "description": ""
     },
     {
-      "title": "英与党 新党首にバーナム氏を選出",
-      "url": "https://news.yahoo.co.jp/pickup/6588332?source=rss",
+      "title": "世界一律の10%代替関税 失効へ",
+      "url": "https://news.yahoo.co.jp/pickup/6588491?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-17T12:36:20.000Z",
+      "publishedAt": "2026-07-19T03:34:46.000Z",
       "description": ""
     }
   ]
