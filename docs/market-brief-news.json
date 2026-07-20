@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T22:56:20.112Z",
+  "fetchedAt": "2026-07-20T23:03:26.316Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "ドコモ、静岡市アリーナの整備・運営へ　2030年4月に運営開始",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2125107.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-07-19T23:00:00Z",
+      "description": "NTTドコモなど10社は、ドコモを代表企業とするグループが共同出資で設立した静岡セントラルアリーナが、静岡市と「静岡市アリーナ整備・運営事業特定事業契約」を7月9日に締結したと発表した。2030年4月の運営開始を目指す。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Samsung Biologics announces all-cash offer to acquire PolyPeptide, accelerating multi-modality strategy and expanding global network across U.S., Europe, and India",
+      "url": "https://www.prnewswire.com/news-releases/samsung-biologics-announces-all-cash-offer-to-acquire-polypeptide-accelerating-multi-modality-strategy-and-expanding-global-network-across-us-europe-and-india-302829249.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-19T22:43:00Z",
+      "description": "Samsung Biologics to launch an all-cash public tender offer for 100% of PolyPeptide's fully diluted share capital (excluding therefrom any treasury shares) at CHF 44.31 per share, representing an equity value of approximately CHF 1.46 billion. Strong transact…",
+      "maMarket": "us"
+    },
+    {
+      "title": "ブシロード木谷社長が新日本プロレス全株式譲渡の経緯と胸中を語る",
+      "url": "https://news.livedoor.com/article/detail/31867878/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-19T22:30:00Z",
+      "description": "ざっくり言うと <ul> <li>ブシロードが保有する新日本プロレス株をテレ朝などへ譲渡すると発表された</li> <li>木谷高明社長は辻陽太選手の親会社批判発言が最終的な引き金になったと明かした</li> <li>5億円で取得した株式を36億円で譲渡し、専門家は「事業再生の成功事例」と評価する</li> </ul> 記事を読む",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Amile Jefferson on how Sin City Celtics use Las Vegas Summer League for skill acquisition",
+      "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/07/19/amile-jefferson-on-how-celtics-use-summer-league-for-skill-acquisition/90976931007/",
+      "source": "USA Today",
+      "publishedAt": "2026-07-19T22:29:07Z",
+      "description": "The Summer Celtics aren't just there to win exhibition games and sight-see.",
+      "maMarket": "us"
+    },
+    {
+      "title": "新生auフィナンシャルサービスが始動 / デリバリー専門ブランド「いきなり！かつ丼」 実食 ＆ 開発担当者が語る新商品への想い【まとめ記事】",
+      "url": "https://itlifehack.jp/archives/11020858.html",
+      "source": "Itlifehack.jp",
+      "publishedAt": "2026-07-19T02:00:30Z",
+      "description": "auフィナンシャルサービス株式会社は2026年6月30日、東京・有楽町のザ・ペニンシュラ東京にて、「auフィナンシャルサービス 合併記者発表会」を開催した。auペイメント株式会社とauフィナンシャルサービス株式会社は、決済事業戦略の一元化と事業推進の加速を目的に、2026年...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Why buyout funds, not IPOs, may define China’s next capital market cycle: Zhang Yichen",
+      "url": "https://biztoc.com/x/a6f86f947a2eb165",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-19T22:02:34Z",
+      "description": "Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Ko…",
+      "maMarket": "us"
+    },
+    {
       "title": "ファミ通編集長「ゲーム会社から取材費もらってるけどレビュー点数は売ってないよ！信じて！」",
       "url": "https://gahalog.2chblog.jp/archives/52600012.html",
       "source": "2chblog.jp",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "mamut-routing-tools 0.3.0",
-      "url": "https://pypi.org/project/mamut-routing-tools/0.3.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-18T22:47:23Z",
-      "description": "Local generation tool suite for MAMUT-routing: OSM acquisition, road-graph engine, route geometry, and CVRP/VRPTW instance generation.",
-      "maMarket": "us"
-    },
-    {
-      "title": "ストリームが債権取立不能、子会社取引先が事業継続断念で - 不景気com",
-      "url": "https://www.fukeiki.com/2026/07/stream-xone-debt-collection.html",
-      "source": "Fukeiki.com",
-      "publishedAt": "2026-07-18T08:48:20Z",
-      "description": "東証スタンダード上場でインターネット通販サイトの「ECカレント」などを運営する「ストリーム」は、連結子会社の「エックスワン」（東京都港区）が保有する債権について、取立不能となったことを明らかにしました。 同子会社が2023年より出資および運転資金の貸付を行って",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Key Reason Why Celtics Traded Jaylen Brown Revealed",
-      "url": "https://heavy.com/sports/nba/boston-celtics/key-reason-why-celtics-traded-jaylen-brown-revealed/",
-      "source": "Heavy.com",
-      "publishedAt": "2026-07-18T22:37:10Z",
-      "description": "The Boston Celtics shocked the NBA when they traded Jaylen Brown to the Philadelphia 76ers on July 6.Brad Stevens had reportedly offered Brown as part of a package to acquire Giannis Antetokounmpo from the Milwaukee Bucks. However, the Miami Heat upped the an…",
-      "maMarket": "us"
-    },
-    {
-      "title": "「色気すごすぎ…!!」幸田あかりが【週刊SPA!】「グラビアン魂」に初登場！アバンギャルドな撮り下ろしを披露",
-      "url": "https://news.livedoor.com/article/detail/31857659/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-07-18T02:00:00Z",
-      "description": "『週刊SPA! 7月21･28日合併号』は7月14日に発売！ 7月14日発売『週刊SPA! 7月21･28日合併号』©扶桑社 グラビアン魂：幸田あかり 7月14日に発売された『週刊SPA! 7月21・28日合併号』の人気グラビア連載「グラビアン魂」に、幸田あかりが登場した。 幸田あかり ©撮影／笠井爾示扶桑社 モデルや俳優としても活動する彼女が、同連載に登場するのは今回が初めて。みうらじゅんとリリー・フランキ&#12540全文ラブすぽ 07月18日11時00分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "ProPublica's revelations on the FCC and Paramount-Warner Bros. deal",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5895094/propublicas-revelations-on-the-fcc-and-paramount-warner-bros-deal",
-      "source": "NPR",
-      "publishedAt": "2026-07-18T21:20:40Z",
-      "description": "Reporting from ProPublica show that some FCC officials in charge of overseeing the multi-billion dollar deal for Paramount Skydance to acquire Warner Brothers Discover may have a conflict of interest.",
-      "maMarket": "us"
-    },
-    {
-      "title": "英政府　ブリティッシュ・スチールを国有化　2020年に中国鉄鋼メーカーが買収するも去年、英政府が管理権を取得　（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/9a7b89421b3b77dbc989310ca54fd0bfdd7375bf",
-      "source": "Yahoo.co.jp",
-      "publishedAt": "2026-07-17T12:40:42Z",
-      "description": "英政府 ブリティッシュ・スチールを国有化 2020年に中国鉄鋼メーカーが買収するも去年、英政府が管理権を取得 （TBS NEWS DIG Powered by JNN） - Yahoo!ニュースyahoo.co.jp",
-      "maMarket": "jp"
-    },
-    {
-      "title": "This is how Tennessee tries to woo Paramount and other companies away from California - Los Angeles Times",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184505180",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-18T21:12:16Z",
-      "description": "This is how Tennessee tries to woo Paramount and other companies away from CaliforniaLos Angeles Times California AG Rob Bonta says a CNN spin-off wouldn’t resolve Paramount–WBD lawsuitCNN Paramount+ Subscribers Fail to Block Warner Bros. Merger as States Wil…",
+      "title": "Klay Thompson’s Mavs Exit Accelerated by Zaccharie Risacher Trade",
+      "url": "https://roundtable.io/sports/nba/mavericks/news/klay-thompson-s-mavs-exit-accelerated-by-zaccharie-risacher-trade",
+      "source": "Roundtable.io",
+      "publishedAt": "2026-07-19T21:05:04Z",
+      "description": "With Zaccharie Risacher’s arrival and a crowded wing rotation, Dallas faces a looming choice: recoup trade value for the veteran sniper or grant a buyout to Miami.",
       "maMarket": "us"
     }
   ],
@@ -83,100 +83,100 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Bill Ackman's New Closed-End Fund Trades 20% Below Its IPO Price. Is the Berkshire-Style Bet Broken?",
-      "url": "https://biztoc.com/x/07fcb60857810efc",
+      "title": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test",
+      "url": "https://biztoc.com/x/cd0f39d9828ff06e",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-18T18:57:00Z",
-      "description": "Bill Ackman's New Closed-End Fund Trades 20% Below Its IPO Price. Is the Berkshire-Style Bet Broken? Berkshire Hathaway (NYSE: BRKA)(NYSE: BRKB) was a way for people to invest alongside CEO Warren Buffett. Buffett has retired, so the company is now run by Gre…",
+      "publishedAt": "2026-07-19T22:18:44Z",
+      "description": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test. SpaceX (NASDAQ: SPCX) can't seem to catch a break. On Thursday, the company aborted the second launch attempt of its upgraded Starship rocket moments af…",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX targets next week for another Starship launch attempt as shares slide on abort - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184504382",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-18T18:13:04Z",
-      "description": "SpaceX targets next week for another Starship launch attempt as shares slide on abortReuters Starship's Thirteenth Flight TestSpaceX SpaceX stock closes at lows after first test flight since IPO scrubbedYahoo Finance SpaceX scrubs Starship launch after some o…",
+      "title": "SpaceX’s IPO lockup begins expiring in August, testing market appetite for $123 billion in newly tradable shares",
+      "url": "https://cryptobriefing.com/spacex-ipo-lockup-expiration-august/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-19T21:35:23Z",
+      "description": "SpaceX's first major lockup expiration in August will unlock roughly $123 billion in shares, testing market demand in a pattern familiar to crypto token The post SpaceX’s IPO lockup begins expiring in August, testing market appetite for $123 billion in newly …",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX short sellers pocket $5 billion in paper profits as stock wipes out $1 trillion in value",
-      "url": "https://www.livemint.com/companies/news/spacex-short-sellers-pocket-5-billion-in-paper-profits-as-stock-wipes-out-1-trillion-in-value-11784390468737.html",
-      "source": "Livemint",
-      "publishedAt": "2026-07-18T16:41:53Z",
-      "description": "SpaceX's IPO generated headlines, but short sellers have reaped $5 billion in paper profits amid a stock decline. The short interest surged from $4.5 billion to $25 billion, with analysts remaining optimistic overall despite recent volatility and a market val…",
+      "title": "Moonshot AI Plans Hong Kong IPO After Kimi K3 Model Debut",
+      "url": "https://beincrypto.com/moonshot-ai-hong-kong-ipo/",
+      "source": "BeInCrypto",
+      "publishedAt": "2026-07-19T12:30:00Z",
+      "description": "Moonshot AI is preparing a Hong Kong IPO within six months, seeking a $30 billion valuation after its Kimi K3 debut.",
       "ipoMarket": "us"
     },
     {
-      "title": "CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.",
-      "url": "https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-18T14:06:18Z",
-      "description": "The space economy is already having its strongest year on record, and there are still two quarters to go.",
+      "title": "Switch IPO Signals Data Center Sector’s Public Market Shift",
+      "url": "https://www.credaily.com/briefs/switch-ipo-signals-data-center-sector-s-public-market-shift/",
+      "source": "Credaily.com",
+      "publishedAt": "2026-07-19T09:48:33Z",
+      "description": "Switch’s planned IPO could raise $10B, marking a renewed Wall Street funding push as private capital tightens.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "日比海洋交渉入り合意 中国猛反発",
-      "url": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
+      "title": "EU 中国系通販に制裁金1000億円",
+      "url": "https://news.yahoo.co.jp/pickup/6588701?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T13:01:32.000Z",
+      "publishedAt": "2026-07-20T22:54:42.000Z",
       "description": ""
     },
     {
-      "title": "韓国「犬肉禁止」施行へ 現場葛藤",
-      "url": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
+      "title": "米兵死亡 米大統領がイランに警告",
+      "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T10:31:29.000Z",
+      "publishedAt": "2026-07-20T22:35:03.000Z",
       "description": ""
     },
     {
-      "title": "日ウ企業間の技術協力 露が批判",
-      "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
+      "title": "ワーナー買収一時差し止め 米地裁",
+      "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T10:26:29.000Z",
+      "publishedAt": "2026-07-20T21:22:12.000Z",
       "description": ""
     },
     {
-      "title": "露 キーウに弾道ミサイル40発以上",
-      "url": "https://news.yahoo.co.jp/pickup/6588533?source=rss",
+      "title": "イラン攻撃で米兵死亡 19歳と25歳",
+      "url": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T09:04:47.000Z",
+      "publishedAt": "2026-07-20T14:55:37.000Z",
       "description": ""
     },
     {
-      "title": "3日間漂流の5人救助 インドネシア",
-      "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
+      "title": "露軍 ウ南部で民間貨物船を攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6588688?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T07:41:49.000Z",
+      "publishedAt": "2026-07-20T14:12:01.000Z",
       "description": ""
     },
     {
-      "title": "NY市長 イスラエル首相拘束検討",
-      "url": "https://news.yahoo.co.jp/pickup/6588509?source=rss",
+      "title": "ハマス 新最高指導者にハイヤ氏",
+      "url": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T06:23:54.000Z",
+      "publishedAt": "2026-07-20T13:53:56.000Z",
       "description": ""
     },
     {
-      "title": "冷やし甘酒が特産品に 海外輸出も",
-      "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
+      "title": "ウ 徴兵担当者への暴力事件が増加",
+      "url": "https://news.yahoo.co.jp/pickup/6588647?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T05:41:17.000Z",
+      "publishedAt": "2026-07-20T08:20:23.000Z",
       "description": ""
     },
     {
-      "title": "八幡市長産休巡り 海外報道相次ぐ",
-      "url": "https://news.yahoo.co.jp/pickup/6588500?source=rss",
+      "title": "ホルムズ タンカー2隻が「爆発」",
+      "url": "https://news.yahoo.co.jp/pickup/6588633?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T04:46:15.000Z",
+      "publishedAt": "2026-07-20T06:22:44.000Z",
       "description": ""
     },
     {
-      "title": "世界一律の10%代替関税 失効へ",
-      "url": "https://news.yahoo.co.jp/pickup/6588491?source=rss",
+      "title": "日米合意1年 関税の負担依然重く",
+      "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-19T03:34:46.000Z",
+      "publishedAt": "2026-07-20T01:54:28.000Z",
       "description": ""
     }
   ]
