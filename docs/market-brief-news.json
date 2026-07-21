@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T23:03:26.316Z",
+  "fetchedAt": "2026-07-21T23:00:46.393Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "Amazon配送大手、運送2300社とステーブルコイン決済　JPYCに出資",
+      "url": "https://money-life.doorblog.jp/archives/59952290.html",
+      "source": "Doorblog.jp",
+      "publishedAt": "2026-07-20T21:00:18Z",
+      "description": "1: ななしさん 2026/07/19(日) 19:47:08.28 ID:MnNTez909 Amazon配送大手、運送2300社とステーブルコイン決済 JPYCに出資 https://www.nikkei.com/article/DGXZQOUC154RK0V10C26A7000000/",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Biden-Appointed Judge Pauses Paramount-Warner Bros. Megamerger",
+      "url": "https://redstate.com/ben-smith/2026/07/20/biden-appointed-judge-pauses-paramount-warner-bros-megamerger-n2204552",
+      "source": "Redstate.com",
+      "publishedAt": "2026-07-20T23:00:36Z",
+      "description": "A federal judge on Monday stopped Paramount Skydance and Warner Bros. Discovery from closing their proposed merger, handing California Attorney...",
+      "maMarket": "us"
+    },
+    {
+      "title": "今週のポッドキャスト | No.161｜「エスティローダーとプーチの合併協議が破談」「patrick ta beautyが炎上」について",
+      "url": "https://www.fashionsnap.com/podcast/beauty-161/",
+      "source": "Fashionsnap.com",
+      "publishedAt": "2026-07-20T03:00:01Z",
+      "description": "＜リニューアル版第22回＞FASHIONSNAPのビューティ版ポッドキャストがリニューアル！気になる海外ニュースをお届けします。今回はNo.161｜「エスティローダーとプーチの合併協議が破談」「patrick ta beautyが炎上」にについて。出演者：北坂、福崎",
+      "maMarket": "jp"
+    },
+    {
+      "title": "B&R Technology Merger Corp. Announces Pricing of $325 Million Initial Public Offering",
+      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-pricing-of-325-million-initial-public-offering-302830053.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-20T22:56:00Z",
+      "description": "NEW YORK, July 20, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (the \"Company\") announced the pricing of its initial public offering of 32,500,000 units at $10.00 per unit. The units will be listed on the Nasdaq Global Market (\"Nasdaq\") under the symbol \"…",
+      "maMarket": "us"
+    },
+    {
+      "title": "日本のアニメ制作→アフリカに伝授　ソニー出資のプロジェクトに注目",
+      "url": "https://www.asahi.com/articles/ASV7G2TMGV7GULFA01YM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-07-20T02:00:00Z",
+      "description": "世界に誇る日本のアニメ制作技術をアフリカの若者たちに伝え、「好き」を仕事につなげようとする試みが注目を集めている。日本では配信市場の急拡大などを背景に、作り手であるアニメーター不足が深刻化。一方、ア…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "23k-Mile 2008 Lexus ES350 at No Reserve",
+      "url": "https://bringatrailer.com/listing/2008-lexus-es-5/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-07-20T22:50:17Z",
+      "description": "This 2008 Lexus ES350 remained registered to one owner in California from new through the selling dealer's 2026 acquisition. Finished in Tungsten Pearl over Light Gray leather, the car is powered by a 3.5-liter V6 paired with a six-speed automatic transaxle. …",
+      "maMarket": "us"
+    },
+    {
       "title": "ドコモ、静岡市アリーナの整備・運営へ　2030年4月に運営開始",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2125107.html",
       "source": "Impress.co.jp",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Samsung Biologics announces all-cash offer to acquire PolyPeptide, accelerating multi-modality strategy and expanding global network across U.S., Europe, and India",
-      "url": "https://www.prnewswire.com/news-releases/samsung-biologics-announces-all-cash-offer-to-acquire-polypeptide-accelerating-multi-modality-strategy-and-expanding-global-network-across-us-europe-and-india-302829249.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-19T22:43:00Z",
-      "description": "Samsung Biologics to launch an all-cash public tender offer for 100% of PolyPeptide's fully diluted share capital (excluding therefrom any treasury shares) at CHF 44.31 per share, representing an equity value of approximately CHF 1.46 billion. Strong transact…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ブシロード木谷社長が新日本プロレス全株式譲渡の経緯と胸中を語る",
-      "url": "https://news.livedoor.com/article/detail/31867878/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-07-19T22:30:00Z",
-      "description": "ざっくり言うと <ul> <li>ブシロードが保有する新日本プロレス株をテレ朝などへ譲渡すると発表された</li> <li>木谷高明社長は辻陽太選手の親会社批判発言が最終的な引き金になったと明かした</li> <li>5億円で取得した株式を36億円で譲渡し、専門家は「事業再生の成功事例」と評価する</li> </ul> 記事を読む",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Amile Jefferson on how Sin City Celtics use Las Vegas Summer League for skill acquisition",
-      "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/07/19/amile-jefferson-on-how-celtics-use-summer-league-for-skill-acquisition/90976931007/",
-      "source": "USA Today",
-      "publishedAt": "2026-07-19T22:29:07Z",
-      "description": "The Summer Celtics aren't just there to win exhibition games and sight-see.",
-      "maMarket": "us"
-    },
-    {
-      "title": "新生auフィナンシャルサービスが始動 / デリバリー専門ブランド「いきなり！かつ丼」 実食 ＆ 開発担当者が語る新商品への想い【まとめ記事】",
-      "url": "https://itlifehack.jp/archives/11020858.html",
-      "source": "Itlifehack.jp",
-      "publishedAt": "2026-07-19T02:00:30Z",
-      "description": "auフィナンシャルサービス株式会社は2026年6月30日、東京・有楽町のザ・ペニンシュラ東京にて、「auフィナンシャルサービス 合併記者発表会」を開催した。auペイメント株式会社とauフィナンシャルサービス株式会社は、決済事業戦略の一元化と事業推進の加速を目的に、2026年...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Why buyout funds, not IPOs, may define China’s next capital market cycle: Zhang Yichen",
-      "url": "https://biztoc.com/x/a6f86f947a2eb165",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-19T22:02:34Z",
-      "description": "Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Ko…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ファミ通編集長「ゲーム会社から取材費もらってるけどレビュー点数は売ってないよ！信じて！」",
-      "url": "https://gahalog.2chblog.jp/archives/52600012.html",
-      "source": "2chblog.jp",
-      "publishedAt": "2026-07-18T17:22:14Z",
-      "description": "◇ 1: 名無し 2026/07/18(土) 12:55:58.50 ID:alHvcpdP0 「週刊ファミ通」編集長、クロスレビュー点数の買収説を否定 ゲーム会社から受ける支援の範囲も説明 https://gamestalk.net/famitsu-cross-review-score-buying-rumor/ 今回のインタビューは、「週刊ファミ通」",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Klay Thompson’s Mavs Exit Accelerated by Zaccharie Risacher Trade",
-      "url": "https://roundtable.io/sports/nba/mavericks/news/klay-thompson-s-mavs-exit-accelerated-by-zaccharie-risacher-trade",
-      "source": "Roundtable.io",
-      "publishedAt": "2026-07-19T21:05:04Z",
-      "description": "With Zaccharie Risacher’s arrival and a crowded wing rotation, Dallas faces a looming choice: recoup trade value for the veteran sniper or grant a buyout to Miami.",
+      "title": "AMR Resources Acquisition Corp Announces Closing of $260,000,000 Initial Public Offering, Including Partial Exercise of Underwriters’ Over-Allotment Option",
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3330154/0/en/AMR-Resources-Acquisition-Corp-Announces-Closing-of-260-000-000-Initial-Public-Offering-Including-Partial-Exercise-of-Underwriters-Over-Allotment-Option.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-20T21:59:00Z",
+      "description": "George Town, Cayman Islands, July 20, 2026 (GLOBE NEWSWIRE) -- AMR Resources Acquisition Corp (Nasdaq: AMACU) (the “Company”) today announced that it closed its initial public offering (the “IPO”) of 26,000,000 units at $10.00 per unit, including the issuance…",
       "maMarket": "us"
     }
   ],
@@ -83,100 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test",
-      "url": "https://biztoc.com/x/cd0f39d9828ff06e",
+      "title": "B&R Technology Merger Corp. Announces Pricing of $325 Million Initial Public Offering",
+      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-pricing-of-325-million-initial-public-offering-302830053.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-20T22:56:00Z",
+      "description": "NEW YORK, July 20, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (the \"Company\") announced the pricing of its initial public offering of 32,500,000 units at $10.00 per unit. The units will be listed on the Nasdaq Global Market (\"Nasdaq\") under the symbol \"…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SpaceX Is Learning a Nasty Lesson About Going Public When Your Main Product Is Experimental",
+      "url": "https://futurism.com/future-society/spacex-lesson-going-public-starship-experimental",
+      "source": "Futurism",
+      "publishedAt": "2026-07-20T22:30:00Z",
+      "description": "It's not looking good. The post SpaceX Is Learning a Nasty Lesson About Going Public When Your Main Product Is Experimental appeared first on Futurism.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "AMR Resources Acquisition Corp Announces Closing of $260,000,000 Initial Public Offering, Including Partial Exercise of Underwriters’ Over-Allotment Option",
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3330154/0/en/AMR-Resources-Acquisition-Corp-Announces-Closing-of-260-000-000-Initial-Public-Offering-Including-Partial-Exercise-of-Underwriters-Over-Allotment-Option.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-20T21:59:00Z",
+      "description": "George Town, Cayman Islands, July 20, 2026 (GLOBE NEWSWIRE) -- AMR Resources Acquisition Corp (Nasdaq: AMACU) (the “Company”) today announced that it closed its initial public offering (the “IPO”) of 26,000,000 units at $10.00 per unit, including the issuance…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI",
+      "url": "https://biztoc.com/x/3bbf5e25f6ce7c47",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-19T22:18:44Z",
-      "description": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test. SpaceX (NASDAQ: SPCX) can't seem to catch a break. On Thursday, the company aborted the second launch attempt of its upgraded Starship rocket moments af…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX’s IPO lockup begins expiring in August, testing market appetite for $123 billion in newly tradable shares",
-      "url": "https://cryptobriefing.com/spacex-ipo-lockup-expiration-august/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-19T21:35:23Z",
-      "description": "SpaceX's first major lockup expiration in August will unlock roughly $123 billion in shares, testing market demand in a pattern familiar to crypto token The post SpaceX’s IPO lockup begins expiring in August, testing market appetite for $123 billion in newly …",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Moonshot AI Plans Hong Kong IPO After Kimi K3 Model Debut",
-      "url": "https://beincrypto.com/moonshot-ai-hong-kong-ipo/",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-07-19T12:30:00Z",
-      "description": "Moonshot AI is preparing a Hong Kong IPO within six months, seeking a $30 billion valuation after its Kimi K3 debut.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Switch IPO Signals Data Center Sector’s Public Market Shift",
-      "url": "https://www.credaily.com/briefs/switch-ipo-signals-data-center-sector-s-public-market-shift/",
-      "source": "Credaily.com",
-      "publishedAt": "2026-07-19T09:48:33Z",
-      "description": "Switch’s planned IPO could raise $10B, marking a renewed Wall Street funding push as private capital tightens.",
+      "publishedAt": "2026-07-20T20:50:52Z",
+      "description": "SpaceX fell further below its IPO price.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "ウ軍総司令官解任 前国防相と対立",
+      "url": "https://news.yahoo.co.jp/pickup/6588836?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T21:54:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "替え玉受験で中国組織摘発 韓国",
+      "url": "https://news.yahoo.co.jp/pickup/6588816?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T12:29:59.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国 外交官全員の情報流出か",
+      "url": "https://news.yahoo.co.jp/pickup/6588785?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T09:02:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "メキシコの麻薬王に終身刑 米地裁",
+      "url": "https://news.yahoo.co.jp/pickup/6588784?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T08:57:36.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国 日本EEZ内での訓練巡り反論",
+      "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T08:20:53.000Z",
+      "description": ""
+    },
+    {
+      "title": "準優勝アルゼンチン 一部が暴徒化",
+      "url": "https://news.yahoo.co.jp/pickup/6588745?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T04:28:12.000Z",
+      "description": ""
+    },
+    {
+      "title": "北外相が電撃訪露 さまざまな思惑",
+      "url": "https://news.yahoo.co.jp/pickup/6588738?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-21T03:04:39.000Z",
+      "description": ""
+    },
+    {
       "title": "EU 中国系通販に制裁金1000億円",
       "url": "https://news.yahoo.co.jp/pickup/6588701?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-20T22:54:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "米兵死亡 米大統領がイランに警告",
-      "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T22:35:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "ワーナー買収一時差し止め 米地裁",
-      "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T21:22:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン攻撃で米兵死亡 19歳と25歳",
-      "url": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T14:55:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "露軍 ウ南部で民間貨物船を攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6588688?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T14:12:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "ハマス 新最高指導者にハイヤ氏",
-      "url": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T13:53:56.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ 徴兵担当者への暴力事件が増加",
-      "url": "https://news.yahoo.co.jp/pickup/6588647?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T08:20:23.000Z",
-      "description": ""
-    },
-    {
-      "title": "ホルムズ タンカー2隻が「爆発」",
-      "url": "https://news.yahoo.co.jp/pickup/6588633?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T06:22:44.000Z",
-      "description": ""
-    },
-    {
-      "title": "日米合意1年 関税の負担依然重く",
-      "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T01:54:28.000Z",
       "description": ""
     }
   ]
