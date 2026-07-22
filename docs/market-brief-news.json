@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T23:00:46.393Z",
+  "fetchedAt": "2026-07-22T23:08:40.131Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "Amazon配送大手、運送2300社とステーブルコイン決済　JPYCに出資",
-      "url": "https://money-life.doorblog.jp/archives/59952290.html",
-      "source": "Doorblog.jp",
-      "publishedAt": "2026-07-20T21:00:18Z",
-      "description": "1: ななしさん 2026/07/19(日) 19:47:08.28 ID:MnNTez909 Amazon配送大手、運送2300社とステーブルコイン決済 JPYCに出資 https://www.nikkei.com/article/DGXZQOUC154RK0V10C26A7000000/",
+      "title": "〈セガ800万ドル出資の舞台裏〉ジェンスン･フアンCEOが言及しなかった\"エヌビディア救済\"のもう一人の功労者 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952197?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-07-21T21:00:00Z",
+      "description": "2026年7月15日、東京・秋葉原のGiGO秋葉原3号館。都内の最高気温が摂氏34.3度をマークするなか、熱気に満ちたトークイベントが開催された。それはセガとエヌビディアの交流関係を振り返るもので、…",
       "maMarket": "jp"
     },
     {
-      "title": "Biden-Appointed Judge Pauses Paramount-Warner Bros. Megamerger",
-      "url": "https://redstate.com/ben-smith/2026/07/20/biden-appointed-judge-pauses-paramount-warner-bros-megamerger-n2204552",
-      "source": "Redstate.com",
-      "publishedAt": "2026-07-20T23:00:36Z",
-      "description": "A federal judge on Monday stopped Paramount Skydance and Warner Bros. Discovery from closing their proposed merger, handing California Attorney...",
-      "maMarket": "us"
-    },
-    {
-      "title": "今週のポッドキャスト | No.161｜「エスティローダーとプーチの合併協議が破談」「patrick ta beautyが炎上」について",
-      "url": "https://www.fashionsnap.com/podcast/beauty-161/",
-      "source": "Fashionsnap.com",
-      "publishedAt": "2026-07-20T03:00:01Z",
-      "description": "＜リニューアル版第22回＞FASHIONSNAPのビューティ版ポッドキャストがリニューアル！気になる海外ニュースをお届けします。今回はNo.161｜「エスティローダーとプーチの合併協議が破談」「patrick ta beautyが炎上」にについて。出演者：北坂、福崎",
-      "maMarket": "jp"
-    },
-    {
-      "title": "B&R Technology Merger Corp. Announces Pricing of $325 Million Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-pricing-of-325-million-initial-public-offering-302830053.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-20T22:56:00Z",
-      "description": "NEW YORK, July 20, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (the \"Company\") announced the pricing of its initial public offering of 32,500,000 units at $10.00 per unit. The units will be listed on the Nasdaq Global Market (\"Nasdaq\") under the symbol \"…",
-      "maMarket": "us"
-    },
-    {
-      "title": "日本のアニメ制作→アフリカに伝授　ソニー出資のプロジェクトに注目",
-      "url": "https://www.asahi.com/articles/ASV7G2TMGV7GULFA01YM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-07-20T02:00:00Z",
-      "description": "世界に誇る日本のアニメ制作技術をアフリカの若者たちに伝え、「好き」を仕事につなげようとする試みが注目を集めている。日本では配信市場の急拡大などを背景に、作り手であるアニメーター不足が深刻化。一方、ア…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "23k-Mile 2008 Lexus ES350 at No Reserve",
-      "url": "https://bringatrailer.com/listing/2008-lexus-es-5/",
+      "title": "1995 Toyota 4Runner SR5 V6 at No Reserve",
+      "url": "https://bringatrailer.com/listing/1995-toyota-4runner-83/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-07-20T22:50:17Z",
-      "description": "This 2008 Lexus ES350 remained registered to one owner in California from new through the selling dealer's 2026 acquisition. Finished in Tungsten Pearl over Light Gray leather, the car is powered by a 3.5-liter V6 paired with a six-speed automatic transaxle. …",
+      "publishedAt": "2026-07-21T22:31:53Z",
+      "description": "This 1995 Toyota 4Runner SR5 was initially delivered to Universal Toyota in Universal City, Texas, and it remained under the care of its original owner until the seller's acquisition in 2022. Finished in Dark Blue Pearl over blue cloth, it is powered by a 3.0…",
       "maMarket": "us"
     },
     {
-      "title": "ドコモ、静岡市アリーナの整備・運営へ　2030年4月に運営開始",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2125107.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-07-19T23:00:00Z",
-      "description": "NTTドコモなど10社は、ドコモを代表企業とするグループが共同出資で設立した静岡セントラルアリーナが、静岡市と「静岡市アリーナ整備・運営事業特定事業契約」を7月9日に締結したと発表した。2030年4月の運営開始を目指す。",
+      "title": "【人気特集】【独自】日本板硝子、低収益な中核事業からの「撤退先送り」が判明・日立建機が「ランドクロス」に社名変更！その裏に伊藤忠の影… - 見逃し厳禁！編集部イチ推し 人気特集",
+      "url": "https://diamond.jp/articles/-/395193",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-07-21T19:05:00Z",
+      "description": "2025年に人気を集めた特集『名門ガラスの亀裂 巨額買収に潜む罠』と連載『Diamond Premium News』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
       "maMarket": "jp"
     },
     {
-      "title": "AMR Resources Acquisition Corp Announces Closing of $260,000,000 Initial Public Offering, Including Partial Exercise of Underwriters’ Over-Allotment Option",
-      "url": "https://www.globenewswire.com/news-release/2026/07/20/3330154/0/en/AMR-Resources-Acquisition-Corp-Announces-Closing-of-260-000-000-Initial-Public-Offering-Including-Partial-Exercise-of-Underwriters-Over-Allotment-Option.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-20T21:59:00Z",
-      "description": "George Town, Cayman Islands, July 20, 2026 (GLOBE NEWSWIRE) -- AMR Resources Acquisition Corp (Nasdaq: AMACU) (the “Company”) today announced that it closed its initial public offering (the “IPO”) of 26,000,000 units at $10.00 per unit, including the issuance…",
+      "title": "Did Cowboys 'Hot Takes' Trigger Shocking ESPN Firing of Ryan Clark?",
+      "url": "https://roundtable.io/sports/nfl/cowboys/news/did-cowboys-hot-takes-trigger-shocking-espn-firing-of-ryan-clark",
+      "source": "Roundtable.io",
+      "publishedAt": "2026-07-21T22:25:15Z",
+      "description": "Internal friction and a heated debate over CeeDee Lamb’s performance may have sealed Ryan Clark’s fate as ESPN aggressively restructures its roster following a major network acquisition.",
+      "maMarket": "us"
+    },
+    {
+      "title": "ワタミ・渡邉美樹氏がサブウェイを改革、売上7倍で3000店舗を目指す",
+      "url": "https://news.livedoor.com/article/detail/31879847/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-07-21T10:15:00Z",
+      "description": "ざっくり言うと <ul> <li>ワタミがサブウェイを買収後、売上高が3.9億円から27億円へ急増した</li> <li>セルフレジ導入や商品改革が奏功し、既存店売上高67カ月連続前年超えを達成</li> <li>渡邉美樹氏はマクドナルド並みの3000店舗を将来目標として掲げているという</li> </ul> 記事を読む",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The Paramount-Warner Merger Pause Is the Deliberation We Skipped | Guest Column",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/why-paramount-warner-bros-merger-pause-is-good/",
+      "source": "TheWrap",
+      "publishedAt": "2026-07-21T22:08:57Z",
+      "description": "Fourteen days is not much time, but it is necessarily the first genuine pause this transaction has received The post The Paramount-Warner Merger Pause Is the Deliberation We Skipped | Guest Column appeared first on TheWrap.",
+      "maMarket": "us"
+    },
+    {
+      "title": "｢サブウェイの口頭注文｣を変えたら売上7倍…渡邉美樹が目指す｢サンドイッチでマクドナルド超え｣の実現可能性【2026年6月BEST】",
+      "url": "https://president.jp/articles/-/116286",
+      "source": "President.jp",
+      "publishedAt": "2026-07-21T10:00:00Z",
+      "description": "ワタミが2024年10月に買収したサブウェイの既存店売上高が、67カ月連続で前年を上回っている。一番大きな変化は、セルフレジの導入を加速させたことだ。「サブウェイらしさ」とも言える口頭注文からの刷新は、業績にどう表れたのか。ワタミ会長 兼 社長CEOの渡邉美樹氏に取材した――。（後編）",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Ben Folds Testifies Against Trump's Kennedy Center Takeover for Congress",
+      "url": "http://www.billboard.com/music/music-news/ben-folds-testifies-against-trump-kennedy-center-congress-1236300068/",
+      "source": "Billboard",
+      "publishedAt": "2026-07-21T22:04:42Z",
+      "description": "Ben Folds testified against Donald Trump's Kennedy Center takeover for a congressional forum about the president's \"vanity projects.\"",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1070401",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-07-21T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:50 貿易収支(6月) -984億円 -3918億円08:50 輸出(6月) 18.0％ 16.8％08:50 輸入(6月) 20.0％ 12.5％ ティアフォーが東証グロースに新規上場(公開価格:1085円)＜海外＞15:00 英・消費者物価コア指数(6月) 2.6％15:00 英・生産者物価産出指数(6月) 4.0％------------------",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "ROSEN, NATIONAL TRIAL COUNSEL, Encourages PicS N.V. Investors to Secure Counsel Before Important August 4 Deadline in Securities Class Action – PICS",
+      "url": "https://www.globenewswire.com/news-release/2026/07/21/3331019/673/en/ROSEN-NATIONAL-TRIAL-COUNSEL-Encourages-PicS-N-V-Investors-to-Secure-Counsel-Before-Important-August-4-Deadline-in-Securities-Class-Action-PICS.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-21T21:50:00Z",
+      "description": "NEW YORK, July 21, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of PicS N.V. (NASDAQ: PICS) pursuant and/or traceable to PicS N.V.’s January 30, 2026 initial public offering (the “…",
+      "ipoMarket": "us"
+    },
     {
       "title": "ラノベ原作主力の出版社オーバーラップ、上場半年で業績下方修正…理由に「アニメ化書籍の売上未達」など苦戦 | オタク総研",
       "url": "https://0115765.com/archives/195565",
@@ -83,93 +99,85 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "B&R Technology Merger Corp. Announces Pricing of $325 Million Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-pricing-of-325-million-initial-public-offering-302830053.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-20T22:56:00Z",
-      "description": "NEW YORK, July 20, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (the \"Company\") announced the pricing of its initial public offering of 32,500,000 units at $10.00 per unit. The units will be listed on the Nasdaq Global Market (\"Nasdaq\") under the symbol \"…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX Is Learning a Nasty Lesson About Going Public When Your Main Product Is Experimental",
-      "url": "https://futurism.com/future-society/spacex-lesson-going-public-starship-experimental",
-      "source": "Futurism",
-      "publishedAt": "2026-07-20T22:30:00Z",
-      "description": "It's not looking good. The post SpaceX Is Learning a Nasty Lesson About Going Public When Your Main Product Is Experimental appeared first on Futurism.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "AMR Resources Acquisition Corp Announces Closing of $260,000,000 Initial Public Offering, Including Partial Exercise of Underwriters’ Over-Allotment Option",
-      "url": "https://www.globenewswire.com/news-release/2026/07/20/3330154/0/en/AMR-Resources-Acquisition-Corp-Announces-Closing-of-260-000-000-Initial-Public-Offering-Including-Partial-Exercise-of-Underwriters-Over-Allotment-Option.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-20T21:59:00Z",
-      "description": "George Town, Cayman Islands, July 20, 2026 (GLOBE NEWSWIRE) -- AMR Resources Acquisition Corp (Nasdaq: AMACU) (the “Company”) today announced that it closed its initial public offering (the “IPO”) of 26,000,000 units at $10.00 per unit, including the issuance…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI",
-      "url": "https://biztoc.com/x/3bbf5e25f6ce7c47",
+      "title": "What History Says About Buying Broken IPOs",
+      "url": "https://biztoc.com/x/e5c10c5930dde9c3",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-20T20:50:52Z",
-      "description": "SpaceX fell further below its IPO price.",
+      "publishedAt": "2026-07-21T21:17:51Z",
+      "description": "Space Exploration Technologies Corp (SPCX) -- or SpaceX -- is now what Wall Street calls a \"broken IPO,\" meaning a stock trading below its IPO price. The company was valued at $135 in the largest IPO in history. The stock's first trade on June 12 was $150, an…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "INVESTOR NOTICE: PicS (PICS) Investors with Substantial Losses Have Opportunity to Lead Investor Class Action- HBSS",
+      "url": "https://www.prnewswire.com/news-releases/investor-notice-pics-pics-investors-with-substantial-losses-have-opportunity-to-lead-investor-class-action-hbss-302831234.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-21T20:23:00Z",
+      "description": "SAN FRANCISCO, July 21, 2026 /PRNewswire/ -- Hagens Berman, a recognized leader in securities litigation, is actively investigating claims pled in an investor class action alleging that PicS N.V. (NASDAQ: PICS) January 30, 2026, Initial Public Offering (IPO) …",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "B&R Technology Merger opens at $9.96, IPO priced at $10.00",
+      "url": "https://www.thefly.com/BRTM",
+      "source": "Thefly.com",
+      "publishedAt": "2026-07-21T16:23:03Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ウ軍総司令官解任 前国防相と対立",
-      "url": "https://news.yahoo.co.jp/pickup/6588836?source=rss",
+      "title": "ウ軍 露通販大手の倉庫を再び攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6588957?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T21:54:30.000Z",
+      "publishedAt": "2026-07-22T14:11:36.000Z",
       "description": ""
     },
     {
-      "title": "替え玉受験で中国組織摘発 韓国",
-      "url": "https://news.yahoo.co.jp/pickup/6588816?source=rss",
+      "title": "米国務長官 日中関係の悪化に憂慮",
+      "url": "https://news.yahoo.co.jp/pickup/6588959?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T12:29:59.000Z",
+      "publishedAt": "2026-07-22T14:10:40.000Z",
       "description": ""
     },
     {
-      "title": "韓国 外交官全員の情報流出か",
-      "url": "https://news.yahoo.co.jp/pickup/6588785?source=rss",
+      "title": "ヒトラー生家 警察署に改修される",
+      "url": "https://news.yahoo.co.jp/pickup/6588949?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T09:02:22.000Z",
+      "publishedAt": "2026-07-22T12:44:32.000Z",
       "description": ""
     },
     {
-      "title": "メキシコの麻薬王に終身刑 米地裁",
-      "url": "https://news.yahoo.co.jp/pickup/6588784?source=rss",
+      "title": "ソウル市長に有罪 刑確定なら失職",
+      "url": "https://news.yahoo.co.jp/pickup/6588946?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T08:57:36.000Z",
+      "publishedAt": "2026-07-22T12:24:33.000Z",
       "description": ""
     },
     {
-      "title": "中国 日本EEZ内での訓練巡り反論",
-      "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
+      "title": "NY市長 イスラエル首相拘束断念",
+      "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T08:20:53.000Z",
+      "publishedAt": "2026-07-22T07:30:27.000Z",
       "description": ""
     },
     {
-      "title": "準優勝アルゼンチン 一部が暴徒化",
-      "url": "https://news.yahoo.co.jp/pickup/6588745?source=rss",
+      "title": "後発医薬品関税2年後100%に 米",
+      "url": "https://news.yahoo.co.jp/pickup/6588882?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T04:28:12.000Z",
+      "publishedAt": "2026-07-22T03:48:05.000Z",
       "description": ""
     },
     {
-      "title": "北外相が電撃訪露 さまざまな思惑",
-      "url": "https://news.yahoo.co.jp/pickup/6588738?source=rss",
+      "title": "ウ軍総司令官を解任 政権の内幕は",
+      "url": "https://news.yahoo.co.jp/pickup/6588873?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-21T03:04:39.000Z",
+      "publishedAt": "2026-07-22T02:59:39.000Z",
       "description": ""
     },
     {
-      "title": "EU 中国系通販に制裁金1000億円",
-      "url": "https://news.yahoo.co.jp/pickup/6588701?source=rss",
+      "title": "米 イラン山岳地帯を「近く攻撃」",
+      "url": "https://news.yahoo.co.jp/pickup/6588845?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-20T22:54:42.000Z",
+      "publishedAt": "2026-07-21T23:16:36.000Z",
       "description": ""
     }
   ]
