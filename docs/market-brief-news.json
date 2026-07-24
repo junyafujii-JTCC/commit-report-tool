@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T22:59:55.611Z",
+  "fetchedAt": "2026-07-24T23:04:15.962Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "「高級スーパーとは呼ばれたくない」　五十嵐執行役員が語る、成城石井が危機的状況で取り戻した「本来の姿」 - ニュース・経営",
-      "url": "https://jbpress.ismedia.jp/articles/-/95830",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-07-22T20:55:00Z",
-      "description": "首都圏を中心に日本全国の23都府県に230店舗（2026年6月末現在）を構える食品スーパーマーケット「成城石井」。1927年に青果店として創業した同社は、2004年以降2度にわたる大きな買収を経て現在はローソン傘下となっている。激動の歴史の中、成城石井はどのようにして独自のスタイルを確立し、ブランド価値を高めてきたのか。執行役員の五十嵐隆氏に聞いた。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Union Pacific and CN Reach Agreement to Expand Customer Opportunities in Connection with Merger",
-      "url": "https://financialpost.com/globe-newswire/union-pacific-and-cn-reach-agreement-to-expand-customer-opportunities-in-connection-with-merger",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-22T22:56:38Z",
-      "description": "MONTREAL, July 22, 2026 (GLOBE NEWSWIRE) — CN (TSX: CNR) (NYSE: CNI) and Union Pacific (NYSE: UNP) announced today that they have signed a binding Memorandum of Understanding establishing a framework for CN to secure competitive access in connection with the …",
-      "maMarket": "us"
-    },
-    {
-      "title": "【日本製鉄・JFE・神戸製鋼】年収の浮沈で「損をした世代」は？日本製鉄・神戸製鋼は若手優位、JFEはシニア社員が勝ち組《20年間の年収推移を5世代別に独自試算・2026年版》 - 5世代格差の残酷！主要100社26年版「20年間年収推移」 氷河期、バブル…どの世代が損をした？",
-      "url": "https://diamond.jp/articles/-/382318",
+      "title": "【人気特集】日本板硝子は20年前の巨額買収で「不平等条約」を結ばされていた・J-STARが買収した“疑惑まみれ”の医療系スタートアップ・MTUの正体 - 見逃し厳禁！編集部イチ推し 人気特集",
+      "url": "https://diamond.jp/articles/-/395281",
       "source": "Diamond.jp",
-      "publishedAt": "2026-07-22T19:30:00Z",
-      "description": "中国の過剰生産による安値鋼材の流入と原材料高で、国内鉄鋼事業には逆風が吹く。日本製鉄は買収した米USスチールの再建を収益拡大の柱に据え、JFEホールディングスはインド投資と高級鋼、神戸製鋼所は機械事業の拡大で成長を狙う。こうした3社の中で世代間の「年収格差」はどうなっているのか。そこで過去20年間の推移を10年刻みにして、5世代別の平均年収と主要100社内ランクを独自に試算した。その結果、日本製鉄と神戸製鋼は若手の社員、JFEはシニア社員が勝ち組になるなど、各社で異なる構図が浮き彫りになった。",
+      "publishedAt": "2026-07-23T19:00:00Z",
+      "description": "2025年に人気を集めた特集『名門ガラスの亀裂 巨額買収に潜む罠』と連載『金融インサイド』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
       "maMarket": "jp"
     },
     {
-      "title": "Union Pacific and CN Reach Agreement to Expand Customer Opportunities in Connection with Merger",
-      "url": "https://www.globenewswire.com/news-release/2026/07/22/3331806/0/en/Union-Pacific-and-CN-Reach-Agreement-to-Expand-Customer-Opportunities-in-Connection-with-Merger.html",
+      "title": "Pelican Acquisition II Corporation Announces Pricing of $75,000,000 Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332665/0/en/Pelican-Acquisition-II-Corporation-Announces-Pricing-of-75-000-000-Initial-Public-Offering.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-07-22T22:51:00Z",
-      "description": "MONTREAL, July 22, 2026 (GLOBE NEWSWIRE) -- CN (TSX: CNR) (NYSE: CNI) and Union Pacific (NYSE: UNP) announced today that they have signed a binding Memorandum of Understanding establishing a framework for CN to secure competitive access in connection with the…",
+      "publishedAt": "2026-07-23T23:00:00Z",
+      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation (NASDAQ: PLCIU) (the “Company”), a Cayman Islands exempted company, announced that it priced its initial public offering of 7,500,000 units at $10.00 per unit on July 23, 2026. The…",
       "maMarket": "us"
     },
     {
-      "title": "JPYC株式会社物流業界大手AZ-COM丸和ホールディングス株式会社と資本業務提携",
-      "url": "https://japan.cnet.com/release/31191094/",
-      "source": "CNET",
-      "publishedAt": "2026-07-22T08:31:22Z",
-      "description": "日本円ステーブルコイン「JPYC」を取り扱うJPYC株式会社（本社：東京都千代田区、代表取締役：岡部 典孝、以下当社）は、物流業界大手で３PL（サードパーティ・ロジスティクス）事業を展開するAZ-COM丸和ホールディングス株式会社（本社：東京都千代田区、代表取締役社長：和佐見 勝、以下AZ-COM社）と中長期DX戦略パー...",
+      "title": "いよぎんHDと愛媛銀が経営統合へ、来年4月にも　預金量約10兆円",
+      "url": "https://www.asahi.com/articles/ASV7R51VZV7RULFA025M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-07-23T15:40:00Z",
+      "description": "愛媛県地盤で伊予銀行を傘下に持ついよぎんホールディングス（本店・松山市）と愛媛銀行（本店・同）は、2027年4月にも経営統合する方向で最終調整に入った。持ち株会社をつくり、傘下に両行が入る形を検討し…",
       "maMarket": "jp"
     },
     {
-      "title": "Comic-Con 2026: Studios & Streamers Vie For Eyes In San Diego’s Gaslamp District With Promos For ‘Percy Jackson,’ ‘Rings Of Power,’ ‘Lanterns,’ ‘Avengers: Doomsday,’ ‘Yaga’ & More",
-      "url": "https://deadline.com/gallery/comic-con-2026-ads-installations-photos/",
-      "source": "Deadline",
-      "publishedAt": "2026-07-22T22:21:55Z",
-      "description": "San Diego Comic-Con is an ever-evolving beast, and the 2026 event is no different. The TV takeover continues as studios and streamers throw more marketing dollars toward their upcoming series than films, and in a place where superheroes used to rule the world…",
+      "title": "Are Comeback Wins Becoming the Liberty’s Identity? | Liberty Lately",
+      "url": "https://nypost.com/video/are-comeback-wins-becoming-the-libertys-identity-liberty-lately/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-23T22:55:09Z",
+      "description": "Sabrina Ionescu delivered another incredible late-game takeover as the New York Liberty erased a 12-point fourth-quarter deficit to defeat the Chicago Sky, 95–94, and earn their second consecutive comeback victory. Dexter Henry and Madeline Kenney breakdown I…",
       "maMarket": "us"
     },
     {
-      "title": "株式会社花屋敷浮舟園の株式取得を通じた、当社初の旅館リブランドプロジェクト着手のお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000402.000048076.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-07-22T07:40:49Z",
-      "description": "[霞ヶ関キャピタル株式会社] 霞ヶ関キャピタル株式会社（本社：東京都千代田区、代表取締役社長CEO：河本幸士郎、以下「当社」）は、株式会社花屋敷浮舟園（以下「花屋敷浮舟園」）の株式を100％取得し、子会社化するとともに、当社グルー...",
+      "title": "ダスキンが中国上海の子会社を解散、清掃用具レンタル不振 - 不景気com",
+      "url": "https://www.fukeiki.com/2026/07/duskin-shanghai-liquidation.html",
+      "source": "Fukeiki.com",
+      "publishedAt": "2026-07-23T14:55:44Z",
+      "description": "東証プライム上場で清掃用具のレンタルやドーナツチェーンの「ミスタードーナツ」を運営する「ダスキン」は、100%出資子会社の「ダスキン上海」（中国・上海市）を解散および清算すると発表しました。 同子会社は、2006年に中国・上海地区における清掃用具レンタル事業の",
       "maMarket": "jp"
     },
     {
-      "title": "Elon Musk dismisses Tesla-SpaceX merger plans despite increased overlap",
-      "url": "https://cryptobriefing.com/elon-musk-dismisses-tesla-spacex-merger-plans-despite-increased-overlap/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-22T22:16:51Z",
-      "description": "Elon Musk dismisses merger plans for Tesla and SpaceX despite operational overlap. Merger announcement by December 31 at 22.5% YES. The post Elon Musk dismisses Tesla-SpaceX merger plans despite increased overlap appeared first on Crypto Briefing.",
+      "title": "Stripe said to seek OpenRouter acquisition",
+      "url": "https://biztoc.com/x/09ecd8fe29c83eee",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T22:51:40Z",
+      "description": "Financial technology company Stripe Inc. is in talks to acquire OpenRouter, an artificial intelligence (AI) platform that lets developers access and compare AI models, The Wall Street Journal reported...",
+      "maMarket": "us"
+    },
+    {
+      "title": "いよぎんHDと愛媛銀行が経営統合に向けて最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184581000",
+      "source": "Web.nhk",
+      "publishedAt": "2026-07-23T13:51:53Z",
+      "description": "愛媛県の地方銀行「伊予銀行」を傘下にもつ「いよぎんホールディングス」と同じ県内の「愛媛銀行」が経営統合に向けて最終調整を進めていることがわかりました。人口減少などを背景に預金や取り引き先を獲得するための競争が一段と激しくなる中、統合によって地域での金融サービスを強化するねらいがあるとみられます。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Mapfre to Acquire Safety Insurance for $1.54 Billion in Cash Deal",
+      "url": "https://www.insurancejournal.com/news/east/2026/07/23/878870.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-07-23T22:36:01Z",
+      "description": "Safety Insurance Group Inc,, a property/casualty insurer in Massachusetts and New England, has agreed to be acquired by Span’s Mapfre S.A. in an all-cash transaction valued at approximately $1.54 billion. Under the terms of the agreement, a subsidiary of Mapf…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "OpenAI to spend more on data centers",
-      "url": "https://biztoc.com/x/bfa9c919ac2d98ca",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-22T22:59:43Z",
-      "description": "OpenAI hiked the amount it expects to spend on data centers as the company prepares for an IPO and expands its cloud computing ambitions. The new projections — $750 billion through 2030, according to The Wall Street Journal — point to the speed and scale of U…",
+      "title": "Pelican Acquisition II Corporation Announces Pricing of $75,000,000 Initial Public Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332665/0/en/Pelican-Acquisition-II-Corporation-Announces-Pricing-of-75-000-000-Initial-Public-Offering.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-23T23:00:00Z",
+      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation (NASDAQ: PLCIU) (the “Company”), a Cayman Islands exempted company, announced that it priced its initial public offering of 7,500,000 units at $10.00 per unit on July 23, 2026. The…",
       "ipoMarket": "us"
     },
     {
@@ -99,39 +99,80 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "B&R Technology Merger Corp. Completes $325 Million Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-completes-325-million-initial-public-offering-302832586.html",
+      "title": "PICS Deadline: PICS Investors Have Opportunity to Lead PicS N.V. Securities Lawsuit",
+      "url": "https://www.prnewswire.com/news-releases/pics-deadline-pics-investors-have-opportunity-to-lead-pics-nv-securities-lawsuit-302833721.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-07-22T20:24:00Z",
-      "description": "NEW YORK, July 22, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (the \"Company\") announced today the closing of its initial public offering of 32,500,000 units. The offering was priced at $10.00 per unit, resulting in gross proceeds of $325,000,000. The Co…",
+      "publishedAt": "2026-07-23T22:08:00Z",
+      "description": "NEW YORK, July 23, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of PicS N.V. (NASDAQ: PICS) pursuant and/or traceable to PicS N.V.'s January 30, 2026 initial public offering (the \"IPO\"…",
       "ipoMarket": "us"
     },
     {
-      "title": "ラノベ原作主力の出版社オーバーラップ、上場半年で業績下方修正…理由に「アニメ化書籍の売上未達」など苦戦 | オタク総研",
-      "url": "https://0115765.com/archives/195565",
-      "source": "0115765.com",
-      "publishedAt": "2026-07-16T00:41:09Z",
-      "description": "ラノベ原作主力の出版社オーバーラップ、上場半年で業績下方修正…理由に「アニメ化書籍の売上未達」など苦戦 ライトノベルやマンガの企画・編集・出版を手がけるオーバーラップホールディングス15日、2026年8月期の通期連結業績予想を下方修正すると発表した。同社は2025年10月に東証グロースへ新規上場したばかりで、今...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "GoldInxs Mining Corp. Closes Initial Public Offering and Announces Listing on the TSX Venture Exchange",
-      "url": "https://financialpost.com/globe-newswire/goldinxs-mining-corp-closes-initial-public-offering-and-announces-listing-on-the-tsx-venture-exchange",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-22T16:34:24Z",
-      "description": "VANCOUVER, British Columbia, July 22, 2026 (GLOBE NEWSWIRE) — GoldInxs Mining Corp. (the “Corporation” or “GoldInxs”) is pleased to announce that it has completed its initial public offering (the “IPO”) and listing on the TSX Venture Exchange (the “TSXV”). Th…",
+      "title": "Market Technology Acquisition prices 20M unit IPO at $10 per unit",
+      "url": "https://www.thefly.com/MTAK",
+      "source": "Thefly.com",
+      "publishedAt": "2026-07-23T21:52:54Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     },
     {
-      "title": "GoldInxs Mining Corp. Closes Initial Public Offering and Announces Listing on the TSX Venture Exchange",
-      "url": "https://www.globenewswire.com/news-release/2026/07/22/3331614/0/en/GoldInxs-Mining-Corp-Closes-Initial-Public-Offering-and-Announces-Listing-on-the-TSX-Venture-Exchange.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-22T16:32:00Z",
-      "description": "GoldInxs Mining Corp. Closes Initial Public Offering and Announces Listing on the TSX Venture Exchange under INXS...",
+      "title": "Prediction: $1,000 Invested in SpaceX Stock Will Be Worth This Amount in 3 Years",
+      "url": "https://biztoc.com/x/d7ee86218936af00",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-23T21:39:40Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX) has already taken investors on a wild ride. Shares of the company are down nearly 46.9% from its post-initial public offering (IPO) high of $225.64 and even below its IPO price of $135 (as of July 20). Investors c…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "トランプ氏 EUに「高関税」警告",
+      "url": "https://news.yahoo.co.jp/pickup/6589204?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T22:56:41.000Z",
+      "description": ""
+    },
+    {
+      "title": "森林火災で非常事態宣言 スペイン",
+      "url": "https://news.yahoo.co.jp/pickup/6589186?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T13:45:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "ベネズエラ地震1カ月 死者5300人",
+      "url": "https://news.yahoo.co.jp/pickup/6589177?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T11:39:35.000Z",
+      "description": ""
+    },
+    {
+      "title": "世銀 中国への融資を段階的に廃止",
+      "url": "https://news.yahoo.co.jp/pickup/6589149?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T07:52:42.000Z",
+      "description": ""
+    },
+    {
+      "title": "トランプ政権の新関税が発動",
+      "url": "https://news.yahoo.co.jp/pickup/6589139?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T04:36:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "ユーロ新紙幣 ベートーベンら候補",
+      "url": "https://news.yahoo.co.jp/pickup/6589137?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T03:47:41.000Z",
+      "description": ""
+    },
+    {
+      "title": "露の最新鋭機「スホイ57」墜落か",
+      "url": "https://news.yahoo.co.jp/pickup/6589107?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-24T00:46:02.000Z",
+      "description": ""
+    },
     {
       "title": "米がイランへ大規模攻撃検討 報道",
       "url": "https://news.yahoo.co.jp/pickup/6589091?source=rss",
@@ -140,52 +181,10 @@
       "description": ""
     },
     {
-      "title": "米政権が新関税発表 日本は12.5%",
-      "url": "https://news.yahoo.co.jp/pickup/6589090?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-23T22:21:40.000Z",
-      "description": ""
-    },
-    {
       "title": "大雨で北朝鮮の地雷流出か 韓国軍",
       "url": "https://news.yahoo.co.jp/pickup/6589082?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-23T14:18:57.000Z",
-      "description": ""
-    },
-    {
-      "title": "伊南部で山火事 猫を放火に利用",
-      "url": "https://news.yahoo.co.jp/pickup/6589076?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-23T13:28:08.000Z",
-      "description": ""
-    },
-    {
-      "title": "フーシ派 サウジのタンカーを攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6589055?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-23T09:54:33.000Z",
-      "description": ""
-    },
-    {
-      "title": "仏で猛暑の16日間 死者5764人増",
-      "url": "https://news.yahoo.co.jp/pickup/6588990?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-23T02:04:40.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国 新型の攻撃型原潜を建造か",
-      "url": "https://news.yahoo.co.jp/pickup/6588976?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-22T23:54:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "米国務長官 日中関係の悪化に憂慮",
-      "url": "https://news.yahoo.co.jp/pickup/6588959?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-22T14:10:40.000Z",
       "description": ""
     }
   ]
