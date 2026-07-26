@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T23:04:15.962Z",
+  "fetchedAt": "2026-07-26T23:01:26.425Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "【人気特集】日本板硝子は20年前の巨額買収で「不平等条約」を結ばされていた・J-STARが買収した“疑惑まみれ”の医療系スタートアップ・MTUの正体 - 見逃し厳禁！編集部イチ推し 人気特集",
-      "url": "https://diamond.jp/articles/-/395281",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-07-23T19:00:00Z",
-      "description": "2025年に人気を集めた特集『名門ガラスの亀裂 巨額買収に潜む罠』と連載『金融インサイド』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
+      "title": "〈川邊氏の証言③〉万年3位のヤフーのECをテコ入れ､買収されたZOZO･前澤氏は｢新しいことをやる｣／自分はAI起業家に | 政治・経済・投資 | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952494?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-07-25T23:00:00Z",
+      "description": "今やインターネットのインフラとなったLINEヤフー。業界を30年以上見てきて､このほど著書『7つの激変』を上梓した前会長の川邊健太郎氏の証言を､全3回に分けてお届けします。今回は最終回の3回目です。",
       "maMarket": "jp"
     },
     {
-      "title": "Pelican Acquisition II Corporation Announces Pricing of $75,000,000 Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332665/0/en/Pelican-Acquisition-II-Corporation-Announces-Pricing-of-75-000-000-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-23T23:00:00Z",
-      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation (NASDAQ: PLCIU) (the “Company”), a Cayman Islands exempted company, announced that it priced its initial public offering of 7,500,000 units at $10.00 per unit on July 23, 2026. The…",
-      "maMarket": "us"
-    },
-    {
-      "title": "いよぎんHDと愛媛銀が経営統合へ、来年4月にも　預金量約10兆円",
-      "url": "https://www.asahi.com/articles/ASV7R51VZV7RULFA025M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-07-23T15:40:00Z",
-      "description": "愛媛県地盤で伊予銀行を傘下に持ついよぎんホールディングス（本店・松山市）と愛媛銀行（本店・同）は、2027年4月にも経営統合する方向で最終調整に入った。持ち株会社をつくり、傘下に両行が入る形を検討し…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Are Comeback Wins Becoming the Liberty’s Identity? | Liberty Lately",
-      "url": "https://nypost.com/video/are-comeback-wins-becoming-the-libertys-identity-liberty-lately/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-23T22:55:09Z",
-      "description": "Sabrina Ionescu delivered another incredible late-game takeover as the New York Liberty erased a 12-point fourth-quarter deficit to defeat the Chicago Sky, 95–94, and earn their second consecutive comeback victory. Dexter Henry and Madeline Kenney breakdown I…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ダスキンが中国上海の子会社を解散、清掃用具レンタル不振 - 不景気com",
-      "url": "https://www.fukeiki.com/2026/07/duskin-shanghai-liquidation.html",
-      "source": "Fukeiki.com",
-      "publishedAt": "2026-07-23T14:55:44Z",
-      "description": "東証プライム上場で清掃用具のレンタルやドーナツチェーンの「ミスタードーナツ」を運営する「ダスキン」は、100%出資子会社の「ダスキン上海」（中国・上海市）を解散および清算すると発表しました。 同子会社は、2006年に中国・上海地区における清掃用具レンタル事業の",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Stripe said to seek OpenRouter acquisition",
-      "url": "https://biztoc.com/x/09ecd8fe29c83eee",
+      "title": "What Happens Now With Paramount’s Merger Plans?",
+      "url": "https://biztoc.com/x/ba397ea278ed98f7",
       "source": "Biztoc.com",
-      "publishedAt": "2026-07-23T22:51:40Z",
-      "description": "Financial technology company Stripe Inc. is in talks to acquire OpenRouter, an artificial intelligence (AI) platform that lets developers access and compare AI models, The Wall Street Journal reported...",
+      "publishedAt": "2026-07-25T22:08:25Z",
+      "description": "On Friday, Paramount announced it had agreed to halt its merger with Warner Bros. Discovery until June 7th at the latest while a judge considers a lawsuit from state attorneys general who sued to block the deal. So why did Paramount make this decision? It see…",
       "maMarket": "us"
     },
     {
-      "title": "いよぎんHDと愛媛銀行が経営統合に向けて最終調整",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015184581000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-07-23T13:51:53Z",
-      "description": "愛媛県の地方銀行「伊予銀行」を傘下にもつ「いよぎんホールディングス」と同じ県内の「愛媛銀行」が経営統合に向けて最終調整を進めていることがわかりました。人口減少などを背景に預金や取り引き先を獲得するための競争が一段と激しくなる中、統合によって地域での金融サービスを強化するねらいがあるとみられます。",
+      "title": "日本の寺、中国人が買収しているという事実　その背景には…",
+      "url": "http://blog.esuteru.com/archives/10550793.html",
+      "source": "Esuteru.com",
+      "publishedAt": "2026-07-25T22:30:14Z",
+      "description": "日本の寺、中国人が買収しているという事実 その背景には…の記事ページ",
       "maMarket": "jp"
     },
     {
-      "title": "Mapfre to Acquire Safety Insurance for $1.54 Billion in Cash Deal",
-      "url": "https://www.insurancejournal.com/news/east/2026/07/23/878870.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-07-23T22:36:01Z",
-      "description": "Safety Insurance Group Inc,, a property/casualty insurer in Massachusetts and New England, has agreed to be acquired by Span’s Mapfre S.A. in an all-cash transaction valued at approximately $1.54 billion. Under the terms of the agreement, a subsidiary of Mapf…",
+      "title": "config-cascade-merge 0.8.0",
+      "url": "https://pypi.org/project/config-cascade-merge/0.8.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-07-25T22:06:35Z",
+      "description": "A small, schema-driven YAML object merger and validator",
+      "maMarket": "us"
+    },
+    {
+      "title": "LINEヤフーが画策するカカクコム“横やり買収”の手法が判明！法令に触れかねない「グレーなスキーム」とは…一休と食べログなど複数サービスがバッティング《再配信》 - 今だからこそ読みたい！注目特集",
+      "url": "https://diamond.jp/articles/-/395034",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-07-25T19:45:00Z",
+      "description": "レストラン検索・予約サービス「食べログ」を運営するカカクコムに買収提案しているLINEヤフーの買収スキームがダイヤモンド編集部の取材で分かった。米投資ファンドのベインキャピタルと共同出資会社を設け、共同出資会社がカカクコムにTOB（株式公開買い付け）を実施する方向だ。ところが、詳細を見ると、法令に触れかねないグレーなスキームであることが判明した。欧州系投資ファンドのEQTによるカカクコム買収計画に事実上の横やりを入れる格好となったLINEヤフーのスキームのグレーなスキームとは。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "What Happens Now With Paramount’s Merger Plans?",
+      "url": "https://www.forbes.com/sites/rickellis/2026/07/25/what-happens-now-with-paramounts-merger-plans/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-25T21:47:07Z",
+      "description": "This pause in the merger is not the beginning of the end, but more likely the end of the beginning of the process.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【直撃】ニッポンの寺を中国人が買収…切実な裏事情",
+      "url": "https://shikaku2ch.doorblog.jp/archives/59963031.html",
+      "source": "Doorblog.jp",
+      "publishedAt": "2026-07-25T12:03:15Z",
+      "description": "1: 煮卵 ★ 2026/07/25(土) 19:34:22.01 ID:iZMozD9k9 今回のテーマは、「寺クライシス！～後継者がいない、その時～」。 古くから日本人の暮らしと結びつき、生活や文化を形作ってきた「寺」。 しかし今、全国に約7万7000ある寺院のうち、約1万7000が住職不在とされ、",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Report: Sixers to sign Kentavious Caldwell-Pope to deal after buyout",
+      "url": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/07/25/report-sixers-to-sign-kentavious-caldwell-pope-to-deal-after-buyout/91050911007/",
+      "source": "USA Today",
+      "publishedAt": "2026-07-25T21:43:03Z",
+      "description": "The Philadelphia 76ers will sign Kentavious Caldwell-Pope after his buyout with the Memphis Grizzlies.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Pelican Acquisition II Corporation Announces Pricing of $75,000,000 Initial Public Offering",
-      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332665/0/en/Pelican-Acquisition-II-Corporation-Announces-Pricing-of-75-000-000-Initial-Public-Offering.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-23T23:00:00Z",
-      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation (NASDAQ: PLCIU) (the “Company”), a Cayman Islands exempted company, announced that it priced its initial public offering of 7,500,000 units at $10.00 per unit on July 23, 2026. The…",
+      "title": "Where Is the Floor for SpaceX Stock Right Now?",
+      "url": "https://biztoc.com/x/7a1f7cdb9ad3ca88",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-25T17:05:58Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX) went from being the biggest initial public offering (IPO) in history to one of the worst-performing IPOs in a long time. That's the market at work. SpaceX was valued at about $1.8 trillion upon going public, but i…",
       "ipoMarket": "us"
     },
     {
@@ -99,92 +99,99 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "PICS Deadline: PICS Investors Have Opportunity to Lead PicS N.V. Securities Lawsuit",
-      "url": "https://www.prnewswire.com/news-releases/pics-deadline-pics-investors-have-opportunity-to-lead-pics-nv-securities-lawsuit-302833721.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-23T22:08:00Z",
-      "description": "NEW YORK, July 23, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of PicS N.V. (NASDAQ: PICS) pursuant and/or traceable to PicS N.V.'s January 30, 2026 initial public offering (the \"IPO\"…",
+      "title": "Elon Musk Warns Short Sellers as $25 Billion Bet Builds Against SpaceX Ahead of Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-warns-short-sellers-112039197.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-25T11:20:39Z",
+      "description": "Space Exploration Technologies Corp (NASDAQ:SPCX) had the largest IPO in history in June, opening at $135 per share and momentarily reaching a $2.1 trillion...",
       "ipoMarket": "us"
     },
     {
-      "title": "Market Technology Acquisition prices 20M unit IPO at $10 per unit",
-      "url": "https://www.thefly.com/MTAK",
-      "source": "Thefly.com",
-      "publishedAt": "2026-07-23T21:52:54Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "title": "SpaceX's Starship makes 1st successful test flight since IPO",
+      "url": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-25T02:08:00Z",
+      "description": "Starship splashed down in the Indian Ocean to complete its 13th test flight and its first since Elon Musk's SpaceX went public in June. SpaceX's Starship megarocket completed a test flight on Friday, the first since Elon Musk's company went public on Wall Str…",
       "ipoMarket": "us"
     },
     {
-      "title": "Prediction: $1,000 Invested in SpaceX Stock Will Be Worth This Amount in 3 Years",
-      "url": "https://biztoc.com/x/d7ee86218936af00",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-23T21:39:40Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX) has already taken investors on a wild ride. Shares of the company are down nearly 46.9% from its post-initial public offering (IPO) high of $225.64 and even below its IPO price of $135 (as of July 20). Investors c…",
+      "title": "Investors ambivalent about SpaceX’s AI pivot under Elon Musk",
+      "url": "https://cryptobriefing.com/spacex-ai-pivot-investor-ambivalence/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T00:34:01Z",
+      "description": "SpaceX's $1.25 trillion merger with xAI and record IPO spark investor uncertainty as AI losses mount against proven aerospace revenues. The post Investors ambivalent about SpaceX’s AI pivot under Elon Musk appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "トランプ氏 EUに「高関税」警告",
-      "url": "https://news.yahoo.co.jp/pickup/6589204?source=rss",
+      "title": "イラン 米が攻撃停止なら報復停止",
+      "url": "https://news.yahoo.co.jp/pickup/6589440?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T22:56:41.000Z",
+      "publishedAt": "2026-07-26T22:45:44.000Z",
       "description": ""
     },
     {
-      "title": "森林火災で非常事態宣言 スペイン",
-      "url": "https://news.yahoo.co.jp/pickup/6589186?source=rss",
+      "title": "主食用米 20県で増産の見込み",
+      "url": "https://news.yahoo.co.jp/pickup/6589438?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T13:45:02.000Z",
+      "publishedAt": "2026-07-26T22:41:29.000Z",
       "description": ""
     },
     {
-      "title": "ベネズエラ地震1カ月 死者5300人",
-      "url": "https://news.yahoo.co.jp/pickup/6589177?source=rss",
+      "title": "イスラエル首相 NY訪問に意欲",
+      "url": "https://news.yahoo.co.jp/pickup/6589439?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T11:39:35.000Z",
+      "publishedAt": "2026-07-26T22:37:52.000Z",
       "description": ""
     },
     {
-      "title": "世銀 中国への融資を段階的に廃止",
-      "url": "https://news.yahoo.co.jp/pickup/6589149?source=rss",
+      "title": "26年前殺害された少女身元判明 米",
+      "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T07:52:42.000Z",
+      "publishedAt": "2026-07-26T08:44:53.000Z",
       "description": ""
     },
     {
-      "title": "トランプ政権の新関税が発動",
-      "url": "https://news.yahoo.co.jp/pickup/6589139?source=rss",
+      "title": "印教育相辞任 ゴキブリ党抗議終了",
+      "url": "https://news.yahoo.co.jp/pickup/6589346?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T04:36:20.000Z",
+      "publishedAt": "2026-07-26T00:39:01.000Z",
       "description": ""
     },
     {
-      "title": "ユーロ新紙幣 ベートーベンら候補",
-      "url": "https://news.yahoo.co.jp/pickup/6589137?source=rss",
+      "title": "カザフ大統領 露に侵攻凍結を進言",
+      "url": "https://news.yahoo.co.jp/pickup/6589337?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T03:47:41.000Z",
+      "publishedAt": "2026-07-25T23:34:07.000Z",
       "description": ""
     },
     {
-      "title": "露の最新鋭機「スホイ57」墜落か",
-      "url": "https://news.yahoo.co.jp/pickup/6589107?source=rss",
+      "title": "独LGBTQ祭典 車突っ込み1人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6589336?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-24T00:46:02.000Z",
+      "publishedAt": "2026-07-25T23:13:42.000Z",
       "description": ""
     },
     {
-      "title": "米がイランへ大規模攻撃検討 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6589091?source=rss",
+      "title": "露 北朝鮮兵3万人追加受け入れか",
+      "url": "https://news.yahoo.co.jp/pickup/6589327?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-23T22:38:15.000Z",
+      "publishedAt": "2026-07-25T22:18:20.000Z",
       "description": ""
     },
     {
-      "title": "大雨で北朝鮮の地雷流出か 韓国軍",
-      "url": "https://news.yahoo.co.jp/pickup/6589082?source=rss",
+      "title": "仏「核の傘」拡大構想 相次ぐ賛同",
+      "url": "https://news.yahoo.co.jp/pickup/6589297?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-23T14:18:57.000Z",
+      "publishedAt": "2026-07-25T11:28:16.000Z",
+      "description": ""
+    },
+    {
+      "title": "Trip.comGに1250億円処分 中国",
+      "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-25T08:40:04.000Z",
       "description": ""
     }
   ]
