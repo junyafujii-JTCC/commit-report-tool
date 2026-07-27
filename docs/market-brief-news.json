@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T23:01:26.425Z",
+  "fetchedAt": "2026-07-27T23:06:22.824Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "〈川邊氏の証言③〉万年3位のヤフーのECをテコ入れ､買収されたZOZO･前澤氏は｢新しいことをやる｣／自分はAI起業家に | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952494?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-07-25T23:00:00Z",
-      "description": "今やインターネットのインフラとなったLINEヤフー。業界を30年以上見てきて､このほど著書『7つの激変』を上梓した前会長の川邊健太郎氏の証言を､全3回に分けてお届けします。今回は最終回の3回目です。",
+      "title": "Lilly社による買収時にスピンアウトした米Antares社、Novartis社とがん治療薬の開発で提携",
+      "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/26/07/24/14827/",
+      "source": "Nikkeibp.co.jp",
+      "publishedAt": "2026-07-26T22:00:00Z",
+      "description": "米Antares Therapeutics社は2026年6月24日、スイスNovartis社とがん治療薬開発の戦略的提携契約を締結したと発表した。Antares社が保有する創薬エンジンを活用し、アンドラッガブルな標的に対するファースト・イン・クラスの低分子薬を創出する。Antares社が開発候補品の決定までを主導し、以降の開発はNovartis社がオプション権を行使して主導する。Antares社は、米Eli Lilly and Company社が2025年に米Scorpion Therapeutics社を買収した…",
       "maMarket": "jp"
     },
     {
-      "title": "What Happens Now With Paramount’s Merger Plans?",
-      "url": "https://biztoc.com/x/ba397ea278ed98f7",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-25T22:08:25Z",
-      "description": "On Friday, Paramount announced it had agreed to halt its merger with Warner Bros. Discovery until June 7th at the latest while a judge considers a lawsuit from state attorneys general who sued to block the deal. So why did Paramount make this decision? It see…",
+      "title": "Nvidia to acquire $1 billion of new shares of South Korea's Naver",
+      "url": "https://www.channelnewsasia.com/business/nvidia-acquire-1-billion-new-shares-south-koreas-naver-6279546",
+      "source": "CNA",
+      "publishedAt": "2026-07-26T23:04:39Z",
+      "description": "SEOUL, July 27 : South Korea's Naver said in a regulatory filing on Monday that Nvidia will acquire $1 billion of its shares to be newly issued as part of an investment partnership to build a new data center.",
       "maMarket": "us"
     },
     {
-      "title": "日本の寺、中国人が買収しているという事実　その背景には…",
-      "url": "http://blog.esuteru.com/archives/10550793.html",
-      "source": "Esuteru.com",
-      "publishedAt": "2026-07-25T22:30:14Z",
-      "description": "日本の寺、中国人が買収しているという事実 その背景には…の記事ページ",
-      "maMarket": "jp"
-    },
-    {
-      "title": "config-cascade-merge 0.8.0",
-      "url": "https://pypi.org/project/config-cascade-merge/0.8.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-25T22:06:35Z",
-      "description": "A small, schema-driven YAML object merger and validator",
-      "maMarket": "us"
-    },
-    {
-      "title": "LINEヤフーが画策するカカクコム“横やり買収”の手法が判明！法令に触れかねない「グレーなスキーム」とは…一休と食べログなど複数サービスがバッティング《再配信》 - 今だからこそ読みたい！注目特集",
-      "url": "https://diamond.jp/articles/-/395034",
+      "title": "政府支援約3900億円で巨大AIデータセンター構築へ、国産AI開発「ノエトラ」がエヌビディア最新AIサーバー約380ラック導入…ソフトバンクが鍵を握る国産フィジカルAI計画の全容 - AI産業戦争 米中覇権に呑まれる日本",
+      "url": "https://diamond.jp/articles/-/395504",
       "source": "Diamond.jp",
-      "publishedAt": "2026-07-25T19:45:00Z",
-      "description": "レストラン検索・予約サービス「食べログ」を運営するカカクコムに買収提案しているLINEヤフーの買収スキームがダイヤモンド編集部の取材で分かった。米投資ファンドのベインキャピタルと共同出資会社を設け、共同出資会社がカカクコムにTOB（株式公開買い付け）を実施する方向だ。ところが、詳細を見ると、法令に触れかねないグレーなスキームであることが判明した。欧州系投資ファンドのEQTによるカカクコム買収計画に事実上の横やりを入れる格好となったLINEヤフーのスキームのグレーなスキームとは。",
+      "publishedAt": "2026-07-26T19:55:00Z",
+      "description": "ソフトバンク、ソニーグループ、ホンダ、NECを中核に44社が出資するノエトラが、米エヌビディアの最新AIサーバー製品「ベラ・ルービン」の導入準備に入った。政府の2026年度支援額3873億円のほぼ全額が充てられる見通しで、27年4月から1台当たり約10億円相当と見込まれるAIサーバーラック約380台をソフトバンクのAIデータセンターに導入する。ソフトバンクのAIデータセンター技術が鍵を握る国産フィジカルAI開発の最前線に迫る。",
       "maMarket": "jp"
     },
     {
-      "title": "What Happens Now With Paramount’s Merger Plans?",
-      "url": "https://www.forbes.com/sites/rickellis/2026/07/25/what-happens-now-with-paramounts-merger-plans/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-25T21:47:07Z",
-      "description": "This pause in the merger is not the beginning of the end, but more likely the end of the beginning of the process.",
+      "title": "Brown-Forman rejects Sazerac approach",
+      "url": "https://biztoc.com/x/2eccb2ea18aed57b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-26T22:30:46Z",
+      "description": "The Scoop Closely held liquor giant Brown-Forman — the subject of multiple takeover efforts in recent months — has rebuffed an approach from Buffalo Trace owner Sazerac, arguing that the $15 billion bid does not align with its “vision for Brown-Forman’s futur…",
       "maMarket": "us"
     },
     {
-      "title": "【直撃】ニッポンの寺を中国人が買収…切実な裏事情",
-      "url": "https://shikaku2ch.doorblog.jp/archives/59963031.html",
-      "source": "Doorblog.jp",
-      "publishedAt": "2026-07-25T12:03:15Z",
-      "description": "1: 煮卵 ★ 2026/07/25(土) 19:34:22.01 ID:iZMozD9k9 今回のテーマは、「寺クライシス！～後継者がいない、その時～」。 古くから日本人の暮らしと結びつき、生活や文化を形作ってきた「寺」。 しかし今、全国に約7万7000ある寺院のうち、約1万7000が住職不在とされ、",
+      "title": "東海染工がタイ子会社を解散、赤字続き事業継続を断念 - 不景気com",
+      "url": "https://www.fukeiki.com/2026/07/tokai-dyeing-thailand-liquidation.html",
+      "source": "Fukeiki.com",
+      "publishedAt": "2026-07-26T18:44:10Z",
+      "description": "東証スタンダード・名証プレミア上場の染色加工業「東海染工」は、98.92%出資子会社の「トーカイ・ダイイング（タイランド）」（タイ・サムットプラカーン）を解散および清算すると発表しました。 1963年に設立の同子会社は、タイにおいて染色加工を手掛けているものの",
       "maMarket": "jp"
     },
     {
-      "title": "Report: Sixers to sign Kentavious Caldwell-Pope to deal after buyout",
-      "url": "https://sixerswire.usatoday.com/story/sports/nba/sixers/2026/07/25/report-sixers-to-sign-kentavious-caldwell-pope-to-deal-after-buyout/91050911007/",
-      "source": "USA Today",
-      "publishedAt": "2026-07-25T21:43:03Z",
-      "description": "The Philadelphia 76ers will sign Kentavious Caldwell-Pope after his buyout with the Memphis Grizzlies.",
+      "title": "1968 Pontiac Firebird 400 Convertible",
+      "url": "https://bringatrailer.com/listing/1968-pontiac-firebird-121/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-07-26T22:20:04Z",
+      "description": "This 1968 Pontiac Firebird convertible was refinished in red with black stripes before the seller's acquisition in 2022, and subsequent work included installing a replacement 400ci V8 with a COMP camshaft and an Edelbrock intake manifold. The car is also equi…",
+      "maMarket": "us"
+    },
+    {
+      "title": "日本の寺の買収、問い合わせの3割が中国人。深刻すぎる後継者不足で『宗教法人の売買サイト』に日本の伝統が並ぶ異常事態へ・・・",
+      "url": "https://asianoneta.blog.jp/63368129",
+      "source": "Blog.jp",
+      "publishedAt": "2026-07-26T13:07:08Z",
+      "description": "1: 煮卵 ★ 2026/07/25(土) 19:34:22.01 ID:iZMozD9k9 ／#テレ東BIZ で配信中＼#ガイアの夜明け テーマは「寺クライシス！～後継者がいない、その時～」ニッポンの寺を中国人が買収…切実な裏事情https://t.co/ogL5yVKbGw— テレ東プラス (@tvtokyo_plus) July 24, 2026 ...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Regulators Disagree On Paramount’s Warner Deal. Price Rises In October",
+      "url": "https://www.forbes.com/sites/maureenkerr/2026/07/26/regulators-disagree-on-paramounts-warner-deal-price-rises-in-october/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-26T22:15:26Z",
+      "description": "Paramount’s Warner deal faces conflicting U.S., EU and U.K. reviews, while delay could add $1.7 billion to the price and risk a $7 billion termination fee.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Where Is the Floor for SpaceX Stock Right Now?",
-      "url": "https://biztoc.com/x/7a1f7cdb9ad3ca88",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-25T17:05:58Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX) went from being the biggest initial public offering (IPO) in history to one of the worst-performing IPOs in a long time. That's the market at work. SpaceX was valued at about $1.8 trillion upon going public, but i…",
+      "title": "Musk Touted Data Centers in Space to SpaceX IPO Investors. Peter Zeihan Calls the Idea 'So Many Levels of Dumb'",
+      "url": "https://finance.yahoo.com/technology/articles/musk-touted-data-centers-space-150036432.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-26T15:00:36Z",
+      "description": "Elon Musk’s SpaceX pitched orbital data centers as a central part of its record-breaking IPO, but geopolitical analyst Peter Zeihan says the physics may not...",
       "ipoMarket": "us"
     },
     {
@@ -99,31 +99,57 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Elon Musk Warns Short Sellers as $25 Billion Bet Builds Against SpaceX Ahead of Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-warns-short-sellers-112039197.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-25T11:20:39Z",
-      "description": "Space Exploration Technologies Corp (NASDAQ:SPCX) had the largest IPO in history in June, opening at $135 per share and momentarily reaching a $2.1 trillion...",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX's Starship makes 1st successful test flight since IPO",
-      "url": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-25T02:08:00Z",
-      "description": "Starship splashed down in the Indian Ocean to complete its 13th test flight and its first since Elon Musk's SpaceX went public in June. SpaceX's Starship megarocket completed a test flight on Friday, the first since Elon Musk's company went public on Wall Str…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Investors ambivalent about SpaceX’s AI pivot under Elon Musk",
-      "url": "https://cryptobriefing.com/spacex-ai-pivot-investor-ambivalence/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-25T00:34:01Z",
-      "description": "SpaceX's $1.25 trillion merger with xAI and record IPO spark investor uncertainty as AI losses mount against proven aerospace revenues. The post Investors ambivalent about SpaceX’s AI pivot under Elon Musk appeared first on Crypto Briefing.",
+      "title": "Should You Buy SpaceX Stock Before Aug. 4?",
+      "url": "https://biztoc.com/x/38cbf7158fb4ee01",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-26T08:40:56Z",
+      "description": "A little over a month ago, Space Exploration Technologies (NASDAQ: SPCX) completed the largest IPO in history. Initially, SpaceX stock surged, briefly touching an intraday high above $225 per share and eclipsing Amazon's market capitalization. However, over t…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "トランプ氏 FRBに利下げを要求",
+      "url": "https://news.yahoo.co.jp/pickup/6589565?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-27T21:51:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "「大イスラエル主義」加速の背景",
+      "url": "https://news.yahoo.co.jp/pickup/6589469?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-27T04:24:06.000Z",
+      "description": ""
+    },
+    {
+      "title": "米軍司令官 イラン攻撃停止進言か",
+      "url": "https://news.yahoo.co.jp/pickup/6589479?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-27T03:42:33.000Z",
+      "description": ""
+    },
+    {
+      "title": "金与正氏 ARFの非核化声明に反発",
+      "url": "https://news.yahoo.co.jp/pickup/6589460?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-27T01:16:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "露大統領 侵攻継続の意欲変わらず",
+      "url": "https://news.yahoo.co.jp/pickup/6589451?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-26T23:58:41.000Z",
+      "description": ""
+    },
+    {
+      "title": "独LGBTQ祭典襲撃 容疑者が死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6589443?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-07-26T23:07:33.000Z",
+      "description": ""
+    },
     {
       "title": "イラン 米が攻撃停止なら報復停止",
       "url": "https://news.yahoo.co.jp/pickup/6589440?source=rss",
@@ -132,66 +158,10 @@
       "description": ""
     },
     {
-      "title": "主食用米 20県で増産の見込み",
-      "url": "https://news.yahoo.co.jp/pickup/6589438?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-26T22:41:29.000Z",
-      "description": ""
-    },
-    {
       "title": "イスラエル首相 NY訪問に意欲",
       "url": "https://news.yahoo.co.jp/pickup/6589439?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-07-26T22:37:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "26年前殺害された少女身元判明 米",
-      "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-26T08:44:53.000Z",
-      "description": ""
-    },
-    {
-      "title": "印教育相辞任 ゴキブリ党抗議終了",
-      "url": "https://news.yahoo.co.jp/pickup/6589346?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-26T00:39:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "カザフ大統領 露に侵攻凍結を進言",
-      "url": "https://news.yahoo.co.jp/pickup/6589337?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-25T23:34:07.000Z",
-      "description": ""
-    },
-    {
-      "title": "独LGBTQ祭典 車突っ込み1人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6589336?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-25T23:13:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "露 北朝鮮兵3万人追加受け入れか",
-      "url": "https://news.yahoo.co.jp/pickup/6589327?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-25T22:18:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "仏「核の傘」拡大構想 相次ぐ賛同",
-      "url": "https://news.yahoo.co.jp/pickup/6589297?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-25T11:28:16.000Z",
-      "description": ""
-    },
-    {
-      "title": "Trip.comGに1250億円処分 中国",
-      "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-25T08:40:04.000Z",
       "description": ""
     }
   ]
