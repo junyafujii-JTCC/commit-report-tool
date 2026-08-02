@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T22:57:54.992Z",
+  "fetchedAt": "2026-08-02T22:58:35.219Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "《青森県の大量殺戮村》はなぜ地図から消されたのか？…男が村民全員を殺害した「杉沢村伝説」と「平成の大合併」の意外な関係性",
-      "url": "https://news.livedoor.com/article/detail/31962064/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-07-31T22:00:00Z",
-      "description": "「杉沢村伝説」と呼ばれる不気味な話がある。かつて青森県の山中に、杉沢村と呼ばれる小さな村があった。だが昭和初期、この村に住むひとりの男が突然村人全員を殺害。最後は自ら命を絶った。その後、村は廃村となり、地図や県などの公式文書から存在を抹消されてしまう。現在も杉沢村があった場所には怨霊が棲みつき、訪れる人を呪う--。もともとは戦後の青森県で知られていたローカルな都市伝説だったとされているが、1999年前後に放送された『奇跡体験!アンビリバボー』（フジテレ全文現代ビジネス 08月01日07時00分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "sollertia-forgery added to PyPI",
-      "url": "https://pypi.org/project/sollertia-forgery/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-31T22:14:20Z",
-      "description": "Provides tools for processing and managing the data acquired using the Sollertia data acquisition platform.",
-      "maMarket": "us"
-    },
-    {
-      "title": "【スクープ】ソニーがレンズ大手タムロンに買収提案・成長株「大化け候補」ランキング・保険代理店クリイトの社長が明かす「社会保険料潜脱で2億円超の追徴金」の舞台裏 - ダイヤモンド編集部厳選 必読！今週のニュース3本",
-      "url": "https://diamond.jp/articles/-/396159",
+      "title": "ソフトバンク経由で日本市場に入るOpenAIリスク - AIバブル後の投資戦略",
+      "url": "https://diamond.jp/articles/-/396180",
       "source": "Diamond.jp",
-      "publishedAt": "2026-07-31T19:40:00Z",
-      "description": "ソニーグループがレンズメーカーのタムロンに買収を提案していることがダイヤモンド編集部の取材で分かりました。ソニーはタムロンの全株式取得を目指す。買収額は2000億円規模となる見通しです。ソニーがタムロンに提案した買収案の具体的な中身に加え、ソニーがタムロン買収に動いた狙いを明らかにします。",
+      "publishedAt": "2026-08-01T22:35:00Z",
+      "description": "『AIバブル後の投資戦略』を上梓したブルーモ証券CEOの中村仁氏は、「AIバブル最大のリスクは、OpenAIの破綻」と主張します。そして、日本固有のリスクとして、OpenAIに多額の出資をしているソフトバンクの存在をあげます。",
       "maMarket": "jp"
     },
     {
-      "title": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
-      "url": "https://biztoc.com/x/5c0753e624c753dc",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-31T22:09:05Z",
-      "description": "By Jody Godoy July 31 (Reuters) - The U.S. Federal Trade Commission cleared quantum computing firm IonQ's $1.8 billion acquisition of chipmaker SkyWater Technology after the agency's leaders disagreed over whether to impose conditions, they said on Friday. • …",
+      "title": "'Just a pure weird moment': Art project takes over Manhattan subway kiosk",
+      "url": "https://gothamist.com/news/just-a-pure-weird-moment-art-project-takes-over-manhattan-subway-kiosk",
+      "source": "Gothamist",
+      "publishedAt": "2026-08-01T22:56:33Z",
+      "description": "The takeover is part of the MTA’s Vacant Unit Activation Program, which allows artists to install projects in unused spaces throughout the subway system, like newspaper kiosks. Instead of newspapers or gum, the former newsstand is stocked with free zines, …",
       "maMarket": "us"
     },
     {
-      "title": "マーベラス、テンセント子会社との資本業務提携を解消！『牧場物語』スマホ版は開発中止に",
-      "url": "http://blog.esuteru.com/archives/10552854.html",
-      "source": "Esuteru.com",
-      "publishedAt": "2026-07-31T14:00:53Z",
-      "description": "マーベラス、テンセント子会社との資本業務提携を解消！『牧場物語』スマホ版は開発中止にの記事ページ",
+      "title": "カンバーバッチら英俳優、パラマウント×ワーナー統合に反対表明",
+      "url": "https://eiga.com/news/20260801/14/",
+      "source": "Eiga.com",
+      "publishedAt": "2026-08-01T13:00:00Z",
+      "description": "「ドクター・ストレンジ」のベネディクト・カンバーバッチらがパラマウントによるワーナー買収に反対する意見記事を英紙ガーディアンに寄稿し、英政府に統合の阻止を求めた。彼らは統合を「危険だ」とし、英国の映画・テレビ産業に深刻な打撃を与えると訴えて",
       "maMarket": "jp"
     },
     {
-      "title": "Citadel acquires $16B in public equities, averting AI stock fire sale",
-      "url": "https://cryptobriefing.com/citadel-acquires-16b-equities-ai-stock-fire-sale/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-31T22:03:37Z",
-      "description": "Citadel's acquisition highlights the growing systemic risks in AI-focused investments and the critical role of prime brokers in market stability. The post Citadel acquires $16B in public equities, averting AI stock fire sale appeared first on Crypto Briefing.",
+      "title": "Snowflake’s Cortex AI Gateway Signals MCP Gateways Are Crystallizing as Infrastructure",
+      "url": "https://forkast.news/snowflakes-cortex-ai-gateway-signals-mcp-gateways-are-crystallizing-as-infrastructure/",
+      "source": "Forkast.news",
+      "publishedAt": "2026-08-01T22:39:55Z",
+      "description": "The release of Snowflake Cortex AI Gateway at Black Hat 2026 marks a transition in how enterprises manage autonomous systems. By integrating the technology from its May 2026 acquisition of Natoma, Snowflake is positioning itself not merely as a data warehouse…",
       "maMarket": "us"
     },
     {
-      "title": "セブン＆アイ、共通会員IDのPayPay統合を正式発表　ソフトバンクや三井住友カードなどが計3000億円出資",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000345/",
-      "source": "Itmedia.co.jp",
-      "publishedAt": "2026-07-31T13:22:17Z",
-      "description": "セブン＆アイ・ホールディングスとセブン-イレブン・ジャパンは7月31日、ソフトバンク、PayPay、LINEヤフー、三井住友カードとの戦略的パートナーシップを発表した。セブン＆アイの共通会員ID「7iD」を「PayPay ID」に統合する。また、ソフトバンクや三井住友カードなどと資本業務提携も結び、各社から1000億円ずつ、総額3000億円の出資を受ける。",
+      "title": "【トレジャー・ファクトリー】リユース業界の“成長株”、売上高500億円突破へ　M＆Aにも積極姿勢",
+      "url": "https://maonline.jp/articles/archives_treasure_factory_20260716",
+      "source": "Maonline.jp",
+      "publishedAt": "2026-08-01T08:32:00Z",
+      "description": "トレジャー・ファクトリーはリユース業界の“成長株”として注目される存在だ。幅広いジャンルの商品を扱う総合リユースを軸に、衣料、スポーツ・アウトドア、ハイブランド品など10を超える専門業態を展開し、340近い店舗を構える。過去10年で売上高は4倍に膨らみ、500億円突破を目前とする。3年ぶりに買収、無人ドレスレンタルに進[…]",
       "maMarket": "jp"
     },
     {
-      "title": "WNBA trade grades: Why the Toronto Tempo were smart to acquire Aneesah Morrow from the Connecticut Sun",
-      "url": "https://www.swishappeal.com/wnba/83910/tempo-sun-toronto-connecticut-aneesah-morrow-second-round-pick-trade-transaction-grade-deal-maria-kliundikova-houston-comets-reactoin",
-      "source": "Swish Appeal",
-      "publishedAt": "2026-07-31T21:50:00Z",
-      "description": "The Tempo and Sun made a deal. With Aneesah Morrow moving from Connecticut to Toronto, which team aced the trade?",
+      "title": "Cristiano Ronaldo’s Al-Nassr takeover plans receive huge boost ahead of expected PIF sale as major names join project",
+      "url": "https://worldsoccertalk.com/news/cristiano-ronaldos-al-nassr-takeover-plans-receive-huge-boost-ahead-of-expected-pif-sale-as-major-names-join-project/",
+      "source": "Worldsoccertalk.com",
+      "publishedAt": "2026-08-01T22:36:35Z",
+      "description": "With Saudi Arabia's Public Investment Fund (PIF) expected to reduce its controlling stake, a major investment project has gained momentum, potentially reshaping the future of one of the Saudi Pro League's biggest clubs Cristiano Ronaldo‘s long-term future at…",
+      "maMarket": "us"
+    },
+    {
+      "title": "セブン＆アイにソフトバンクなどが出資 AIを店舗効率化に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193341000",
+      "source": "Web.nhk",
+      "publishedAt": "2026-08-01T02:39:41Z",
+      "description": "通信大手のソフトバンクとスマホ決済大手のPayPayなど3社はセブン＆アイ・ホールディングスにおよそ3000億円を出資すると発表しました。今回の提携によって、利用者のIDを統合するほか、ソフトバンクが持つAIの技術をコンビニの運営の効率化につなげることにしています。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "pagespring 0.8.0",
+      "url": "https://pypi.org/project/pagespring/0.8.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-08-01T22:14:40Z",
+      "description": "Acquire and normalize online documentation into clean, convertible source files — the acquisition front-end to pagespeak.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Jersey Mike’s Went Public at a $7.3 Billion Valuation. It All Started With a 17-Year-Old and One Sub Shop.",
-      "url": "https://www.entrepreneur.com/buying-a-franchise/jersey-mikes-went-public-at-a-7-3-billion-valuation-it-all-started-with-a-17-year-old-and-one-sub-shop",
-      "source": "Entrepreneur",
-      "publishedAt": "2026-07-31T19:20:34Z",
-      "description": "The sandwich chain's IPO was more than 10 times oversubscribed.",
+      "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
+      "url": "https://biztoc.com/x/c2e77145ce6b8f10",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-01T14:30:55Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX) made history in June when it completed the largest IPO in history. It's been a wild ride for the space company since then. It opened at $150, meaningfully up from its IPO price of $135, and rose to as high as $225…",
       "ipoMarket": "us"
     },
     {
@@ -99,31 +99,57 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Black Rock Coffee Bar, Inc. (BRCB) Facing Securities Class Action Related to IPO Disclosures Regarding Adverse Impact of Sales Transfer Phenomenon - HBSS",
-      "url": "https://www.prnewswire.com/news-releases/black-rock-coffee-bar-inc-brcb-facing-securities-class-action-related-to-ipo-disclosures-regarding-adverse-impact-of-sales-transfer-phenomenon--hbss-302840199.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-31T18:30:00Z",
-      "description": "SAN FRANCISCO, July 31, 2026 /PRNewswire/ -- National shareholder rights firm Hagens Berman is actively investigating claims in a pending securities class action alleging securities law violations at Black Rock Coffee Bar, Inc. (NASDAQ: BRCB). The suit allege…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Wall Street is lending billions to tech founders, and the real payoff isn’t interest",
-      "url": "https://cryptobriefing.com/wall-street-founder-lending-ipo-wave/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-31T18:29:07Z",
-      "description": "Wall Street's strategic lending to tech founders could reshape financial ecosystems, influencing IPO dynamics and crypto market allocations. The post Wall Street is lending billions to tech founders, and the real payoff isn’t interest appeared first on Crypto…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Beyond Mega IPOs: ICR Capital President & Chairman Don Duffy, Live from NYSE",
-      "url": "https://biztoc.com/x/a1bbe9d63f4f5f68",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-31T17:22:43Z",
-      "description": "IPO Edge hosted a fireside chat on July 28 from the floor of the New York Stock Exchange with Don Duffy, President and Chairman of the Board of ICR Capital. The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed the IPO market…",
+      "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
+      "url": "https://economictimes.indiatimes.com/news/international/business/will-spacex-paint-its-rocket-pink-investor-questions-go-beyond-moon-and-mars-ahead-of-first-results/articleshow/132786786.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-01T10:14:27Z",
+      "description": "SpaceX's initial public offering allocated shares for retail investors. Shareholders submitted popular questions about Starship's lunar mission and mascot. Investors also inquired about orbital refueling and rocket aesthetics. While business outlook questi…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "航行中フェリー火災 インドネシア",
+      "url": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-02T13:18:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "移民流入のスペイン 海にフェンス",
+      "url": "https://news.yahoo.co.jp/pickup/6590274?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-02T08:02:59.000Z",
+      "description": ""
+    },
+    {
+      "title": "米ファストフード店で銃撃3人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6590263?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-02T06:30:07.000Z",
+      "description": ""
+    },
+    {
+      "title": "ナスカ見学の小型機墜落 13人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6590239?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-02T03:14:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "米大統領 イラン大規模攻撃を中止",
+      "url": "https://news.yahoo.co.jp/pickup/6590237?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-02T03:02:05.000Z",
+      "description": ""
+    },
+    {
+      "title": "日本発のロリータ服 中国で人気",
+      "url": "https://news.yahoo.co.jp/pickup/6590229?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-02T01:32:49.000Z",
+      "description": ""
+    },
     {
       "title": "モスクワで店爆発3人死亡 テロか",
       "url": "https://news.yahoo.co.jp/pickup/6590208?source=rss",
@@ -143,55 +169,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590194?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-01T13:22:35.000Z",
-      "description": ""
-    },
-    {
-      "title": "ロシアがウ首都を空爆 9人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6590168?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T08:31:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国の若者就職難 日本企業に注目",
-      "url": "https://news.yahoo.co.jp/pickup/6590147?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T05:35:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "日銀の金融政策 利上げ加速が焦点",
-      "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T03:58:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "米軍のF35B戦闘機が墜落 米加州",
-      "url": "https://news.yahoo.co.jp/pickup/6590130?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T03:31:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "米 過去最大級のイラン攻撃計画か",
-      "url": "https://news.yahoo.co.jp/pickup/6590099?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-31T23:23:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "スペイン飛び地不法移民 大半帰還",
-      "url": "https://news.yahoo.co.jp/pickup/6590092?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-31T22:32:55.000Z",
-      "description": ""
-    },
-    {
-      "title": "ハマスが武装解除合意 幹部明かす",
-      "url": "https://news.yahoo.co.jp/pickup/6590083?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-07-31T13:53:03.000Z",
       "description": ""
     }
   ]
