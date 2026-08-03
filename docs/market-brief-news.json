@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T22:58:35.219Z",
+  "fetchedAt": "2026-08-03T23:05:24.434Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,19 +9,51 @@
   ],
   "ma": [
     {
-      "title": "ソフトバンク経由で日本市場に入るOpenAIリスク - AIバブル後の投資戦略",
-      "url": "https://diamond.jp/articles/-/396180",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-08-01T22:35:00Z",
-      "description": "『AIバブル後の投資戦略』を上梓したブルーモ証券CEOの中村仁氏は、「AIバブル最大のリスクは、OpenAIの破綻」と主張します。そして、日本固有のリスクとして、OpenAIに多額の出資をしているソフトバンクの存在をあげます。",
+      "title": "CSIジャパン株式会社世界の変化を、経営の力に――日本発、経営判断に伴走するインテリジェンス助言会社「CSIジャパン」が始動",
+      "url": "https://japan.cnet.com/release/31194216/",
+      "source": "CNET",
+      "publishedAt": "2026-08-02T23:00:00Z",
+      "description": "AI時代だからこそ、公開情報の先にある一次情報を、経営の意思決定に資するかたちへ。2026年8月3日CSIジャパン株式会社 https://csint.co.jp/CSIジャパン株式会社（本社：東京都千代田区丸の内、代表取締役：高野聖玄）は、日本企業が成長投資、クロスボーダーM&A、経済安全保障、危機対応などにおいて直面する重要...",
       "maMarket": "jp"
     },
     {
-      "title": "'Just a pure weird moment': Art project takes over Manhattan subway kiosk",
-      "url": "https://gothamist.com/news/just-a-pure-weird-moment-art-project-takes-over-manhattan-subway-kiosk",
-      "source": "Gothamist",
-      "publishedAt": "2026-08-01T22:56:33Z",
-      "description": "The takeover is part of the MTA’s Vacant Unit Activation Program, which allows artists to install projects in unused spaces throughout the subway system, like newspaper kiosks. Instead of newspapers or gum, the former newsstand is stocked with free zines, …",
+      "title": "Pepper Money completes $15.4bn RAMS home loan portfolio acquisition from Westpac",
+      "url": "https://www.fool.com.au/2026/08/03/pepper-money-completes-15-4bn-rams-home-loan-portfolio-acquisition-from-westpac/",
+      "source": "Motley Fool Australia",
+      "publishedAt": "2026-08-02T23:00:32Z",
+      "description": "Pepper Money has completed the acquisition and servicing of the $15.4bn RAMS home loan portfolio, supporting its servicing business expansion. The post Pepper Money completes $15.4bn RAMS home loan portfolio acquisition from Westpac appeared first on The Motl…",
+      "maMarket": "us"
+    },
+    {
+      "title": "【2022年のINTERNET Watch】「ChatGPT」の登場で生成AIブームが到来、イーロン・マスク氏のTwitter買収で混乱も",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2127719.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-08-02T21:30:00Z",
+      "description": "2022年（令和4年）は、新型コロナウイルス感染症（COVID-19）の流行から2年以上が経ち、感染力が強い一方で重症化しにくいオミクロン株への置き換わりが進んだことからも、感染対策と社会経済活動を両立させる「ウィズコロナ」への移行が進められた。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports - CNBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184822534",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-02T22:52:48Z",
+      "description": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reportsCNBC AstraZeneca, Bristol Myers are in talks about merger — reportEndpoints News AstraZeneca, Bristol Myers held merger talks, Financial Times reports (AZN:NYSE)Seeking Alpha A…",
+      "maMarket": "us"
+    },
+    {
+      "title": "セブンがPayPayと「巨大経済圏」を構築へ！異例の出資受け入れの陰に決済・デジタルで周回遅れの焦燥!?加盟店オーナーからは冷ややかな声も - 流通・小売り フロントライン",
+      "url": "https://diamond.jp/articles/-/396224",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-02T19:00:00Z",
+      "description": "流通と金融、通信、運輸など各業界を横断して構成されるポイント経済圏。長年に渡って覇権争いと合従連衡が繰り広げられてきたが、その趨勢を一変させ得る巨大連合が誕生した。セブン＆アイ・ホールディングス（HD）は7月31日、ソフトバンクやPayPay、三井住友カードからそれぞれ1000億円の出資を受け入れる資本・業務提携を発表したのだ。今後、各社の強みを持ち寄り、ポイント経済圏を強化して顧客の囲い込みを図るとみられる。巨大連合が目指す将来像と、発足の経緯を詳報する。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Schalke 04 set to acquire Jesper Lindstrøm on loan with €5m automatic purchase option",
+      "url": "https://www.getfootballnewsgermany.com/2026/jesper-lindstrom-schalke-done/",
+      "source": "Getfootballnewsgermany.com",
+      "publishedAt": "2026-08-02T22:30:00Z",
+      "description": "Former Eintracht Frankfurt and Wolfsburg professional Jesper Lindstrøm should be in line for an early introduction at Schalke 04 on Monday. Sport Bild confirmed the 26-year-old’s arrival at the Dü...",
       "maMarket": "us"
     },
     {
@@ -33,43 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Snowflake’s Cortex AI Gateway Signals MCP Gateways Are Crystallizing as Infrastructure",
-      "url": "https://forkast.news/snowflakes-cortex-ai-gateway-signals-mcp-gateways-are-crystallizing-as-infrastructure/",
-      "source": "Forkast.news",
-      "publishedAt": "2026-08-01T22:39:55Z",
-      "description": "The release of Snowflake Cortex AI Gateway at Black Hat 2026 marks a transition in how enterprises manage autonomous systems. By integrating the technology from its May 2026 acquisition of Natoma, Snowflake is positioning itself not merely as a data warehouse…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【トレジャー・ファクトリー】リユース業界の“成長株”、売上高500億円突破へ　M＆Aにも積極姿勢",
-      "url": "https://maonline.jp/articles/archives_treasure_factory_20260716",
-      "source": "Maonline.jp",
-      "publishedAt": "2026-08-01T08:32:00Z",
-      "description": "トレジャー・ファクトリーはリユース業界の“成長株”として注目される存在だ。幅広いジャンルの商品を扱う総合リユースを軸に、衣料、スポーツ・アウトドア、ハイブランド品など10を超える専門業態を展開し、340近い店舗を構える。過去10年で売上高は4倍に膨らみ、500億円突破を目前とする。3年ぶりに買収、無人ドレスレンタルに進[…]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Cristiano Ronaldo’s Al-Nassr takeover plans receive huge boost ahead of expected PIF sale as major names join project",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldos-al-nassr-takeover-plans-receive-huge-boost-ahead-of-expected-pif-sale-as-major-names-join-project/",
-      "source": "Worldsoccertalk.com",
-      "publishedAt": "2026-08-01T22:36:35Z",
-      "description": "With Saudi Arabia's Public Investment Fund (PIF) expected to reduce its controlling stake, a major investment project has gained momentum, potentially reshaping the future of one of the Saudi Pro League's biggest clubs Cristiano Ronaldo‘s long-term future at…",
-      "maMarket": "us"
-    },
-    {
-      "title": "セブン＆アイにソフトバンクなどが出資 AIを店舗効率化に",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015193341000",
-      "source": "Web.nhk",
-      "publishedAt": "2026-08-01T02:39:41Z",
-      "description": "通信大手のソフトバンクとスマホ決済大手のPayPayなど3社はセブン＆アイ・ホールディングスにおよそ3000億円を出資すると発表しました。今回の提携によって、利用者のIDを統合するほか、ソフトバンクが持つAIの技術をコンビニの運営の効率化につなげることにしています。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "pagespring 0.8.0",
-      "url": "https://pypi.org/project/pagespring/0.8.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-08-01T22:14:40Z",
-      "description": "Acquire and normalize online documentation into clean, convertible source files — the acquisition front-end to pagespeak.",
+      "title": "California Democrats need more spine to stop the socialists",
+      "url": "https://nypost.com/2026/08/02/opinion/california-democrats-need-more-spine-to-stop-the-socialists/",
+      "source": "New York Post",
+      "publishedAt": "2026-08-02T22:02:17Z",
+      "description": "The only way for Democrats to stop the socialist takeover of their party is for party leaders to take a stand.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX Is Down 19% From Its IPO Price. Tesla's History Suggests This May Happen Next",
-      "url": "https://biztoc.com/x/c2e77145ce6b8f10",
+      "title": "SpaceX IPO Paid Wall Street $100 Million: Will It’s First Earnings Repay Investors?",
+      "url": "https://biztoc.com/x/58a6393ab7d86a50",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-01T14:30:55Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX) made history in June when it completed the largest IPO in history. It's been a wild ride for the space company since then. It opened at $150, meaningfully up from its IPO price of $135, and rose to as high as $225…",
+      "publishedAt": "2026-08-02T21:09:44Z",
+      "description": "SpaceX earnings land Tuesday, August 4, marking the first since the company went public. The June listing already paid Morgan Stanley bankers about $100 million in fees. That fee was the small part. IPOs led by SpaceX sent more than $74 billion to the bank's …",
       "ipoMarket": "us"
     },
     {
@@ -99,76 +99,92 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
-      "url": "https://economictimes.indiatimes.com/news/international/business/will-spacex-paint-its-rocket-pink-investor-questions-go-beyond-moon-and-mars-ahead-of-first-results/articleshow/132786786.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-01T10:14:27Z",
-      "description": "SpaceX's initial public offering allocated shares for retail investors. Shareholders submitted popular questions about Starship's lunar mission and mascot. Investors also inquired about orbital refueling and rocket aesthetics. While business outlook questi…",
+      "title": "SpaceX IPO Paid Wall Street $100 Million: Will It’s First Earnings Repay Investors?",
+      "url": "https://beincrypto.com/spacex-earnings-morgan-stanley-10-trillion/",
+      "source": "BeInCrypto",
+      "publishedAt": "2026-08-02T19:45:02Z",
+      "description": "SpaceX's IPO paid Wall Street $100 million and lifted Morgan Stanley past $10 trillion. SpaceX earnings land August 4.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "PICS DEADLINE: ROSEN, NATIONAL INVESTOR COUNSEL, Encourages PicS N.V. Investors to Secure Counsel Before Important August 4 Deadline in Securities Class Action – PICS",
+      "url": "https://www.globenewswire.com/news-release/2026/08/02/3337188/673/en/PICS-DEADLINE-ROSEN-NATIONAL-INVESTOR-COUNSEL-Encourages-PicS-N-V-Investors-to-Secure-Counsel-Before-Important-August-4-Deadline-in-Securities-Class-Action-PICS.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-08-02T18:51:00Z",
+      "description": "NEW YORK, Aug. 02, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of PicS N.V. (NASDAQ: PICS) pursuant and/or traceable to PicS N.V.’s January 30, 2026 initial public offering (the “…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Reuters Health News Summary | Health",
+      "url": "https://www.devdiscourse.com/article/health/3958538-reuters-health-news-summary",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-08-02T14:28:56Z",
+      "description": "India's Manipal Health Enterprises' $960.4 million IPO was oversubscribed, led by institutional investors, while Glenmark Pharmaceuticals posted a 53.6% jump in quarterly profit due to strong demand for its drugs.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "航行中フェリー火災 インドネシア",
-      "url": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
+      "title": "イランが協議否定 米大統領は批判",
+      "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-02T13:18:28.000Z",
+      "publishedAt": "2026-08-03T22:13:42.000Z",
       "description": ""
     },
     {
-      "title": "移民流入のスペイン 海にフェンス",
-      "url": "https://news.yahoo.co.jp/pickup/6590274?source=rss",
+      "title": "ウ大統領 対日関係の強化を指示",
+      "url": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-02T08:02:59.000Z",
+      "publishedAt": "2026-08-03T21:26:27.000Z",
       "description": ""
     },
     {
-      "title": "米ファストフード店で銃撃3人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6590263?source=rss",
+      "title": "米大統領 対イラン発言は二転三転",
+      "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-02T06:30:07.000Z",
+      "publishedAt": "2026-08-03T13:47:24.000Z",
       "description": ""
     },
     {
-      "title": "ナスカ見学の小型機墜落 13人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6590239?source=rss",
+      "title": "30-31日の為替介入 計11兆円超か",
+      "url": "https://news.yahoo.co.jp/pickup/6590420?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-02T03:14:51.000Z",
+      "publishedAt": "2026-08-03T12:20:08.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 イラン大規模攻撃を中止",
-      "url": "https://news.yahoo.co.jp/pickup/6590237?source=rss",
+      "title": "モスクワの飲食店爆発 死者5人に",
+      "url": "https://news.yahoo.co.jp/pickup/6590419?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-02T03:02:05.000Z",
+      "publishedAt": "2026-08-03T11:57:35.000Z",
       "description": ""
     },
     {
-      "title": "日本発のロリータ服 中国で人気",
-      "url": "https://news.yahoo.co.jp/pickup/6590229?source=rss",
+      "title": "スーチー氏 赤十字関係者と面会",
+      "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-02T01:32:49.000Z",
+      "publishedAt": "2026-08-03T07:15:12.000Z",
       "description": ""
     },
     {
-      "title": "モスクワで店爆発3人死亡 テロか",
-      "url": "https://news.yahoo.co.jp/pickup/6590208?source=rss",
+      "title": "日本に好印象の韓国人54.3% 調査",
+      "url": "https://news.yahoo.co.jp/pickup/6590382?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T22:50:17.000Z",
+      "publishedAt": "2026-08-03T06:59:24.000Z",
       "description": ""
     },
     {
-      "title": "日米が協調為替介入 15年ぶり",
-      "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
+      "title": "米大統領「3日にイラン協議開始」",
+      "url": "https://news.yahoo.co.jp/pickup/6590345?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T22:28:48.000Z",
+      "publishedAt": "2026-08-03T01:51:01.000Z",
       "description": ""
     },
     {
-      "title": "著名登山家死亡 パキスタンで雪崩",
-      "url": "https://news.yahoo.co.jp/pickup/6590194?source=rss",
+      "title": "マレーシア首相 難民巡る発言物議",
+      "url": "https://news.yahoo.co.jp/pickup/6590339?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-01T13:22:35.000Z",
+      "publishedAt": "2026-08-03T00:16:07.000Z",
       "description": ""
     }
   ]
