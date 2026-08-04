@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T23:05:24.434Z",
+  "fetchedAt": "2026-08-04T23:05:57.828Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,121 +9,156 @@
   ],
   "ma": [
     {
-      "title": "CSIジャパン株式会社世界の変化を、経営の力に――日本発、経営判断に伴走するインテリジェンス助言会社「CSIジャパン」が始動",
-      "url": "https://japan.cnet.com/release/31194216/",
-      "source": "CNET",
-      "publishedAt": "2026-08-02T23:00:00Z",
-      "description": "AI時代だからこそ、公開情報の先にある一次情報を、経営の意思決定に資するかたちへ。2026年8月3日CSIジャパン株式会社 https://csint.co.jp/CSIジャパン株式会社（本社：東京都千代田区丸の内、代表取締役：高野聖玄）は、日本企業が成長投資、クロスボーダーM&A、経済安全保障、危機対応などにおいて直面する重要...",
+      "title": "【日本橋グループ＊】【「みんなで大家さん」代表に独占取材】事業報告書で判明した「負債額2800億円超」…「事業継続のために必要なこと」を激白",
+      "url": "https://news.livedoor.com/article/detail/31981056/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-03T22:00:00Z",
+      "description": "全国の約4万人から総額およそ2000億円の資金を集めた不動産小口化商品「みんなで大家さん」。分配金の遅延が発生し、出資者からの訴訟も提起されているなか、「みんなで大家さん」のファンド運用を担っている「都市綜研インベストファンド（大阪市）」が、7月末に大阪府に事業報告書を提出した。事業報告書でひときわ目を引くのが、「純資産」という項目だ。そこに記載されているのは、なんと「マイナス2881億3176万円」という数字。つまり端的に言うと、みんなで大家さんの運営会社は全文現代ビジネス 08月04日07時00分",
       "maMarket": "jp"
     },
     {
-      "title": "Pepper Money completes $15.4bn RAMS home loan portfolio acquisition from Westpac",
-      "url": "https://www.fool.com.au/2026/08/03/pepper-money-completes-15-4bn-rams-home-loan-portfolio-acquisition-from-westpac/",
-      "source": "Motley Fool Australia",
-      "publishedAt": "2026-08-02T23:00:32Z",
-      "description": "Pepper Money has completed the acquisition and servicing of the $15.4bn RAMS home loan portfolio, supporting its servicing business expansion. The post Pepper Money completes $15.4bn RAMS home loan portfolio acquisition from Westpac appeared first on The Motl…",
+      "title": "As Merger Hangs In The Balance, Paramount And WBD Step Into Quarterly Earnings Spotlight",
+      "url": "http://deadline.com/2026/08/paramount-wbd-merger-q2-earnings-1237016279/",
+      "source": "Deadline",
+      "publishedAt": "2026-08-03T22:48:54Z",
+      "description": "In an alternate timeline, Paramount would be reporting quarterly earnings this week as Warner Bros. Discovery, one of its subsidiaries, would no longer be releasing its own separate financials. As it stands now, however, both companies are due to report – Par…",
       "maMarket": "us"
     },
     {
-      "title": "【2022年のINTERNET Watch】「ChatGPT」の登場で生成AIブームが到来、イーロン・マスク氏のTwitter買収で混乱も",
-      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2127719.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-08-02T21:30:00Z",
-      "description": "2022年（令和4年）は、新型コロナウイルス感染症（COVID-19）の流行から2年以上が経ち、感染力が強い一方で重症化しにくいオミクロン株への置き換わりが進んだことからも、感染対策と社会経済活動を両立させる「ウィズコロナ」への移行が進められた。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports - CNBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184822534",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-02T22:52:48Z",
-      "description": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reportsCNBC AstraZeneca, Bristol Myers are in talks about merger — reportEndpoints News AstraZeneca, Bristol Myers held merger talks, Financial Times reports (AZN:NYSE)Seeking Alpha A…",
-      "maMarket": "us"
-    },
-    {
-      "title": "セブンがPayPayと「巨大経済圏」を構築へ！異例の出資受け入れの陰に決済・デジタルで周回遅れの焦燥!?加盟店オーナーからは冷ややかな声も - 流通・小売り フロントライン",
-      "url": "https://diamond.jp/articles/-/396224",
+      "title": "上司と「うまく付き合う」必要はない ［インタビュー］大義のために覚悟を持って働く",
+      "url": "https://dhbr.diamond.jp/articles/-/14571",
       "source": "Diamond.jp",
-      "publishedAt": "2026-08-02T19:00:00Z",
-      "description": "流通と金融、通信、運輸など各業界を横断して構成されるポイント経済圏。長年に渡って覇権争いと合従連衡が繰り広げられてきたが、その趨勢を一変させ得る巨大連合が誕生した。セブン＆アイ・ホールディングス（HD）は7月31日、ソフトバンクやPayPay、三井住友カードからそれぞれ1000億円の出資を受け入れる資本・業務提携を発表したのだ。今後、各社の強みを持ち寄り、ポイント経済圏を強化して顧客の囲い込みを図るとみられる。巨大連合が目指す将来像と、発足の経緯を詳報する。",
+      "publishedAt": "2026-08-03T21:00:00Z",
+      "description": "サマリー：「世界一の鉄鋼メーカーに復権する」ことは悲願であり使命だとして、有言実行で米国USスチールの買収を実現するなど、剛腕で知られる日本製鉄会長兼CEOの橋本英二氏。強力なリーダーとしてトップに立つに至るまで、どのように仕事や上司・部下に向き合い、実績を挙げてきたのか。また、現在は組織の頂点に立つボスとして、次世代のリーダーにどのようなマインドセットや行動力を期待するのか。部下と上司の双方の目線から、両者のあるべき関係性や仕事への協働姿勢のほか、みずからのリーダーシップに対する考え方などについて聞いた。",
       "maMarket": "jp"
     },
     {
-      "title": "Schalke 04 set to acquire Jesper Lindstrøm on loan with €5m automatic purchase option",
-      "url": "https://www.getfootballnewsgermany.com/2026/jesper-lindstrom-schalke-done/",
-      "source": "Getfootballnewsgermany.com",
-      "publishedAt": "2026-08-02T22:30:00Z",
-      "description": "Former Eintracht Frankfurt and Wolfsburg professional Jesper Lindstrøm should be in line for an early introduction at Schalke 04 on Monday. Sport Bild confirmed the 26-year-old’s arrival at the Dü...",
+      "title": "Why Supernus Pharmaceuticals Stock Topped the Market Today",
+      "url": "https://biztoc.com/x/7cac34af8fa12450",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-03T22:48:50Z",
+      "description": "Supernus Pharmaceuticals (NASDAQ: SUPN) began the stock trading week on a high note, announcing a major merger alongside its latest quarterly earnings release. Investors ultimately decided to be cautiously optimistic about these developments; after the stock …",
       "maMarket": "us"
     },
     {
-      "title": "カンバーバッチら英俳優、パラマウント×ワーナー統合に反対表明",
-      "url": "https://eiga.com/news/20260801/14/",
-      "source": "Eiga.com",
-      "publishedAt": "2026-08-01T13:00:00Z",
-      "description": "「ドクター・ストレンジ」のベネディクト・カンバーバッチらがパラマウントによるワーナー買収に反対する意見記事を英紙ガーディアンに寄稿し、英政府に統合の阻止を求めた。彼らは統合を「危険だ」とし、英国の映画・テレビ産業に深刻な打撃を与えると訴えて",
+      "title": "経営統合を「日産に断らせた」ホンダがSDVでは協業したい理由 - ニュース・経営",
+      "url": "https://jbpress.ismedia.jp/articles/-/96265",
+      "source": "Ismedia.jp",
+      "publishedAt": "2026-08-03T20:55:00Z",
+      "description": "2024年12月に基本合意した経営統合が、翌2025年2月には破談となったホンダと日産自動車。そんな異例の展開を経た両社が現在、次世代車「SDV（ソフトウェア定義車両）」の頭脳となる車載OSや中核部品ECU（電子制御ユニット）を軸に協業を具体化しつつある。両社の再接近は何を意味するのか。モータージャーナリスト岡崎五朗氏が読み解く。",
       "maMarket": "jp"
     },
     {
-      "title": "California Democrats need more spine to stop the socialists",
-      "url": "https://nypost.com/2026/08/02/opinion/california-democrats-need-more-spine-to-stop-the-socialists/",
-      "source": "New York Post",
-      "publishedAt": "2026-08-02T22:02:17Z",
-      "description": "The only way for Democrats to stop the socialist takeover of their party is for party leaders to take a stand.",
+      "title": "Rays trade for OF Jack Suwinski, int’l money from Dodgers for C Hunter Feduccia, relief prospect",
+      "url": "https://www.draysbay.com/rays/90422/rays-trade-for-of-jack-suwinski-intl-money-from-dodgers-for-c-hunter-feduccia-relief-prospect",
+      "source": "DRaysBay",
+      "publishedAt": "2026-08-03T22:46:07Z",
+      "description": "The Rays closed out the trade deadline by dealing catcher Hunter Feduccia, who was displaced on the depth chart by the acquisition of C/1B Liam Hicks, alongside 2024 fourth rounder RHP Jacob Kmatz — a relief prospect — for left handed hitting OF Jack Suwinski…",
+      "maMarket": "us"
+    },
+    {
+      "title": "SBペイメントサービスによるSP.LINKSの子会社化に関する契約締結のお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000172108.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-03T14:40:39Z",
+      "description": "[SP.LINKS株式会社] SP.LINKS株式会社（本社：東京都港区、代表取締役社長 兼 CEO：野村 亮輔、以下「SP.LINKS」）は、当社親会社の株主であるBlackstone Inc.の関係会社が管理または投資助言を行うプライベート・エクイティ・ファ...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Grading Yankees trade deadline 2026: How New York fared with deals for Luis Garcia Jr., Heliot Ramos",
+      "url": "https://www.sportingnews.com/us/mlb/new-york-yankees/news/grading-yankees-trade-deadline-2026-luis-garcia-jr-heliot-ramos/8fdd53965a53c5146d9e4adc",
+      "source": "Sporting News",
+      "publishedAt": "2026-08-03T22:39:57Z",
+      "description": "Here's a look at how the Yankees performed at the trade deadline. Did New York do enough to get it over the October hump?",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "東京証券取引所への株式上場申請について",
-      "url": "https://prtimes.jp/main/html/rd/p/000000149.000123546.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-07-30T04:00:00Z",
-      "description": "[株式会社FOLIOホールディングス] SBIグループで革新的な金融ソリューションを提供する株式会社FOLIOホールディングス（本社：東京都千代田区、代表取締役社長 兼 CEO：甲斐 真一郎、以下、「当社」）は、本日、東京証券取引所へ新規上場申請を...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "SpaceX IPO Paid Wall Street $100 Million: Will It’s First Earnings Repay Investors?",
-      "url": "https://biztoc.com/x/58a6393ab7d86a50",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-02T21:09:44Z",
-      "description": "SpaceX earnings land Tuesday, August 4, marking the first since the company went public. The June listing already paid Morgan Stanley bankers about $100 million in fees. That fee was the small part. IPOs led by SpaceX sent more than $74 billion to the bank's …",
-      "ipoMarket": "us"
-    },
-    {
       "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1070719",
+      "url": "https://diamond.jp/zai/articles/-/1070999",
       "source": "Diamond.jp",
-      "publishedAt": "2026-07-28T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞10:10 国債買い入れオペ(残存3-5年、残存25年超、物価連動債)(日本銀行)15:00 工作機械受注(6月) 52.8％ ビーエイブルが東証スタンダードに新規上場(公開価格:700円) アイ・グリッド・ソリューションズが東証グロースに新規上場(公開価格:770円)＜海外＞10:30 豪・消費者物価指数(6月) 4.1％ 4.0％27:00 米・連邦公開市場",
+      "publishedAt": "2026-08-03T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:50 マネタリーベース(7月) -13.7％ エブリーが東証グロースに新規上場(公開価格:230円)＜海外＞17:00 ブ・FIPE消費者物価指数(7月) 0.18％21:00 ブ・鉱工業生産(6月) -0.2％21:30 米・貿易収支(6月) -730億ドル -776億ドル21:30 加・貿易収支(6月) 30.0億カナダドル 42.4億カナダドル23",
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX IPO Paid Wall Street $100 Million: Will It’s First Earnings Repay Investors?",
-      "url": "https://beincrypto.com/spacex-earnings-morgan-stanley-10-trillion/",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-08-02T19:45:02Z",
-      "description": "SpaceX's IPO paid Wall Street $100 million and lifted Morgan Stanley past $10 trillion. SpaceX earnings land August 4.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "PICS DEADLINE: ROSEN, NATIONAL INVESTOR COUNSEL, Encourages PicS N.V. Investors to Secure Counsel Before Important August 4 Deadline in Securities Class Action – PICS",
-      "url": "https://www.globenewswire.com/news-release/2026/08/02/3337188/673/en/PICS-DEADLINE-ROSEN-NATIONAL-INVESTOR-COUNSEL-Encourages-PicS-N-V-Investors-to-Secure-Counsel-Before-Important-August-4-Deadline-in-Securities-Class-Action-PICS.html",
+      "title": "Apnimed Announces Closing of Upsized Initial Public Offering, Including Full Exercise of Underwriters’ Option to Purchase Additional Shares",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337925/0/en/Apnimed-Announces-Closing-of-Upsized-Initial-Public-Offering-Including-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-08-02T18:51:00Z",
-      "description": "NEW YORK, Aug. 02, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of PicS N.V. (NASDAQ: PICS) pursuant and/or traceable to PicS N.V.’s January 30, 2026 initial public offering (the “…",
+      "publishedAt": "2026-08-03T20:35:00Z",
+      "description": "Apnimed closed its upsized IPO, including full exercise of the underwriters' option, raising $220.8M to advance its OSA pipeline....",
       "ipoMarket": "us"
     },
     {
-      "title": "Reuters Health News Summary | Health",
-      "url": "https://www.devdiscourse.com/article/health/3958538-reuters-health-news-summary",
-      "source": "Devdiscourse",
-      "publishedAt": "2026-08-02T14:28:56Z",
-      "description": "India's Manipal Health Enterprises' $960.4 million IPO was oversubscribed, led by institutional investors, while Glenmark Pharmaceuticals posted a 53.6% jump in quarterly profit due to strong demand for its drugs.",
+      "title": "ちゅうぎんインパクトファンド、ちゅうぎんインフィニティファンド2号投資先である株式会社アイ・グリッド・ソリューションズの東証グロース市場新規上場",
+      "url": "https://prtimes.jp/main/html/rd/p/000000187.000166651.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-03T05:53:41Z",
+      "description": "株式会社ちゅうぎんフィナンシャルグループのプレスリリース（2026年8月3日 14時53分）ちゅうぎんインパクトファンド、ちゅうぎんインフィニティファンド2号投資先である株式会社アイ・グリッド・ソリューションズの東証グロース市場新規上場",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "pyipo 0.2.0",
+      "url": "https://pypi.org/project/pyipo/0.2.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-08-03T20:19:17Z",
+      "description": "A production-grade programmatic wrapper for the Nasdaq IPO calendar API with TLS impersonation.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Londian Wason 3.57M share IPO price range $20.00-$22.00",
+      "url": "https://www.thefly.com/foil",
+      "source": "Thefly.com",
+      "publishedAt": "2026-08-03T19:27:05Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Robinhood Ventures Fund II targets $200 million IPO",
+      "url": "https://qz.com/robinhood-ventures-fund-ii-ipo-y-combinator-080326",
+      "source": "Quartz India",
+      "publishedAt": "2026-08-03T17:16:01Z",
+      "description": "The fund holds 80 private companies and focuses on Y Combinator startups, with shares expected to list on the NYSE on August 13",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "デンマーク新兵役制度 20%が女性",
+      "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-04T08:42:37.000Z",
+      "description": ""
+    },
+    {
+      "title": "米 名古屋の領事館など閉鎖計画",
+      "url": "https://news.yahoo.co.jp/pickup/6590475?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-04T02:33:41.000Z",
+      "description": ""
+    },
+    {
+      "title": "ウ軍が露ビーチに攻撃 7人が死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6590463?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-04T00:48:55.000Z",
+      "description": ""
+    },
+    {
+      "title": "ベネズエラ地震 死者6000人超に",
+      "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-04T00:06:55.000Z",
+      "description": ""
+    },
+    {
+      "title": "関税措置巡り 米25州が政権を提訴",
+      "url": "https://news.yahoo.co.jp/pickup/6590452?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-03T23:12:34.000Z",
+      "description": ""
+    },
     {
       "title": "イランが協議否定 米大統領は批判",
       "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
@@ -143,48 +178,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-03T13:47:24.000Z",
-      "description": ""
-    },
-    {
-      "title": "30-31日の為替介入 計11兆円超か",
-      "url": "https://news.yahoo.co.jp/pickup/6590420?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-03T12:20:08.000Z",
-      "description": ""
-    },
-    {
-      "title": "モスクワの飲食店爆発 死者5人に",
-      "url": "https://news.yahoo.co.jp/pickup/6590419?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-03T11:57:35.000Z",
-      "description": ""
-    },
-    {
-      "title": "スーチー氏 赤十字関係者と面会",
-      "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-03T07:15:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "日本に好印象の韓国人54.3% 調査",
-      "url": "https://news.yahoo.co.jp/pickup/6590382?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-03T06:59:24.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領「3日にイラン協議開始」",
-      "url": "https://news.yahoo.co.jp/pickup/6590345?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-03T01:51:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "マレーシア首相 難民巡る発言物議",
-      "url": "https://news.yahoo.co.jp/pickup/6590339?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-03T00:16:07.000Z",
       "description": ""
     }
   ]
