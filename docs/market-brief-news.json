@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T01:30:27.778Z",
+  "fetchedAt": "2026-08-07T22:39:56.564Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "書店と本の総合情報アプリ「本コレ」丸善ジュンク堂書店との在庫連携開始で全国の書店ネットワークを拡大",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000084307.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-08-06T01:00:00Z",
-      "description": "[株式会社カタリスト・データ・パートナーズ] 出版業界8社が出資（※）し、「オープンデータで世の中を変える」ことを目指す株式会社Catalyst・Data・Partners（本社：神奈川県横浜市 代表取締役社長：田中 康正、以下「CDP」）が提供する本の総合情報アプリ「...",
+      "title": "不動産ファンド「みんなで大家さん」が約2881億円の債務超過　分配金の支払い停止めぐり出資者約2500人が集団訴訟中",
+      "url": "https://shikaku2ch.doorblog.jp/archives/59984554.html",
+      "source": "Doorblog.jp",
+      "publishedAt": "2026-08-06T22:01:03Z",
+      "description": "1: ぐれ ★ 2026/08/06(木) 22:06:57.73 ID:P2MTLk7H9 不動産ファンド「みんなで大家さん」が約2881億円の債務超過 分配金の支払い停止めぐり出資者約2500人が集団訴訟中 運営会社を監督する大阪府が調査 8/6(木) 10:53配信 MBSニュース 出資者への分配金支払いが",
       "maMarket": "jp"
     },
     {
-      "title": "Regal Cinemas CEO Backs Paramount-Warner Bros. Merger",
-      "url": "http://www.hollywoodreporter.com/business/business-news/regal-cinemas-ceo-paramount-warner-bros-1236665588/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-08-06T01:18:57Z",
-      "description": "As the mogul's $111 billion quest to marry Paramount and Warner Bros. gets held up in court, a flurry of C-suiters are going public to back the megadeal.",
-      "maMarket": "us"
-    },
-    {
-      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
-      "source": "Itmedia.co.jp",
-      "publishedAt": "2026-08-05T22:49:24Z",
-      "description": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Regal Cinemas CEO Backs Paramount-WBD Merger, Adds Antitrust Trial ‘Could Be Damaging to Our Industry’",
-      "url": "https://www.thewrap.com/industry-news/business/regal-cinemas-ceo-backs-paramount-wbd-merger-adds-antitrust-trial-could-be-damaging-to-our-industry/",
-      "source": "TheWrap",
-      "publishedAt": "2026-08-06T00:51:11Z",
-      "description": "\"A long fight in court that extends into spring or summer doesn’t put more films in theaters,\" Eduardo Acuna says The post Regal Cinemas CEO Backs Paramount-WBD Merger, Adds Antitrust Trial ‘Could Be Damaging to Our Industry’ appeared first on TheWrap.",
-      "maMarket": "us"
-    },
-    {
-      "title": "欧米で広がる「不動産AI買収」脅威…迷う日本企業は丸ごと買い取られる？",
-      "url": "https://news.livedoor.com/article/detail/31997619/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-08-05T21:55:00Z",
-      "description": "不動産業界のDX（デジタルトランスフォーメーション）は、いつまで「必要性は分かっている」という段階にとどまるのだろうか。黒川紀章設計「戦没者慰霊塔」も丹下健三設計「香川県立体育館」も解体…財政難で維持できなくなった名建築不動産テック企業7社と全国賃貸住宅新聞が、不動産関連事業に携わる1286人を対象に行った昨年の調査では、98.6％がDXを推進すべきだと回答した。ところが、実際に取り組んでいるのは37.9％。取り組む予定を含めても68.0％にとどまる。年間予算は6 全文日刊ゲンダイDIGITAL 08月06日 0…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "'Bay of Pigs Reloaded': New CIA Task Force to Further Destabilize Cuba Revealed",
-      "url": "https://www.commondreams.org/news/cia-cuba",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-06T00:48:21Z",
-      "description": "After months of President Donald Trump threatening a US takeover of Cuba and ramping up a decadeslong economic assault of the island, The New York Times revealed Wednesday that the Central Intelligence Agency created a related task force, \"setting in motion p…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【人気特集】住友重機械の次期社長が“構造改革”の決意を表明・ホンダによるアステモ子会社化の舞台裏！ - 見逃し厳禁！編集部イチ推し 人気特集",
-      "url": "https://diamond.jp/articles/-/396464",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-08-05T19:20:00Z",
-      "description": "2025年に人気を集めた特集『重工・機械 成長への羅針盤』と特集『自動車 “最強産業”の死闘』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’",
-      "url": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/",
+      "title": "After U.K. Approval of Paramount-WBD Deal, European Media Leaders Rally Behind David Ellison: ‘The Industry Will Be Stronger’",
+      "url": "https://variety.com/2026/film/global/uk-approval-paramount-wbd-european-leaders-david-ellison-1236829488/",
       "source": "Variety",
-      "publishedAt": "2026-08-06T00:36:25Z",
-      "description": "Regal Cinemas CEO Eduardo Acuna released a statement on Wednesday evening in support of the looming Paramount-Warner Bros. merger. “This year has been an important one for our industry. Attendance is up, younger audiences are coming out in numbers we haven’t …",
+      "publishedAt": "2026-08-06T22:24:57Z",
+      "description": "The U.K.’s decision to clear Paramount Skydance’s $111 ⁠billion proposed acquisition of Warner Bros. Discovery has been broadly welcomed by European industry players. U.K. exhibitors, media executives and analysts have argued the deal reflects a wider shift i…",
+      "maMarket": "us"
+    },
+    {
+      "title": "ブラックロック系が日本の新興企業に初出資 アスエネがシリーズDで135億円調達しても｢IPOを遅らせる｣理由 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953695?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-08-06T21:30:00Z",
+      "description": "企業の｢脱炭素｣を支援するアスエネが､ブラックロック系ファンドをリード投資家に迎え､シリーズDで総額135億円を調達しました。同ファンドの日本の新興企業への出資は初です。IPOをあえて遅らせる理由を西和田浩平CEOに聞きました。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Biogen Completes Acquisition of RayThera Inc.",
+      "url": "https://financialpost.com/globe-newswire/biogen-completes-acquisition-of-raythera-inc",
+      "source": "Financial Post",
+      "publishedAt": "2026-08-06T22:17:47Z",
+      "description": "Lead program now in Phase 1 development CAMBRIDGE, Mass., Aug. 06, 2026 (GLOBE NEWSWIRE) — Biogen Inc. (Nasdaq: BIIB) today announced the completion of the acquisition of RayThera Inc., a privately held biotechnology company focused on discovering and develop…",
+      "maMarket": "us"
+    },
+    {
+      "title": "【悲報】韓国サッカー　国際試合で審判買収(性接待)をしてた模様wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "url": "http://blog.livedoor.jp/nanjstu/archives/63397629.html",
+      "source": "Livedoor.jp",
+      "publishedAt": "2026-08-06T21:12:16Z",
+      "description": "1 ：名無し 2026/08/07(金) 05:02:24.491 ID:gdIeoNKAy 韓国サッカー協会が２０１１年３月から１２年３月の間、国内で開催されたＷ杯アジア予選やロンドン五輪アジア予選、国際親善試合など計７試合を担当した外国人審判員ら十数人に対して、不適切な性的接待を行ってい...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Biogen Completes Acquisition of RayThera Inc.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Completes-Acquisition-of-RayThera-Inc.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-08-06T22:15:00Z",
+      "description": "Lead program now in Phase 1 development Lead program now in Phase 1 development",
+      "maMarket": "us"
+    },
+    {
+      "title": "【朗報】ジャンプが最も売れた1995年新年3・4合併号に載ってる作品がこちらｗｗｗｗ",
+      "url": "http://onecall2ch.com/archives/11095977.html",
+      "source": "Onecall2ch.com",
+      "publishedAt": "2026-08-06T21:05:03Z",
+      "description": "週刊少年ジャンプ 2026年36号 1： 2026/08/06(木) 22:58:42.24 言うほどか？ SLAM DUNK SHADOW LADY（桂正和・特別読切） MIND ASSASSIN DRAGON BALL みどりのマキバオー とっても！ラッキーマン るろうに剣心―明治剣客浪漫譚― ボンボン坂高校演劇部 NANP",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Nielsen to Acquire DoubleVerify for Over $2 Billion to Enhance Digital Measurement Efforts",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/nielsen-doubleverify-acquisition-details/",
+      "source": "TheWrap",
+      "publishedAt": "2026-08-06T22:11:45Z",
+      "description": "The price marks a 30% premium to the digital media monitoring company's trading price The post Nielsen to Acquire DoubleVerify for Over $2 Billion to Enhance Digital Measurement Efforts appeared first on TheWrap.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Wilco 63 Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing August 10, 2026",
-      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339808/0/en/Wilco-63-Announces-the-Separate-Trading-of-its-Class-A-Ordinary-Shares-and-Warrants-Commencing-August-10-2026.html",
+      "title": "CapV Launches Transactions and IPO Communications Division as IPO Market Accelerates",
+      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340863/0/en/CapV-Launches-Transactions-and-IPO-Communications-Division-as-IPO-Market-Accelerates.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-08-05T21:00:00Z",
-      "description": "New York, NY, Aug. 05, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (Nasdaq: WLCOU) (the “Company”) announced today that, commencing August 10, 2026, holders of the units sold in the Company’s initial public offering may elect to separately trade the Company…",
+      "publishedAt": "2026-08-06T21:27:00Z",
+      "description": "Former JPMorgan Chase and Walgreens Communications Executive Heads Practice With Decades of Experience Navigating Major Corporate Transformations, Strategic Transactions, and Public Market Readiness Former JPMorgan Chase and Walgreens Communications Executive…",
       "ipoMarket": "us"
     },
     {
@@ -99,27 +99,71 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "In its first deal since going public, Italian unicorn Bending Spoons buys Airtable at a $9 billion discount",
-      "url": "https://fortune.com/2026/08/05/bending-spoons-italian-unicorn-startup-airtale-ipo/",
+      "title": "Gores Holdings XI, Inc. Announces the Separate Trading of its Class A Ordinary Shares and Warrants Commencing August 13, 2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gores-holdings-xi-inc-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-august-13-2026",
+      "source": "Financial Post",
+      "publishedAt": "2026-08-06T20:08:15Z",
+      "description": "BOULDER, Colo. — Gores Holdings XI, Inc. (Nasdaq: GHXIU) (the “Company”), a blank check company sponsored by affiliates of The Gores Group, today announced that, commencing August 13, 2026, holders of the units sold in the Company’s initial public offering of…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Singapore’s IPO reboot sees 3.5x the listings and over $3 billion raised, as reforms bring bourse revenue up 14% via dual listing bridge with Nasdaq",
+      "url": "https://biztoc.com/x/a10f2d547d5c9297",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-06T16:55:27Z",
+      "description": "Singapore’s bourse reported a 14% jump in yearly revenue to $1.17 billion, after the country rolled out a series of market reforms in 2025 aimed at revitalizing its sluggish stock market. The measures, which included tax rebates for newly-listed companies and…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Singapore’s IPO reboot sees 3.5x the listings and over $3 billion raised, as reforms bring bourse revenue up 14% via dual listing bridge with Nasdaq",
+      "url": "https://fortune.com/2026/08/06/singapores-ipo-reboot-sees-3-5x-the-listings-and-over-3-billion-raised-as-reforms-bring-bourse-revenue-up-14-via-dual-listing-bridge-with-nasdaq/",
       "source": "Fortune",
-      "publishedAt": "2026-08-05T19:07:48Z",
-      "description": "Airtable was valued at a $11 billion during its 2021 boom.",
+      "publishedAt": "2026-08-06T16:35:03Z",
+      "description": "The Singapore Exchange (SGX) reported a 24.6% increase in net profits in FY2026.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "北発射は短距離弾道ミサイル 韓国",
-      "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
+      "title": "中国でスシロー好調 5時間待ちも",
+      "url": "https://news.yahoo.co.jp/pickup/6590909?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-06T12:51:47.000Z",
+      "publishedAt": "2026-08-07T12:51:44.000Z",
       "description": ""
     },
     {
-      "title": "北発射のミサイルはEEZ外落下か",
-      "url": "https://news.yahoo.co.jp/pickup/6590759?source=rss",
+      "title": "「日銀利上げで円高」は本当か?",
+      "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-06T08:35:08.000Z",
+      "publishedAt": "2026-08-07T12:46:50.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国船同士衝突2人死亡 公表に1年",
+      "url": "https://news.yahoo.co.jp/pickup/6590904?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-07T12:43:17.000Z",
+      "description": ""
+    },
+    {
+      "title": "タイの学校で銃撃 教職員5人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-07T08:30:32.000Z",
+      "description": ""
+    },
+    {
+      "title": "米「出産旅行」禁止 大統領令署名",
+      "url": "https://news.yahoo.co.jp/pickup/6590874?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-07T08:00:23.000Z",
+      "description": ""
+    },
+    {
+      "title": "米大統領 イラン戦闘「近く終結」",
+      "url": "https://news.yahoo.co.jp/pickup/6590834?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-07T01:40:49.000Z",
       "description": ""
     },
     {
@@ -148,20 +192,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6590698?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-06T00:52:46.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン トランプ氏に攻撃自制促す",
-      "url": "https://news.yahoo.co.jp/pickup/6590683?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T23:19:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "株投資で若年男性が自信喪失か 米",
-      "url": "https://news.yahoo.co.jp/pickup/6590681?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T22:38:47.000Z",
       "description": ""
     }
   ]
