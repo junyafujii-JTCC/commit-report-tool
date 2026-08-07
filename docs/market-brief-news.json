@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T23:03:39.729Z",
+  "fetchedAt": "2026-08-07T01:30:27.778Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "税理士法人「平均年収」ランキング【主要36法人】3位アップパートナーズ、2位AGS、1位は？AI活用の余力でコンサル化!?高待遇で突き抜けるのはどこか - 税理士リバイバル！ AI時代の給与・出世・序列",
-      "url": "https://diamond.jp/articles/-/396404",
+      "title": "書店と本の総合情報アプリ「本コレ」丸善ジュンク堂書店との在庫連携開始で全国の書店ネットワークを拡大",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000084307.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-06T01:00:00Z",
+      "description": "[株式会社カタリスト・データ・パートナーズ] 出版業界8社が出資（※）し、「オープンデータで世の中を変える」ことを目指す株式会社Catalyst・Data・Partners（本社：神奈川県横浜市 代表取締役社長：田中 康正、以下「CDP」）が提供する本の総合情報アプリ「...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Regal Cinemas CEO Backs Paramount-Warner Bros. Merger",
+      "url": "http://www.hollywoodreporter.com/business/business-news/regal-cinemas-ceo-paramount-warner-bros-1236665588/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-08-06T01:18:57Z",
+      "description": "As the mogul's $111 billion quest to marry Paramount and Warner Bros. gets held up in court, a flurry of C-suiters are going public to back the megadeal.",
+      "maMarket": "us"
+    },
+    {
+      "title": "Googleのジェフ・ディーン氏、独立してAI実験を大規模自動化する新会社Discovery Loop設立",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000408/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-08-05T22:49:24Z",
+      "description": "Googleのチーフサイエンティスト、ジェフ・ディーン氏が退社し、新会社「Discovery Loop」を設立すると発表した。サンジェイ・ゲマワット氏らと共同創業する公益法人で、フロンティアAIモデルと計算基盤を活用して実験や検証などの研究プロセス全体を自動化することを目指す。Googleは初期出資者およびクラウドパートナーとして協力する。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Regal Cinemas CEO Backs Paramount-WBD Merger, Adds Antitrust Trial ‘Could Be Damaging to Our Industry’",
+      "url": "https://www.thewrap.com/industry-news/business/regal-cinemas-ceo-backs-paramount-wbd-merger-adds-antitrust-trial-could-be-damaging-to-our-industry/",
+      "source": "TheWrap",
+      "publishedAt": "2026-08-06T00:51:11Z",
+      "description": "\"A long fight in court that extends into spring or summer doesn’t put more films in theaters,\" Eduardo Acuna says The post Regal Cinemas CEO Backs Paramount-WBD Merger, Adds Antitrust Trial ‘Could Be Damaging to Our Industry’ appeared first on TheWrap.",
+      "maMarket": "us"
+    },
+    {
+      "title": "欧米で広がる「不動産AI買収」脅威…迷う日本企業は丸ごと買い取られる？",
+      "url": "https://news.livedoor.com/article/detail/31997619/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-05T21:55:00Z",
+      "description": "不動産業界のDX（デジタルトランスフォーメーション）は、いつまで「必要性は分かっている」という段階にとどまるのだろうか。黒川紀章設計「戦没者慰霊塔」も丹下健三設計「香川県立体育館」も解体…財政難で維持できなくなった名建築不動産テック企業7社と全国賃貸住宅新聞が、不動産関連事業に携わる1286人を対象に行った昨年の調査では、98.6％がDXを推進すべきだと回答した。ところが、実際に取り組んでいるのは37.9％。取り組む予定を含めても68.0％にとどまる。年間予算は6 全文日刊ゲンダイDIGITAL 08月06日 0…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "'Bay of Pigs Reloaded': New CIA Task Force to Further Destabilize Cuba Revealed",
+      "url": "https://www.commondreams.org/news/cia-cuba",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-06T00:48:21Z",
+      "description": "After months of President Donald Trump threatening a US takeover of Cuba and ramping up a decadeslong economic assault of the island, The New York Times revealed Wednesday that the Central Intelligence Agency created a related task force, \"setting in motion p…",
+      "maMarket": "us"
+    },
+    {
+      "title": "【人気特集】住友重機械の次期社長が“構造改革”の決意を表明・ホンダによるアステモ子会社化の舞台裏！ - 見逃し厳禁！編集部イチ推し 人気特集",
+      "url": "https://diamond.jp/articles/-/396464",
       "source": "Diamond.jp",
-      "publishedAt": "2026-08-04T19:55:00Z",
-      "description": "かつて「AIに奪われる職業」の筆頭に挙げられ、業界全体に暗雲が垂れ込めた税理士業界。あれから10年余り――。一部の税理士法人は、税務申告や記帳代行だけではなく、コンサルティングやM＆A支援業務へ進出。脅威とされたAIの活用によって生まれた余力を活用しているのだ。今ではさらなる業容拡大のために人材を獲得しようと、待遇を改善する法人が続出している。変革の最前線を追うとともに、主要36法人の平均年収ランキングを初公開する。",
+      "publishedAt": "2026-08-05T19:20:00Z",
+      "description": "2025年に人気を集めた特集『重工・機械 成長への羅針盤』と特集『自動車 “最強産業”の死闘』。人気特集と連載を振り返る『見逃し厳禁！編集部イチ推し 人気特集』では、2本の記事を紹介します。（ダイヤモンド編集部・情報は記事公開時点のもの）",
       "maMarket": "jp"
     },
     {
-      "title": "The first Googlebook shows us what Google's Android-ChromeOS merger actually looks like",
-      "url": "https://www.techspot.com/news/113354-first-googlebook-shows-us-what-google-android-chromeos.html",
-      "source": "TechSpot",
-      "publishedAt": "2026-08-04T23:02:00Z",
-      "description": "Google unveiled the Googlebook laptop in May, explaining that several OEMs would be joining in with their own take on the AI-ready machine. Thanks to Digital Citizen, we now have a closer look at the Googlebook Lenovo is building for a late-2026 release. The …",
-      "maMarket": "us"
-    },
-    {
-      "title": "ユニバー・ソリューションズ、H.M.ロイヤルを買収し、米国におけるゴム、プラスチックおよび接着剤用添加剤分野での事業拡大を図る",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/ja/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC-%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA-H-M-%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%92%E8%B2%B7%E5%8F%8E%E3%81%97-%E7%B1%B3%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B4%E3%83%A0-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%8A%E3%82%88%E3%81%B3%E6%8E%A5%E7%9D%80%E5%89%A4%E7%94%A8%E6%B7%BB%E5%8A%A0%E5%89%A4%E5%88%86%E9%87%8E%E3%81%A7%E3%81%AE%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7%E3%82%92%E5%9B%B3%E3%82%8B.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-08-04T16:17:00Z",
-      "description": "100年にわたる技術的専門知識と顧客との信頼関係を結集し、米国の主要市場におけるサービスと供給体制を強化する イリノイ州ダウナーズグローブ発, Aug. 05, 2026 (GLOBE NEWSWIRE) --...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Paramount Skydance reports mixed quarter as judge sets March trial date for Warner deal",
-      "url": "https://biztoc.com/x/07c4eb15e3f34e38",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-04T22:55:48Z",
-      "description": "Paramount Skydance PSKY-Q reported mixed second-quarter results on Tuesday, with higher streaming and studio revenue offsetting declines in television, as the company works to close its planned US$110-billion acquisition of Warner Bros. Discovery. The enterta…",
-      "maMarket": "us"
-    },
-    {
-      "title": "8月5日 新刊「ゾンビのあふれた世界で俺だけが襲われない 5」「機動戦士ガンダム フラナガン・ブーン戦記 7」「寿々木君のていねいな生活 4」ほか",
-      "url": "https://kindou.info/20823.html",
-      "source": "Kindou.info",
-      "publishedAt": "2026-08-04T12:00:00Z",
-      "description": "フロンティアワークス、白泉社、ヒーローズなどから新刊配信日。お盆進行なのでマガジンは合併号ですね。今日の日記：餃子を吟味して池袋の『湘聚・湖南菜館』にいきまして……メニューに点心がなかった……。よだれ鶏、じゃがいも炒めとか大変美味しかったけど満足度が低い。Kindle注目の新刊",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
-      "url": "https://www.prnewswire.com/news-releases/santander-receives-federal-reserve-approval-for-the-acquisition-of-webster-financial-corporation-302843056.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-04T22:53:00Z",
-      "description": "MADRID and STAMFORD, Conn., Aug. 4, 2026 /PRNewswire/ -- Banco Santander, S.A. (\"Santander\") and Webster Financial Corporation (\"Webster\") today announced that they have received the required approval from the Board of Governors of the Federal Reserve System …",
-      "maMarket": "us"
-    },
-    {
-      "title": "ソフトバンクQ1決算は増収増益、セブン＆アイ提携や決済強化で社会インフラ企業へ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2130556.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-08-04T11:58:52Z",
-      "description": "ソフトバンクは、2026年度第1四半期連結業績を発表した。売上高は前年同期比9％増の1兆8147億円、営業利益は同4％増の3023億円と増収増益を達成。AI関連投資の収穫期入りや、セブン＆アイとの資本業務提携、米国のAIインフラ事業進出など、通信会社から社会インフラ企業への進化を象徴する戦略が数多く示された。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "1972 Volkswagen Type 2",
-      "url": "https://bringatrailer.com/listing/1972-volkswagen-type-2-t2-bay-window-4/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-04T22:50:10Z",
-      "description": "This 1972 Volkswagen Type 2 spent time in California under previous ownership and underwent a restoration completed in 2021 before the selling dealer's acquisition in 2026. Finished in Niagara Blue and white over gray and blue vinyl, the van is powered by a r…",
+      "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’",
+      "url": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/",
+      "source": "Variety",
+      "publishedAt": "2026-08-06T00:36:25Z",
+      "description": "Regal Cinemas CEO Eduardo Acuna released a statement on Wednesday evening in support of the looming Paramount-Warner Bros. merger. “This year has been an important one for our industry. Attendance is up, younger audiences are coming out in numbers we haven’t …",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "PAINE SCHWARTZ PARTNERS ANNOUNCES INTENTION TO CONDUCT OPEN-MARKET PURCHASES OF SUJA LIFE SHARES",
-      "url": "https://www.prnewswire.com/news-releases/paine-schwartz-partners-announces-intention-to-conduct-open-market-purchases-of-suja-life-shares-302843040.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-04T22:15:00Z",
-      "description": "PSP did not sell any shares in Suja Life's initial public offering and expects to increase its ownership through open-market purchases NEW YORK, Aug. 4, 2026 /PRNewswire/ -- Paine Schwartz Partners, LLC, together with its affiliated investment funds and entit…",
+      "title": "Wilco 63 Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing August 10, 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339808/0/en/Wilco-63-Announces-the-Separate-Trading-of-its-Class-A-Ordinary-Shares-and-Warrants-Commencing-August-10-2026.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-08-05T21:00:00Z",
+      "description": "New York, NY, Aug. 05, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (Nasdaq: WLCOU) (the “Company”) announced today that, commencing August 10, 2026, holders of the units sold in the Company’s initial public offering may elect to separately trade the Company…",
       "ipoMarket": "us"
     },
     {
@@ -99,85 +99,69 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX Falls After Higher AI Spending in Post-IPO Earnings",
-      "url": "https://financialpost.com/pmn/business-pmn/spacex-falls-after-higher-ai-spending-in-post-ipo-earnings",
-      "source": "Financial Post",
-      "publishedAt": "2026-08-04T21:17:03Z",
-      "description": "SpaceX’s revenue exceeded Wall Street’s estimates in the company’s first quarterly financial report following its blockbuster initial public offering in June.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
-      "url": "https://biztoc.com/x/1997497d948a08a8",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-04T21:10:11Z",
-      "description": "Elon Musk, founder of Space Exploration Technologies Corp. (SpaceX), on screen during the company's initial public offering at the Nasdaq MarketSite in New York in June.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX reports 92% revenue surge despite Wall Street AI jitters — first report card since historic IPO",
-      "url": "https://nypost.com/2026/08/04/business/spacex-reports-92-revenue-surge-despite-wall-street-ai-jitters-first-report-card-since-historic-ipo/",
-      "source": "New York Post",
-      "publishedAt": "2026-08-04T20:42:12Z",
-      "description": "SpaceX posted an operating loss of $143 million and an earnings per share loss of $0.09, beating analyst expectations of a loss per share of 26 cents.",
+      "title": "In its first deal since going public, Italian unicorn Bending Spoons buys Airtable at a $9 billion discount",
+      "url": "https://fortune.com/2026/08/05/bending-spoons-italian-unicorn-startup-airtale-ipo/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-05T19:07:48Z",
+      "description": "Airtable was valued at a $11 billion during its 2021 boom.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "北発射は短距離弾道ミサイル 韓国",
+      "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-06T12:51:47.000Z",
+      "description": ""
+    },
+    {
+      "title": "北発射のミサイルはEEZ外落下か",
+      "url": "https://news.yahoo.co.jp/pickup/6590759?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-06T08:35:08.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国警察 サッカー協会を家宅捜索",
+      "url": "https://news.yahoo.co.jp/pickup/6590732?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-06T04:51:32.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国 なぜ領有権争いを続けるのか",
+      "url": "https://news.yahoo.co.jp/pickup/6590721?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-06T03:34:29.000Z",
+      "description": ""
+    },
+    {
+      "title": "イラン 海峡運用でオマーンと合意",
+      "url": "https://news.yahoo.co.jp/pickup/6590707?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-06T02:12:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "独空港 爆発物搭載のドローン発見",
+      "url": "https://news.yahoo.co.jp/pickup/6590698?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-06T00:52:46.000Z",
+      "description": ""
+    },
+    {
+      "title": "イラン トランプ氏に攻撃自制促す",
+      "url": "https://news.yahoo.co.jp/pickup/6590683?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-05T23:19:37.000Z",
+      "description": ""
+    },
+    {
       "title": "株投資で若年男性が自信喪失か 米",
       "url": "https://news.yahoo.co.jp/pickup/6590681?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-05T22:38:47.000Z",
-      "description": ""
-    },
-    {
-      "title": "露がウ首都周辺を攻撃 17人が死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T10:53:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領が米石油大手批判 今後は",
-      "url": "https://news.yahoo.co.jp/pickup/6590607?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T04:52:10.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国警察がスタバを家宅捜索 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6590603?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T04:40:40.000Z",
-      "description": ""
-    },
-    {
-      "title": "捨てた1.8億円くじ奇跡的発見 伊",
-      "url": "https://news.yahoo.co.jp/pickup/6590597?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T03:28:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "北朝鮮 日本のトマホーク試射批判",
-      "url": "https://news.yahoo.co.jp/pickup/6590588?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T02:49:49.000Z",
-      "description": ""
-    },
-    {
-      "title": "ドローンがウの民間人を追跡 爆発",
-      "url": "https://news.yahoo.co.jp/pickup/6590569?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-05T00:20:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "ベネズエラ地震 死者6000人超に",
-      "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-04T00:06:55.000Z",
       "description": ""
     }
   ]
