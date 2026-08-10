@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T22:35:06.148Z",
+  "fetchedAt": "2026-08-10T22:41:10.190Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "銅の高値続くのになぜ国内事業は厳しい　三菱マテリアル社長に聞く",
+      "url": "https://www.asahi.com/articles/ASV861CZJV86ULFA00PM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-08-09T22:00:00Z",
+      "description": "非鉄大手の三菱マテリアルは2027年2月、JX金属と三井金属、丸紅が共同出資する「パンパシフィック・カッパー（PPC）」と、銅事業の一部を統合する。なぜライバル会社との事業統合に踏み切るのか。銅事業…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "jupyterhub-tessera 1.0.0rc1",
+      "url": "https://pypi.org/project/jupyterhub-tessera/1.0.0rc1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-08-09T22:40:40Z",
+      "description": "JupyterHub/JupyterLab plugin to acquire and securely store OAuth2/OIDC tokens, with a per-server status button.",
+      "maMarket": "us"
+    },
+    {
+      "title": "「プロダクトビルダー」の時代が来る ― PdM・デザイナー・エンジニアの垣根が溶けたあと、デザイナーの武器は何か｜そわか",
+      "url": "https://note.com/abiraunken/n/n5dda94b16c63",
+      "source": "Note.com",
+      "publishedAt": "2026-08-09T13:43:07Z",
+      "description": "自己紹介 toB SaaS専門のUX/UIデザイナーです。複雑な業務ドメインのプロダクトを12年以上手がけてきました。 最近、「プロダクトビルダー」という言葉を耳にする機会が増えました。 PdM・デザイナー・エンジニアという職種の垣根がなくなり、全員が「作る人」になっていく― そういう話です。 聞いた時、正直「確かにそうだ」と思いました。というのも、私自身がいま個人開発で、まさにその状態を体験しているからです。 この記事では、海外で何が起きているかを整理したうえで、実際に一人で全役割をやってみて分かったこと…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger - Deadline",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184914042",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-09T21:52:14Z",
+      "description": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-MergerDeadline Paramount Will Put 30-Film Pledge in Writing to Theater ChainsBloomberg.com Ellison Offers Theaters Contract Guarantee for Paramount-Warner Br…",
+      "maMarket": "us"
+    },
+    {
+      "title": "Shellブランドの激安充電器を買ってみた",
+      "url": "https://komameblog.jp/log/shell-charger/",
+      "source": "Komameblog.jp",
+      "publishedAt": "2026-08-09T10:21:34Z",
+      "description": "7月に行なわれたAmazonのプライムデーで、「Shell（シェル）」ブランドの充電器が安くなっていたのでポチりました。かつてガソリンスタンドでよく見かけた貝のマークは、他社との経営統合によって街中から消え去りました。しかしそのブランドは残っており、いまでは充電器で見かけることができるというわけです。これ、...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Baylin Technologies Q2 Earnings Call Highlights",
+      "url": "https://biztoc.com/x/dab759b941c241cd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-09T21:25:13Z",
+      "description": "Key Points - Record backlog: Baylin Technologies' backlog reached CAD 61 million in Q2 2026, up from CAD 20.4 million at year-end 2025, driven by the Kaelus acquisition and new Satcom orders. - Kaelus expands growth opportunities: The CAD 42 million acquisit…",
+      "maMarket": "us"
+    },
+    {
       "title": "大手5行、純利益5.8兆円で過去最高…みずほ「初の1兆円超え」の裏側",
       "url": "https://biz-journal.jp/company/post_395589.html",
       "source": "Biz-journal.jp",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Qorvo's Fate Is Tied to a Skyworks Buyout. Here's What Its Latest Insider Filings Show",
-      "url": "https://biztoc.com/x/cfb6226339cfa38f",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-08T22:26:23Z",
-      "description": "Frank P. Stewart, SVP of advanced cellular at Qorvo (NASDAQ:QRVO), disposed of 2,262 shares of common stock on August 5 in a non-discretionary transaction, according to a recent SEC Form 4 filing. Transaction summary Key questions - What was the nature of thi…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【続報】東証スタンダード上場ANAP「41億円資金還流」錬金術の実態判明！サイバーステップ社でも同一手口の巨額M＆Aを敢行《再配信》 - 今だからこそ読みたい！注目特集",
-      "url": "https://diamond.jp/articles/-/396576",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-08-08T19:50:00Z",
-      "description": "ダイヤモンド・オンラインのスクープにより判明した、東証スタンダード上場ANAPホールディングスにおける「41億円資金還流」事案の調査が大詰めを迎えている。調査委員会の報告書公表が迫る中、取材で新たに、無価値の事業で巨額資金を生み出す錬金術の手口が明らかになった。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
-      "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
-      "source": "Variety",
-      "publishedAt": "2026-08-08T22:19:26Z",
-      "description": "As “Abbott Elementary” gears up for Season 6 production in just a few short weeks, stars Sheryl Lee Ralph, Janelle James and Luke Tennie are reflecting on turbulent changes in the industry — from the pending Paramount-Warner Bros. merger to production struggl…",
-      "maMarket": "us"
-    },
-    {
-      "title": "韓国サッカー協会、外国人審判を性接待で買収しまくっていた事が判明",
-      "url": "https://majikichi.com/archives/11027671.html",
-      "source": "Majikichi.com",
-      "publishedAt": "2026-08-08T05:00:08Z",
-      "description": "1: : 2026/08/08(土) 10:37:25.43 ID:IlvTao8e0● BE:886559449-PLT(23222) 引用元: 【知ってた】 韓国サッカー協会、外国人審判を性接待で買収していた事が判明 [886559449]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Amazon Now Owns James Bond, But Prime Video Already Has The Perfect Spy Franchise",
-      "url": "https://screenrant.com/amazon-james-bond-prime-video-jack-ryan-spy-franchise/",
-      "source": "Screen Rant",
-      "publishedAt": "2026-08-08T22:06:11Z",
-      "description": "Amazon's acquisition of James Bond may have been game-changing, but the Prime already has a show that set the standard for streaming spy stories.",
-      "maMarket": "us"
-    },
-    {
-      "title": "キリンＨＤ、加サプリメント大手ジェイミソンを買収　約2200億円（ロイター）｜ｄメニューニュース",
-      "url": "https://topics.smt.docomo.ne.jp/article/reuters/business/reuters-20260807025",
-      "source": "Docomo.ne.jp",
-      "publishedAt": "2026-08-08T01:27:00Z",
-      "description": "キリンＨＤ、加サプリメント大手ジェイミソンを買収 約2200億円（ロイター）[東京 ７日 ロイター] - キリンホールディングスは７日、カナダ‌のサプリメント大手、⁠ジェイミソン・ウェルネスを買収すると発表…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "3 Audio Brands You Might Not Realize Are Owned By Bose",
-      "url": "https://www.bgr.com/2228662/audio-brands-owned-by-bose/",
-      "source": "BGR",
-      "publishedAt": "2026-08-08T21:47:00Z",
-      "description": "Bose owns more than its own speakers and headphones. Here are three premium audio brands now under its umbrella following a major acquisition.",
+      "title": "Contact Energy lifts profit 31%, ties up with CDC for giant Taranaki data centre",
+      "url": "https://www.nzherald.co.nz/business/companies/energy/contact-energy-lifts-profit-31-ties-up-with-cdc-for-taranaki-data-centre/OYBWRYCSMJDYLAOEXDS5ESEVII/",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-08-09T21:21:55Z",
+      "description": "Contact’s ebitdaf rose 31% to $1011 million after the Manawa acquisition.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "3 Surprising IPO Winners in 2026 That Aren't SpaceX or SK Hynix Stock Investors Should Know About",
-      "url": "https://www.ibtimes.com.au/smaller-ipos-shine-2026-1873774",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-08T09:16:52Z",
-      "description": "In 2026, smaller IPOs like Lime and CoreWeave have quietly outperformed, offering investors strong returns amidst a market dominated by high-profile offerings such as SpaceX and SK Hynix.",
+      "title": "SpaceX lockup expiry to test retail’s iron stomach",
+      "url": "https://www.gulf-times.com/article/730774/business/spacex-lockup-expiry-to-test-retails-iron-stomach",
+      "source": "Gulf-times.com",
+      "publishedAt": "2026-08-09T17:01:25Z",
+      "description": "SpaceX's stock market debut in June was the largest initial public offering in history, epitomizing the AI mania that has spread ...",
       "ipoMarket": "us"
     },
     {
@@ -99,31 +99,43 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
-      "url": "https://biztoc.com/x/bd9c0351acd1a38d",
+      "title": "SpaceX vs. Meta Platforms: Which Will Reach the $2 Trillion Club First?",
+      "url": "https://biztoc.com/x/8a54a76840410551",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-08T09:03:24Z",
-      "description": "This has been a history-packed year for Wall Street. In addition to witnessing the largest-ever initial public offering in stock market history and the swearing in of only the 17th Fed chair since the central bank's inception in 1913, investors have seen the …",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Switch files confidentially for US IPO amid AI demand, eyes $80B valuation",
-      "url": "https://cryptobriefing.com/switch-confidential-ipo-filing-ai-demand/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-08T00:44:41Z",
-      "description": "Switch's IPO highlights the growing demand for AI-optimized infrastructure, potentially reshaping data center investments and market dynamics. The post Switch files confidentially for US IPO amid AI demand, eyes $80B valuation appeared first on Crypto Briefin…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Braveheart Bio Announces Closing of Upsized Initial Public Offering Including Full Exercise of Underwriters’ Option to Purchase Additional Shares",
-      "url": "https://www.globenewswire.com/news-release/2026/08/07/3341381/0/en/braveheart-bio-announces-closing-of-upsized-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-08-07T20:05:00Z",
-      "description": "SAN FRANCISCO, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Braveheart Bio, Inc. (Nasdaq: BRVE), a clinical-stage biopharmaceutical company developing next-generation therapeutics for hypertrophic cardiomyopathy (HCM) and other serious cardiovascular diseases, today ann…",
+      "publishedAt": "2026-08-09T12:35:00Z",
+      "description": "Although Space Exploration Technologies (NASDAQ: SPCX) reached the $2 trillion mark shortly after its initial public offering (IPO) in June, it has fallen significantly since then and is now valued at about $1.45 trillion. Meta Platforms (NASDAQ: META) has ne…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "コロンビアで地震 110人超死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6591270?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-10T22:19:52.000Z",
+      "description": ""
+    },
+    {
+      "title": "協調介入 日銀利上げ示唆が決め手",
+      "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-10T13:13:43.000Z",
+      "description": ""
+    },
+    {
+      "title": "日銀委員 利上げペース加速の意見",
+      "url": "https://news.yahoo.co.jp/pickup/6591178?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-10T03:41:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "NY自由の女神観光で転覆 2人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6591161?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-10T00:58:06.000Z",
+      "description": ""
+    },
     {
       "title": "ガザ和平工程 ネタニヤフ氏が拒否",
       "url": "https://news.yahoo.co.jp/pickup/6591133?source=rss",
@@ -164,20 +176,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591069?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-09T02:08:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "米中間選挙 岩盤層「MAGA」健在",
-      "url": "https://news.yahoo.co.jp/pickup/6591048?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-08T23:28:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン革命防衛隊 米国をけん制",
-      "url": "https://news.yahoo.co.jp/pickup/6591033?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-08T13:55:05.000Z",
       "description": ""
     }
   ]
