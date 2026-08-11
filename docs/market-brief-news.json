@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T22:41:10.190Z",
+  "fetchedAt": "2026-08-11T22:48:12.569Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,173 +9,159 @@
   ],
   "ma": [
     {
-      "title": "銅の高値続くのになぜ国内事業は厳しい　三菱マテリアル社長に聞く",
-      "url": "https://www.asahi.com/articles/ASV861CZJV86ULFA00PM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-08-09T22:00:00Z",
-      "description": "非鉄大手の三菱マテリアルは2027年2月、JX金属と三井金属、丸紅が共同出資する「パンパシフィック・カッパー（PPC）」と、銅事業の一部を統合する。なぜライバル会社との事業統合に踏み切るのか。銅事業…",
+      "title": "村上世彰が長女を同伴してフジ幹部と面談、私怨をあらわにしたと報道",
+      "url": "https://news.livedoor.com/article/detail/32038433/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-08-10T21:10:00Z",
+      "description": "〈「フジテレビが手に入るよ」堀江貴文に敵対的買収を仕掛けさせ、特捜部に狙われ逮捕…村上世彰が味わった屈辱《フジテレビとの「20年前の因縁」》〉から続く村上世彰は2006年6月に逮捕され有罪判決を受けた。【写真】この記事の写真を見る（4枚）だが彼は、復讐を虎視眈々と狙っていた。愛娘を表舞台に立たせ、自らは陰で脚本を描く。「これは僕の人生の問題です。フジテレビと決着をつけなければ――」（初出：週刊文春2026年3月5日号掲載の大鹿靖明氏の連載全文文春オンライン 08月11日06時10分",
       "maMarket": "jp"
     },
     {
-      "title": "jupyterhub-tessera 1.0.0rc1",
-      "url": "https://pypi.org/project/jupyterhub-tessera/1.0.0rc1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-08-09T22:40:40Z",
-      "description": "JupyterHub/JupyterLab plugin to acquire and securely store OAuth2/OIDC tokens, with a per-server status button.",
+      "title": "SpaceX’s Earnings Show Elon Wiped Out Two-Thirds Of Twitter’s Ad Business",
+      "url": "http://www.techdirt.com/2026/08/10/spacexs-earnings-show-elon-wiped-out-two-thirds-of-twitters-ad-business/",
+      "source": "Techdirt",
+      "publishedAt": "2026-08-10T22:33:04Z",
+      "description": "When SpaceX filed for its IPO, we went through the S-1 to point out just how far off the mark Elon Musk’s predictions about his Twitter takeover turned out to be. Indeed, the failure of Twitter as a business was so catastrophic, Musk had to hide it by merging…",
       "maMarket": "us"
     },
     {
-      "title": "「プロダクトビルダー」の時代が来る ― PdM・デザイナー・エンジニアの垣根が溶けたあと、デザイナーの武器は何か｜そわか",
-      "url": "https://note.com/abiraunken/n/n5dda94b16c63",
-      "source": "Note.com",
-      "publishedAt": "2026-08-09T13:43:07Z",
-      "description": "自己紹介 toB SaaS専門のUX/UIデザイナーです。複雑な業務ドメインのプロダクトを12年以上手がけてきました。 最近、「プロダクトビルダー」という言葉を耳にする機会が増えました。 PdM・デザイナー・エンジニアという職種の垣根がなくなり、全員が「作る人」になっていく― そういう話です。 聞いた時、正直「確かにそうだ」と思いました。というのも、私自身がいま個人開発で、まさにその状態を体験しているからです。 この記事では、海外で何が起きているかを整理したうえで、実際に一人で全役割をやってみて分かったこと…",
+      "title": "総額30億円以上！名門・船井電機を“喰った”脱毛サロン・ミュゼが買収後に始めた壮絶な「カネの無心」 - 社喰い",
+      "url": "https://diamond.jp/articles/-/396726",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-10T19:35:00Z",
+      "description": "「10億円送金してほしい」「数億が必要だ」――。2023年4月、家電メーカーの名門・船井電機HDは美容脱毛サロン大手「ミュゼプラチナム」の運営会社を買収した。ところが買収後に待っていたのはミュゼから繰り返される“カネの無心”。少なくとも30億円がミュゼや関連企業へと流れ、船井電機自身の資金繰りまで悪化していく。新刊『社喰い』（著・片田江康男、ダイヤモンド社刊）から、船井電機を喰ったミュゼ買収の内幕を抜粋してお届けする。",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger - Deadline",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184914042",
+      "title": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off? - The New York Times",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184922520",
       "source": "Slashdot.org",
-      "publishedAt": "2026-08-09T21:52:14Z",
-      "description": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-MergerDeadline Paramount Will Put 30-Film Pledge in Writing to Theater ChainsBloomberg.com Ellison Offers Theaters Contract Guarantee for Paramount-Warner Br…",
+      "publishedAt": "2026-08-10T22:32:47Z",
+      "description": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?The New York Times Washington grapples with a National Guard deployment extended until 2029AP News Trump’s DC law-and-order blitz marks one year with eye-popping haul of suspectsFox News The…",
       "maMarket": "us"
     },
     {
-      "title": "Shellブランドの激安充電器を買ってみた",
-      "url": "https://komameblog.jp/log/shell-charger/",
-      "source": "Komameblog.jp",
-      "publishedAt": "2026-08-09T10:21:34Z",
-      "description": "7月に行なわれたAmazonのプライムデーで、「Shell（シェル）」ブランドの充電器が安くなっていたのでポチりました。かつてガソリンスタンドでよく見かけた貝のマークは、他社との経営統合によって街中から消え去りました。しかしそのブランドは残っており、いまでは充電器で見かけることができるというわけです。これ、...",
+      "title": "ジャンプが最も売れた1995年新年3・4合併号に載ってる作品リストｗｗｗｗｗ",
+      "url": "http://blog.livedoor.jp/goldennews/archives/52306454.html",
+      "source": "Livedoor.jp",
+      "publishedAt": "2026-08-10T11:42:00Z",
+      "description": "1 ：それでも動く名無し ：2026/08/06(木) 22:58:42.24 ID:tQqN18E70 言うほどか？ SLAM DUNK SHADOW LADY（桂正和・特別読切） MIND ASSASSIN DRAGON BALL みどりのマキバオー とっても！ラッキーマン るろうに剣心―明治剣客浪漫譚― ボンボン坂高校演劇部 NANPO...",
       "maMarket": "jp"
     },
     {
-      "title": "Baylin Technologies Q2 Earnings Call Highlights",
-      "url": "https://biztoc.com/x/dab759b941c241cd",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-09T21:25:13Z",
-      "description": "Key Points - Record backlog: Baylin Technologies' backlog reached CAD 61 million in Q2 2026, up from CAD 20.4 million at year-end 2025, driven by the Kaelus acquisition and new Satcom orders. - Kaelus expands growth opportunities: The CAD 42 million acquisit…",
+      "title": "Cybersecurity M&A Spree Maps the Next Attack Surface",
+      "url": "https://www.pymnts.com/cybersecurity/2026/cybersecurity-ma-spree-maps-the-next-attack-surface/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-08-10T22:27:37Z",
+      "description": "Finance and payments are gearing up for a new future. And they’re spending big to do so. During the first half of the year, the cybersecurity industry recorded over 215 mergers and acquisitions (M&A) collectively worth over a hundred billion dollars. But the …",
       "maMarket": "us"
     },
     {
-      "title": "大手5行、純利益5.8兆円で過去最高…みずほ「初の1兆円超え」の裏側",
-      "url": "https://biz-journal.jp/company/post_395589.html",
-      "source": "Biz-journal.jp",
-      "publishedAt": "2026-08-08T21:32:20Z",
-      "description": "三菱UFJ・三井住友・みずほなど大手5行の2026年3月期純利益は合計5兆8351億円と初の5兆円超え、3年連続で過去最高益を更新した。日銀の利上げによる利ざや拡大とM&A手数料の伸びが背景。中でもみずほは初の1兆円超（1兆2486億円、41%増）を記録し、システム障害からの復活を印象づけた。",
+      "title": "黒字の上場企業でも4割はROEが「株主の要求水準」に届かず ベルーガエーアイ、国内上場2,252社の資本コスト実態を調査",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000188838.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-10T09:35:10Z",
+      "description": "[ベルーガエーアイ株式会社] AIエージェントによるM&A財務分析プラットフォームbeluuga.ai(https://beluuga.ai/)を提供するベルーガエーアイ株式会社（本社：東京都港区麻布十番1-5-10 アトラスビル5階、代表取締役兼Product Lead：竹内...",
       "maMarket": "jp"
     },
     {
-      "title": "Contact Energy lifts profit 31%, ties up with CDC for giant Taranaki data centre",
-      "url": "https://www.nzherald.co.nz/business/companies/energy/contact-energy-lifts-profit-31-ties-up-with-cdc-for-taranaki-data-centre/OYBWRYCSMJDYLAOEXDS5ESEVII/",
-      "source": "New Zealand Herald",
-      "publishedAt": "2026-08-09T21:21:55Z",
-      "description": "Contact’s ebitdaf rose 31% to $1011 million after the Manawa acquisition.",
+      "title": "Five Myths About The Paramount/Warner Bros. Discovery Merger",
+      "url": "https://www.forbes.com/sites/rickellis/2026/08/10/five-myths-about-the-paramountwarner-bros-discovery-merger/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-10T22:22:10Z",
+      "description": "You shouldn't believe everything you read about the merger between Paramount/Skydance and Warner Bros. Discovery",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1070999",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-08-03T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞08:50 マネタリーベース(7月) -13.7％ エブリーが東証グロースに新規上場(公開価格:230円)＜海外＞17:00 ブ・FIPE消費者物価指数(7月) 0.18％21:00 ブ・鉱工業生産(6月) -0.2％21:30 米・貿易収支(6月) -730億ドル -776億ドル21:30 加・貿易収支(6月) 30.0億カナダドル 42.4億カナダドル23",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "SpaceX lockup expiry to test retail’s iron stomach",
-      "url": "https://www.gulf-times.com/article/730774/business/spacex-lockup-expiry-to-test-retails-iron-stomach",
-      "source": "Gulf-times.com",
-      "publishedAt": "2026-08-09T17:01:25Z",
-      "description": "SpaceX's stock market debut in June was the largest initial public offering in history, epitomizing the AI mania that has spread ...",
+      "title": "GameStop Raises $325 Million In IPO As Barnes & Noble Bets Big On Video Games",
+      "url": "https://kotaku.com/gamestop-goes-public-for-325-million-as-barnes-and-noble-bets-big-on-video-games-2000723109",
+      "source": "Kotaku",
+      "publishedAt": "2026-08-10T18:00:25Z",
+      "description": "The unit of Barnes & Noble is the single biggest game seller in the U.S.",
       "ipoMarket": "us"
     },
     {
-      "title": "ちゅうぎんインパクトファンド、ちゅうぎんインフィニティファンド2号投資先である株式会社アイ・グリッド・ソリューションズの東証グロース市場新規上場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000187.000166651.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-08-03T05:53:41Z",
-      "description": "株式会社ちゅうぎんフィナンシャルグループのプレスリリース（2026年8月3日 14時53分）ちゅうぎんインパクトファンド、ちゅうぎんインフィニティファンド2号投資先である株式会社アイ・グリッド・ソリューションズの東証グロース市場新規上場",
-      "ipoMarket": "jp"
+      "title": "SpaceX stock rebounds to $135 IPO price after post-debut slump",
+      "url": "https://qz.com/spacex-stock-ipo-price-rebound-081026",
+      "source": "Quartz India",
+      "publishedAt": "2026-08-10T17:41:11Z",
+      "description": "The rocket company's stock hit its offering price Monday for the first time since July 15, recovering from a close as low as $108.27",
+      "ipoMarket": "us"
     },
     {
-      "title": "SpaceX vs. Meta Platforms: Which Will Reach the $2 Trillion Club First?",
-      "url": "https://biztoc.com/x/8a54a76840410551",
+      "title": "Ontario Teachers’ Pension Plan earns 9.5% in first half, boosted by SpaceX IPO windfall",
+      "url": "https://cryptobriefing.com/ontario-teachers-pension-spacex-ipo-returns/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-10T15:01:12Z",
+      "description": "The pension fund's success highlights the potential and risks of institutional venture investments, impacting future asset allocation strategies. The post Ontario Teachers’ Pension Plan earns 9.5% in first half, boosted by SpaceX IPO windfall appeared first o…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "After Its First Public Earnings Report, Here's the 1 Glaring Reason Why I Wouldn't Touch SpaceX's Stock Right Now",
+      "url": "https://biztoc.com/x/eb3c21529efa4d3d",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-09T12:35:00Z",
-      "description": "Although Space Exploration Technologies (NASDAQ: SPCX) reached the $2 trillion mark shortly after its initial public offering (IPO) in June, it has fallen significantly since then and is now valued at about $1.45 trillion. Meta Platforms (NASDAQ: META) has ne…",
+      "publishedAt": "2026-08-10T14:35:54Z",
+      "description": "After Its First Public Earnings Report, Here's the 1 Glaring Reason Why I Wouldn't Touch SpaceX's Stock Right Now After a highly anticipated initial public offering (IPO) in June, Space Exploration Technologies (NASDAQ: SPCX) (SpaceX) held one of the more ant…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "コロンビアで地震 110人超死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6591270?source=rss",
+      "title": "北発射のミサイル EEZ外に落下か",
+      "url": "https://news.yahoo.co.jp/pickup/6591378?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-10T22:19:52.000Z",
+      "publishedAt": "2026-08-11T21:40:40.000Z",
       "description": ""
     },
     {
-      "title": "協調介入 日銀利上げ示唆が決め手",
-      "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
+      "title": "コロンビアで地震 220人超死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6591372?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-10T13:13:43.000Z",
+      "publishedAt": "2026-08-11T14:16:56.000Z",
       "description": ""
     },
     {
-      "title": "日銀委員 利上げペース加速の意見",
-      "url": "https://news.yahoo.co.jp/pickup/6591178?source=rss",
+      "title": "運転手のさじ加減? タイ二重価格",
+      "url": "https://news.yahoo.co.jp/pickup/6591364?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-10T03:41:02.000Z",
+      "publishedAt": "2026-08-11T13:37:40.000Z",
       "description": ""
     },
     {
-      "title": "NY自由の女神観光で転覆 2人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6591161?source=rss",
+      "title": "コンゴ エボラ死者が2000人超える",
+      "url": "https://news.yahoo.co.jp/pickup/6591357?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-10T00:58:06.000Z",
+      "publishedAt": "2026-08-11T12:42:26.000Z",
       "description": ""
     },
     {
-      "title": "ガザ和平工程 ネタニヤフ氏が拒否",
-      "url": "https://news.yahoo.co.jp/pickup/6591133?source=rss",
+      "title": "シリア裁判所 前大統領に死刑判決",
+      "url": "https://news.yahoo.co.jp/pickup/6591351?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-09T13:35:29.000Z",
+      "publishedAt": "2026-08-11T10:53:09.000Z",
       "description": ""
     },
     {
-      "title": "イラン最高指導者 大統領と面会",
-      "url": "https://news.yahoo.co.jp/pickup/6591127?source=rss",
+      "title": "仏全土の7割近くで水の使用制限",
+      "url": "https://news.yahoo.co.jp/pickup/6591325?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-09T12:42:37.000Z",
+      "publishedAt": "2026-08-11T06:51:32.000Z",
       "description": ""
     },
     {
-      "title": "米軍 熊本に飲料水約16トン支援",
-      "url": "https://news.yahoo.co.jp/pickup/6591114?source=rss",
+      "title": "米大統領専用機おとりに使用 報道",
+      "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-09T10:29:37.000Z",
+      "publishedAt": "2026-08-11T06:42:59.000Z",
       "description": ""
     },
     {
-      "title": "台湾 長崎式典の席巡り異例の抗議",
-      "url": "https://news.yahoo.co.jp/pickup/6591107?source=rss",
+      "title": "米大統領 イランの賠償要求に対抗",
+      "url": "https://news.yahoo.co.jp/pickup/6591284?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-09T08:40:58.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン 海峡開放巡り米に補償要求",
-      "url": "https://news.yahoo.co.jp/pickup/6591084?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-09T05:16:54.000Z",
-      "description": ""
-    },
-    {
-      "title": "バイデン氏はがん転移し激痛 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6591069?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-09T02:08:20.000Z",
+      "publishedAt": "2026-08-11T00:06:04.000Z",
       "description": ""
     }
   ]
