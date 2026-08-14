@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T22:47:28.893Z",
+  "fetchedAt": "2026-08-14T22:27:11.640Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,110 +9,124 @@
   ],
   "ma": [
     {
-      "title": "レイカーズ、再び売却へ…元ディズニーCEOらが約2兆円で買収、史上最高評価額更新",
-      "url": "https://news.livedoor.com/article/detail/32053879/",
+      "title": "東電の提携相手に米ファンドが名乗り、外為法では外資参入を防げない!?電気事業法の欠陥と出資比率「33.4％未満」の現実的着地点 - エネルギー動乱",
+      "url": "https://diamond.jp/articles/-/396890",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-13T19:50:00Z",
+      "description": "慢性的な経営不振に陥っている東京電力ホールディングスが望みを託すアライアンスに、外資ファンドが名乗りを上げている。外資系企業の参入は外為法と業法で規制するのが定石だが、電気事業法には欠陥がある。本稿では、現行法の不備と共に外資ファンドとのアライアンスの落としどころを予測する。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Rob Bonta Is ‘Committed’ to Paramount-Warner Lawsuit Despite Settlement Calls From DGA, IATSE",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/rob-bonta-committed-to-paramount-warner-antitrust-lawsuit/",
+      "source": "TheWrap",
+      "publishedAt": "2026-08-13T22:26:21Z",
+      "description": "\"This merger violates long-standing federal antitrust law,\" the California attorney general's office says The post Rob Bonta Is ‘Committed’ to Paramount-Warner Lawsuit Despite Settlement Calls From DGA, IATSE appeared first on TheWrap.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【MLB】大谷翔平の「キーマン条項」が再脚光……ドジャースの売却がレイカーズよりも複雑化する理由とは？　米メディアが指摘",
+      "url": "https://news.livedoor.com/article/detail/32058778/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-08-12T22:38:32Z",
-      "description": "ロサンゼルス・レイカーズが、再び売却されることになった。 8月13日（現地時間12日）、『ESPN』や『The Athletic』など複数の現地メディアが報じたところによると、現オーナーのマーク・ウォルターが、元ウォルト・ディズニー・カンパニーCEOのボブ・アイガーと投資家のジョシュア・クシュナーにチームを売却することで合意したという。今回の取引でレイカーズの評価額は125億ドル（1ドル＝159円換算で約全文バスケットボールキング 08月13日07時38分",
+      "publishedAt": "2026-08-13T09:48:30Z",
+      "description": "ドジャースの現オーナーであるマーク・ウォルター氏によるレイカーズ売却が、波紋を広げている。米メディア『CBSスポーツ』が12日（日本時間13日）、両球団の違いを指摘。ドジャース売却の複雑さについて言及した。 ■売却額は驚異の2兆円 ウォルター氏は昨年6月、100億ドルでレイカーズを買収。しかし、それからわずか1年で手放す決断をした。売却額は125億ドル（約2兆円）で、購入時より25億ドルの利益が生まれた全文SPREAD 08月13日18時48分",
       "maMarket": "jp"
     },
     {
-      "title": "SpaceXAI releases Grok 4.6, claiming GPT-5.6 Sol and Claude Fable 5-level intelligence",
-      "url": "https://biztoc.com/x/dc9f59eff9d22f39",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-12T22:47:07Z",
-      "description": "SpaceXAI seems to be in the process of repairing Grok’s reputation. From the recent Cursor acquisition to yesterday’s Grok Bot agent release, the company is getting more serious about its models. Today’s Grok 4.6 release builds on that effort with what SpaceX…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【NBA】レイカーズ わずか1年で再売却へ!米実業家2人がNBA史上最高額125億ドルで買収 米報道",
-      "url": "https://www.2nn.jp/mnewsplus/1786566467/",
-      "source": "Www.2nn.jp",
-      "publishedAt": "2026-08-12T20:27:47Z",
-      "description": "スポニチ [ 2026年8月12日 23:50 ]NBAのレイカーズが、米実業家のジョシュ・クシュナー氏(41)とボブ・アイガー氏(75)に125億ドル(約1兆8400億円)超で売却されることが分かった。11日(日本時間12日)、米スポーツ局「E...https://hayabusa9.5ch.io/test/read.cgi/mnewsplus/1786566467/",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Mobilewalla and SPACSphere Acquisition Corp. Announce Filing of Registration Statement on Form S-4 Regarding Proposed Business Combination",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/mobilewalla-and-spacsphere-acquisition-corp-announce-filing-of-registration-statement-on-form-s-4-regarding-proposed-business-combination",
-      "source": "Financial Post",
-      "publishedAt": "2026-08-12T22:38:36Z",
-      "description": "ATLANTA & GRAND CAYMAN, Cayman Islands — Mobilewalla Holdco, Inc. (“Mobilewalla” or the “Company”), a leading provider of consumer data and vertical agentic AI solutions, and SPACSphere Acquisition Corp. (NASDAQ: SSAC) (“SPACSphere” or “SSAC”), a publicly tra…",
-      "maMarket": "us"
-    },
-    {
-      "title": "航空貨物のオンライン予約プラットフォームを提供するPelicargoに出資",
-      "url": "https://prtimes.jp/main/html/rd/p/000000018.000125267.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-08-12T13:00:00Z",
-      "description": "[MLCベンチャーズ株式会社] MLCベンチャーズ株式会社（本社：東京都中央区、代表取締役：奥谷 裕子）が運用するファンド「MLCイノベーション1号投資事業有限責任組合」は、米国フォワーダー向けに航空貨物のオンライン予約プラットフォーム...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "ICE eyes $20M purchase of electric shock gloves as Hochul warns of legal consequences",
-      "url": "https://www.foxnews.com/us/ice-eyes-20m-purchase-electric-shock-gloves-hochul-warns-legal-consequences",
-      "source": "Fox News",
-      "publishedAt": "2026-08-12T22:22:29Z",
-      "description": "New York Democratic leaders Kathy Hochul and Letitia James warn ICE could face legal action over electric shock gloves DHS plans to acquire.",
-      "maMarket": "us"
-    },
-    {
-      "title": "総医研HDが子会社「ビービーラボラトリーズ」を解散 - 不景気com",
-      "url": "https://www.fukeiki.com/2026/08/soiken-liquidate-bbl.html",
-      "source": "Fukeiki.com",
-      "publishedAt": "2026-08-12T09:48:27Z",
-      "description": "東証グロース上場でバイオマーカーや生体評価システムの開発を手掛ける「総医研ホールディングス」は、100%出資子会社の「ビービーラボラトリーズ」（大阪府豊中市）を解散および清算すると発表しました。 1997年に設立の同子会社は、化粧品の研究開発・製造販売・輸出業",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2009 Porsche Cayman S 6-Speed",
-      "url": "https://bringatrailer.com/listing/2009-porsche-cayman-s-44/",
+      "title": "2.0L-Powered 1970 Volkswagen Karmann Ghia Convertible",
+      "url": "https://bringatrailer.com/listing/1970-volkswagen-karmann-ghia-convertible-34/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-12T22:11:59Z",
-      "description": "This 2009 Porsche Cayman S remained with the original owner until the seller's May 2026 acquisition, and it has received over $31k in service since September 2009. The car is finished in Arctic Silver Metallic over Black leather and is powered by a 3.4-liter …",
+      "publishedAt": "2026-08-13T22:10:09Z",
+      "description": "This 1970 Volkswagen Karmann Ghia convertible spent approximately two decades with its previous owner in Oregon before its 2026 acquisition by the seller, who tells us that a refurbishment carried out c.2012 included repainting the car in Glasurit Lagoon Blue…",
+      "maMarket": "us"
+    },
+    {
+      "title": "欲しい本がどこのリアル書店にあるか検索可能。「本コレ」アプリ、丸善ジュンク堂書店との在庫連携を開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2132629.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-08-13T09:44:40Z",
+      "description": "出版業界8社が出資する株式会社Catalyst・Data・Partners（CDP）は8月6日、書店・本の総合情報アプリ「本コレ」において、丸善ジュンク堂書店との在庫連携を開始したと発表した。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold",
+      "url": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/",
+      "source": "Variety",
+      "publishedAt": "2026-08-13T21:21:07Z",
+      "description": "David Zaslav, president and CEO of Warner Bros. Discovery, has now sold over $195 million worth of the company’s stock since it clinched a deal to be acquired by David Ellison’s Paramount Skydance. Zaslav’s latest sale of 773,173 shares of WBD stock, for an a…",
+      "maMarket": "us"
+    },
+    {
+      "title": "なんでこんなに美味しいのかよ……西友のビリヤニ弁当499円が異次元のクオリティ「ビリヤニという名の宝もの」",
+      "url": "https://getnews.jp/archives/3736536",
+      "source": "Getnews.jp",
+      "publishedAt": "2026-08-13T05:45:24Z",
+      "description": "トライアルによる西友買収で惣菜や弁当が激安化。特に税抜499円（税込538円）のチキンビリヤニはバスマティ米とバチバチに決まるスパイス、たっぷり鶏肉にライタやアチャール付きで管理栄養士監修の栄養配慮もあり、500円以下とは思えない本格派の旨さ。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Barry Sternlicht’s Starwood Scoops Up More Miami-Dade Affordable Housing",
+      "url": "http://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-dade-affordable-housing-lafayette-emerald-terrace/",
+      "source": "Commercial Observer",
+      "publishedAt": "2026-08-13T21:17:48Z",
+      "description": "Barry Sternlicht’s Starwood Asset Management has bought two more affordable housing properties in Miami-Dade County, following two acquisitions last week, bringing the total to $115.4 million and 570 units. The investment firm purchased the remaining piece o…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Cerebras raises full-year outlook, but stock drops after second earnings report following IPO",
-      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-      "source": "CNBC",
-      "publishedAt": "2026-08-12T20:19:44Z",
-      "description": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+      "title": "HawkEye 360 Announces Second Quarter 2026 Financial Results",
+      "url": "https://www.prnewswire.com/news-releases/hawkeye-360-announces-second-quarter-2026-financial-results-302851298.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-13T20:01:00Z",
+      "description": "Revenue of $49.8 million, up 87% compared to the prior-year period of $26.6 million Achieved record international revenue of $21.0 million, up 134% compared to the prior-year period Successfully closed an initial public offering (\"IPO\") in May 2026, raising $…",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
-      "url": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/",
+      "title": "Material World: Spinnova Eyes $15M U.S. IPO",
+      "url": "http://wwd.com/sourcing-journal/sustainability/material-world-spinnova-eyes-15m-u-s-ipo-1239123361/",
+      "source": "WWD",
+      "publishedAt": "2026-08-13T18:40:29Z",
+      "description": "Spinnova looks to U.S. investors, Metsa shelves Kuura and Ponda raises new capital to move its plant-based insulation toward commercial scale.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Anthropic IPO Value Could Beat SpaceX's Record: Report",
+      "url": "https://www.investors.com/news/technology/anthropic-ipo-valuation-timing-spacex/",
       "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-12T17:05:18Z",
-      "description": "Applied Aerospace & Defense fell solidly, back below its IPO price.",
+      "publishedAt": "2026-08-13T17:35:56Z",
+      "description": "The upcoming Anthropic IPO could target a valuation north of $2 trillion, according to the Financial Times.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX Stock Climbs Nearly 7% After Starlink Launch as Shares Hold Above IPO Price",
-      "url": "https://www.ibtimes.com.au/spacex-shares-surge-starlink-launch-earnings-1874007",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-12T15:52:14Z",
-      "description": "SpaceX shares rose 6.92% following a successful Starlink launch and strong earnings report, highlighting growth in satellite services and AI investments, despite concerns over capital spending and share unlocks.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "AI Giants Are Quiet on Climate in Sign of Post-ESG Wall Street",
-      "url": "https://www.insurancejournal.com/news/national/2026/08/12/881245.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-08-12T15:34:06Z",
-      "description": "In a few short years, US artificial intelligence startups have grown into some of the most powerful and influential businesses in the world, reaching near-trillion-dollar valuations. As two of them, Anthropic and OpenAI, prepare for initial public offerings, …",
+      "title": "Bank of America sees growth potential in power company tied to Anthropic IPO",
+      "url": "https://cryptobriefing.com/bank-of-america-erock-anthropic-ipo-power/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-13T17:34:05Z",
+      "description": "ERock's strategic positioning in AI power solutions could drive significant growth, contingent on Anthropic's IPO success and market dynamics. The post Bank of America sees growth potential in power company tied to Anthropic IPO appeared first on Crypto Brief…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "露大統領が択捉島を電撃訪問 波紋",
-      "url": "https://news.yahoo.co.jp/pickup/6591614?source=rss",
+      "title": "択捉島 露大統領は人気回復狙いか",
+      "url": "https://news.yahoo.co.jp/pickup/6591757?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-13T11:50:30.000Z",
+      "publishedAt": "2026-08-14T15:02:39.000Z",
+      "description": ""
+    },
+    {
+      "title": "北方領土巡る日本の抗議 露が反発",
+      "url": "https://news.yahoo.co.jp/pickup/6591673?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-14T02:55:49.000Z",
+      "description": ""
+    },
+    {
+      "title": "米当局 北方領土は「日本に主権」",
+      "url": "https://news.yahoo.co.jp/pickup/6591659?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-14T00:00:04.000Z",
       "description": ""
     },
     {
@@ -127,13 +141,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-13T04:58:58.000Z",
-      "description": ""
-    },
-    {
-      "title": "プーチン大統領 北方領土を初訪問",
-      "url": "https://news.yahoo.co.jp/pickup/6591560?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-13T03:13:10.000Z",
       "description": ""
     },
     {
@@ -162,13 +169,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6591535?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-13T00:31:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領報道官が今月で辞任 発表",
-      "url": "https://news.yahoo.co.jp/pickup/6591519?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-12T22:50:02.000Z",
       "description": ""
     }
   ]
