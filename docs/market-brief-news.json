@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T22:24:45.635Z",
+  "fetchedAt": "2026-08-17T22:27:55.499Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,77 +9,85 @@
   ],
   "ma": [
     {
-      "title": "「これからは縦マンガだ！」とWebtoonに参入したセガサミーとバンダイが既に撤退していた「縦マンガがそもそも見にくい」「これから伸びるかもしれない…」",
-      "url": "https://togetter.com/li/2733401",
-      "source": "Togetter.com",
-      "publishedAt": "2026-08-15T11:44:12Z",
-      "description": "2023年に「これからは縦マンガだ！Webtoonだ！」ってセガサミー、バンダイはWebtoonに参入。 セガサミーはパピレスと縦スクコミックレーベル「ZETooN」を立ち上げて合弁会社も設立。投資額は5年で20億円を計画。 バンダイは「バンダナコミック」を立ち上げ投資額は 3年間で10億円を計画。 そこから3年経って、 セガサミーは「十分な成果を得られない」と5年も経たずにパピレスと資本業務提携を解消、合弁会社は赤字が続いたまま解散。 バンダイはWebtoonからアニメ化できる作品は生み出せず、横マンガのWEB…",
+      "title": "米Vertex社、米Crinetics社の買収で先端巨大症治療薬PALSONIFYなど内分泌関連疾患領域を強化",
+      "url": "https://bio.nikkeibp.co.jp/atcl/news/p1/26/08/09/14872/",
+      "source": "Nikkeibp.co.jp",
+      "publishedAt": "2026-08-16T22:00:00Z",
+      "description": "米Vertex Pharmaceuticals社は2026年7月6日、内分泌関連の治療薬開発を手掛ける米Crinetics Pharmaceuticals社を買収すると発表した。買収総額は約100億ドル（約1兆6000億円）。Vertex社はこの買収により、ブロックバスターの可能性があるCrinetics社の先端巨大症治療薬「PALSONIFY」（paltusotine）を獲得する。その他、先天性副腎過形成症（CAH）の治療薬候補（一般名：atumelnant、開発番号：CRN04894）が第3相試験に進捗してお…",
       "maMarket": "jp"
     },
     {
-      "title": "PayPal Back in Play as Buyout Talks With Stripe Are Rekindled",
-      "url": "https://biztoc.com/x/de83e2ba9e57dbd9",
+      "title": "Long Island street takeover erupts as drivers block road, perform donuts, burnouts: police",
+      "url": "https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police",
+      "source": "Fox News",
+      "publishedAt": "2026-08-16T22:24:26Z",
+      "description": "Suffolk County police broke up an alleged street takeover on Long Island early Saturday, arresting 15 people and impounding seven vehicles.",
+      "maMarket": "us"
+    },
+    {
+      "title": "亀田興毅氏、壮絶過ぎる７億円詐欺被害　「兄貴」と慕う人物に出資４０００万→２０００万→３億→土地",
+      "url": "https://money-life.doorblog.jp/archives/60000852.html",
+      "source": "Doorblog.jp",
+      "publishedAt": "2026-08-16T21:00:28Z",
+      "description": "1: ななしさん 2026/08/16(日) 17:10:49.73 ID:XaTPcqKZ0● BE:582792952-PLT(13000) https://www.daily.co.jp/gossip/2026/08/16/0020712337.shtml ボクシング３階級王者の亀田興毅氏が１６日放送のＴＢＳ系「週刊さんまとマツコ」に出演。総額７億円を超える詐欺被",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.livemint.com/companies/stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter-11786915829048.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-16T21:30:28Z",
+      "description": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar with the matter.",
+      "maMarket": "us"
+    },
+    {
+      "title": "M&A新時代、関西ペイントの連邦型経営に見る「共通言語」の必要性 - ニュース・経営",
+      "url": "https://jbpress.ismedia.jp/articles/-/96350",
+      "source": "Ismedia.jp",
+      "publishedAt": "2026-08-16T21:00:00Z",
+      "description": "企業の合併・買収が活発化する中、いち早くインドや欧州で大規模なM&Aを進めてきた関西ペイント。連邦型経営で現地法人の自律性を尊重する一方、共通の価値観をどう築くかが課題だった。こうした課題に、同社はどう向き合ってきたのか。取締役常務執行役員の冨岡崇氏に聞いた。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Wendy's Traders Smell a Buyout Cooking — Nelson Peltz Preps a Bid",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wendys-traders-smell-buyout-cooking-213005518.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-16T21:30:05Z",
+      "description": "Shares of Wendy’s Co. jumped Wednesday after the Financial Times reported that activist investor Nelson Peltz is laying groundwork for a bid to take the fast...",
+      "maMarket": "us"
+    },
+    {
+      "title": "亀田興毅氏、壮絶過ぎる７億円詐欺被害　「兄貴」と慕う人物に出資4000万→2000万→3億→土地",
+      "url": "http://burusoku-vip.com/archives/2123203.html",
+      "source": "Burusoku-vip.com",
+      "publishedAt": "2026-08-16T20:27:52Z",
+      "description": "1: 2026/08/16(日) 17:10:49.73 ID:XaTPcqKZ0● BE:582792952-PLT(13000) https://www.daily.co.jp/gossip/2026/08/16/0020712337.shtml 亀田興毅氏 ボクシング３階級王者の亀田興毅氏が１６日放送のＴＢＳ系「週刊さんまとマツコ」に出演。総額７億円を超",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://biztoc.com/x/f24dcdf32fe04d36",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-15T21:55:12Z",
-      "description": "The online payments pioneer has resumed negotiations with rival Stripe and a private-equity firm, a month after turning down a $53 billion offer.",
-      "maMarket": "us"
-    },
-    {
-      "title": "アントロピックCEOの妻、ポルノビジネスへの投資をエプスタインに依頼（Forbes JAPAN） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/0b041179492bb3bc6da2778ff706778e7a44cc31",
-      "source": "Yahoo.co.jp",
-      "publishedAt": "2026-08-15T04:12:53Z",
-      "description": "カミ・クラークは、アンソロピックのダリオ・アモデイCEOの妻で、表舞台にほとんど姿を見せない。そのクラークが、ジェフリー・エプスタインを事業への出資者として勧誘しようとしていたことが分かった。出資を",
-      "maMarket": "jp"
-    },
-    {
-      "title": "1977 Honda CB400F Super Sport",
-      "url": "https://bringatrailer.com/listing/1977-honda-cb400f-super-sport-8/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-15T21:42:56Z",
-      "description": "This 1977 Honda CB400F Super Sport spent over 30 years in storage with its second owner before its September 2018 acquisition by the seller, who tells us that a subsequent refurbishment included disassembling the bike, powder-coating the frame and the swingar…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【映画】『マトリックス』監督が激白！キャストが「全員トランスジェンダー」の新作、ハリウッドに出資拒否される",
-      "url": "https://itainews.com/archives/2066082.html",
-      "source": "Itainews.com",
-      "publishedAt": "2026-08-15T04:01:15Z",
-      "description": "1 ：鉄チーズ烏 ★：2026/08/14(金) 17:06:43.40 ID:uoN/r5cF9.net 『マトリックス』監督が激白！キャストが「全員トランスジェンダー」の新作、ハリウッドに出資拒否される - THR Japan https://t.co/roBsU34q65— セクマイ(LGBTAPXDQQs)️‍️‍⚧️ト...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "As PM Modi pushes for developing desi drones, army plans to acquire loitering munitions, surveillance systems worth Rs 20k crore",
-      "url": "https://timesofindia.indiatimes.com/defence/news/as-pm-modi-pushes-for-developing-desi-drones-army-plans-to-acquire-loitering-munitions-surveillance-systems-worth-rs-20k-crore/articleshow/133267532.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-15T20:33:40Z",
-      "description": "News News: NEW DELHI: PM Narendra Modi, in his I-Day speech on Saturday, stressed that “India must develop indigenous drone and counter-drone systems and take le.",
-      "maMarket": "us"
-    },
-    {
-      "title": "【悲報】Netflix、買収・設立したゲームスタジオを2つ閉鎖　ゲーム事業本格参入とはなんだったのか",
-      "url": "http://blog.esuteru.com/archives/10557366.html",
-      "source": "Esuteru.com",
-      "publishedAt": "2026-08-14T09:20:42Z",
-      "description": "【悲報】Netflix、買収・設立したゲームスタジオを2つ閉鎖 ゲーム事業本格参入とはなんだったのかの記事ページ",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Paris Saint-Germain signs Belgian winger Mika Godts from Ajax in €55M deal",
-      "url": "https://cryptobriefing.com/psg-signs-mika-godts-ajax-55m/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-15T20:10:42Z",
-      "description": "PSG's acquisition of Godts highlights the club's commitment to investing in young talent, potentially reshaping their future squad dynamics. The post Paris Saint-Germain signs Belgian winger Mika Godts from Ajax in €55M deal appeared first on Crypto Briefing.",
+      "publishedAt": "2026-08-16T21:09:23Z",
+      "description": "Stripe has finalized a deal to acquire OpenRouter, according to a new report in Bloomberg. OpenRouter helps customers to select different AI models to perform different tasks, depending on their specific needs and budget. The company announced in May that it …",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
-      "url": "https://biztoc.com/x/9e15ab577d094ac3",
+      "title": "Anthropic IPO valuation hinges on $190B-$200B 2028 revenue forecast: sources",
+      "url": "https://nypost.com/2026/08/16/business/anthropic-ipo-valuation-hinges-on-190b-200b-2028-revenue-forecast-sources/",
+      "source": "New York Post",
+      "publishedAt": "2026-08-16T18:08:23Z",
+      "description": "The $190 billion to $200 projection dwarfs the $47 billion revenue \"run rate,\" reflecting the firm's current pace of business, that the company publicized as recently as May, and shows the scale of growth investors are being asked to underwrite.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right",
+      "url": "https://biztoc.com/x/c72a90a00d9f999b",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-15T21:56:00Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX) has taken investors on a rough ride since its initial public offering (IPO) in June. After reaching an all-time intraday high of $225.64 on June 16, the stock later fell below its $135 IPO price, sinking at one po…",
+      "publishedAt": "2026-08-16T08:31:43Z",
+      "description": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right. It's not surprising that Space Exploration Technologies (NASDAQ: SPCX) hasn't blasted off since its initial public offering on June 12. IPO stocks are…",
       "ipoMarket": "us"
     },
     {
@@ -97,71 +105,63 @@
       "publishedAt": "2026-08-15T15:09:44Z",
       "description": "Anthropic is pitching investors on a revenue number three years away to justify a $2 trillion IPO, and bankers are actually buying it. But the last three meg...",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-15T09:21:56Z",
-      "description": "Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar ​with the company's financials, a figure that has not previously been reported. The projection dwarfs the $47 billion revenue \"run rate,\" reflecting…",
-      "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "露が日本大使に出頭要請 抗議受け",
+      "url": "https://news.yahoo.co.jp/pickup/6592124?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T22:05:13.000Z",
+      "description": ""
+    },
+    {
+      "title": "イラン 米軍へ再攻撃辞さない方針",
+      "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T07:52:48.000Z",
+      "description": ""
+    },
+    {
+      "title": "EU 対露制裁を大幅拡大の方針",
+      "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T06:46:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国で犬肉禁止へ 伝統惜しむ客",
+      "url": "https://news.yahoo.co.jp/pickup/6592063?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T05:23:17.000Z",
+      "description": ""
+    },
+    {
+      "title": "露とウ 民間施設への空爆相次ぐ",
+      "url": "https://news.yahoo.co.jp/pickup/6592052?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T03:13:53.000Z",
+      "description": ""
+    },
+    {
+      "title": "米韓が軍事演習開始 北朝鮮は反発",
+      "url": "https://news.yahoo.co.jp/pickup/6592032?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T01:00:36.000Z",
+      "description": ""
+    },
+    {
+      "title": "イラン 米兵の殺害・拘束に報奨金",
+      "url": "https://news.yahoo.co.jp/pickup/6592028?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-17T00:36:43.000Z",
+      "description": ""
+    },
     {
       "title": "トランプ氏 米韓軍事演習縮小指示",
       "url": "https://news.yahoo.co.jp/pickup/6592012?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-16T22:20:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "ドローン600機 露首都に向け飛行",
-      "url": "https://news.yahoo.co.jp/pickup/6592002?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T14:01:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "米イラン覚書期限 海峡開放見えず",
-      "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T13:44:26.000Z",
-      "description": ""
-    },
-    {
-      "title": "インドネシアの地震 死者50人超に",
-      "url": "https://news.yahoo.co.jp/pickup/6591974?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T09:48:27.000Z",
-      "description": ""
-    },
-    {
-      "title": "豪で「ワーホリ」受け入れ抑制へ",
-      "url": "https://news.yahoo.co.jp/pickup/6591966?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T08:57:21.000Z",
-      "description": ""
-    },
-    {
-      "title": "ベルギーで過去最大規模の山火事",
-      "url": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T05:38:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国「親日派財産」没収 本格化へ",
-      "url": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T01:40:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "露がウクライナの子連れ去り 実態",
-      "url": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-16T01:13:15.000Z",
       "description": ""
     }
   ]
