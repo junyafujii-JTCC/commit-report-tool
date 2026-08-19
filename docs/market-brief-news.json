@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T22:27:01.436Z",
+  "fetchedAt": "2026-08-19T22:28:07.314Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,159 +9,182 @@
   ],
   "ma": [
     {
-      "title": "アマゾン、衛星D2D網に5000基超申請　Globalstar買収しスペースX対抗2028年開始へ、独自の周波数帯や軌道上処理で差異化　打ち上げ能力不足が難題 - IT最前線",
-      "url": "https://jbpress.ismedia.jp/articles/-/96496",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-08-17T21:00:00Z",
-      "description": "米アマゾン・ドット・コムが、スマートフォンなどのモバイル端末へ直接通信を提供する「ダイレクト・トゥ・デバイス（D2D）」衛星ネットワークの構築に向け、大きな一歩を踏み出した。 同社は7月下旬、最大5105基の低軌道（LEO）衛星で構成する新システム「Amazon Leo Direct-to-Device System」の打ち上げ、および運用許可を米連邦通信委員会（FCC）に申請した（アマゾンの発表",
-      "maMarket": "jp"
-    },
-    {
-      "title": "550k-Mile 1970 Volvo 142S 4-Speed at No Reserve",
-      "url": "https://bringatrailer.com/listing/1970-volvo-142s-2/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-17T22:20:16Z",
-      "description": "This 1970 Volvo 142S is said to have remained with a single owner in the southwestern US from new until its February 2023 acquisition by the seller, who placed it into storage until it was recommissioned in preparation for the sale. Now showing 550k miles, th…",
-      "maMarket": "us"
-    },
-    {
-      "title": "会社「お前、リストラだから」 おじさん「ならばこの会社の事業を買収する」⇒結果！！",
-      "url": "http://world-fusigi.net/archives/11099403.html",
-      "source": "World-fusigi.net",
-      "publishedAt": "2026-08-17T10:35:22Z",
-      "description": "1: それでも動く名無し 2025/11/30(日) 10:27:55.31 ID:tp+NU5s30",
-      "maMarket": "jp"
-    },
-    {
-      "title": "New Era Energy & Digital Q2 Earnings Call Highlights",
-      "url": "https://biztoc.com/x/d469e89ade873619",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-17T22:15:26Z",
-      "description": "Momentum Is Just Starting for These 3 Rapid-Growth Stocks in 2026 New Era Energy & Digital (NASDAQ:NUAI) said it advanced permitting, land acquisition and power planning during the second quarter as it works to develop its Texas Critical Data Centers, or TCD…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ネオマーケ---3Qは2ケタ増収・営業利益及び経常利益大幅増、売上高は過去最高を更新 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1071773",
+      "title": "ソニーのタムロン買収提案でキヤノンが迫られる「カメラ王者」としての決断 - 長内 厚のエレキの深層",
+      "url": "https://diamond.jp/articles/-/396845",
       "source": "Diamond.jp",
-      "publishedAt": "2026-08-17T10:20:05Z",
-      "description": "&lt;4196&gt; ネオマーケ 2009 -1ネオマーケティング&lt;4196&gt;は13日、2026年9月期第3四半期（25年10月-26年6月）連結決算を発表した。売上高が前年同期比13.2%増の19.43億円、営業利益が同90.9%増の0.12億円、経常利益が同287.6%増の0.17億円、親会社株主に帰属する四半期純利益が同100.0%減の0.00億円となった。当第3四半期より連結子会社化した2社の業績",
+      "publishedAt": "2026-08-18T22:00:00Z",
+      "description": "ソニーのタムロン買収提案は、カメラの絶対王者であるキヤノンにとって、単にライバルのレンズが充実するというだけの問題ではない。実はキヤノンには、ソニーとのシェア差が縮まるほど顕在化する構造的な課題がある。それは「二重の規模の経済」と呼ぶべきものだ。",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal - The New York Times",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185026532",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-17T22:13:10Z",
-      "description": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. DealThe New York Times Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delayCNBC California A.G. Rejects $1.88 Billion Paramount Bond, Says Company Wants a ‘Do-Ove…",
+      "title": "Epsilon Energy Maps Multi-Basin Growth Plan as Production Outlook Rises 18%",
+      "url": "https://biztoc.com/x/b48a192d3a0bfeba",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-18T22:21:19Z",
+      "description": "Key Points - Epsilon Energy expects 18% year-over-year production growth at the midpoint of its 2026 guidance, with oil output up nearly 200% following the Peak acquisition and Permian development. - The company reports 115 net priority-one drilling location…",
       "maMarket": "us"
     },
     {
-      "title": "中部STARTUP RUNWAY、スタートアップのM&A需要に対応し、M&A仲介5社が新たに参画",
-      "url": "https://prtimes.jp/main/html/rd/p/000000036.000064421.html",
+      "title": "障害福祉業界の事業承継・M&A支援に向け、ジャパンM&Aソリューション株式会社と業務提携契約を締結",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000113523.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-08-17T08:56:59Z",
-      "description": "[サイトキャッチャー株式会社] サイトキャッチャー株式会社（本社：東京都港区、代表取締役：横山良雄、以下「サイトキャッチャー」）は、スタートアップの成長を支援する 中部STARTUP RUNWAY(https://chubu-startup-runway.com/)（中部SR） に...",
+      "publishedAt": "2026-08-18T07:04:15Z",
+      "description": "[WOOOLY株式会社] WOOOLY株式会社（本社：東京都千代田区、代表取締役社長：佐藤孝信、以下「当社」という。）は、ジャパンM&Aソリューション株式会社（本社：東京都千代田区、代表取締役社長：三橋透、コード番号：9236 東証...",
       "maMarket": "jp"
     },
     {
-      "title": "SMPL Stockholder Notice: Robbins LLP Reminds Investors of the Class Action Against The Simply Good Foods Company",
-      "url": "https://www.prnewswire.com/news-releases/smpl-stockholder-notice-robbins-llp-reminds-investors-of-the-class-action-against-the-simply-good-foods-company-302853187.html",
+      "title": "Curavit Expands Clinical Research Capabilities with Acquisition of Lindus Health CRO Assets, Accelerating Global Trial Execution for Life Science Sponsors",
+      "url": "https://www.prnewswire.com/news-releases/curavit-expands-clinical-research-capabilities-with-acquisition-of-lindus-health-cro-assets-accelerating-global-trial-execution-for-life-science-sponsors-302854586.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-08-17T21:55:00Z",
-      "description": "SAN DIEGO, Aug. 17, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all purchasers of The Simply Good Foods Company (NASDAQ: SMPL) common stock between October 24, 2024 and April 8, 202…",
+      "publishedAt": "2026-08-18T22:19:00Z",
+      "description": "Combined operations deliver unified U.S. and European trial delivery, faster recruitment, and expanded evidence-generation capabilities across pharma, biotech, medtech, diagnostics, and digital health. BOSTON, Aug. 18, 2026 /PRNewswire/ -- Curavit Clinical Re…",
+      "maMarket": "us"
+    },
+    {
+      "title": "決済会社ストライプ、AI新興オープンルーターを70億ドル超で買収へ（TBS CROSS DIG with Bloomberg）｜ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/tbs_bb/business/tbs_bb-2875389",
+      "source": "Docomo.ne.jp",
+      "publishedAt": "2026-08-18T03:49:02Z",
+      "description": "決済会社ストライプ、AI新興オープンルーターを70億ドル超で買収へ（TBS CROSS DIG with Bloomberg）（ブルームバーグ）：決済サービスの米ストライプは、企業が複数のAIモデルを使い分けられるサービスを手がける新興企業オープン…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "1970 Triumph Bonneville T120R",
+      "url": "https://bringatrailer.com/listing/1970-triumph-bonneville-t120r-41/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-08-18T21:40:14Z",
+      "description": "This 1970 Triumph Bonneville T120R spent time in Washington before its 2002 acquisition by the seller, and it was refurbished and repainted in maroon and silver with gold pinstripes circa 2020. Powered by an air-cooled 649cc parallel-twin paired with a right-…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「モッズ・ヘア」運営のエム・エイチ・グループ、最終赤字1億500万円　美容室買収で今期は売上高2倍を計画",
+      "url": "https://zuuonline.com/archives/302880",
+      "source": "Zuuonline.com",
+      "publishedAt": "2026-08-18T03:02:00Z",
+      "description": "ヘアサロン「モッズ・ヘア（Mod's Hair）」を展開するエム・エイチ・グループは8月17日、2026年6月期の通期連結決算を発表した。売上高は18億5000万円（前年比0.3％増）、営業損失は5200万円（前年は900万円の営業損失）、親会社株主に帰属する当期純損失は1億500万円（同1700万円の純損失[…]",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The Seismic-Highspot Merger Raises The Bar. Will GTM Teams Clear It?",
+      "url": "https://www.forrester.com/blogs/the-seismic-highspot-merger-raises-the-bar-will-gtm-teams-clear-it/",
+      "source": "Forrester.com",
+      "publishedAt": "2026-08-18T21:02:38Z",
+      "description": "The merger of revenue enablement platform arch-rivals Seismic and Highspot is now complete. The combined company positions itself as a GTM performance company focused on revenue execution rather than traditional enablement, serving thousands of customers and …",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "NorthStrive Acquisition Corp I prices 10M unit IPO at $10 per unit",
-      "url": "https://www.thefly.com/nsai",
-      "source": "Thefly.com",
-      "publishedAt": "2026-08-17T21:45:14Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "ipoMarket": "us"
+      "title": "akippa株式会社東京証券取引所 スタンダード市場への上場承認に関するお知らせ",
+      "url": "https://japan.cnet.com/release/31199299/",
+      "source": "CNET",
+      "publishedAt": "2026-08-18T07:30:06Z",
+      "description": "駐車場マーケットプレイス「アキッパ」を運営するakippa株式会社（代表取締役社長 CEO：金谷元気）は、本日、株式会社東京証券取引所（以下、「東京証券取引所」）より、当社株式の東京証券取引所 スタンダード市場への新規上場が承認されましたのでお知らせいたします。当社は、「“なくてはならぬ”サービスをつくり、み...",
+      "ipoMarket": "jp"
     },
     {
-      "title": "General Atlantic selects JPMorgan to lead IPO effort",
-      "url": "https://cryptobriefing.com/general-atlantic-jpmorgan-ipo/",
+      "title": "Anthropic plans super-voting shares for CEO and co-founders ahead of IPO",
+      "url": "https://cryptobriefing.com/anthropic-super-voting-shares-ipo-founders/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-08-17T18:06:40Z",
-      "description": "General Atlantic's IPO could rejuvenate the IPO market, signaling renewed investor confidence and potentially boosting capital market activities. The post General Atlantic selects JPMorgan to lead IPO effort appeared first on Crypto Briefing.",
+      "publishedAt": "2026-08-18T22:24:47Z",
+      "description": "Anthropic's governance move may secure strategic control but could face investor scrutiny over accountability and long-term mission alignment. The post Anthropic plans super-voting shares for CEO and co-founders ahead of IPO appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "SpaceX Stock: Here's A Way To Profit From This Volatile IPO",
-      "url": "https://www.investors.com/research/options/spacex-spcx-stock-space-exploration-technologies-bear-put-spread-options/",
+      "title": "ａｎｆａｃ---急伸、投資先のSkyfallが東証グロースへ新規上場承認 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1071800",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-18T02:02:35Z",
+      "description": "&lt;7035&gt; ａｎｆａｃ 325 +66急伸。前日大引け後、投資先であるSkyfallが東証グロースへの新規上場が承認されたと発表した。これに伴い、保有するSkyfall株式の一部を売出し、27年8月期に約2.42億円の特別利益を計上する見込み。Skyfall上場に伴うキャピタルゲインを「成長投資」に注ぎ込むことで、次なる継続的な成長そして中長期的な株主利益の最大化を目指すとしている。",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-18T17:44:46Z",
+      "description": "Anthropic is broadening its revolving credit facility past the initial target to prepare for its much-anticipated initial public offering. Multiple banks are looking to partake in the credit line, establishing their positions in the upcoming IPO. Bolstered by…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
+      "url": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/",
       "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-17T17:30:42Z",
-      "description": "SpaceX has had a wild ride since the stock's initial public offering. Here's a way to profit from this young and volatile investment.",
+      "publishedAt": "2026-08-18T17:15:47Z",
+      "description": "Crusoe IPO looms after last funding round valued the AI data center developer at $10 billion. Reports suggest firm's valuation may triple.",
       "ipoMarket": "us"
     },
     {
-      "title": "Forget SpaceX, a giant tech firm is eyeing record-shattering $3trillion stock market launch as investors line up for an 'extraordinary bet'",
-      "url": "https://www.dailymail.com/yourmoney/article-16058063/anthropic-ai-stock-market-ipo.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-17T16:41:59Z",
-      "description": "IPO valuations are subject to lots of uncertainty, but at this level the artificial intelligence giant would be worth more than Amazon - and almost double SpaceX's record debut.",
+      "title": "Goldman Sachs sees upside in a new industry",
+      "url": "https://biztoc.com/x/cb435d9d03a08f41",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-18T15:11:21Z",
+      "description": "Wall Street has spent the past year watching rockets the way it once watched chip stocks. Launch schedules, satellite contracts, and IPO calendars have become dinner table conversation for a certain kind of investor. The pace of new listings has only accelera…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ICC赤根所長らを制裁対象に 米国",
-      "url": "https://news.yahoo.co.jp/pickup/6592231?source=rss",
+      "title": "米大統領 正恩氏と会談の意向表明",
+      "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-18T21:25:46.000Z",
+      "publishedAt": "2026-08-19T21:55:05.000Z",
       "description": ""
     },
     {
-      "title": "米朝首脳会談に含み 米大統領狙い",
-      "url": "https://news.yahoo.co.jp/pickup/6592223?source=rss",
+      "title": "ICC所長らへの米制裁 相次ぐ非難",
+      "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-18T13:41:34.000Z",
+      "publishedAt": "2026-08-19T21:28:55.000Z",
       "description": ""
     },
     {
-      "title": "ロシアが日本大使呼び出し抗議",
-      "url": "https://news.yahoo.co.jp/pickup/6592218?source=rss",
+      "title": "米警察 少女行方不明で霊能者頼る",
+      "url": "https://news.yahoo.co.jp/pickup/6592308?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-18T12:42:17.000Z",
+      "publishedAt": "2026-08-19T09:01:52.000Z",
       "description": ""
     },
     {
-      "title": "米 不法移民退去で人手不足の懸念",
-      "url": "https://news.yahoo.co.jp/pickup/6592153?source=rss",
+      "title": "東証続落 中東混乱の景気減速懸念",
+      "url": "https://news.yahoo.co.jp/pickup/6592295?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-18T02:59:24.000Z",
+      "publishedAt": "2026-08-19T07:19:02.000Z",
       "description": ""
     },
     {
-      "title": "ト‌ランプ氏支持率33% ロイター",
-      "url": "https://news.yahoo.co.jp/pickup/6592137?source=rss",
+      "title": "米大統領娘婿がハマスと協議 背景",
+      "url": "https://news.yahoo.co.jp/pickup/6592273?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-18T00:36:24.000Z",
+      "publishedAt": "2026-08-19T03:58:11.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 正恩氏巡り「彼を理解」",
-      "url": "https://news.yahoo.co.jp/pickup/6592133?source=rss",
+      "title": "米国が赤根所長らに制裁 ICC非難",
+      "url": "https://news.yahoo.co.jp/pickup/6592261?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-17T23:55:26.000Z",
+      "publishedAt": "2026-08-19T02:30:54.000Z",
       "description": ""
     },
     {
-      "title": "イラン 米軍へ再攻撃辞さない方針",
-      "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
+      "title": "米韓軍事演習を短縮 米国側要請で",
+      "url": "https://news.yahoo.co.jp/pickup/6592262?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-17T07:52:48.000Z",
+      "publishedAt": "2026-08-19T02:25:22.000Z",
       "description": ""
     },
     {
-      "title": "EU 対露制裁を大幅拡大の方針",
-      "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
+      "title": "イランが弾道ミサイル UAE発表",
+      "url": "https://news.yahoo.co.jp/pickup/6592237?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-17T06:46:28.000Z",
+      "publishedAt": "2026-08-18T23:03:46.000Z",
+      "description": ""
+    },
+    {
+      "title": "ディズニーとABC 米当局を提訴",
+      "url": "https://news.yahoo.co.jp/pickup/6592234?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-18T22:29:25.000Z",
       "description": ""
     }
   ]
