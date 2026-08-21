@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T22:30:55.812Z",
+  "fetchedAt": "2026-08-21T22:28:23.060Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "KDDIがフードデリバリーサービスの「menu」を9月に終了 - 不景気com",
-      "url": "https://www.fukeiki.com/2026/08/kddi-close-menu.html",
-      "source": "Fukeiki.com",
-      "publishedAt": "2026-08-19T09:13:42Z",
-      "description": "「KDDI」は、子会社が運営するフードデリバリーサービスの「menu」を9月30日付で終了すると発表しました。 運営する子会社の「menu」は2018年の設立で、翌2019年にサービスを開始すると、2021年には「KDDI」と資本業務提携を締結し、2023年に",
+      "title": "熊本県小国町・杖立温泉の老舗旅館が次世代へのバトンをつなぐ！「旅館丸正」事業譲渡契約締結式を挙行",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000166375.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-20T19:40:02Z",
+      "description": "[熊本県商工会連合会] 熊本県商工会連合会は、全国共通の喫緊の課題である中小企業・小規模事業者の事業承継を強力に推進しています。このたび、令和8年6月1日（月）、阿蘇郡小国町の杖立温泉で長年愛され続けてきた「旅館丸正」にお...",
       "maMarket": "jp"
     },
     {
-      "title": "1993 Mercury Capri XR2 5-Speed at No Reserve",
-      "url": "https://bringatrailer.com/listing/1993-mercury-capri-9/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-19T22:28:47Z",
-      "description": "This 1993 Mercury Capri XR2 was first registered in Michigan, and it later spent time in Wisconsin and Minnesota before its 2023 acquisition by the seller. Now showing 57k miles, the car is finished in Cardinal Red over gray cloth with patterned inserts. Powe…",
+      "title": "Bumbling Warner Bros CEO David Zaslav Sees $197 Million Stock Sale Bonanza On Top Of Looming $550 Million Golden Parachute",
+      "url": "http://www.techdirt.com/2026/08/20/bumbling-warner-bros-ceo-david-zaslav-sees-197-million-stock-sale-bonanza-on-top-of-looming-550-million-golden-parachute/",
+      "source": "Techdirt",
+      "publishedAt": "2026-08-20T22:24:02Z",
+      "description": "Warner Brothers CEO David Zaslav oversaw years of dysfunction during the last wave of pointless Warner Brothers AT&T and Discovery mergers, which included tens of thousands of brutal layoffs, consistent creative infighting, endlessly higher prices, cancelled …",
       "maMarket": "us"
     },
     {
-      "title": "電通グループ、中計を1年延長　海外の立て直し優先、M&A抑制しAI投資へ",
-      "url": "https://www.advertimes.com/20260819/article554132/",
-      "source": "Advertimes.com",
-      "publishedAt": "2026-08-19T08:27:46Z",
-      "description": "電通グループは8月14日、2026年12月期中間決算と中期経営計画のアップデートを発表した。中計は従来の2025～2027年度の計画を2026～2028年度の計画として再設計。収益性の回復と財務健全化を最優先に掲げ、海外事業の再編やグローバル本社機能の縮小を進める。 The post 電通グループ、中計を1年延長 海外の立て直し優先、M&A抑制しAI投資へ first appeared on AdverTimes.（アドタイ） by 宣伝会議.",
+      "title": "旧マックハウスが「クラネ」運営会社の株式取得　持株比率は19％",
+      "url": "https://www.fashionsnap.com/article/2026-08-20/gyet-clanee-design-stock/",
+      "source": "Fashionsnap.com",
+      "publishedAt": "2026-08-20T10:53:45Z",
+      "description": "ジーイエット（Gyet）（旧マックハウス）が、クラネデザイン（CLANE DESIGN）の普通株式の一部を取得すると発表した。持株比率は19%となる見込みで、取得価額は1株あたり1円で合計171円。株式譲渡実行は8月21日を予定している。クラネデザインは、2015年に設立したアパレル企業。ファッションブランド「クラネ（CLANE）」や「マノフ（MANO...",
       "maMarket": "jp"
     },
     {
-      "title": "Qualtrics cuts jobs in Seattle, Utah and overseas as it absorbs $6.75B acquisition",
-      "url": "https://www.geekwire.com/2026/qualtrics-cuts-jobs-in-seattle-utah-and-overseas-as-it-absorbs-6-75b-acquisition/",
-      "source": "GeekWire",
-      "publishedAt": "2026-08-19T22:27:30Z",
-      "description": "Qualtrics laid off employees across Seattle, Provo and international offices Wednesday, three months after closing its $6.75 billion acquisition of Press Ganey Forsta. The company declined to disclose how many jobs were cut, but a WARN notice reviewed by Geek…",
-      "maMarket": "us"
-    },
-    {
-      "title": "学校法人二松学舎「ひとり親家庭居住支援第２号ファンド」に出資しました",
-      "url": "https://japan.cnet.com/release/31199663/",
-      "source": "CNET",
-      "publishedAt": "2026-08-19T08:20:17Z",
-      "description": "「ひとり親家庭居住支援第１号ファンド」に続き「ひとり親家庭居住支援第２号ファンド」に出資 学校法人二松学舎（所在地：東京都千代田区、理事長：水戸英則）は、このたび、「ひとり親家庭居住支援第２号ファンド」へ出資いたしましたのでお知らせいたします。 本ファンドは、2025年10月に組成した「ひとり親家庭居...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Five days after buying Cursor for $60bn, SpaceX tried to buy Cognition",
-      "url": "https://thenextweb.com/news/spacex-cognition-acquisition-approach-denial",
-      "source": "The Next Web",
-      "publishedAt": "2026-08-19T22:26:38Z",
-      "description": "SpaceX approached AI coding startup Cognition about an acquisition, Bloomberg reports, and Cognition did not engage. Chief executive Scott Wu replied publicly that his company is “not for sale and we haven’t been talking.” SpaceX approached the AI coding comp…",
-      "maMarket": "us"
-    },
-    {
-      "title": "｢生き残りには規模が必要｣はウソ ホンダ×日産を私が疑問視するワケ",
-      "url": "https://president.jp/articles/-/117863",
-      "source": "President.jp",
-      "publishedAt": "2026-08-19T06:00:00Z",
-      "description": "ホンダと日産自動車が経営統合に向けた協議に入った。メディアは「世界3位の自動車グループが誕生」と騒ぐが、このままではうまくいかない可能性が高い。まず、今回の経営統合の背景にあるのは日産の経営不振だ。…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "url": "https://biztoc.com/x/4d20b49a6d5e2bce",
+      "title": "Stripe beefs up AI as it encroaches on banking",
+      "url": "https://biztoc.com/x/174a32b1f34b6033",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-19T22:06:20Z",
-      "description": "Elon Musk’s SpaceX attempted to acquire AI coding startup Cognition as it works to catch up to OpenAI, Anthropic, and Google in the AI race, Bloomberg reported Wedesday, citing sources familiar with the matter. Cognition CEO Scott Wu disputed the report soon …",
+      "publishedAt": "2026-08-20T22:09:42Z",
+      "description": "Key insight: Stripe bought OpenRouter, an AI model routing platform, in an acquisition deal reported to be well above its $1.3 valuation from May of this year. - What's at stake: The purchase strengthens Stripe's push into agentic commerce by allowing it to …",
+      "maMarket": "us"
+    },
+    {
+      "title": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
+      "url": "https://www.asahi.com/articles/ASV8N34JCV8NULFA01NM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-08-20T10:01:33Z",
+      "description": "三菱電機は20日、米エネルギー管理ソフト会社PCIエナジーソリューションズを14億ドル（2200億円）で買収し、完全子会社化すると発表した。三菱電機として過去最大の買収で、2026年中の手続き完了を…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Anthropic’s Ode acquires Casper Studios to boost enterprise AI solutions",
+      "url": "https://cryptobriefing.com/anthropics-ode-acquires-casper-studios-to-boost-enterprise-ai-solutions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-20T21:48:55Z",
+      "description": "Anthropic's acquisition of Casper Studios may enhance its competitive edge in enterprise AI, potentially boosting investor confidence and market value. The post Anthropic’s Ode acquires Casper Studios to boost enterprise AI solutions appeared first on Crypto …",
+      "maMarket": "us"
+    },
+    {
+      "title": "うどん業界、競争激化　「丸亀製麺」最高益から一転減益　「はなまるうどん」と明暗",
+      "url": "http://blog.livedoor.jp/nanjstu/archives/63425045.html",
+      "source": "Livedoor.jp",
+      "publishedAt": "2026-08-20T08:11:28Z",
+      "description": "転載元: https://nova.5ch.io/test/read.cgi/livegalileo/1787198957/1: それでも動く名無し 2026/08/20(木) 13:09:17.67 ID:VKRiWT4j0 うどん業界における競争の激しさは増すばかりです。すかいらーくホールディングスが買収した「資さんうどん」が出店を加速させているこ...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "54k-Kilometer 1992 Toyota Hilux SSR-X Double Cab Diesel 4×4 5-Speed",
+      "url": "https://bringatrailer.com/listing/1992-toyota-hilux-10/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-08-20T21:35:33Z",
+      "description": "This 1992 Toyota Hilux SSR-X double cap was imported from Japan to the US following the selling dealer's acquisition. Power is provided by a 2.8-liter 3L diesel inline-four linked with a five-speed manual transmission and a dual-range transfer case. The truck…",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "Global X Japan株式会社「グローバルＸ 韓国半導体・トップ10 ETF」（銘柄コード：633A）東京証券取引所より上場承認",
+      "url": "https://prtimes.jp/main/html/rd/p/000000096.000137367.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-20T07:30:00Z",
+      "description": "[Global X Japan株式会社] 大和証券グループのGlobal X Japan株式会社（東京都千代田区、代表取締役社長：藤岡 智男、以下「当社」）は、本日、東京証券取引所より「グローバルＸ 韓国半導体・トップ10 ETF」（銘柄コード：633A、以下「...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Anthropic adds Citigroup to IPO banking team amid Wall Street competition",
+      "url": "https://cryptobriefing.com/anthropic-citigroup-ipo-banking-team/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-20T22:10:07Z",
+      "description": "Anthropic's strategic IPO moves could reshape tech market dynamics, influencing investor expectations and competitive positioning globally. The post Anthropic adds Citigroup to IPO banking team amid Wall Street competition appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
     {
       "title": "Amazia---大幅に3日続伸、出資先のSkyfallの新規上場を引き続き材料視 - 最新株式ニュース",
       "url": "https://diamond.jp/zai/articles/-/1071887",
@@ -83,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Coffee Break: Stressed Oligarchs at Meta, OpenAI, and the Ellison Empire",
-      "url": "https://www.nakedcapitalism.com/2026/08/stressed-oligarchs-meta-openai-ellison-warnermount-empire-oracle.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-19T18:00:26Z",
-      "description": "Three particularly stressed oligarchs are getting a lot of negative attention this week as Mark Zuckerberg's Meta faces a $1.4 trillion lawsuit, Sam Altman's OpenAI is bleeding talent and their IPO seems an ever more remote possibility, and Larry and David El…",
+      "title": "Orion180 Insurance Group files registration statement for proposed IPO",
+      "url": "https://www.thefly.com/oig",
+      "source": "Thefly.com",
+      "publishedAt": "2026-08-20T21:02:33Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     },
     {
@@ -99,92 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "EQPT DEADLINE: Levi & Korsinsky Reminds EquipmentShare.com Inc. Investors of Upcoming Securities Class Action Deadline",
-      "url": "https://www.prnewswire.com/news-releases/eqpt-deadline-levi--korsinsky-reminds-equipmentsharecom-inc-investors-of-upcoming-securities-class-action-deadline-302855516.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-19T17:12:00Z",
-      "description": "Promise vs. Reality: EquipmentShare's IPO materials allegedly told investors related-party transactions would be terminated or substantially reduced, while the lawsuit claims founder-affiliated entities continued receiving significant value through the OWN Pr…",
+      "title": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
+      "url": "https://biztoc.com/x/730ab69fb3f411dc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-20T15:19:43Z",
+      "description": "IPO Edge hosted a fireside chat with Tactical Resources Corp. Common Shares (Nasdaq: TREO) Chief Executive Officer and a Director Ranjeet Sundher, moderated by IPO Edge Editor-in-Chief John Jannarone and Editor-at-Large Jarrett Banks in a video session lastin…",
       "ipoMarket": "us"
     },
     {
-      "title": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
-      "url": "https://www.investors.com/news/tesla-unitree-optimus-robots-ai-china/",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-19T13:56:06Z",
-      "description": "Unitree builds AI-powered robots that rival Tesla's Optimus units. Unitree raised more than $900 million from its IPO.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic is preparing supervoting shares for its founders before the IPO",
-      "url": "https://thenextweb.com/news/anthropic-supervoting-founders-ipo",
-      "source": "The Next Web",
-      "publishedAt": "2026-08-19T13:08:25Z",
-      "description": "Anthropic is preparing to give its founders shares with extra voting power before it goes public, according to The Information. The company is setting up the structure ahead of an initial public offering that could rank among the largest ever, Cory Weinberg a…",
+      "title": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-rare-earth-pure-play-fireside-with-tactical-resources-ceo-ranjeet-sundher-150549835.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-20T15:05:49Z",
+      "description": "IPO Edge hosted a fireside chat with Tactical Resources Corp. Common Shares (Nasdaq: TREO) Chief Executive Officer and a Director Ranjeet Sundher, moderated...",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "26年産新米 大幅値下がりの見通し",
-      "url": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
+      "title": "赤根所長 ICC加盟国に支援求める",
+      "url": "https://news.yahoo.co.jp/pickup/6592600?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T14:47:54.000Z",
+      "publishedAt": "2026-08-21T22:23:53.000Z",
       "description": ""
     },
     {
-      "title": "中国 沖縄の帰属を巡り「疑義」",
-      "url": "https://news.yahoo.co.jp/pickup/6592470?source=rss",
+      "title": "露の人気アニメ ウでの配信を禁止",
+      "url": "https://news.yahoo.co.jp/pickup/6592593?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T14:31:38.000Z",
+      "publishedAt": "2026-08-21T14:20:59.000Z",
       "description": ""
     },
     {
-      "title": "北朝鮮の対日批判 激化の背景分析",
-      "url": "https://news.yahoo.co.jp/pickup/6592447?source=rss",
+      "title": "赤根所長へ連帯表明の国が相次ぐ",
+      "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T10:53:17.000Z",
+      "publishedAt": "2026-08-21T12:33:12.000Z",
       "description": ""
     },
     {
-      "title": "北発射のミサイルは約10発 韓国軍",
-      "url": "https://news.yahoo.co.jp/pickup/6592438?source=rss",
+      "title": "クーラーBOXで5日漂流 メキシコ",
+      "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T09:32:05.000Z",
+      "publishedAt": "2026-08-21T11:20:49.000Z",
       "description": ""
     },
     {
-      "title": "赤根所長へ米制裁 ICC組織の実像",
-      "url": "https://news.yahoo.co.jp/pickup/6592406?source=rss",
+      "title": "韓国で「親日派スキャナー」拡大",
+      "url": "https://news.yahoo.co.jp/pickup/6592574?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T05:53:09.000Z",
+      "publishedAt": "2026-08-21T10:12:19.000Z",
       "description": ""
     },
     {
-      "title": "中国恒大創業者に無期懲役判決",
-      "url": "https://news.yahoo.co.jp/pickup/6592404?source=rss",
+      "title": "台湾に進学の日本人増 誘致手厚く",
+      "url": "https://news.yahoo.co.jp/pickup/6592542?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T05:40:42.000Z",
+      "publishedAt": "2026-08-21T07:19:47.000Z",
       "description": ""
     },
     {
-      "title": "「対日感情」に変化 韓国若者の今",
-      "url": "https://news.yahoo.co.jp/pickup/6592401?source=rss",
+      "title": "ヘンリー王子帰国報道 5つの疑問",
+      "url": "https://news.yahoo.co.jp/pickup/6592534?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T05:28:29.000Z",
+      "publishedAt": "2026-08-21T05:34:46.000Z",
       "description": ""
     },
     {
-      "title": "ロシアでガソリン不足「第2波」",
-      "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
+      "title": "露戦略会議に変化「戦後」意識?",
+      "url": "https://news.yahoo.co.jp/pickup/6592522?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T02:48:06.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 対イラン制裁発動を表明",
-      "url": "https://news.yahoo.co.jp/pickup/6592374?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-20T01:55:25.000Z",
+      "publishedAt": "2026-08-21T03:56:24.000Z",
       "description": ""
     }
   ]
