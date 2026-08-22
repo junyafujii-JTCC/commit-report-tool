@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T22:28:23.060Z",
+  "fetchedAt": "2026-08-22T22:25:46.818Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "熊本県小国町・杖立温泉の老舗旅館が次世代へのバトンをつなぐ！「旅館丸正」事業譲渡契約締結式を挙行",
-      "url": "https://prtimes.jp/main/html/rd/p/000000011.000166375.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-08-20T19:40:02Z",
-      "description": "[熊本県商工会連合会] 熊本県商工会連合会は、全国共通の喫緊の課題である中小企業・小規模事業者の事業承継を強力に推進しています。このたび、令和8年6月1日（月）、阿蘇郡小国町の杖立温泉で長年愛され続けてきた「旅館丸正」にお...",
+      "title": "日本の｢トイザらス｣は生き残ったのに…本業は黒字だったアメリカ本社を倒産に追い込んだ\"危険な借金\"の正体",
+      "url": "https://president.jp/articles/-/117055",
+      "source": "President.jp",
+      "publishedAt": "2026-08-21T22:00:00Z",
+      "description": "日本でもおなじみの玩具チェーン「トイザらス」。日本法人は現在も営業を続けているが、アメリカ本社は2017年に連邦破産法11条の適用を申請し、翌年には米国内の全店舗を閉鎖した。原因としてよく語られるのは、アマゾンなどECの台頭だ。だが、財務コンサルタントの村上茂久さんは「決算書を読み解くと、倒産直前まで本業では利益を出していたことがわかる。『稼げていた会社』が倒産した最大の要因は、買収時に背負わされた“危険な借金”にある」という――。（3回目／全4回）",
       "maMarket": "jp"
     },
     {
-      "title": "Bumbling Warner Bros CEO David Zaslav Sees $197 Million Stock Sale Bonanza On Top Of Looming $550 Million Golden Parachute",
-      "url": "http://www.techdirt.com/2026/08/20/bumbling-warner-bros-ceo-david-zaslav-sees-197-million-stock-sale-bonanza-on-top-of-looming-550-million-golden-parachute/",
-      "source": "Techdirt",
-      "publishedAt": "2026-08-20T22:24:02Z",
-      "description": "Warner Brothers CEO David Zaslav oversaw years of dysfunction during the last wave of pointless Warner Brothers AT&T and Discovery mergers, which included tens of thousands of brutal layoffs, consistent creative infighting, endlessly higher prices, cancelled …",
-      "maMarket": "us"
-    },
-    {
-      "title": "旧マックハウスが「クラネ」運営会社の株式取得　持株比率は19％",
-      "url": "https://www.fashionsnap.com/article/2026-08-20/gyet-clanee-design-stock/",
-      "source": "Fashionsnap.com",
-      "publishedAt": "2026-08-20T10:53:45Z",
-      "description": "ジーイエット（Gyet）（旧マックハウス）が、クラネデザイン（CLANE DESIGN）の普通株式の一部を取得すると発表した。持株比率は19%となる見込みで、取得価額は1株あたり1円で合計171円。株式譲渡実行は8月21日を予定している。クラネデザインは、2015年に設立したアパレル企業。ファッションブランド「クラネ（CLANE）」や「マノフ（MANO...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Stripe beefs up AI as it encroaches on banking",
-      "url": "https://biztoc.com/x/174a32b1f34b6033",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-20T22:09:42Z",
-      "description": "Key insight: Stripe bought OpenRouter, an AI model routing platform, in an acquisition deal reported to be well above its $1.3 valuation from May of this year. - What's at stake: The purchase strengthens Stripe's push into agentic commerce by allowing it to …",
-      "maMarket": "us"
-    },
-    {
-      "title": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
-      "url": "https://www.asahi.com/articles/ASV8N34JCV8NULFA01NM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-08-20T10:01:33Z",
-      "description": "三菱電機は20日、米エネルギー管理ソフト会社PCIエナジーソリューションズを14億ドル（2200億円）で買収し、完全子会社化すると発表した。三菱電機として過去最大の買収で、2026年中の手続き完了を…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Anthropic’s Ode acquires Casper Studios to boost enterprise AI solutions",
-      "url": "https://cryptobriefing.com/anthropics-ode-acquires-casper-studios-to-boost-enterprise-ai-solutions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-20T21:48:55Z",
-      "description": "Anthropic's acquisition of Casper Studios may enhance its competitive edge in enterprise AI, potentially boosting investor confidence and market value. The post Anthropic’s Ode acquires Casper Studios to boost enterprise AI solutions appeared first on Crypto …",
-      "maMarket": "us"
-    },
-    {
-      "title": "うどん業界、競争激化　「丸亀製麺」最高益から一転減益　「はなまるうどん」と明暗",
-      "url": "http://blog.livedoor.jp/nanjstu/archives/63425045.html",
-      "source": "Livedoor.jp",
-      "publishedAt": "2026-08-20T08:11:28Z",
-      "description": "転載元: https://nova.5ch.io/test/read.cgi/livegalileo/1787198957/1: それでも動く名無し 2026/08/20(木) 13:09:17.67 ID:VKRiWT4j0 うどん業界における競争の激しさは増すばかりです。すかいらーくホールディングスが買収した「資さんうどん」が出店を加速させているこ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "54k-Kilometer 1992 Toyota Hilux SSR-X Double Cab Diesel 4×4 5-Speed",
-      "url": "https://bringatrailer.com/listing/1992-toyota-hilux-10/",
+      "title": "Modified 22k-Mile 2003 Jeep Wrangler Rubicon 4.0",
+      "url": "https://bringatrailer.com/listing/2003-jeep-wrangler-165/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-20T21:35:33Z",
-      "description": "This 1992 Toyota Hilux SSR-X double cap was imported from Japan to the US following the selling dealer's acquisition. Power is provided by a 2.8-liter 3L diesel inline-four linked with a five-speed manual transmission and a dual-range transfer case. The truck…",
+      "publishedAt": "2026-08-21T22:21:29Z",
+      "description": "This 2003 Jeep Wrangler Rubicon has remained registered in California since new, and is said to have spent the majority of its life with a family friend of the seller prior to his acquisition in 2025. Service since that time has involved repainting the hood a…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「80歳近い社長も被害に」「トップブランド企業が疑心暗鬼で組織崩壊」…記者たちが見たM＆Aの“異様な現場” - 社喰い",
+      "url": "https://diamond.jp/articles/-/397017",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-21T19:35:00Z",
+      "description": "M＆Aを巡るトラブルを追い続けてきた2人の記者。その取材で出会ったのは、想像を超える企業と経営者たちの姿だった。トラブルの渦中にいる者たちは何を語ったのか。当事者の言い分に耳を傾けることで、何が見えてきたのか。新刊『社喰い』（ダイヤモンド社刊）の著者・片田江康男記者と、『ルポ M＆A仲介の罠』（朝日新聞出版刊）の著者で朝日新聞社の藤田知也記者が、強く印象に残った取材と、そこから見えたM＆A業界の実態を語った。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Mavs buy out Klay Thompson, who could join Heat after Doncic trade wrecked Dallas tenure",
+      "url": "https://www.cbc.ca/sports/basketball/nba/nba-mav-klay-thompson-could-join-heat-9.7316369",
+      "source": "CBC News",
+      "publishedAt": "2026-08-21T22:00:56Z",
+      "description": "The Dallas Mavericks and Klay Thompson have agreed on a contract buyout, ending a two-year tenure that was wrecked by the shocking trade of Luka Doncic.",
+      "maMarket": "us"
+    },
+    {
+      "title": "就職活動の早期化、約7割が実感。「企業理解が深まった」「比較・検討できた」との声がある一方、学生生活との両立には課題も",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000027235.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-21T07:50:00Z",
+      "description": "[DYM] WEB事業、人材事業、海外医療事業などを中心に、M&A事業やスポーツ事業など多角的に事業を展開する株式会社DYM（読み：ディーワイエム、本社：東京都品川区、代表取締役社長：水谷佑毅）は、就職活動を経験し...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Cox customers in Arizona to transition to Spectrum after $34.5B merger",
+      "url": "https://biztoc.com/x/1d0a14dea42b10a3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-21T21:53:55Z",
+      "description": "A pair of transactions worth tens of billions of dollars that will reshape cable and internet service across Arizona and the nation are now complete. Charter Communications announced Thursday it has finalized its merger with Cox Communications — a $34.5 billi…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「昔ながらの構図」批判の多かったクールジャパン機構が廃止の方向で調整に、「何がいけなかったのかなどちゃんと検証して」",
+      "url": "https://togetter.com/li/2735630",
+      "source": "Togetter.com",
+      "publishedAt": "2026-08-21T02:04:39Z",
+      "description": "【クールジャパン機構廃止へ 経産省】 批判の多かったクールジャパンが廃止に テーマパーク「ジャングリア沖縄」を手がけた企業に出資しているんだと 結局箱物に金じゃぶじゃぶって昔ながらの構図か 届けられなかっただなんてとんでもない まるで届けるつもりがあったみたいに誤解される言い方はいけません 最初から現場のアニメーターなんて眼中に無かっただけですよ",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Kimbell Royalty Partners Closes $221.2 Million Drop Down Acquisition",
+      "url": "https://www.prnewswire.com/news-releases/kimbell-royalty-partners-closes-221-2-million-drop-down-acquisition-302857569.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-21T21:30:00Z",
+      "description": "FORT WORTH, Texas, Aug. 21, 2026 /PRNewswire/ -- Kimbell Royalty Partners, LP (NYSE: KRP) (\"Kimbell\" or the \"Company\"), a leading owner of oil and gas mineral and royalty interests in over 17 million gross acres in 28 states, today announced that it has close…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic adds Citigroup to IPO banking team amid Wall Street competition",
-      "url": "https://cryptobriefing.com/anthropic-citigroup-ipo-banking-team/",
+      "title": "CoVolt Power files for US IPO to capitalize on data center energy boom",
+      "url": "https://cryptobriefing.com/covolt-power-ipo-data-center-energy/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-08-20T22:10:07Z",
-      "description": "Anthropic's strategic IPO moves could reshape tech market dynamics, influencing investor expectations and competitive positioning globally. The post Anthropic adds Citigroup to IPO banking team amid Wall Street competition appeared first on Crypto Briefing.",
+      "publishedAt": "2026-08-21T21:59:38Z",
+      "description": "CoVolt's IPO could accelerate renewable energy infrastructure, meeting rising data center demands and influencing future energy market dynamics. The post CoVolt Power files for US IPO to capitalize on data center energy boom appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Orion180 Insurance Group files registration statement for proposed IPO",
-      "url": "https://www.thefly.com/oig",
-      "source": "Thefly.com",
-      "publishedAt": "2026-08-20T21:02:33Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "title": "Chinese flash-memory chipmaker YMTC plans to raise $4.9 billion in Shanghai IPO",
+      "url": "https://economictimes.indiatimes.com/tech/technology/chinese-flash-memory-chipmaker-ymtc-plans-to-raise-4-9-billion-in-shanghai-ipo/articleshow/133406703.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T14:04:57Z",
+      "description": "The move sets the stage ​for a ⁠33 billion ‌yuan ($4.9 billion) ​share ​sale on ⁠Shanghai's Nasdaq-style STAR Market, that ​would rank among the ​market's biggest-ever offerings, the exchange said.",
       "ipoMarket": "us"
     },
     {
@@ -115,35 +115,63 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
-      "url": "https://biztoc.com/x/730ab69fb3f411dc",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-20T15:19:43Z",
-      "description": "IPO Edge hosted a fireside chat with Tactical Resources Corp. Common Shares (Nasdaq: TREO) Chief Executive Officer and a Director Ranjeet Sundher, moderated by IPO Edge Editor-in-Chief John Jannarone and Editor-at-Large Jarrett Banks in a video session lastin…",
+      "title": "Orion180 Files for IPO, Eyeing Home and Flood Insurance Market",
+      "url": "https://www.insurancejournal.com/news/southeast/2026/08/21/882440.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-08-21T13:44:55Z",
+      "description": "Orion180 Insurance Group Inc. filed for a US initial public offering, as the company looks to carve out a bigger share of the fast-growing specialty homeowners and flood insurance market. The Melbourne, Florida-based insurer had net income of $13.5 million …",
       "ipoMarket": "us"
     },
     {
-      "title": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-rare-earth-pure-play-fireside-with-tactical-resources-ceo-ranjeet-sundher-150549835.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-20T15:05:49Z",
-      "description": "IPO Edge hosted a fireside chat with Tactical Resources Corp. Common Shares (Nasdaq: TREO) Chief Executive Officer and a Director Ranjeet Sundher, moderated...",
+      "title": "Chinese flash-memory chipmaker YMTC plans to raise $4.9 billion in Shanghai IPO",
+      "url": "https://www.channelnewsasia.com/business/chinese-flash-memory-chipmaker-ymtc-plans-raise-49-billion-in-shanghai-ipo-6333456",
+      "source": "CNA",
+      "publishedAt": "2026-08-21T12:46:20Z",
+      "description": "BEIJING, Aug 21 : Chinese chipmaker Yangtze Memory Technologies Corp's (YMTC) application to list its shares in Shanghai has been accepted by the financial hub's stock exchange, filings showed on FridayThe move sets the stage for a 33 billion yuan ($4.9 billi…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "「狼少年」80歳で死去 スペイン",
+      "url": "https://news.yahoo.co.jp/pickup/6592712?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-22T13:32:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "米 対カナダ50%追加関税を発動",
+      "url": "https://news.yahoo.co.jp/pickup/6592685?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-22T09:34:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "国連委員 皇室典範などを批判",
+      "url": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-22T08:08:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "欧米でもキラキラネーム 日本風も",
+      "url": "https://news.yahoo.co.jp/pickup/6592646?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-22T04:41:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "ウ商業施設に無人機攻撃 15人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6592607?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-21T23:24:28.000Z",
+      "description": ""
+    },
+    {
       "title": "赤根所長 ICC加盟国に支援求める",
       "url": "https://news.yahoo.co.jp/pickup/6592600?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-21T22:23:53.000Z",
-      "description": ""
-    },
-    {
-      "title": "露の人気アニメ ウでの配信を禁止",
-      "url": "https://news.yahoo.co.jp/pickup/6592593?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-21T14:20:59.000Z",
       "description": ""
     },
     {
@@ -154,38 +182,10 @@
       "description": ""
     },
     {
-      "title": "クーラーBOXで5日漂流 メキシコ",
-      "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-21T11:20:49.000Z",
-      "description": ""
-    },
-    {
       "title": "韓国で「親日派スキャナー」拡大",
       "url": "https://news.yahoo.co.jp/pickup/6592574?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-21T10:12:19.000Z",
-      "description": ""
-    },
-    {
-      "title": "台湾に進学の日本人増 誘致手厚く",
-      "url": "https://news.yahoo.co.jp/pickup/6592542?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-21T07:19:47.000Z",
-      "description": ""
-    },
-    {
-      "title": "ヘンリー王子帰国報道 5つの疑問",
-      "url": "https://news.yahoo.co.jp/pickup/6592534?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-21T05:34:46.000Z",
-      "description": ""
-    },
-    {
-      "title": "露戦略会議に変化「戦後」意識?",
-      "url": "https://news.yahoo.co.jp/pickup/6592522?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-21T03:56:24.000Z",
       "description": ""
     }
   ]
