@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-27T03:00:31.853Z",
+  "fetchedAt": "2026-08-28T06:01:05.178Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,167 +9,159 @@
   ],
   "ma": [
     {
-      "title": "大豊建---UNICONホールディングス株式取得、資本業務提携契約締結 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1072198",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-08-26T02:58:33Z",
-      "description": "&lt;1822&gt; 大豊建 825 +13大豊建設&lt;1822&gt;は25日、エンデバー・ユナイテッド２号投資事業有限責任組合が保有する株式会社UNICONホールディングス&lt;%%%407A%%%&gt;の株式一部を取得するとともに、同社との間で資本業務提携契約を締結したと発表した。同日付で株式譲渡契約および資本業務提携契約をそれぞれ締結、取得株式数は普通株式168万2,133株、総株主の議決権数に対する割合は17.",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Jane Fonda Slams Paramount For Calling Mark Ruffalo’s Comments ‘Antisemitic’: ‘A Smear to Delegitimize Criticism of the Merger’",
-      "url": "https://variety.com/2026/film/news/jane-fonda-paramount-mark-ruffalo-smear-merger-warner-bros-1236843419/",
-      "source": "Variety",
-      "publishedAt": "2026-08-26T02:42:02Z",
-      "description": "Jane Fonda has released a statement in support of Mark Ruffalo after Paramount slammed the four-time Oscar nominee as “antisemitic” for a recent post denouncing Larry Ellison’s ties to Israel and David Ellison’s planned merger with Warner Bros. “Especially as…",
-      "maMarket": "us"
-    },
-    {
-      "title": "Stability AIが約370億円を新CEOの下で資金調達したと報告、ソニーミュージックやユニバーサルミュージックなどが出資",
-      "url": "https://news.livedoor.com/article/detail/32161254/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-08-26T02:34:00Z",
-      "description": "現地時間の2026年8月25日、Stable Diffusionの開発元として知られるAI企業のStability AIが、シリーズBで7600万ドル(約120億円)の新規資金調達を実施したと発表しました。これにより、2024年6月にCEOに就任したプレム・アッカラジュ氏の下での資金調達総額は、2億3200万ドル(約370億円)に到達したこととなります。Stability AI latest funding backed by entertainment industry biggest names - Stab…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Stockholders of an Investigation into the Fairness of the Acquisition of Utz Brands, Inc.",
-      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-levi--korsinsky-llp-notifies-stockholders-of-an-investigation-into-the-fairness-of-the-acquisition-of-utz-brands-inc-302859904.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-26T02:42:00Z",
-      "description": "NEW YORK, Aug. 25, 2026 /PRNewswire/ -- The following statement is being issued by Levi & Korsinsky, LLP: To: All Persons or Entities who purchased Utz Brands, Inc. (\"Utz\" or the \"Company\") (NYSE: UTZ) stock prior to July 22, 2026. You are hereby notified tha…",
-      "maMarket": "us"
-    },
-    {
-      "title": "気象情報提供大手ウェザーニューズ｢10年後に売上高1000億円｣達成のカギ AIをフル活用､M&Aも視野 | 政治・経済・投資 | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955131?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-08-26T02:00:00Z",
-      "description": "ウェザーニューズは7月､10年後売上高1000億円の目標を公表。8月6日には｢ウェザーニュース｣のグローバル版アプリのリリースを発表しました。その狙いとは？",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Tilaknagar Industries open to another large deal after Imperial Blue buyout, chairman says",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/tilaknagar-industries-open-to-another-large-deal-after-imperial-blue-buyout-chairman-says/articleshow/133527792.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-26T02:39:00Z",
-      "description": "Tilaknagar Industries is open to another large deal after its recent acquisition. Consolidation is gathering pace in India's dynamic liquor market. The company seeks to broaden portfolios and gain scale through acquisitions. Tilaknagar will focus on craft …",
-      "maMarket": "us"
-    },
-    {
-      "title": "【三浦工業株式会社】三浦工業のグループ会社Cleaver-BrooksによるR.F. MacDonaldの買収に関するお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000276.000028191.html",
+      "title": "飲食店向け仕込み外注プラットフォームを展開する「株式会社シコメルフードテック」に出資",
+      "url": "https://prtimes.jp/main/html/rd/p/000000295.000076174.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-08-26T01:55:00Z",
-      "description": "[三浦工業株式会社] 産業用ボイラメーカーの三浦工業株式会社（東京本社：東京都港区、代表取締役：米田剛）のグループ会社であるThe Cleaver-Brooks Company, Inc.（本社：米国ジョージア州、以下「Cleaver-Brooks社」）が、R.F. Ma...",
+      "publishedAt": "2026-08-27T06:00:00Z",
+      "description": "[日清オイリオグループ株式会社] 日清オイリオグループ株式会社（社長：久野 貴久）は、飲食店および食品事業者の仕込みを外注できるプラットフォーム開発・運営、ならびにメニュー提案・開発およびコンサルティング事業を展開する株式会社シコ...",
       "maMarket": "jp"
     },
     {
-      "title": "Report: Miami Heat Get Major Jrue Holiday Trade Update After Klay Signing",
-      "url": "https://heavy.com/sports/nba/miami-heat/heat-jrue-holiday-trade-update-klay/",
-      "source": "Heavy.com",
-      "publishedAt": "2026-08-26T02:29:35Z",
-      "description": "The Miami Heat has had a celebratory offseason. After landing Giannis Antetokounmpo in a league-rattling blockbuster trade in June, the Heat landed veteran sharpshooting guard Klay Thompson, who reached a contract buyout with the Dallas Mavericks last week. A…",
+      "title": "Amazon’s Marketing Takeover for Back-to-School Includes Gatorade, SharkNinja, and Michael Kors",
+      "url": "https://www.adweek.com/commerce/amazon-marketing-takeover-back-to-school-gatorade-sharkninja-michael-kors/",
+      "source": "Adweek",
+      "publishedAt": "2026-08-27T06:00:00Z",
+      "description": "The e-commerce giant aims to reach Gen Z, including a block party and concert at the University of Wisconsin.",
+      "maMarket": "us"
+    },
+    {
+      "title": "「44社出資」の利害調整／後悔の予感しかない国策AI「ノエトラ」",
+      "url": "https://facta.co.jp/article/202609009.html",
+      "source": "Facta.co.jp",
+      "publishedAt": "2026-08-27T05:40:00Z",
+      "description": "7月15日夕方、東京・神田。庶民的な居酒屋を普段は目にすることがない人垣が取り囲んでいた。この店を貸し切り、日本の半導体関連企業のトップと会食をした米エヌビディアのジェンスン・ファン最高経営責任者（CEO）を、メディア関係者が待ち構え、さらに通行人が取り巻いた。メモを慎重に読み上げる 翌日までの2日間、メディアは来日して都内で取引先のイベントなどに参加したファン氏の一挙手一投足に目を凝らした。同氏は1月半ほど前に台湾と韓国を訪問しているが、この時は日本を素通りしている。今回は超VIPが振り向いてくれたのがよほ…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Boliden to acquire controlling stake in Nexa Resources",
+      "url": "https://www.prnewswire.com/news-releases/boliden-to-acquire-controlling-stake-in-nexa-resources-302861358.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-27T05:16:00Z",
+      "description": "STOCKHOLM, Aug. 27, 2026 /PRNewswire/ -- Boliden AB (\"Boliden\") and Votorantim S.A. (\"Votorantim\") have entered into a definitive agreement (the \"Transaction\") pursuant to which Boliden will acquire all of Votorantim's shares in Nexa Resources S.A. (\"Nexa\"). …",
+      "maMarket": "us"
+    },
+    {
+      "title": "AWS と DuckLabs: 分析の未来を共に築く",
+      "url": "https://aws.amazon.com/jp/blogs/news/aws-and-ducklabs-building-the-future-of-analytics-together/",
+      "source": "Amazon.com",
+      "publishedAt": "2026-08-27T04:20:30Z",
+      "description": "Amazon はオープンソース分析データベース DuckDB を開発するアムステルダム拠点の DuckLabs を買収する最終契約を締結しました。DuckDB は 1 テラバイト以下の日常的なクエリを圧倒的な速度で処理するアーキテクチャを持ち、データエンジニアリング、データサイエンス、分析、AI エージェントの分野で広く採用されています。オープンソースプロジェクトは引き続き独立した Foundation の下で MIT ライセンスで維持され、AWS は S3 や Redshift、Athena などのサービスと …",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The AFL/NFL Merger",
+      "url": "https://everything-everywhere.com/the-afl-nfl-merger/",
+      "source": "Everything-everywhere.com",
+      "publishedAt": "2026-08-27T05:08:49Z",
+      "description": "Podcast Transcript On December 28, 1958, a record-setting audience of nearly 45 million people watched the National Football League championship game. Pro football was on the rise, and investors took notice. They saw the potential to expand the brand into mor…",
+      "maMarket": "us"
+    },
+    {
+      "title": "松井証---大幅続伸で高値更新、中間期末配当金は前年同期比増配へ - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1072260",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-27T04:15:43Z",
+      "description": "&lt;8628&gt; 松井証 1166 +39大幅続伸で高値更新。未定としていた中間期末の配当金を28円に決定と発表している。前年同期比では3円の増配となる。単純に年率換算した場合の配当利回りは、前日終値ベースで5.0％の高水準となり、ポジティブに捉えられているもよう。また、韓国の未来アセットグループとトス証券が、日本の証券会社を買収することを検討と伝わっており、一部証券会社には思惑先行の動きも出ているも",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Klay Thompson’s Surprising Andrew Wiggins Confession Steals Spotlight at Heat Introductory Press Conference",
+      "url": "https://sports.yahoo.com/articles/klay-thompson-surprising-andrew-wiggins-045923856.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-27T04:59:23Z",
+      "description": "Klay Thompson is officially a member of the Miami Heat after reaching a buyout agreement with the Dallas Mavericks. Thompson’s move to Miami also reunites him with his former Golden State Warriors teammate Andrew Wiggins. The veteran sharpshooter did not hide…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Global X Japan株式会社「グローバルＸ 韓国半導体・トップ10 ETF」（銘柄コード：633A）東京証券取引所より上場承認",
-      "url": "https://prtimes.jp/main/html/rd/p/000000096.000137367.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-08-20T07:30:00Z",
-      "description": "[Global X Japan株式会社] 大和証券グループのGlobal X Japan株式会社（東京都千代田区、代表取締役社長：藤岡 智男、以下「当社」）は、本日、東京証券取引所より「グローバルＸ 韓国半導体・トップ10 ETF」（銘柄コード：633A、以下「...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Anthropic is pitching IPO investors on a $30 trillion market opportunity",
-      "url": "https://biztoc.com/x/3a16b181f17479b3",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-25T23:21:36Z",
-      "description": "Anthropic is preparing to tell IPO investors that its potential revenue opportunity exceeds $30 trillion, according to The Wall Street Journal, citing people familiar with the matter. The figure would top the $28.5 trillion estimate SpaceX presented to invest…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "B&R Technology Merger Corp. Announces Closing of Exercise of IPO Over-Allotment Option",
-      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-closing-of-exercise-of-ipo-over-allotment-option-302859809.html",
+      "title": "AVEX Shareholder Alert: October 20, 2026 Lead Plaintiff Deadline in AEVEX Corp. Securities Class Action - Contact Levi & Korsinsky",
+      "url": "https://www.prnewswire.com/news-releases/avex-shareholder-alert-october-20-2026-lead-plaintiff-deadline-in-aevex-corp-securities-class-action---contact-levi--korsinsky-302860849.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-08-25T20:18:00Z",
-      "description": "NEW YORK, Aug. 25, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (the \"Company\") (NASDAQ: BRTMU), announced today that the underwriter of its previously consummated initial public offering has partially exercised its option to purchase an additional 3,500,…",
+      "publishedAt": "2026-08-26T18:23:00Z",
+      "description": "Board Chairman Brian Raduenz, who led AEVEX Corp. as CEO from 2017 until October 2025, signed IPO offering documents that a securities class action alleges concealed a pre-arranged plan to waive the 180-day lock-up protecting AVEX shareholders. NEW YORK, Aug.…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic is expected to pitch investors a $30tn market opportunity",
-      "url": "https://thenextweb.com/news/anthropic-ipo-30-trillion-addressable-market",
-      "source": "The Next Web",
-      "publishedAt": "2026-08-25T18:55:12Z",
-      "description": "Anthropic is likely to tell IPO investors that its potential revenue opportunity runs above $30tn. That figure would top the $28.5tn SpaceX put in front of investors before its own record listing. Corrie Driebusch reported the number for The Wall Street Journ…",
+      "title": "Oura’s $16 Billion IPO Could Put a New Price on Wearable Tech",
+      "url": "https://www.marketbeat.com/articles/ouras-16-billion-ipo-could-put-a-new-price-on-wearable-tech/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "source": "MarketBeat",
+      "publishedAt": "2026-08-26T18:00:00Z",
+      "description": "Oura Health is reportedly seeking a $16 billion valuation in a U.S. IPO, a pricing test that could reshape how Wall Street values wearable divisions at Apple...",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic pitches IPO investors on $30 trillion market opportunity",
-      "url": "https://qz.com/anthropic-ipo-investors-30-trillion-market-opportunity-082526",
-      "source": "Quartz India",
-      "publishedAt": "2026-08-25T17:21:07Z",
-      "description": "The AI company could aim to raise as much as $100 billion in its offering, targeting a valuation of about $2 trillion",
+      "title": "JPMorgan doubles down on SpaceX verdict on key update",
+      "url": "https://biztoc.com/x/c24eb51d5718aa22",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-26T17:06:27Z",
+      "description": "SpaceX went public in June as the most anticipated listing in years. The first few weeks were electric. Then the stock fell sharply, spending weeks below its IPO price while critics questioned whether the valuation had gotten ahead of the business. Wall Stree…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense",
+      "url": "https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-26T14:54:13Z",
+      "description": "Are we looking at a big year-end for the IPO market?",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ネパール洪水日本人5人連絡取れず",
-      "url": "https://news.yahoo.co.jp/pickup/6593198?source=rss",
+      "title": "米大統領 太平洋の名称変更を示唆",
+      "url": "https://news.yahoo.co.jp/pickup/6593396?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T21:12:53.000Z",
+      "publishedAt": "2026-08-28T05:06:45.000Z",
       "description": ""
     },
     {
-      "title": "ヘンリー王子一家が帰国 英報道",
-      "url": "https://news.yahoo.co.jp/pickup/6593191?source=rss",
+      "title": "ネパールで不明日本人ら 名簿公表",
+      "url": "https://news.yahoo.co.jp/pickup/6593387?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T13:42:37.000Z",
+      "publishedAt": "2026-08-28T03:19:05.000Z",
       "description": ""
     },
     {
-      "title": "イラン戦争 米軍基地に重い課題",
-      "url": "https://news.yahoo.co.jp/pickup/6593165?source=rss",
+      "title": "ネパール せき止め湖が決壊の危険",
+      "url": "https://news.yahoo.co.jp/pickup/6593381?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T12:12:50.000Z",
+      "publishedAt": "2026-08-28T03:00:16.000Z",
       "description": ""
     },
     {
-      "title": "ICC制裁 日本を巡り前所長が指摘",
-      "url": "https://news.yahoo.co.jp/pickup/6593182?source=rss",
+      "title": "ムラジッチ受刑者が死亡 国連発表",
+      "url": "https://news.yahoo.co.jp/pickup/6593374?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T12:00:22.000Z",
+      "publishedAt": "2026-08-28T02:24:01.000Z",
       "description": ""
     },
     {
-      "title": "火災で新生児14人死亡 パキスタン",
-      "url": "https://news.yahoo.co.jp/pickup/6593181?source=rss",
+      "title": "イラン攻撃半年 収束の道筋見えず",
+      "url": "https://news.yahoo.co.jp/pickup/6593354?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T11:37:02.000Z",
+      "publishedAt": "2026-08-27T22:54:33.000Z",
       "description": ""
     },
     {
-      "title": "ICC赤根所長 できる限り抵抗する",
-      "url": "https://news.yahoo.co.jp/pickup/6593179?source=rss",
+      "title": "ネパール洪水 氷河崩落が原因か",
+      "url": "https://news.yahoo.co.jp/pickup/6593337?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T11:13:49.000Z",
+      "publishedAt": "2026-08-27T13:36:19.000Z",
       "description": ""
     },
     {
-      "title": "韓国 対北を巡り「蚊帳の外」懸念",
-      "url": "https://news.yahoo.co.jp/pickup/6593157?source=rss",
+      "title": "コロンビア「監獄船」の導入検討",
+      "url": "https://news.yahoo.co.jp/pickup/6593313?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T09:04:14.000Z",
+      "publishedAt": "2026-08-27T09:30:44.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏の息子殺害示唆 イラン",
-      "url": "https://news.yahoo.co.jp/pickup/6593160?source=rss",
+      "title": "草間さん死去 海外で大々的に報道",
+      "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-26T08:49:46.000Z",
+      "publishedAt": "2026-08-27T09:01:24.000Z",
       "description": ""
     }
   ]
