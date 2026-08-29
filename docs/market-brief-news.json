@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-28T06:01:05.178Z",
+  "fetchedAt": "2026-08-29T03:34:48.345Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,159 +9,166 @@
   ],
   "ma": [
     {
-      "title": "飲食店向け仕込み外注プラットフォームを展開する「株式会社シコメルフードテック」に出資",
-      "url": "https://prtimes.jp/main/html/rd/p/000000295.000076174.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-08-27T06:00:00Z",
-      "description": "[日清オイリオグループ株式会社] 日清オイリオグループ株式会社（社長：久野 貴久）は、飲食店および食品事業者の仕込みを外注できるプラットフォーム開発・運営、ならびにメニュー提案・開発およびコンサルティング事業を展開する株式会社シコ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Amazon’s Marketing Takeover for Back-to-School Includes Gatorade, SharkNinja, and Michael Kors",
-      "url": "https://www.adweek.com/commerce/amazon-marketing-takeover-back-to-school-gatorade-sharkninja-michael-kors/",
-      "source": "Adweek",
-      "publishedAt": "2026-08-27T06:00:00Z",
-      "description": "The e-commerce giant aims to reach Gen Z, including a block party and concert at the University of Wisconsin.",
-      "maMarket": "us"
-    },
-    {
-      "title": "「44社出資」の利害調整／後悔の予感しかない国策AI「ノエトラ」",
-      "url": "https://facta.co.jp/article/202609009.html",
-      "source": "Facta.co.jp",
-      "publishedAt": "2026-08-27T05:40:00Z",
-      "description": "7月15日夕方、東京・神田。庶民的な居酒屋を普段は目にすることがない人垣が取り囲んでいた。この店を貸し切り、日本の半導体関連企業のトップと会食をした米エヌビディアのジェンスン・ファン最高経営責任者（CEO）を、メディア関係者が待ち構え、さらに通行人が取り巻いた。メモを慎重に読み上げる 翌日までの2日間、メディアは来日して都内で取引先のイベントなどに参加したファン氏の一挙手一投足に目を凝らした。同氏は1月半ほど前に台湾と韓国を訪問しているが、この時は日本を素通りしている。今回は超VIPが振り向いてくれたのがよほ…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Boliden to acquire controlling stake in Nexa Resources",
-      "url": "https://www.prnewswire.com/news-releases/boliden-to-acquire-controlling-stake-in-nexa-resources-302861358.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-27T05:16:00Z",
-      "description": "STOCKHOLM, Aug. 27, 2026 /PRNewswire/ -- Boliden AB (\"Boliden\") and Votorantim S.A. (\"Votorantim\") have entered into a definitive agreement (the \"Transaction\") pursuant to which Boliden will acquire all of Votorantim's shares in Nexa Resources S.A. (\"Nexa\"). …",
-      "maMarket": "us"
-    },
-    {
-      "title": "AWS と DuckLabs: 分析の未来を共に築く",
-      "url": "https://aws.amazon.com/jp/blogs/news/aws-and-ducklabs-building-the-future-of-analytics-together/",
-      "source": "Amazon.com",
-      "publishedAt": "2026-08-27T04:20:30Z",
-      "description": "Amazon はオープンソース分析データベース DuckDB を開発するアムステルダム拠点の DuckLabs を買収する最終契約を締結しました。DuckDB は 1 テラバイト以下の日常的なクエリを圧倒的な速度で処理するアーキテクチャを持ち、データエンジニアリング、データサイエンス、分析、AI エージェントの分野で広く採用されています。オープンソースプロジェクトは引き続き独立した Foundation の下で MIT ライセンスで維持され、AWS は S3 や Redshift、Athena などのサービスと …",
-      "maMarket": "jp"
-    },
-    {
-      "title": "The AFL/NFL Merger",
-      "url": "https://everything-everywhere.com/the-afl-nfl-merger/",
-      "source": "Everything-everywhere.com",
-      "publishedAt": "2026-08-27T05:08:49Z",
-      "description": "Podcast Transcript On December 28, 1958, a record-setting audience of nearly 45 million people watched the National Football League championship game. Pro football was on the rise, and investors took notice. They saw the potential to expand the brand into mor…",
-      "maMarket": "us"
-    },
-    {
-      "title": "松井証---大幅続伸で高値更新、中間期末配当金は前年同期比増配へ - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1072260",
+      "title": "インテリックスＨＤ---ティー・ディー・ハウジング子会社化へ基本合意 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1072314",
       "source": "Diamond.jp",
-      "publishedAt": "2026-08-27T04:15:43Z",
-      "description": "&lt;8628&gt; 松井証 1166 +39大幅続伸で高値更新。未定としていた中間期末の配当金を28円に決定と発表している。前年同期比では3円の増配となる。単純に年率換算した場合の配当利回りは、前日終値ベースで5.0％の高水準となり、ポジティブに捉えられているもよう。また、韓国の未来アセットグループとトス証券が、日本の証券会社を買収することを検討と伝わっており、一部証券会社には思惑先行の動きも出ているも",
+      "publishedAt": "2026-08-28T03:05:39Z",
+      "description": "&lt;%%%463A%%%&gt; インテリックスＨＤ 1001 -インテリックスホールディングス&lt;%%%463A%%%&gt;は27日、ティー・ディー・ハウジング（本社：東京都墨田区）の全株式を取得し、子会社化に向けた協議を開始するため、基本合意書を締結することを決議したと発表した。取得予定株式数は422株で、取得後の議決権所有割合は100.0％となる。取得価額は基本合意書締結後に詳細な調査を実施して決定する。",
       "maMarket": "jp"
     },
     {
-      "title": "Klay Thompson’s Surprising Andrew Wiggins Confession Steals Spotlight at Heat Introductory Press Conference",
-      "url": "https://sports.yahoo.com/articles/klay-thompson-surprising-andrew-wiggins-045923856.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-27T04:59:23Z",
-      "description": "Klay Thompson is officially a member of the Miami Heat after reaching a buyout agreement with the Dallas Mavericks. Thompson’s move to Miami also reunites him with his former Golden State Warriors teammate Andrew Wiggins. The veteran sharpshooter did not hide…",
+      "title": "Anthropic in talks with chip start up MatX to speed up chip design, sources say",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropic-in-talks-with-chip-start-up-matx-to-speed-up-chip-design-sources-say/article71399021.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-28T03:29:23Z",
+      "description": "The merger talks have shifted to a partnership discussion, highlighting the AI lab’s goal to acquire resources and talent for building its own chips",
+      "maMarket": "us"
+    },
+    {
+      "title": "東洋紡、エアバッグ用原糸会社TIAFを完全子会社化へ…タイ事業をさらに強化",
+      "url": "https://response.jp/article/2026/08/28/415844.html",
+      "source": "Response.jp",
+      "publishedAt": "2026-08-28T02:45:03Z",
+      "description": "東洋紡は、タイのエアバッグ用原糸生産会社「Toyobo Indorama Advanced Fibers Co., Ltd.（TIAF）」を完全子会社化することを取締役会で決議したと発表した。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "CSV merger that lines up mismatched columns by header, browser-only",
+      "url": "https://usefiletools.com/data/merge-csv/",
+      "source": "Usefiletools.com",
+      "publishedAt": "2026-08-28T03:22:04Z",
+      "description": "Combine two or more CSV files into one, free, with no upload and no sign-up. Files with different columns still line up, with blanks filled in.",
+      "maMarket": "us"
+    },
+    {
+      "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第45弾、レヴァン・カカバゼ――自前の倉庫と車両で回す、FMCG流通シャルム・トレーディングの出資者",
+      "url": "https://prtimes.jp/main/html/rd/p/000000410.000158730.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-08-28T02:40:42Z",
+      "description": "少数株ドットコム株式会社のプレスリリース（2026年8月28日 10時00分）少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第45弾、レヴァン・カカバゼ――自前の倉庫と車両で回す、FMCG流通シャルム・トレーディングの出資者",
+      "maMarket": "jp"
+    },
+    {
+      "title": "perp-md 0.3.2",
+      "url": "https://pypi.org/project/perp-md/0.3.2/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-08-28T02:49:34Z",
+      "description": "Typed asynchronous perpetual-market open-interest and funding acquisition",
+      "maMarket": "us"
+    },
+    {
+      "title": "Apple Arcadeゲーム「Sneaky Sasquatch」のアップデート発表。「Subway Surfers+」とのクロスオーバーイベントなど",
+      "url": "https://arigato-ipod.com/2026/08/sneaky-sasquatch-for-apple-arcade-subway-surfers-plus-event.html",
+      "source": "Arigato-ipod.com",
+      "publishedAt": "2026-08-27T22:00:03Z",
+      "description": "AppleがApple Arcadeゲーム「Sneaky Sasquatch」のアップデートについて発表しています。 「Sneaky Sasquatch（しのび足のサスクワッチ）」の開発元のRAC7社は、2025年にAppleに買収されてい",
+      "maMarket": "jp"
+    },
+    {
+      "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
+      "url": "https://biztoc.com/x/95d3f1e91d21fb60",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-28T02:41:57Z",
+      "description": "The S-4 registration statement is for Evernorth's merger with SPAC firm Armada, through which it seeks a Nasdaq listing.",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "AVEX Shareholder Alert: October 20, 2026 Lead Plaintiff Deadline in AEVEX Corp. Securities Class Action - Contact Levi & Korsinsky",
-      "url": "https://www.prnewswire.com/news-releases/avex-shareholder-alert-october-20-2026-lead-plaintiff-deadline-in-aevex-corp-securities-class-action---contact-levi--korsinsky-302860849.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-26T18:23:00Z",
-      "description": "Board Chairman Brian Raduenz, who led AEVEX Corp. as CEO from 2017 until October 2025, signed IPO offering documents that a securities class action alleges concealed a pre-arranged plan to waive the 180-day lock-up protecting AVEX shareholders. NEW YORK, Aug.…",
+      "title": "How DeepSeek founder's quant empire is taking on China's choppy IPO boom",
+      "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-28T01:02:48Z",
+      "description": "High-Flyer Quant, which bankrolled DeepSeek, has come to the fore, making a push into new listings as it chases returns in China's red-hot IPO market.",
       "ipoMarket": "us"
     },
     {
-      "title": "Oura’s $16 Billion IPO Could Put a New Price on Wearable Tech",
-      "url": "https://www.marketbeat.com/articles/ouras-16-billion-ipo-could-put-a-new-price-on-wearable-tech/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "source": "MarketBeat",
-      "publishedAt": "2026-08-26T18:00:00Z",
-      "description": "Oura Health is reportedly seeking a $16 billion valuation in a U.S. IPO, a pricing test that could reshape how Wall Street values wearable divisions at Apple...",
+      "title": "Anthropic Reportedly Pitching IPO Investors a $30 Trillion Market Ahead of $2 Trillion Valuation",
+      "url": "https://www.ghacks.net/2026/08/27/anthropic-reportedly-pitching-ipo-investors-a-30-trillion-market-ahead-of-2-trillion-valuation/",
+      "source": "Ghacks Technology News",
+      "publishedAt": "2026-08-27T19:21:14Z",
+      "description": "Anthropic is reportedly preparing to tell IPO investors that its potential revenue opportunity exceeds $30 trillion. Thank you for being a Ghacks reader. The post Anthropic Reportedly Pitching IPO Investors a $30 Trillion Market Ahead of $2 Trillion Valuation…",
       "ipoMarket": "us"
     },
     {
-      "title": "JPMorgan doubles down on SpaceX verdict on key update",
-      "url": "https://biztoc.com/x/c24eb51d5718aa22",
+      "title": "Spinnova Files for $15 Million U.S. IPO as Commercial Test Looms",
+      "url": "http://wwd.com/sourcing-journal/industry-news/spinnova-us-ipo-sec-filing-commercialization-1239166260/",
+      "source": "WWD",
+      "publishedAt": "2026-08-27T16:33:09Z",
+      "description": "The Finnish fiber innovator is courting U.S. investors to restart its demo operation and close a sizable gap between brand validation and binding business.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "e.l.f. Beauty Is Down 53% From Its All-Time High. Is the Sell-Off an Overreaction?",
+      "url": "https://biztoc.com/x/6a07747d5ef095d5",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-26T17:06:27Z",
-      "description": "SpaceX went public in June as the most anticipated listing in years. The first few weeks were electric. Then the stock fell sharply, spending weeks below its IPO price while critics questioned whether the valuation had gotten ahead of the business. Wall Stree…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense",
-      "url": "https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-26T14:54:13Z",
-      "description": "Are we looking at a big year-end for the IPO market?",
+      "publishedAt": "2026-08-27T16:10:06Z",
+      "description": "E.l.f. Beauty's (NYSE: ELF) stock closed at a record high of $221.83 per share on March 4, 2024. That marked a 1,205% gain from its IPO price of $17 per share on Sept. 21, 2016. At the time, the cosmetics company dazzled the market with its rapid sales growth…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "ネパール土石流 山に走った生存者",
+      "url": "https://news.yahoo.co.jp/pickup/6593485?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-29T01:27:41.000Z",
+      "description": ""
+    },
+    {
+      "title": "米 エジプト大手銀UAE支店に制裁",
+      "url": "https://news.yahoo.co.jp/pickup/6593480?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-29T00:57:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパール土石流 行方不明2500人",
+      "url": "https://news.yahoo.co.jp/pickup/6593467?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-28T22:54:56.000Z",
+      "description": ""
+    },
+    {
+      "title": "FRBによる9月利​上げ観測高まる",
+      "url": "https://news.yahoo.co.jp/pickup/6593460?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-28T15:05:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパールで不明の邦人 小学生も",
+      "url": "https://news.yahoo.co.jp/pickup/6593457?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-28T13:59:17.000Z",
+      "description": ""
+    },
+    {
+      "title": "姿見せないモジタバ師 深まる疑念",
+      "url": "https://news.yahoo.co.jp/pickup/6593454?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-28T13:27:15.000Z",
+      "description": ""
+    },
+    {
+      "title": "ノルウェー国王 ハラルド5世死去",
+      "url": "https://news.yahoo.co.jp/pickup/6593405?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-28T07:24:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパール洪水 国境検問施設が消失",
+      "url": "https://news.yahoo.co.jp/pickup/6593400?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-28T06:41:28.000Z",
+      "description": ""
+    },
+    {
       "title": "米大統領 太平洋の名称変更を示唆",
       "url": "https://news.yahoo.co.jp/pickup/6593396?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-28T05:06:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパールで不明日本人ら 名簿公表",
-      "url": "https://news.yahoo.co.jp/pickup/6593387?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-28T03:19:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパール せき止め湖が決壊の危険",
-      "url": "https://news.yahoo.co.jp/pickup/6593381?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-28T03:00:16.000Z",
-      "description": ""
-    },
-    {
-      "title": "ムラジッチ受刑者が死亡 国連発表",
-      "url": "https://news.yahoo.co.jp/pickup/6593374?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-28T02:24:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン攻撃半年 収束の道筋見えず",
-      "url": "https://news.yahoo.co.jp/pickup/6593354?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-27T22:54:33.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパール洪水 氷河崩落が原因か",
-      "url": "https://news.yahoo.co.jp/pickup/6593337?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-27T13:36:19.000Z",
-      "description": ""
-    },
-    {
-      "title": "コロンビア「監獄船」の導入検討",
-      "url": "https://news.yahoo.co.jp/pickup/6593313?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-27T09:30:44.000Z",
-      "description": ""
-    },
-    {
-      "title": "草間さん死去 海外で大々的に報道",
-      "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-27T09:01:24.000Z",
       "description": ""
     }
   ]
