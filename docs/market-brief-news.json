@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T23:57:58.868Z",
+  "fetchedAt": "2026-08-31T00:17:52.901Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-08-29T23:12:00Z",
+      "description": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The Hidden History of Our Modern Food System — How Big Tobacco Shaped What We Eat",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/08/30/big-tobacco-food-system.aspx",
+      "source": "Mercola.com",
+      "publishedAt": "2026-08-30T00:00:00Z",
+      "description": "Editor's Note: This article is a reprint. It was originally published October 13, 2024. I had the pleasure of interviewing Calley Means, co-author of the book \"Good Energy\" and a policy advisor to Robert F. Kennedy Jr. Our conversation uncovered some shocki…",
+      "maMarket": "us"
+    },
+    {
+      "title": "OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136717.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-08-29T05:39:25Z",
+      "description": "OpenAIは28日(米国時間)、SpaceXによるCursor買収を受けて、コーディングエージェント「Cursor」へのOpenAIの最新モデルの提供を終了すると発表した。同日にSpaceXにモデル提供契約の終了を通知し、終了予定日は11月12日。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "GT500-Style, Supercharged Coyote-Powered 1967 Ford Mustang Fastback 6-Speed",
+      "url": "https://bringatrailer.com/listing/1967-ford-mustang-506/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-08-29T23:50:05Z",
+      "description": "This 1967 Ford Mustang fastback was the subject of a custom build following the seller's 2020 acquisition. The Brittany Blue paintwork and white stripes were applied by MotorCity Grind in Royal Oak, Michigan, who also fitted the GT500-style components. The in…",
+      "maMarket": "us"
+    },
+    {
+      "title": "Cursorで使えるOpenAIモデル、11月12日で終了。SpaceX買収が引き金",
+      "url": "https://gori.me/it/169477",
+      "source": "Gori.me",
+      "publishedAt": "2026-08-29T02:57:53Z",
+      "description": "OpenAIが、Cursorへの自社モデル提供を打ち切ると発表した。公式声明によると、SpaceXによるCursor買収を受けて契約を終了する旨を通知済みで、提供停止日は2026年11月12日を提案しているという。 We’re ending our partnership with Cursor f… The post Cursorで使えるOpenAIモデル、11月12日で終了。SpaceX買収が引き金 first appeared on ゴリミー. 【もっと読む】",
+      "maMarket": "jp"
+    },
+    {
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185287336",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-29T23:13:31Z",
+      "description": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceXCNBC Our decision on Cursor following its acquisition by SpaceXOpenAI OpenAI cuts off Cursor's AI models, deepening feud with MuskMashable Michael Truell: The 100 Most Influential Peo…",
+      "maMarket": "us"
+    },
+    {
       "title": "高市政権がひどすぎる-幼稚で小学生より頭悪く、ネットは金で買収されている。新聞よ立ち上がれ",
       "url": "http://matometanews.com/archives/2120360.html",
       "source": "Matometanews.com",
@@ -17,63 +65,39 @@
       "maMarket": "jp"
     },
     {
-      "title": "Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off",
-      "url": "https://biztoc.com/x/2226ecfd2fb66cdf",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-28T23:26:48Z",
-      "description": "Genius Group, a company that operates a bitcoin and artificial intelligence (AI) dual treasury strategy alongside its core education business, plans to acquire $827 million in bitcoin treasury and $800 million in AI treasury by its fiscal year 2031, the firm …",
-      "maMarket": "us"
-    },
-    {
-      "title": "「3億円はやられたな」ミュゼプラチナム元オーナーが激白、脱毛トップブランドの“ボロボロすぎる”内情 - 社喰い",
-      "url": "https://diamond.jp/articles/-/398076",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-08-28T19:25:00Z",
-      "description": "2025年8月、脱毛サロン大手「ミュゼプラチナム」を運営するMPH社が破産した。「ミュゼ」を冠する脱毛事業のオーナーは、破産までに8社を転々とし、一連の買収は「ミュゼ転がし」と呼ばれるほど奇々怪々な様相を呈している。その内部では一体何が起きていたのか。新刊『社喰い』（片田江康男・著、ダイヤモンド社刊）から、一時ミュゼのオーナーとなり、「3億円はやられた」と語る実業家が明かした、その驚くべき内情を紹介する。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off",
-      "url": "https://www.pymnts.com/blockchain/bitcoin/2026/genius-group-targets-bitcoin-treasury-rebuild-5-months-after-selling-off/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-08-28T22:45:44Z",
-      "description": "Genius Group, a company that operates a bitcoin and artificial intelligence (AI) dual treasury strategy alongside its core education business, plans to acquire $827 million in bitcoin treasury and $800 million in AI treasury by its fiscal year 2031, the firm …",
-      "maMarket": "us"
-    },
-    {
-      "title": "【北の国のオーロラ】清水エスパルスの親会社・鈴与グループがデンマーク1部ラナースFCを買収！今後クラブ間の連携も？",
-      "url": "https://blog.domesoccer.jp/archives/60253297.html",
-      "source": "Domesoccer.jp",
-      "publishedAt": "2026-08-28T17:03:05Z",
-      "description": "しみじみ清水エスパルス 2533 https://ikura.2ch.sc/test/read.cgi/soccer/1787473839 527 U-名無しさん 2026/08/28(金) 19:24:53 ID:Ar ... 続きを読む The post 【北の国のオーロラ】清水エスパルスの親会社・鈴与グループがデンマーク1部ラナースFCを買収！今後クラブ間の連携も？ first appeared on ドメサカブログ.",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2k-Mile 2023 KTM 1290 Super Adventure S",
-      "url": "https://bringatrailer.com/listing/2023-ktm-1290-super-adventure-s/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-28T22:10:07Z",
-      "description": "This 2023 KTM 1290 Super Adventure S was registered in Louisiana before its April 2025 acquisition by the current owner, and it now indicates 2k miles. Powered by a liquid-cooled 1,301cc V-twin paired with a six-speed transmission, the bike is finished in gra…",
-      "maMarket": "us"
-    },
-    {
-      "title": "BASE株式会社ＳＢＩホールディングス株式会社との資本業務提携契約の締結に関するお知らせ",
-      "url": "https://japan.cnet.com/release/31202445/",
-      "source": "CNET",
-      "publishedAt": "2026-08-28T13:30:06Z",
-      "description": "ー 新たな顧客価値及び事業機会の創出に向けて ーBASE株式会社（所在地：東京都港区、代表取締役CEO：鶴岡 裕太、以下BASE）は、ＳＢＩホールディングス株式会社（所在地：東京都港区、代表取締役会長兼社長：北尾 吉孝、以下SBIHD）との間で資本業務提携契約（以下、本資本業務提携）を締結いたしましたので、お知らせ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2027: Obi, Kwankwaso supporters reject merger",
-      "url": "https://punchng.com/2027-obi-kwankwaso-supporters-reject-merger/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-28T22:05:05Z",
-      "description": "The OK Movement, a political platform established to mobilise support for the joint ticket of the Nigeria Democratic Congress presidential candidate, Peter Obi, and his running mate, Dr Rabiu Kwankwaso, on Friday ruled out any merger with an external politica…",
+      "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
+      "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-29T22:33:01Z",
+      "description": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela's resources.",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "大型株のIPOへの臨み方",
+      "url": "https://kabu2oku.doorblog.jp/archives/50895091.html",
+      "source": "Doorblog.jp",
+      "publishedAt": "2026-08-29T21:00:47Z",
+      "description": "大型IPOへの臨み方について グロース市場に上場する中小型株のIPOは、資金調達やベンチャーキャピタルのエグジットが目的となる一方、上場時に売り出す株数が少なく、期待感を高めることで公募価格が割高に設定されやすい傾向があります。 一方、大型IPOは市場から多額の資...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "SpaceX Is Trading Near Its $135 Offering Price. Wall Street Analysts Say This Is What Happens Next",
+      "url": "https://biztoc.com/x/39bfd7fbea89b56c",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-29T23:13:57Z",
+      "description": "After a few months, Space Exploration Technologies (NASDAQ: SPCX) stock has gone on a wild ride, but it now trades right around its initial public offering (IPO) price of $135. Wall Street analysts are much more optimistic about the stock, with an average pri…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Top EV executive joins the AI boom. Now what?",
+      "url": "https://www.thestreet.com/automotive/rivian-cfo-resigns-ge-vernova-ai",
+      "source": "TheStreet",
+      "publishedAt": "2026-08-29T22:33:00Z",
+      "description": "The leader guided the EV maker through its IPO and raised billions but her sudden exit signals a massive shift in where Wall Street’s top talent is heading.",
+      "ipoMarket": "us"
+    },
     {
       "title": "Bamboo Insurance Services files for $100M IPO on NYSE",
       "url": "https://cryptobriefing.com/bamboo-insurance-ipo-nyse-filing/",
@@ -89,86 +113,70 @@
       "publishedAt": "2026-08-28T21:25:41Z",
       "description": "MIDVALE, Utah, Aug. 28, 2026 /PRNewswire/ -- Bamboo Insurance Services, Inc. (\"Bamboo Insurance\") today announced that it has filed a registration statement on Form S-1 with the U.S.",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Bamboo Insurance Files Registration Statement for Proposed Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/bamboo-insurance-files-registration-statement-for-proposed-initial-public-offering-302863171.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-28T21:23:00Z",
-      "description": "MIDVALE, Utah, Aug. 28, 2026 /PRNewswire/ -- Bamboo Insurance Services, Inc. (\"Bamboo Insurance\") today announced that it has filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission (the \"SEC\") relating to a proposed initia…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "How The Anthropic And OpenAI IPOs Could Shake Up The AI Brawl",
-      "url": "https://www.investors.com/news/technology/anthropic-ipo-openai-ai-artificial-intelligence/",
-      "source": "Investor's Business Daily",
-      "publishedAt": "2026-08-28T12:05:17Z",
-      "description": "The Anthropic IPO is about to hit soon, followed by the debut of rival OpenAI, which are expected to shake up the battle over AI.",
-      "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "米軍が攻撃 原油先物が2%超上昇",
+      "url": "https://news.yahoo.co.jp/pickup/6593704?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T23:39:00.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパール土石流 死者800人超える",
+      "url": "https://news.yahoo.co.jp/pickup/6593695?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T21:48:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "米軍 イラン南部の発射施設攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6593692?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T21:06:15.000Z",
+      "description": ""
+    },
+    {
+      "title": "がれき下から声 ネパール少女救出",
+      "url": "https://news.yahoo.co.jp/pickup/6593667?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T11:27:06.000Z",
+      "description": ""
+    },
+    {
+      "title": "「アメリカ湖」に改称 反対が続出",
+      "url": "https://news.yahoo.co.jp/pickup/6593638?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T08:03:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパール土石流 氷河崩落が原因",
+      "url": "https://news.yahoo.co.jp/pickup/6593616?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T04:38:12.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパール 衛星が捉えたせき止め湖",
+      "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-30T01:42:21.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国の白菜問題巡り 3人刑事拘留",
+      "url": "https://news.yahoo.co.jp/pickup/6593596?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-08-29T23:57:17.000Z",
+      "description": ""
+    },
     {
       "title": "独右派AfD ナチス想起させる公約",
       "url": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-08-29T12:41:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ 露に1日1000機の無人機投入へ",
-      "url": "https://news.yahoo.co.jp/pickup/6593553?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T12:09:58.000Z",
-      "description": ""
-    },
-    {
-      "title": "大規模土石流の映像 中国で流れず",
-      "url": "https://news.yahoo.co.jp/pickup/6593529?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T08:20:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "スペインの飛び地 移民危機続く",
-      "url": "https://news.yahoo.co.jp/pickup/6593515?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T06:33:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパール土石流 婚約者が不明で涙",
-      "url": "https://news.yahoo.co.jp/pickup/6593504?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T04:31:14.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパール土石流 山に走った生存者",
-      "url": "https://news.yahoo.co.jp/pickup/6593485?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T01:27:41.000Z",
-      "description": ""
-    },
-    {
-      "title": "米 エジプト大手銀UAE支店に制裁",
-      "url": "https://news.yahoo.co.jp/pickup/6593480?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T00:57:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパール土石流 行方不明2500人",
-      "url": "https://news.yahoo.co.jp/pickup/6593467?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-28T22:54:56.000Z",
-      "description": ""
-    },
-    {
-      "title": "FRBによる9月利​上げ観測高まる",
-      "url": "https://news.yahoo.co.jp/pickup/6593460?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-28T15:05:19.000Z",
       "description": ""
     }
   ]
