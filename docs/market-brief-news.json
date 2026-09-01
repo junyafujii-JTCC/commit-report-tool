@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T00:17:52.901Z",
+  "fetchedAt": "2026-09-01T01:06:26.413Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "title": "兼松株式会社兼松、Next Bharat Venture Fund-2へ出資",
+      "url": "https://japan.cnet.com/release/31202602/",
+      "source": "CNET",
+      "publishedAt": "2026-08-31T01:00:00Z",
+      "description": "インドの社会課題解決に取り組むスタートアップとの共創通じ、 成長市場で事業機会の創出を目指す 兼松株式会社（以下、「兼松」）は、Next Bharat Ventures（以下、「NBV」）が設立した第2号ファンド（以下、「NBV Fund-2」）への出資を決定しました。NBV Fund-2は、農業、金融包摂、サプライチェーン、モビリティ...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "HDFC Bank: Challenge of selecting the next CEO and challenges for the next CEO - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/hdfc-bank-next-ceo-selection-challenges-sashidhar-jagdishan-19979933.htm",
+      "source": "CNBCTV18",
+      "publishedAt": "2026-08-31T00:54:39Z",
+      "description": "HDFC Bank CEO Sashidhar Jagdishan’s decision to retire on October 26 has eased some uncertainty for investors, but the bank now faces questions over succession, leadership and internal challenges.",
+      "maMarket": "us"
+    },
+    {
+      "title": "昭栄薬品---エアロネクストとの資本業務提携で新たなソリューション事業を共同展開 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1072354",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-08-31T00:43:13Z",
+      "description": "&lt;3537&gt; 昭栄薬品 1768 +51昭栄薬品&lt;3537&gt;は28日、エアロネクストとの間で資本業務提携契約を締結すると発表した。提携に伴いエアロネクストへ出資し、両社は長期的な戦略パートナーとして、同社の機能性商材とエアロネクストのドローン技術を融合した新たなソリューション事業を共同で推進する。同社は、天然油脂を原料とするオレオケミカルズを中心に、化学品の専門商社として事業を拡大。化学品事業では",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Prosecutor blows whistle on Letitia James’ office, says he was ordered to ‘find crimes’ committed by Trump despite zero evidence",
+      "url": "https://www.wnd.com/2026/08/prosecutor-blows-whistle-letitia-james-office-says-he/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-08-31T00:45:36Z",
+      "description": "'Instructed him to target 'Trump himself, Truth Social, Hewlett Packard (DOJ approved merger) ... without having a credible reason for targeting this organizations and individuals'",
+      "maMarket": "us"
+    },
+    {
+      "title": "LinkedInの写真で買収先を絞る──とある階段メーカーが海外M&Aでやっている“地方の優良企業”発掘法",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000790/",
       "source": "Itmedia.co.jp",
-      "publishedAt": "2026-08-29T23:12:00Z",
-      "description": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+      "publishedAt": "2026-08-30T22:45:00Z",
+      "description": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は鉄骨階段を製造・販売する横森製作所に注目。",
       "maMarket": "jp"
     },
     {
-      "title": "The Hidden History of Our Modern Food System — How Big Tobacco Shaped What We Eat",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/08/30/big-tobacco-food-system.aspx",
-      "source": "Mercola.com",
-      "publishedAt": "2026-08-30T00:00:00Z",
-      "description": "Editor's Note: This article is a reprint. It was originally published October 13, 2024. I had the pleasure of interviewing Calley Means, co-author of the book \"Good Energy\" and a policy advisor to Robert F. Kennedy Jr. Our conversation uncovered some shocki…",
+      "title": "The quintessential insider who stepped into Puri’s big shoes is set to walk away",
+      "url": "https://www.livemint.com/companies/hdfc-bank-ceo-sashidhar-jagdishan-career-profile-11788077409658.html",
+      "source": "Livemint",
+      "publishedAt": "2026-08-31T00:30:30Z",
+      "description": "A veteran of 30 years at HDFC Bank, Sashidhar Jagdishan in his six years as CEO delivered a landmark merger but also a difficult final stretch.",
       "maMarket": "us"
     },
     {
-      "title": "OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2136717.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-08-29T05:39:25Z",
-      "description": "OpenAIは28日(米国時間)、SpaceXによるCursor買収を受けて、コーディングエージェント「Cursor」へのOpenAIの最新モデルの提供を終了すると発表した。同日にSpaceXにモデル提供契約の終了を通知し、終了予定日は11月12日。",
+      "title": "エヌビディア「2兆円」Hugging Face買収報道の衝撃…半導体王者はなぜ”AI開発の入り口”を狙うのか",
+      "url": "https://biz-journal.jp/company/post_395823.html",
+      "source": "Biz-journal.jp",
+      "publishedAt": "2026-08-30T22:22:11Z",
+      "description": "エヌビディアがオープンソースAI基盤Hugging Faceを129億ドル(約2兆円、年間売上高の約86倍)で買収する方向と報道された。CUDA連携の強化に加え、OpenAIやアンソロピックのエヌビディア依存低減や独占禁止法審査リスクなど、AI業界の勢力図を左右しうる背景を解説する。",
       "maMarket": "jp"
     },
     {
-      "title": "GT500-Style, Supercharged Coyote-Powered 1967 Ford Mustang Fastback 6-Speed",
-      "url": "https://bringatrailer.com/listing/1967-ford-mustang-506/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-29T23:50:05Z",
-      "description": "This 1967 Ford Mustang fastback was the subject of a custom build following the seller's 2020 acquisition. The Brittany Blue paintwork and white stripes were applied by MotorCity Grind in Royal Oak, Michigan, who also fitted the GT500-style components. The in…",
-      "maMarket": "us"
-    },
-    {
-      "title": "Cursorで使えるOpenAIモデル、11月12日で終了。SpaceX買収が引き金",
-      "url": "https://gori.me/it/169477",
-      "source": "Gori.me",
-      "publishedAt": "2026-08-29T02:57:53Z",
-      "description": "OpenAIが、Cursorへの自社モデル提供を打ち切ると発表した。公式声明によると、SpaceXによるCursor買収を受けて契約を終了する旨を通知済みで、提供停止日は2026年11月12日を提案しているという。 We’re ending our partnership with Cursor f… The post Cursorで使えるOpenAIモデル、11月12日で終了。SpaceX買収が引き金 first appeared on ゴリミー. 【もっと読む】",
-      "maMarket": "jp"
-    },
-    {
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185287336",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-29T23:13:31Z",
-      "description": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceXCNBC Our decision on Cursor following its acquisition by SpaceXOpenAI OpenAI cuts off Cursor's AI models, deepening feud with MuskMashable Michael Truell: The 100 Most Influential Peo…",
-      "maMarket": "us"
-    },
-    {
-      "title": "高市政権がひどすぎる-幼稚で小学生より頭悪く、ネットは金で買収されている。新聞よ立ち上がれ",
-      "url": "http://matometanews.com/archives/2120360.html",
-      "source": "Matometanews.com",
-      "publishedAt": "2026-08-28T22:53:00Z",
-      "description": "1 ： もん様！ ：2026/08/29(土) 00:20:29.27 ID:prHx31Re0●.net高市政権がひどすぎる――市民とメディアに何が問われているのか 金平茂紀［ジャーナリスト］／菅沼堅吾［元東京新聞編集局長］（省略）全文https://news.yahoo.co.jp/articles/a312b31b3085bd7a04cecc03...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
-      "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-29T22:33:01Z",
-      "description": "Few details have emerged about deal between Washington and Caracas, criticised as takeover of Venezuela's resources.",
+      "title": "Petrol near N1,400 as Dangote defends price hikes",
+      "url": "https://punchng.com/petrol-near-n1400-as-dangote-defends-price-hikes/",
+      "source": "The Punch",
+      "publishedAt": "2026-08-31T00:07:09Z",
+      "description": "Dangote Refinery defends recent petrol price hikes, attributing increases to crude oil acquisition costs and logistics, as petrol nears N1,400 per litre. Read More: https://punchng.com/petrol-near-n1400-as-dangote-defends-price-hikes/",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX Is Trading Near Its $135 Offering Price. Wall Street Analysts Say This Is What Happens Next",
-      "url": "https://biztoc.com/x/39bfd7fbea89b56c",
+      "title": "This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?",
+      "url": "https://biztoc.com/x/95639615a8a2a299",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-29T23:13:57Z",
-      "description": "After a few months, Space Exploration Technologies (NASDAQ: SPCX) stock has gone on a wild ride, but it now trades right around its initial public offering (IPO) price of $135. Wall Street analysts are much more optimistic about the stock, with an average pri…",
+      "publishedAt": "2026-08-30T20:42:18Z",
+      "description": "X-Energy (NASDAQ: XE) has only been public since April, but it's already strategically placed at the intersection of two of the biggest investment themes in the market: artificial intelligence and nuclear power. In July, the company became a founding member o…",
       "ipoMarket": "us"
     },
     {
@@ -99,84 +99,76 @@
       "ipoMarket": "us"
     },
     {
-      "title": "Bamboo Insurance Services files for $100M IPO on NYSE",
-      "url": "https://cryptobriefing.com/bamboo-insurance-ipo-nyse-filing/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-28T23:46:12Z",
-      "description": "Bamboo's IPO highlights the growing importance of tech-driven solutions in adapting to climate risks and reshaping the insurance industry landscape. The post Bamboo Insurance Services files for $100M IPO on NYSE appeared first on Crypto Briefing.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Bamboo Insurance Files Registration Statement for Proposed Initial Public Offering",
-      "url": "https://apnews.com/press-release/pr-newswire/press-release-b0ba98677e0e10cfcaf24da97bf87a74",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-28T21:25:41Z",
-      "description": "MIDVALE, Utah, Aug. 28, 2026 /PRNewswire/ -- Bamboo Insurance Services, Inc. (\"Bamboo Insurance\") today announced that it has filed a registration statement on Form S-1 with the U.S.",
+      "title": "Anthropic Is Chasing a $2T Valuation — A Wall Street Veteran Says Its Biggest IPO Risk Isn't What Investors Think",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-chasing-2t-valuation-wall-163112726.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-29T16:31:12Z",
+      "description": "The biggest risk after Anthropic’s IPO would be its “revenue quality,” which is a structural mismatch in the business that may be hidden by the current run-r...",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米軍が攻撃 原油先物が2%超上昇",
-      "url": "https://news.yahoo.co.jp/pickup/6593704?source=rss",
+      "title": "旧統一教会解散 韓国でも現実味",
+      "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T23:39:00.000Z",
+      "publishedAt": "2026-09-01T00:39:52.000Z",
       "description": ""
     },
     {
-      "title": "ネパール土石流 死者800人超える",
-      "url": "https://news.yahoo.co.jp/pickup/6593695?source=rss",
+      "title": "米財務長官 日銀の利上げを示唆か",
+      "url": "https://news.yahoo.co.jp/pickup/6593803?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T21:48:25.000Z",
+      "publishedAt": "2026-08-31T23:00:59.000Z",
       "description": ""
     },
     {
-      "title": "米軍 イラン南部の発射施設攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6593692?source=rss",
+      "title": "米露財務相が会談 ウ和平案協議か",
+      "url": "https://news.yahoo.co.jp/pickup/6593798?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T21:06:15.000Z",
+      "publishedAt": "2026-08-31T21:52:17.000Z",
       "description": ""
     },
     {
-      "title": "がれき下から声 ネパール少女救出",
-      "url": "https://news.yahoo.co.jp/pickup/6593667?source=rss",
+      "title": "ネパール 900人トンネル閉じ込め",
+      "url": "https://news.yahoo.co.jp/pickup/6593771?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T11:27:06.000Z",
+      "publishedAt": "2026-08-31T11:03:47.000Z",
       "description": ""
     },
     {
-      "title": "「アメリカ湖」に改称 反対が続出",
-      "url": "https://news.yahoo.co.jp/pickup/6593638?source=rss",
+      "title": "旧統一トップに懲役2年判決 韓国",
+      "url": "https://news.yahoo.co.jp/pickup/6593744?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T08:03:24.000Z",
+      "publishedAt": "2026-08-31T05:50:14.000Z",
       "description": ""
     },
     {
-      "title": "ネパール土石流 氷河崩落が原因",
-      "url": "https://news.yahoo.co.jp/pickup/6593616?source=rss",
+      "title": "イラン 米軍基地への発射映像公開",
+      "url": "https://news.yahoo.co.jp/pickup/6593738?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T04:38:12.000Z",
+      "publishedAt": "2026-08-31T05:01:36.000Z",
       "description": ""
     },
     {
-      "title": "ネパール 衛星が捉えたせき止め湖",
-      "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
+      "title": "ネパール 離ればなれの母子が再会",
+      "url": "https://news.yahoo.co.jp/pickup/6593734?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-30T01:42:21.000Z",
+      "publishedAt": "2026-08-31T03:49:26.000Z",
       "description": ""
     },
     {
-      "title": "中国の白菜問題巡り 3人刑事拘留",
-      "url": "https://news.yahoo.co.jp/pickup/6593596?source=rss",
+      "title": "仏で漫画DBの施設建設か 現状は",
+      "url": "https://news.yahoo.co.jp/pickup/6593726?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T23:57:17.000Z",
+      "publishedAt": "2026-08-31T03:40:12.000Z",
       "description": ""
     },
     {
-      "title": "独右派AfD ナチス想起させる公約",
-      "url": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
+      "title": "グランドキャニオンで大規模洪水",
+      "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-08-29T12:41:52.000Z",
+      "publishedAt": "2026-08-31T01:44:53.000Z",
       "description": ""
     }
   ]
