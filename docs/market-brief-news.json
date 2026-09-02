@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T23:53:00.961Z",
+  "fetchedAt": "2026-09-02T23:54:54.390Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "DHH氏が「Omacom Foundation」を設立、Omarchy推進によるLinuxデスクトップの本格普及を目指す。マイケル・デル、ジャック・ドーシーら著名人も出資",
-      "url": "https://www.publickey1.jp/blog/26/dhhomacom_foundationomarchylinux.html",
-      "source": "Publickey1.jp",
-      "publishedAt": "2026-08-31T13:55:00Z",
-      "description": "DHH氏が開発したデスクトップ向けLinux「Omarchy」を推進するための団体「Omacom Foundation」が設立されました。 Omacomは「おまかせコンピューティング」の略 Omacom Foundationの「Omacom...",
+      "title": "【MLB】エンゼルスが球団売却 正式発表 近年はトラウト&大谷所属も低迷続く…モレノオーナーが決断",
+      "url": "https://www.2nn.jp/mnewsplus/1788299969/",
+      "source": "Www.2nn.jp",
+      "publishedAt": "2026-09-01T21:59:29Z",
+      "description": "Full-Count モレノオーナーが売却する形に エンゼルスをクロエンケ・スポーツ&エンターテインメント(KSE)が買収することで最終合意に至ったと、1日(日本時間2日)に球団が発表した。現在はMLBの最終承認待ちで、2027...https://hayabusa9.5ch.io/test/read.cgi/mnewsplus/1788299969/",
       "maMarket": "jp"
     },
     {
-      "title": "Liontown enters Argentina lithium brine farm-in, diversifying future growth",
-      "url": "https://www.fool.com.au/2026/09/01/liontown-enters-argentina-lithium-brine-farm-in-diversifying-future-growth/",
-      "source": "Motley Fool Australia",
-      "publishedAt": "2026-08-31T23:29:44Z",
-      "description": "Liontown has announced a staged farm-in agreement to acquire up to 100% of the Centenario lithium brine project in Argentina. The post Liontown enters Argentina lithium brine farm-in, diversifying future growth appeared first on The Motley Fool Australia.",
+      "title": "Couche-Tard reports solid but slowing sales momentum in U.S. market as it pushes ahead with takeover of Poland’s Zabka Group",
+      "url": "https://biztoc.com/x/0af3ec1d95629f39",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-01T23:51:18Z",
+      "description": "Canadian convenience store operator Alimentation Couche-Tard Inc. tallied a fifth straight quarter of same-store sales growth in the United States over the summer, maintaining positive momentum in its biggest market as it works to expand its footprint in Euro…",
       "maMarket": "us"
     },
     {
-      "title": "ツインバード、ジャパネットのTOBに反対　「取引失う」リスク主張",
-      "url": "https://www.asahi.com/articles/ASV802T0RV80ULFA01RM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-08-31T09:00:00Z",
-      "description": "家電メーカーのツインバードは31日、通信販売大手ジャパネットホールディングスが提案していた株式公開買い付け（TOB）に反対を表明した。ジャパネット傘下に入った場合、家電量販店との取引が止まったり、縮…",
+      "title": "エンゼルスが球団売却　正式発表　近年はトラウト＆大谷所属も低迷続く…モレノオーナーが決断（Full-Count） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2744d1c13f9848b3e1e2dedc827be3c3549a7acb",
+      "source": "Yahoo.co.jp",
+      "publishedAt": "2026-09-01T19:14:39Z",
+      "description": "エンゼルスをクロエンケ・スポーツ＆エンターテインメント（KSE）が買収することで最終合意に至ったと、1日（日本時間2日）に球団が発表した。現在はMLBの最終承認待ちで、2027年の第1四半期に完了",
       "maMarket": "jp"
     },
     {
-      "title": "Roush 402R-Powered Superformance MKIII 5-Speed",
-      "url": "https://bringatrailer.com/listing/2006-superformance-mkiii-cobra-replica-2/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-08-31T23:19:14Z",
-      "description": "This Superformance MKIII Cobra replica was constructed in 2006 and registered with a single owner in North Carolina before its 2008 acquisition by the seller, and it now shows 20k miles. Powered by a Roush Performance 402R V8 linked with a five-speed manual t…",
-      "maMarket": "us"
-    },
-    {
-      "title": "シキボウが子会社「大和機械製作所」を解散、石材市場縮小 - 不景気com",
-      "url": "https://www.fukeiki.com/2026/08/shikibo-liquidate-daiwa-kikai.html",
-      "source": "Fukeiki.com",
-      "publishedAt": "2026-08-31T08:20:25Z",
-      "description": "東証プライム上場の繊維メーカー「シキボウ」は、100%出資子会社の「大和機械製作所」（広島県尾道市）を解散および清算すると発表しました。 1991年に設立の同子会社は、石材・難削材加工機の製造を主力に事業を展開していたものの、石材市場の縮小に加え、従業員の高齢",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Three Lions Acquisition prices 10M unit IPO at $10 per unit",
-      "url": "https://www.thefly.com/tlac",
-      "source": "Thefly.com",
-      "publishedAt": "2026-08-31T23:12:00Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "maMarket": "us"
-    },
-    {
-      "title": "伊藤忠と電通、ITサービスとリテールメディア領域で戦略的提携--電通総研にTOB",
-      "url": "https://japan.zdnet.com/article/35252096/",
-      "source": "ZDNet",
-      "publishedAt": "2026-08-31T07:50:00Z",
-      "description": "伊藤忠商事グループと電通グループは、ITサービスとリテールメディア領域での戦略的提携を発表した。伊藤忠商事が電通総研への株式公開買い付け（TOB）を実施する。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Three Lions Acquisition Corp. Announces Pricing of $100 Million Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/three-lions-acquisition-corp-announces-pricing-of-100-million-initial-public-offering-302865426.html",
+      "title": "Telephone and Data Systems Announces It Is No Longer Pursuing the Acquisition of Public Shares of Array Digital Infrastructure",
+      "url": "https://www.prnewswire.com/news-releases/telephone-and-data-systems-announces-it-is-no-longer-pursuing-the-acquisition-of-public-shares-of-array-digital-infrastructure-302866945.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-08-31T23:00:00Z",
-      "description": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Three Lions Acquisition Corp. (the \"Company\") announced today the pricing of its initial public offering of 10,000,000 units, at a price of $10.00 per unit. The units are expected to commence trading on September 1, 202…",
+      "publishedAt": "2026-09-01T23:41:00Z",
+      "description": "TDS Expects to Recommence Repurchase Program CHICAGO, Sept. 1, 2026 /PRNewswire/ -- Telephone and Data Systems, Inc. (NYSE: TDS) (the \"Company\" or \"TDS\") today announced that it is no longer pursuing the acquisition of the Common Shares of Array Digital Infra…",
+      "maMarket": "us"
+    },
+    {
+      "title": "TBMとリグア、ヘルスケアブランド「My.Supporter」の ボディミルクローション容器に環境配慮型素材「LIMEX」を採用",
+      "url": "https://prtimes.jp/main/html/rd/p/000000406.000016815.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-01T18:40:30Z",
+      "description": "[TBM] 株式会社TBM（本社：東京都千代田区、代表取締役CEO：山崎 敦義、以下「TBM」）と株式会社リグア（本社：大阪市中央区、代表取締役社長：川瀬 紀彦、東証グロース：7090、以下「リグア」）は、両社の資本業務提携...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "BluePrint 383-Powered 1965 Chevrolet Corvette Coupe 5-Speed",
+      "url": "https://bringatrailer.com/listing/1965-chevrolet-corvette-coupe-111/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-09-01T23:10:17Z",
+      "description": "The seller tells us that this 1965 Chevrolet Corvette coupe was customized by Roger Brunelle of Bruno’s Corvettes Studio City, California, in 1974, and that it spent approximately 15 years in storage before their acquisition in 2023. Subsequent work involved …",
+      "maMarket": "us"
+    },
+    {
+      "title": "鈴与　デンマークのサッカー1部「ラナースＦＣ」買収　清水エスパルス選手の欧州移籍の拠点に",
+      "url": "https://footballnet.2chblog.jp/archives/60027941.html",
+      "source": "2chblog.jp",
+      "publishedAt": "2026-09-01T12:00:41Z",
+      "description": "1: ゴアマガラ ★ 2026/08/31(月) 20:40:20.24 ID:bywlF0Ic9 https://news.yahoo.co.jp/articles/2bffcd47e93f1ecc9122ba5a80e776eac3c2983a (＊ﾟ∀ﾟ)っ このまとめのまとめ 清水エスパルスの親会社・鈴与がデンマーク1部リーグのラナースFCを買収し、エスパルス選手の欧...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "GoPro Says It's Moving Into Data Centers As Part of a $285 Million Merger",
+      "url": "https://slashdot.org/story/26/09/01/1943244/gopro-says-its-moving-into-data-centers-as-part-of-a-285-million-merger",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-01T23:00:00Z",
+      "description": "GoPro plans to expand into AI infrastructure through a $285 million merger with optical-photonics company Starman Optical, whose transceivers will give the action-camera maker a foothold in the fast-growing data center market. GoPro also plans to push into de…",
       "maMarket": "us"
     }
   ],
@@ -83,100 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Three Lions Acquisition prices 10M unit IPO at $10 per unit",
-      "url": "https://www.thefly.com/tlac",
-      "source": "Thefly.com",
-      "publishedAt": "2026-08-31T23:12:00Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "title": "SB Energy Files for IPO to Tap AI Power Thirst",
+      "url": "https://www.rigzone.com/news/wire/sb_energy_files_for_ipo_to_tap_ai_power_thirst-01-sep-2026-184505-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-09-01T20:00:00Z",
+      "description": "SB Energy Corp, a power infrastructure firm backed by SoftBank Group Corp and OpenAI, filed for a U.S. initial public offering.",
       "ipoMarket": "us"
     },
     {
-      "title": "Three Lions Acquisition Corp. Announces Pricing of $100 Million Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/three-lions-acquisition-corp-announces-pricing-of-100-million-initial-public-offering-302865426.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-31T23:00:00Z",
-      "description": "NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Three Lions Acquisition Corp. (the \"Company\") announced today the pricing of its initial public offering of 10,000,000 units, at a price of $10.00 per unit. The units are expected to commence trading on September 1, 202…",
+      "title": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO",
+      "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-01T15:43:28Z",
+      "description": "SB Energy hasn't generated any revenue from its data center business, and none of its data centers are operational yet.",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic’s monster IPO is forcing rivals to rethink their own listing plans",
-      "url": "https://cryptobriefing.com/anthropic-ipo-pressures-us-listing-plans/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-31T16:16:10Z",
-      "description": "Anthropic's IPO reshapes the tech IPO landscape, prompting rivals to adjust strategies amid heightened competition for investor attention. The post Anthropic’s monster IPO is forcing rivals to rethink their own listing plans appeared first on Crypto Briefing.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Building AI Infrastructure: Alpha Compute CEO Brittany Kaiser, Live at Nasdaq",
-      "url": "https://biztoc.com/x/4917fd4d31d1f6e0",
+      "title": "$1,000 Invested in Redwire Stock at Its 2026 Low Would Be Worth This Much Today",
+      "url": "https://biztoc.com/x/7958caf5251af5e6",
       "source": "Biztoc.com",
-      "publishedAt": "2026-08-31T15:13:39Z",
-      "description": "IPO Edge hosted a fireside chat on Aug. 26 at Nasdaq MarketSite with Brittany Kaiser, Chief Executive Officer of Alpha Compute Corp. (Nasdaq: ALP). The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed how the company is buil…",
+      "publishedAt": "2026-09-01T14:59:49Z",
+      "description": "Shares of Redwire (NYSE: RDW), a producer of critical space mission components, closed at a record high of $25.90 on May 28 as the market's anticipation for SpaceX's (NASDAQ: SPCX) IPO sparked a buying frenzy in space stocks. However, Redwire and many of its …",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "SB Energy IPO filing: Nvidia invests $3B, OpenAI gets warrants",
+      "url": "https://qz.com/sb-energy-ipo-filing-nvidia-softbank-090126",
+      "source": "Quartz India",
+      "publishedAt": "2026-09-01T13:06:14Z",
+      "description": "The AI infrastructure company plans to list on Nasdaq under the ticker SBE and aims to raise between $5 billion and $7 billion",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "SBエナジー 米国でIPOを申請",
-      "url": "https://news.yahoo.co.jp/pickup/6593931?source=rss",
+      "title": "米 イラン攻撃再開「長く続かず」",
+      "url": "https://news.yahoo.co.jp/pickup/6594051?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T22:46:56.000Z",
+      "publishedAt": "2026-09-02T23:32:45.000Z",
       "description": ""
     },
     {
-      "title": "ウ大統領 ロシア領空は事実上閉鎖",
-      "url": "https://news.yahoo.co.jp/pickup/6593929?source=rss",
+      "title": "G20財務相会議 日本に厳しい視線",
+      "url": "https://news.yahoo.co.jp/pickup/6594052?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T22:44:23.000Z",
+      "publishedAt": "2026-09-02T23:18:05.000Z",
       "description": ""
     },
     {
-      "title": "米軍がイラン攻撃 革命防衛隊標的",
-      "url": "https://news.yahoo.co.jp/pickup/6593922?source=rss",
+      "title": "コンゴ エボラ死者が3000人超に",
+      "url": "https://news.yahoo.co.jp/pickup/6594041?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T21:41:18.000Z",
+      "publishedAt": "2026-09-02T21:45:04.000Z",
       "description": ""
     },
     {
-      "title": "スターマー英前首相 議員辞職へ",
-      "url": "https://news.yahoo.co.jp/pickup/6593914?source=rss",
+      "title": "T・ウッズ氏 5年間運転免許停止",
+      "url": "https://news.yahoo.co.jp/pickup/6594036?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T14:10:58.000Z",
+      "publishedAt": "2026-09-02T15:03:01.000Z",
       "description": ""
     },
     {
-      "title": "ネパール土石流 観光への影響懸念",
-      "url": "https://news.yahoo.co.jp/pickup/6593880?source=rss",
+      "title": "台湾・高雄市 熊本に1億5千万円",
+      "url": "https://news.yahoo.co.jp/pickup/6594033?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T09:10:16.000Z",
+      "publishedAt": "2026-09-02T14:11:13.000Z",
       "description": ""
     },
     {
-      "title": "ネパール・中国土石流 死者千人超",
-      "url": "https://news.yahoo.co.jp/pickup/6593852?source=rss",
+      "title": "湖上から「浮島」が消失 カナダ",
+      "url": "https://news.yahoo.co.jp/pickup/6593993?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T06:04:57.000Z",
+      "publishedAt": "2026-09-02T08:16:50.000Z",
       "description": ""
     },
     {
-      "title": "ドリスコル米陸軍長官 辞表を提出",
-      "url": "https://news.yahoo.co.jp/pickup/6593848?source=rss",
+      "title": "土石流1週間 不明者の捜索は難航",
+      "url": "https://news.yahoo.co.jp/pickup/6593984?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T05:18:04.000Z",
+      "publishedAt": "2026-09-02T07:18:31.000Z",
       "description": ""
     },
     {
-      "title": "ネパール 遺体の身元特定が難航",
-      "url": "https://news.yahoo.co.jp/pickup/6593840?source=rss",
+      "title": "露大統領 関係悪化は日本に全責任",
+      "url": "https://news.yahoo.co.jp/pickup/6593953?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T03:47:59.000Z",
-      "description": ""
-    },
-    {
-      "title": "グランドキャニオン土石流2人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6593823?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-01T01:31:02.000Z",
+      "publishedAt": "2026-09-02T02:36:54.000Z",
       "description": ""
     }
   ]
