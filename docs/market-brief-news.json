@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T23:56:18.665Z",
+  "fetchedAt": "2026-09-09T23:55:30.551Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,105 +9,155 @@
   ],
   "ma": [
     {
-      "title": "エクサウィザーズ、現場伴走型コンサルティングのele&companyを子会社化",
-      "url": "https://prtimes.jp/main/html/rd/p/000000491.000030192.html",
+      "title": "営業AIのAitane、PCA傘下の飯田橋クロスパートナーズから3,000万円調達",
+      "url": "https://thebridge.jp/2026/09/aitane-raises-30m-yen-in-pre-series-a-round",
+      "source": "Thebridge.jp",
+      "publishedAt": "2026-09-08T23:41:24Z",
+      "description": "営業担当者の商談前後に発生する事務作業を AI で支援する Aitane は8日、プレシリーズ A ラウンドで3,000万円を調達したと発表した。出資したのは、会計・業務ソフトを手がける PCA（ピー・シー・エー）の完全 […]",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Raptors news: Kawhi Leonard reunion comes with $613K warning",
+      "url": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-reunion-comes-with-613k-warning",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-09-08T23:29:40Z",
+      "description": "Toronto could make a dramatic swing for Kawhi Leonard , but the financial downside could grow quickly whenever he cannot take the floor. A Casino.org analysis labeled the hypothetical acquisition the riskiest transaction of the NBA offseason. Its model projec…",
+      "maMarket": "us"
+    },
+    {
+      "title": "米国Trimble、GNSS補正情報配信会社 テラサット・ジャパン株式会社を買収。日本国内におけるリアルタイム・センチメートル級VRS補正サービスを拡大。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000185701.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-09-07T23:45:44Z",
-      "description": "[株式会社エクサウィザーズ] 株式会社エクサウィザーズ（東京都港区、代表取締役社長CEO：春田 真、以下エクサウィザーズ）は、2026年９月８日開催の取締役会において、株式会社ele&company（本社：東京都中央区、代表取締役：森 兼作、...",
+      "publishedAt": "2026-09-08T23:25:17Z",
+      "description": "[Terasat Japan Co. Ltd.] 米国コロラド州ウェストミンスター、2026年9月4日 - Trimbleは本日、日本国内でVRS（Virtual Reference Station：仮想基準点）方式によるGNSS補正情報サービスを提供する主要事業者の一つ、テラサット・ジャパン...",
       "maMarket": "jp"
     },
     {
-      "title": "GeoPark’s Venezuela Deal: Massive Opportunity or Risky Bet?",
-      "url": "https://biztoc.com/x/959f1e98258faf68",
+      "title": "Justice Department to take a closer look at Fox’s $22 billion Roku deal",
+      "url": "https://biztoc.com/x/14e6e47bb13d88c6",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-07T23:48:05Z",
-      "description": "On September 2, GeoPark Limited (NYSE:GPRK) announced its strategic entry into Venezuela through the acquisition of the Bare Block, a large heavy-oil producing asset in the country's Orinoco Belt. Under a 25-year Production Participation Contract with the sta…",
+      "publishedAt": "2026-09-08T23:08:40Z",
+      "description": "The Scoop The US Justice Department is widening its antitrust inquiry into Fox’s $22 billion acquisition of streaming platform Roku, people familiar with the matter said. DOJ staff plans to seek more information from the companies through what is known as a “…",
       "maMarket": "us"
     },
     {
-      "title": "〈同意なき買収提案を回避〉牧野フライス社長｢ニデックとはかけ離れたところにいる｣､ファンド撤収後の安堵と教訓 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957089?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-09-07T21:00:00Z",
-      "description": "ニデックによる買収提案やファンドとの交渉､政府の介入を経て､牧野フライス製作所は独立経営の道を選びました。揺れ動く経営環境の中で守り抜いた創業の精神と､企業価値向上に向けた取り組みとは。宮崎社長に真意を聞きました。",
+      "title": "メッシがスペイン2部エルデンセ買収へ…コルネジャに続き2クラブ目の保有に",
+      "url": "https://www.soccer-king.jp/news/world/esp/20260909/2202681.html",
+      "source": "Soccer-king.jp",
+      "publishedAt": "2026-09-08T23:13:47Z",
+      "description": "インテル・マイアミに所属するFWリオネル・メッシが、セグンダ・ディビシオン（スペイン2部）に所属するCDエルデンセを買収することになった。スポーツメディア『ESPN』が報じている。 CDエルデンセはバレンシア州エルダに本拠地を置く1921年創設の歴史のあるクラブ。ただ、ここまで1度もプリメーラ（スペイン1部）に在籍経験はなく、3部や4部が主戦場となっている。 現在、コロンビアやスイスでもクラ...",
       "maMarket": "jp"
     },
     {
-      "title": "FAAB Frenzy and Waivers Wild: Week 25",
-      "url": "https://fantasy.fangraphs.com/faab-frenzy-and-waivers-wild-week-25/",
-      "source": "Fangraphs.com",
-      "publishedAt": "2026-09-07T23:27:55Z",
-      "description": "The most popular free agent acquisitions of Week 25 Source",
+      "title": "Paramount Presses States and WGA on Posting $1.88 Billion Bond",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-bills-1236694694/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-09-08T23:00:47Z",
+      "description": "Courts have historically side-eyed issuing massive bonds in merger cases, particularly when the government challenges the deal. The states have stressed that Paramount proposed the term to win over shareholders.",
       "maMarket": "us"
     },
     {
-      "title": "『超かぐや姫！』製作のツインエンジン、実写映像事業へ参入　菅田将暉の長編初監督作を配給",
-      "url": "https://kai-you.net/article/96471",
-      "source": "Kai-you.net",
-      "publishedAt": "2026-09-07T11:00:00Z",
-      "description": "アニメーションの制作／企画を行う株式会社ツインエンジンが、実写映像事業へと本格参入する。9月7日（月）、実写映画の製作などを行う株式会社ヨアケと資本業務提携を締結し、同社をツインエンジングループに加えると発表した。両社による最初の取り組みとして、俳優・菅田将暉さんの長編初監督／主演作品の映画『死の谷’95』の製作委員会に参画。ヨアケと共に共同で配給を担当する。『超かぐや姫！』などを手がけたツインエンジンツインエンジンは、アニメーションの企画／制作／プロデュース／宣伝／配給までを一貫して手がける企...",
+      "title": "Apple、米国のスタートアップSoneraを買収",
+      "url": "https://www.applelinkage.com/2026/09/09/apple-acquires-u-s-startup-sonera/",
+      "source": "Applelinkage.com",
+      "publishedAt": "2026-09-08T22:38:37Z",
+      "description": "当サイトはアフィリエイトによる収益を得ており、アフィリエイトリンクが含まれている場合があります。欧州委員会のデジタル市場法（DMA）に基づく買収案件リストによると、Appleが2026年5月8日に子会社を通じてSoner … 続きを読む Apple、米国のスタートアップSoneraを買収 →",
       "maMarket": "jp"
     },
     {
-      "title": "Wild drone video shows cops drop hammer on LA street takeover",
-      "url": "https://nypost.com/2026/09/07/us-news/video-shows-la-police-bust-street-takeover/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-07T23:18:07Z",
-      "description": "Street-racing revelers had nowhere to run when a massive LAPD crackdown descended on a South Los Angeles street takeover early Saturday — with wild drone footage showing hundreds of people scrambling for an escape as cops boxed them in. More than 700 people w…",
-      "maMarket": "us"
-    },
-    {
-      "title": "日本製紙がハンガリー子会社の事業活動を停止、特損50億円 - 不景気com",
-      "url": "https://www.fukeiki.com/2026/09/nippon-paper-chemicals-europe-end.html",
-      "source": "Fukeiki.com",
-      "publishedAt": "2026-09-07T08:49:22Z",
-      "description": "東証プライム上場の製紙大手「日本製紙」は、100%出資子会社の「ニッポン・ペーパー・ケミカルズ・ヨーロッパ」（ハンガリー）の事業活動を停止すると発表しました。 2022年に設立の同子会社は、2025年から電気自動車（EV）の車載用リチウムイオンバッテリーに用い",
-      "maMarket": "jp"
-    },
-    {
-      "title": "scipaperlib 0.1.20",
-      "url": "https://pypi.org/project/scipaperlib/0.1.20/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-09-07T22:51:31Z",
-      "description": "Local publication acquisition and evidence-preserving source search",
+      "title": "2005 Subaru Impreza WRX STi at No Reserve",
+      "url": "https://bringatrailer.com/listing/2005-subaru-impreza-wrx-sti-144/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-09-08T22:38:04Z",
+      "description": "This 2005 Subaru Impreza WRX STi is a silver-finished example that was registered in New Jersey and Pennsylvania before its May 2009 acquisition by the seller, and it now indicates 70k miles. Power is provided by a turbocharged 2.5-liter flat-four, and modifi…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "SpaceX Investors Turn To Warren Buffett's Playbook As Volatile Stock Continues Wild Ride Since Record IPO",
-      "url": "https://www.ibtimes.com.au/buffett-investment-principles-spacex-1875148",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-09-07T14:24:56Z",
-      "description": "Investors are using Warren Buffett's investment principles to evaluate SpaceX, focusing on understanding complex business models and maintaining a circle of competence amidst the company's post-IPO volatility.",
-      "ipoMarket": "us"
+      "title": "レゾナック---クラサスケミカルはスタンダード市場へ上場承認 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1072724",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-08T00:33:11Z",
+      "description": "&lt;4004&gt; レゾナック 16330 -250石油化学事業を営む完全子会社であるクラサスケミカルのパーシャル・スピンオフ2026年10月1日付で実行することを決議した。スピンオフは、東京証券取引所からクラサスケミカルの普通株式の上場承認が得られ、その承認が取り消されないことを効力発生の条件としている。東証からクラサスケミカル&lt;%%%646A%%%&gt;の東証スタンダード市場への上場が承認された。",
+      "ipoMarket": "jp"
     },
     {
-      "title": "Nscale Pre-IPO $3.5B Targets NYSE as Compute Landlord Thesis Reaches Public Markets",
-      "url": "https://forkast.news/nscale-pre-ipo-3-5b-targets-nyse-as-compute-landlord-thesis-reaches-public-markets/",
-      "source": "Forkast.news",
-      "publishedAt": "2026-09-07T09:50:28Z",
-      "description": "With Nscale closing a $3.5 billion pre-IPO round and targeting a New York IPO as early as late September, the compute landlord thesis is entering a phase it has not reached before: public market validation. Infrastructure providers — the landlords of the comp…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "SpaceX Stock Is Down 34% From Its High. History Suggests a $10,000 Investment Will Be Worth This Much by Mid-2027",
-      "url": "https://biztoc.com/x/48987aa6192740b3",
+      "title": "Anthropic’s $2 trillion IPO could test the limits of AI mania",
+      "url": "https://biztoc.com/x/231d6832b21bb0c1",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-07T09:16:57Z",
-      "description": "SpaceX Stock Is Down 34% From Its High. History Suggests a $10,000 Investment Will Be Worth This Much by Mid-2027. By now, you probably don't need an elaborate explanation about Space Exploration Technologies' (NASDAQ: SPCX) initial public offering (IPO). The…",
+      "publishedAt": "2026-09-08T23:08:47Z",
+      "description": "Anthropic might soon test how much Wall Street actually believes in the artificial-intelligence boom. The Claude maker is nearing decisions on key banking roles for an IPO that investors expect to value the company at $2 trillion or more, according to the Fin…",
       "ipoMarket": "us"
     },
     {
-      "title": "Humain hires team to prepare for IPO as Saudi AI ambitions accelerate",
-      "url": "https://cryptobriefing.com/humain-hires-team-ipo-preparation/",
+      "title": "B&R Technology Merger Corp. Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing September 10, 2026",
+      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-september-10-2026-302872797.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-08T20:24:00Z",
+      "description": "NEW YORK, Sept. 8, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (Nasdaq: BRTMU) (the \"Company\") announced today that, commencing September 10, 2026, holders of the units sold in the Company's initial public offering may elect to separately trade the Compa…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Holtec Nuclear launches $900 million IPO at $10.2 billion valuation",
+      "url": "https://qz.com/holtec-nuclear-ipo-900-million-valuation-090826",
+      "source": "Quartz India",
+      "publishedAt": "2026-09-08T17:28:27Z",
+      "description": "The Camden, New Jersey-based nuclear technology company plans to list on Nasdaq under the ticker \"HNUC\" at $15 to $18 per share",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Polymarket traders put 80% odds on OpenAI hitting $1.5T valuation at IPO",
+      "url": "https://cryptobriefing.com/polymarket-openai-ipo-valuation-odds-15-trillion/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-09-07T07:30:06Z",
-      "description": "Humain's IPO preparation highlights Saudi Arabia's strategic shift towards AI, potentially reshaping its economic landscape and global tech influence. The post Humain hires team to prepare for IPO as Saudi AI ambitions accelerate appeared first on Crypto Brie…",
+      "publishedAt": "2026-09-08T17:27:16Z",
+      "description": "OpenAI's potential $1.5T IPO valuation highlights the rapid AI sector growth but raises concerns over sustainability and profitability challenges. The post Polymarket traders put 80% odds on OpenAI hitting $1.5T valuation at IPO appeared first on Crypto Brief…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "ネパール土石流がれき220万t 試算",
+      "url": "https://news.yahoo.co.jp/pickup/6594779?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-09T11:06:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "国連推奨地図 北方領土が露領の色",
+      "url": "https://news.yahoo.co.jp/pickup/6594743?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-09T04:29:57.000Z",
+      "description": ""
+    },
+    {
+      "title": "米大統領 独極右AfDの勝利を絶賛",
+      "url": "https://news.yahoo.co.jp/pickup/6594739?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-09T03:48:21.000Z",
+      "description": ""
+    },
+    {
+      "title": "NY市長 異例の労働者組織化支援",
+      "url": "https://news.yahoo.co.jp/pickup/6594736?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-09T03:18:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "米政権 カナダ産の酒類など禁輸へ",
+      "url": "https://news.yahoo.co.jp/pickup/6594729?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-09T02:53:18.000Z",
+      "description": ""
+    },
+    {
+      "title": "中露首脳が祝電 北朝鮮建国78周年",
+      "url": "https://news.yahoo.co.jp/pickup/6594723?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-09T02:36:20.000Z",
+      "description": ""
+    },
     {
       "title": "ルノワール作も 欧州で盗難相次ぐ",
       "url": "https://news.yahoo.co.jp/pickup/6594704?source=rss",
@@ -127,55 +177,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594679?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-08T11:16:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "なぜ突然の円高に 背景と見通し",
-      "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T10:53:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "露最後の独総領事館が閉鎖へ 背景",
-      "url": "https://news.yahoo.co.jp/pickup/6594647?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T06:32:39.000Z",
-      "description": ""
-    },
-    {
-      "title": "エッフェル塔 ストライキで閉鎖",
-      "url": "https://news.yahoo.co.jp/pickup/6594629?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T02:45:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "景気拡大 円安と物価高で実感薄く",
-      "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T02:34:49.000Z",
-      "description": ""
-    },
-    {
-      "title": "EU グリーンランドに360億円投資",
-      "url": "https://news.yahoo.co.jp/pickup/6594621?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T01:45:49.000Z",
-      "description": ""
-    },
-    {
-      "title": "世界分断した9.11 今も米社会に影",
-      "url": "https://news.yahoo.co.jp/pickup/6594618?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T01:08:33.000Z",
-      "description": ""
-    },
-    {
-      "title": "英国王 ヘンリー王子らは「私人」",
-      "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T00:41:31.000Z",
       "description": ""
     }
   ]
