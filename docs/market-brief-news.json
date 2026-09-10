@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T23:55:30.551Z",
+  "fetchedAt": "2026-09-10T23:51:19.870Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "営業AIのAitane、PCA傘下の飯田橋クロスパートナーズから3,000万円調達",
-      "url": "https://thebridge.jp/2026/09/aitane-raises-30m-yen-in-pre-series-a-round",
+      "title": "分子構造のAI解析を支援するPixeom、ライフタイムベンチャーズからシード調達",
+      "url": "https://thebridge.jp/2026/09/pixeom-raises-seed-round-from-lifetime-ventures",
       "source": "Thebridge.jp",
-      "publishedAt": "2026-09-08T23:41:24Z",
-      "description": "営業担当者の商談前後に発生する事務作業を AI で支援する Aitane は8日、プレシリーズ A ラウンドで3,000万円を調達したと発表した。出資したのは、会計・業務ソフトを手がける PCA（ピー・シー・エー）の完全 […]",
+      "publishedAt": "2026-09-09T23:30:32Z",
+      "description": "分子の三次元構造情報を AI が学習しやすい数値表現に変換する技術を開発する大分大学発スタートアップの Pixeom は9日、ライフタイムベンチャーズから出資を受け、シードラウンドでの資金調達を発表した。 同社の中核とな […]",
       "maMarket": "jp"
     },
     {
-      "title": "Raptors news: Kawhi Leonard reunion comes with $613K warning",
-      "url": "https://clutchpoints.com/nba/toronto-raptors/raptors-news-kawhi-leonard-reunion-comes-with-613k-warning",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-09-08T23:29:40Z",
-      "description": "Toronto could make a dramatic swing for Kawhi Leonard , but the financial downside could grow quickly whenever he cannot take the floor. A Casino.org analysis labeled the hypothetical acquisition the riskiest transaction of the NBA offseason. Its model projec…",
-      "maMarket": "us"
-    },
-    {
-      "title": "米国Trimble、GNSS補正情報配信会社 テラサット・ジャパン株式会社を買収。日本国内におけるリアルタイム・センチメートル級VRS補正サービスを拡大。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000004.000185701.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-08T23:25:17Z",
-      "description": "[Terasat Japan Co. Ltd.] 米国コロラド州ウェストミンスター、2026年9月4日 - Trimbleは本日、日本国内でVRS（Virtual Reference Station：仮想基準点）方式によるGNSS補正情報サービスを提供する主要事業者の一つ、テラサット・ジャパン...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Justice Department to take a closer look at Fox’s $22 billion Roku deal",
-      "url": "https://biztoc.com/x/14e6e47bb13d88c6",
+      "title": "As Anthropic's IPO Looms, This Small Financial Powerhouse Just Got Its First Underwriting Job",
+      "url": "https://biztoc.com/x/09019d701bb94f83",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-08T23:08:40Z",
-      "description": "The Scoop The US Justice Department is widening its antitrust inquiry into Fox’s $22 billion acquisition of streaming platform Roku, people familiar with the matter said. DOJ staff plans to seek more information from the companies through what is known as a “…",
+      "publishedAt": "2026-09-09T23:45:29Z",
+      "description": "2026 is the year of the initial public offering (IPO) resurgence. After hitting a high of 1,035 IPOs in 2021 during the special purpose acquisition company (SPAC) craze, there were only 181 the year after when the S&P 500 lost almost 20% of its value in 2022.…",
       "maMarket": "us"
     },
     {
-      "title": "メッシがスペイン2部エルデンセ買収へ…コルネジャに続き2クラブ目の保有に",
-      "url": "https://www.soccer-king.jp/news/world/esp/20260909/2202681.html",
-      "source": "Soccer-king.jp",
-      "publishedAt": "2026-09-08T23:13:47Z",
-      "description": "インテル・マイアミに所属するFWリオネル・メッシが、セグンダ・ディビシオン（スペイン2部）に所属するCDエルデンセを買収することになった。スポーツメディア『ESPN』が報じている。 CDエルデンセはバレンシア州エルダに本拠地を置く1921年創設の歴史のあるクラブ。ただ、ここまで1度もプリメーラ（スペイン1部）に在籍経験はなく、3部や4部が主戦場となっている。 現在、コロンビアやスイスでもクラ...",
+      "title": "【日本製鉄・2兆円のUSスチール買収】決算書にどんな影響を与えたのか、説明できますか？ ＜サンキー図で読み解く決算書＞ - サンキー図で「お金の流れ」が1秒でわかる　見るだけ決算書",
+      "url": "https://diamond.jp/articles/-/398915",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-09T23:00:00Z",
+      "description": "2025年6月、日本製鉄は約2兆円を投じてUSスチールを買収しました。では、この大型M&Aによって日本製鉄の財務状況はどのように変化したのでしょうか？ 書籍『サンキー図で「お金の流れ」が1秒でわかる 見るだけ決算書』に登場するBSサンキー図で、決算書を読み解いてみましょう。",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount Presses States and WGA on Posting $1.88 Billion Bond",
-      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-bills-1236694694/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-09-08T23:00:47Z",
-      "description": "Courts have historically side-eyed issuing massive bonds in merger cases, particularly when the government challenges the deal. The states have stressed that Paramount proposed the term to win over shareholders.",
-      "maMarket": "us"
-    },
-    {
-      "title": "Apple、米国のスタートアップSoneraを買収",
-      "url": "https://www.applelinkage.com/2026/09/09/apple-acquires-u-s-startup-sonera/",
-      "source": "Applelinkage.com",
-      "publishedAt": "2026-09-08T22:38:37Z",
-      "description": "当サイトはアフィリエイトによる収益を得ており、アフィリエイトリンクが含まれている場合があります。欧州委員会のデジタル市場法（DMA）に基づく買収案件リストによると、Appleが2026年5月8日に子会社を通じてSoner … 続きを読む Apple、米国のスタートアップSoneraを買収 →",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2005 Subaru Impreza WRX STi at No Reserve",
-      "url": "https://bringatrailer.com/listing/2005-subaru-impreza-wrx-sti-144/",
+      "title": "1971 Chevrolet Corvette Coupe",
+      "url": "https://bringatrailer.com/listing/1971-chevrolet-corvette-coupe-80/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-09-08T22:38:04Z",
-      "description": "This 2005 Subaru Impreza WRX STi is a silver-finished example that was registered in New Jersey and Pennsylvania before its May 2009 acquisition by the seller, and it now indicates 70k miles. Power is provided by a turbocharged 2.5-liter flat-four, and modifi…",
+      "publishedAt": "2026-09-09T23:32:59Z",
+      "description": "This 1971 Chevrolet Corvette coupe is powered by a 350ci V8 that is backed by a three-speed automatic transmission and a Positraction limited-slip differential. The car was repainted in blue prior to the current owner's 2018 acquisition, and the paintwork is …",
+      "maMarket": "us"
+    },
+    {
+      "title": "NTTらの投資ファンド「IOWN AI Fund」、初号投資として光回路スイッチを開発するiPronicsに出資",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2139491.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-09-09T21:30:00Z",
+      "description": "NTT株式会社は9月9日、IOWNエコシステムの構築と新たな事業創出を目指す投資ファンド「IOWN AI Fund」が、初号投資としてAIデータセンター向けのプログラマブル光ネットワーク技術を開発するiPronicsに出資したと発表した。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Fox Corp. COO John Nallen Says Roku Deal On Track To Close Despite “Entirely Expected” DOJ Scrutiny",
+      "url": "http://deadline.com/2026/09/fox-corp-roku-merger-doj-review-1237072899/",
+      "source": "Deadline",
+      "publishedAt": "2026-09-09T23:02:10Z",
+      "description": "Fox Corp. President and Chief Operating Officer John Nallen said the company’s $22 billion acquisition of Roku is on track to close despite a new request for information from regulators. Speaking at the Goldman Sachs Communacopia conference in San Francisco o…",
+      "maMarket": "us"
+    },
+    {
+      "title": "コーナン商事はアレンザへのTOBをどう生かす？　疋田社長が語るホームセンター再編時代の次の一手 - 経営のためのIT活用実学",
+      "url": "https://jbpress.ismedia.jp/articles/-/96809",
+      "source": "Ismedia.jp",
+      "publishedAt": "2026-09-09T21:00:00Z",
+      "description": "ホームセンター業界で再編の動きが加速している。業界3位のコーナン商事は2026年、アレンザホールディングスへのTOBを実施し、同社を持分法適用会社とした。両社の売上高を単純合算すると業界首位の規模となる。人口減少や物価高、ECとの競争が進む中、コーナンはどのような成長戦略を描くのか。疋田直太郎社長に聞いた。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "‘Diarra From Detroit’ Creator Diarra Kilpatrick on the Season 2 Finale, Moving to Paramount+ and Why Centering Black Women’s Stories Is ‘Inherently Political’",
+      "url": "https://variety.com/2026/tv/features/diarra-from-detroit-creator-diarra-kilpatrick-season-2-finale-season-3-plans-1236855012/",
+      "source": "Variety",
+      "publishedAt": "2026-09-09T22:30:00Z",
+      "description": "SPOILER ALERT: The following story contains plot details from the Season 2 finale of “Diarra From Detroit” now streaming on Paramount+. With the Paramount-Warner Bros. merger hanging in the balance and a presidential administration that is persistently hostil…",
       "maMarket": "us"
     }
   ],
@@ -83,39 +83,74 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic’s $2 trillion IPO could test the limits of AI mania",
-      "url": "https://biztoc.com/x/231d6832b21bb0c1",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-08T23:08:47Z",
-      "description": "Anthropic might soon test how much Wall Street actually believes in the artificial-intelligence boom. The Claude maker is nearing decisions on key banking roles for an IPO that investors expect to value the company at $2 trillion or more, according to the Fin…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "B&R Technology Merger Corp. Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing September 10, 2026",
-      "url": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-the-separate-trading-of-its-class-a-ordinary-shares-and-warrants-commencing-september-10-2026-302872797.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-08T20:24:00Z",
-      "description": "NEW YORK, Sept. 8, 2026 /PRNewswire/ -- B&R Technology Merger Corp. (Nasdaq: BRTMU) (the \"Company\") announced today that, commencing September 10, 2026, holders of the units sold in the Company's initial public offering may elect to separately trade the Compa…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Holtec Nuclear launches $900 million IPO at $10.2 billion valuation",
-      "url": "https://qz.com/holtec-nuclear-ipo-900-million-valuation-090826",
-      "source": "Quartz India",
-      "publishedAt": "2026-09-08T17:28:27Z",
-      "description": "The Camden, New Jersey-based nuclear technology company plans to list on Nasdaq under the ticker \"HNUC\" at $15 to $18 per share",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Polymarket traders put 80% odds on OpenAI hitting $1.5T valuation at IPO",
-      "url": "https://cryptobriefing.com/polymarket-openai-ipo-valuation-odds-15-trillion/",
+      "title": "Anthropic adds small firm to IPO underwriters alongside Wall Street giants",
+      "url": "https://cryptobriefing.com/anthropic-adds-small-firm-to-ipo-underwriters-alongside-wall-street-giants/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-09-08T17:27:16Z",
-      "description": "OpenAI's potential $1.5T IPO valuation highlights the rapid AI sector growth but raises concerns over sustainability and profitability challenges. The post Polymarket traders put 80% odds on OpenAI hitting $1.5T valuation at IPO appeared first on Crypto Brief…",
+      "publishedAt": "2026-09-09T23:11:17Z",
+      "description": "Anthropic's IPO strategy, involving diverse underwriters, signals robust confidence and could reshape AI market dynamics significantly. The post Anthropic adds small firm to IPO underwriters alongside Wall Street giants appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "NSE IPO is selling a monopoly. Investors should watch the referee",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/nse-ipo-is-selling-a-monopoly-investors-should-watch-the-referee/articleshow/133979403.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-09T18:08:31Z",
+      "description": "NSE's upcoming listing presents investors with a dual business model. The exchange operates as a profit-generating toll booth and a regulatory referee. Global evidence suggests demutualisation creates conflicts, especially in weaker regulatory environments.…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "EQPT Deadline Alert: Levi & Korsinsky Reminds EquipmentShare.com Inc. (EQPT) Investors of Securities Class Action Deadline on September 21, 2026",
+      "url": "https://www.prnewswire.com/news-releases/eqpt-deadline-alert-levi--korsinsky-reminds-equipmentsharecom-inc-eqpt-investors-of-securities-class-action-deadline-on-september-21-2026-302873673.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-09T14:09:00Z",
+      "description": "Market Impact: EquipmentShare shares allegedly lost $8.44 per share from the IPO price after a research report challenged related-party transaction disclosures and claimed founder-affiliated entities received at least $77 million. NEW YORK, Sept. 9, 2026 /PRN…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Specialty Insurer Orion180 Seeks to Raise $340 Million in IPO",
+      "url": "https://www.insurancejournal.com/news/southeast/2026/09/09/884479.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-09T13:06:06Z",
+      "description": "Orion180 Insurance Group Inc., a specialty homeowners and flood insurer, is seeking to raise as much as $340 million in an initial public offering. The Melbourne, Florida-based company plans to market 20 million shares for $15 to $17 each, according …",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "正恩氏後継は兄いても娘 韓国見解",
+      "url": "https://news.yahoo.co.jp/pickup/6594905?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-10T14:00:14.000Z",
+      "description": ""
+    },
+    {
+      "title": "欧州中銀 0.25%の利上げ決定",
+      "url": "https://news.yahoo.co.jp/pickup/6594903?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-10T13:47:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "フェリー火災5人死亡87人不明 比",
+      "url": "https://news.yahoo.co.jp/pickup/6594855?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-10T05:26:08.000Z",
+      "description": ""
+    },
+    {
+      "title": "党勝利なら77万円支給 トランプ氏",
+      "url": "https://news.yahoo.co.jp/pickup/6594850?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-10T04:46:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "イラン終結は選挙後 米大統領主張",
+      "url": "https://news.yahoo.co.jp/pickup/6594816?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-10T00:08:31.000Z",
+      "description": ""
+    },
     {
       "title": "ネパール土石流がれき220万t 試算",
       "url": "https://news.yahoo.co.jp/pickup/6594779?source=rss",
@@ -135,48 +170,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594739?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-09T03:48:21.000Z",
-      "description": ""
-    },
-    {
-      "title": "NY市長 異例の労働者組織化支援",
-      "url": "https://news.yahoo.co.jp/pickup/6594736?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-09T03:18:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "米政権 カナダ産の酒類など禁輸へ",
-      "url": "https://news.yahoo.co.jp/pickup/6594729?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-09T02:53:18.000Z",
-      "description": ""
-    },
-    {
-      "title": "中露首脳が祝電 北朝鮮建国78周年",
-      "url": "https://news.yahoo.co.jp/pickup/6594723?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-09T02:36:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "ルノワール作も 欧州で盗難相次ぐ",
-      "url": "https://news.yahoo.co.jp/pickup/6594704?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T23:05:15.000Z",
-      "description": ""
-    },
-    {
-      "title": "米軍 イラン関連タンカーを攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6594700?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T22:41:26.000Z",
-      "description": ""
-    },
-    {
-      "title": "日銀 今月の会合で利上げへ",
-      "url": "https://news.yahoo.co.jp/pickup/6594679?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-08T11:16:05.000Z",
       "description": ""
     }
   ]
