@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T23:59:10.862Z",
+  "fetchedAt": "2026-09-12T23:51:40.310Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,117 +9,175 @@
   ],
   "ma": [
     {
-      "title": "Tailwind CSSの開発元をShopifyが買収",
-      "url": "https://news.livedoor.com/article/detail/32296401/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-09-10T23:00:00Z",
-      "description": "2026年9月9日、人気のCSSフレームワーク「Tailwind CSS」を開発するTailwind LabsがShopifyに参画することが、Tailwind Labsの創設者であるアダム・ワサン氏によって発表されました。「参画(join)」という言葉が使われているものの、事実上はShopifyがTailwind Labsを買収したものと見る向きもあります。Tailwind Labs is joining Shopify - Tailwind CSShttps://tailwindcss.com/blog/ta…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Salesforce Closed Its $3.6B Fin Acquisition Months Early. The Timing Tells You More Than the Price.",
-      "url": "https://forkast.news/salesforce-closed-its-3-6b-fin-acquisition-months-early-the-timing-tells-you-more-than-the-price/",
-      "source": "Forkast.news",
-      "publishedAt": "2026-09-10T23:09:18Z",
-      "description": "Salesforce closed its $3.6 billion acquisition of Fin on September 10, 2026, finishing the deal months ahead of the original Q4 FY2027 schedule. While the speed of the transaction – likely reflecting smoother-than-expected regulatory clearance – is notable, t…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ミラーフィット、女性専用美容ジム「HITORI WELLNESS」展開で総額2.5億円を調達",
-      "url": "https://thebridge.jp/2026/09/mirror-fit-raises-250-million-yen",
-      "source": "Thebridge.jp",
-      "publishedAt": "2026-09-10T22:45:27Z",
-      "description": "AI を活用したスマートミラー「MIRROR FIT.」と、24時間営業・完全個室の女性専用美容ジム「HITORI WELLNESS（ヒトリウェルネス）」を展開するミラーフィットは10日、出資と金融機関からの借入を合わせ […]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "KFY Q2 Deep Dive: AMS Acquisition Drives Strategic Expansion, Recurring Revenue Growth",
-      "url": "https://biztoc.com/x/7e22adcaf983d734",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-10T23:07:36Z",
-      "description": "Organizational consulting firm Korn Ferry (NYSE:KFY) reported Q2 CY2026 results exceeding the market's revenue expectations , with sales up 5.7% year on year to $756.5 million. On top of that, next quarter's revenue guidance ($869 million at the midpoint) was…",
-      "maMarket": "us"
-    },
-    {
-      "title": "スシローの運営会社が「京樽」を37億円で売却へ、65億円増資で債務超過を埋めてまで手放した「決断の理由」とは？ - 外食バトルロイヤル",
-      "url": "https://diamond.jp/articles/-/398953",
+      "title": "【OpenAIへの出資1.6兆円】ソフトバンクGの決算書にどれほど影響を与えたのか、説明できますか？ - サンキー図で「お金の流れ」が1秒でわかる　見るだけ決算書",
+      "url": "https://diamond.jp/articles/-/399116",
       "source": "Diamond.jp",
-      "publishedAt": "2026-09-10T19:55:00Z",
-      "description": "回転ずし首位の「スシロー」を展開するFOOD ＆ LIFE COMPANIES（F＆LC）は、2021年に買収した持ち帰りずしの老舗「京樽」の全株式を、SRSホールディングス（SRSHD）へ売却した。F＆LCは自ら約64.8億円の第三者割当増資を引き受け、約30億円の債務超過を解消した上で譲渡に踏み切る。25年9月期に営業黒字化を果たした京樽を、なぜ追加資金まで投入して手放すのか。また、買い手となるSRSHDが買収に踏み切った狙いと今後の再建策とは何か。本稿では、中食市場の構造変化と両社の経営戦略から、今回のM＆…",
+      "publishedAt": "2026-09-11T23:00:00Z",
+      "description": "2026年4月1日、ソフトバンクGはOpenAIへ100億ドルを追加出資しました。日本円では、約1.6兆円にのぼります。ただ、「100億ドル」「1.6兆円」と数字だけを聞いても、会社にとってどれほど大きな支出なのかはなかなかイメージが湧きません。 そこで本記事では、書籍『サンキー図で「お金の流れ」が1秒でわかる 見るだけ決算書』に登場する図解「サンキー図」で、2026年6月末までの3カ月間を対象としたキャッシュフロー計算書を見える化し、OpenAIへの出資がソフトバンクGの手元資金に対してどれほどの規模だったのか…",
       "maMarket": "jp"
     },
     {
-      "title": "383-Powered 1966 Chevrolet Corvette Convertible 4-Speed",
-      "url": "https://bringatrailer.com/listing/1966-chevrolet-corvette-convertible-311/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-09-10T22:14:54Z",
-      "description": "This 1966 Chevrolet Corvette convertible has been fitted with a 383ci stroker V8 and was repainted in red following its current owner's acquisition in 2015. It features black vinyl upholstery, a four-speed manual transmission, a Positraction differential, a H…",
+      "title": "Akintobi’s decade-long art journey leads to patent",
+      "url": "https://punchng.com/akintobis-decade-long-art-journey-leads-to-patent/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-11T23:35:09Z",
+      "description": "Contemporary artist, Akintayo Akintobi, has acquired a Nigerian patent for a cross-cultural, textile-integrated visual art system after a decade-long caree Read More: https://punchng.com/akintobis-decade-long-art-journey-leads-to-patent/",
       "maMarket": "us"
     },
     {
-      "title": "EXITの88%がM&Aによる時代、会社の\"値段\"を分けるのは「経営者1人依存」からの脱却――Waris、ウィルゲートと共催で無料ウェビナー「売れる会社の作り方」を9月17日開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000054.000018325.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-10T07:41:52Z",
-      "description": "株式会社Warisのプレスリリース（2026年9月10日 14時00分）EXITの88%がM&Aによる時代、会社の\"値段\"を分けるのは「経営者1人依存」からの脱却――Waris、ウィルゲートと共催で無料ウェビナー「売れる会社の作り方」を9月17日開催",
+      "title": "長谷川閑史さん「目の前より世界に目を」　大型買収で世界のタケダに",
+      "url": "https://www.asahi.com/articles/ASV9C3D6DV9CULFA00ZM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-09-11T10:45:00Z",
+      "description": "1781年に創業した老舗の製薬大手・武田薬品工業を、メガファーマ（巨大製薬企業）へ押し上げる土台をつくった長谷川閑史（やすちか）さんが80歳で亡くなった。海外製薬企業を相次いで買収し、社内も一気にグ…",
       "maMarket": "jp"
+    },
+    {
+      "title": "Circle-Tazapay deal aims to accelerate USDC adoption in cross-border B2B payments",
+      "url": "https://www.digitalcommerce360.com/2026/09/11/circle-tazapay-acquisition-usdc-stablecoin/",
+      "source": "DigitalCommerce360",
+      "publishedAt": "2026-09-11T22:42:06Z",
+      "description": "Circle Internet Group has signed a definitive agreement to acquire Tazapay, a Singapore-based business-to-business (B2B) cross-border payments company, in a deal aimed at accelerating adoption of its USDC stablecoin for global commerce. Meanwhile, Tazapay bri…",
+      "maMarket": "us"
+    },
+    {
+      "title": "HUMAN MADEがアンダーカバー買収を決議　高橋盾は経営を離れクリエイティブ専任に",
+      "url": "https://www.fashionsnap.com/article/2026-09-11/human-made-undercover-ma/",
+      "source": "Fashionsnap.com",
+      "publishedAt": "2026-09-11T09:59:30Z",
+      "description": "HUMAN MADEが9月11日、「アンダーカバー（UNDERCOVER）」を運営するアンダーカバーの全株式取得および子会社化について正式に決議した。株式譲渡実行日は2027年2月を予定しており、買収額は5億5000万円。2028年1月期からHUMAN MADEの連結子会社となる。これに伴い、アンダーカバーのデザイナー 高橋盾は経営から離れ、クリエイティブに注力。HUMAN MADE同様、クリエイティブと経営を分離した運営体制に移行し、更なる成長を目指す。 このコンテンツは FASHIONSNAP が配信していま…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "95-Mile 2018 BMW R nineT Racer at No Reserve",
+      "url": "https://bringatrailer.com/listing/2018-bmw-r-ninet-8/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-09-11T22:00:25Z",
+      "description": "This 2018 BMW R nineT Racer was registered with a single owner before its recent acquisition by the selling dealer. Powered by an air- and oil-cooled 1,170cc opposed-twin paired with a six-speed transmission, the bike is finished in Light White with Motorspor…",
+      "maMarket": "us"
+    },
+    {
+      "title": "フォーティネットジャパン合同会社フォーティネット、Virtue AIの買収により継続的なAI保護を推進",
+      "url": "https://japan.cnet.com/release/31206384/",
+      "source": "CNET",
+      "publishedAt": "2026-09-11T09:11:54Z",
+      "description": "サイバーセキュリティの世界的リーダーで、ネットワークとセキュリティの融合を牽引するフォーティネット（Fortinet®）は、AIランタイム保護、自動AI検証、および自律型AIシステムのセキュリティにおけるイノベーターであるVirtue AIを買収したことを発表しました。この買収は、同社の幅広いAI向けセキュリティ戦略...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Greenberg Traurig Advises Ryman Hospitality Properties on $1.38B Grande Lakes Orlando Resort Acquisition",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-ryman-hospitality-properties-on-1-38b-grande-lakes-orlando-resort-acquisition-302876661.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-11T21:55:00Z",
+      "description": "WASHINGTON, Sept. 11, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP represented Ryman Hospitality Properties, Inc. (NYSE: RHP) (Ryman), a lodging real estate investment trust (REIT), in its acquisition of the fee simple interest in Grande Lakes …",
+      "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1072897",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-10T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞08:50 国内企業物価指数(8月) 0% 0.1％08:50 景況判断BSI大企業全産業(7-9月) -0.508:50 景況判断BSI大企業製造業(7-9月) -1.814:00 液化天然ガス(LNG)産消会議 9月限の株価指数先物・オプションの特別清算値(SQ)算出日 KOMPEITOが東証グロースに新規上場(公開価格:1600円)＜海外＞15:00",
+      "title": "ちゅうぎんインフィニティファンド1号の投資先 株式会社KOMPEITOの東証グロース市場新規上場",
+      "url": "https://prtimes.jp/main/html/rd/p/000000213.000166651.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-11T03:40:49Z",
+      "description": "[ちゅうぎんFG] ちゅうぎんキャピタルパートナーズ（岡山市 代表取締役 岡田 浩幸）が運営する「ちゅうぎんインフィニティファンド1号」の投資先である株式会社KOMPEITO（東京都品川区、代表取締役CEO 渡邉 瞬、以下「KOMPEITO社...",
       "ipoMarket": "jp"
     },
     {
-      "title": "Altera prepares IPO with Silver Lake backing, could raise over $2B",
-      "url": "https://cryptobriefing.com/altera-ipo-silver-lake-2026/",
+      "title": "Robbins LLP Reminds Investors of the Pending September 21, 2026, Lead Plaintiff Deadline in the Securities Fraud Class Action Lawsuit Filed Against EQPT After a Significant Decline in the Company's Stock Price Following its IPO",
+      "url": "https://www.prnewswire.com/news-releases/robbins-llp-reminds-investors-of-the-pending-september-21-2026-lead-plaintiff-deadline-in-the-securities-fraud-class-action-lawsuit-filed-against-eqpt-after-a-significant-decline-in-the-companys-stock-price-following-its-ipo-302876653.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-11T21:52:00Z",
+      "description": "SAN DIEGO, Sept. 11, 2026 /PRNewswire/ -- Robbins LLP reminds investors that a securities class action has been filed on behalf of shareholders who purchased or otherwise acquired EquipmentShare.com, Inc. (NASDAQ: EQPT): (1) Class A common stock issued in con…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "アトラG---名古屋証券取引所メイン市場への上場承認、東証との重複上場へ - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1072908",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-11T00:42:09Z",
+      "description": "&lt;6029&gt; アトラG 187 +1アトラグループ&lt;6029&gt;は10日、名古屋証券取引所メイン市場への上場承認を得たと発表した。上場予定日は2026年9月17日で、現在上場している東京証券取引所スタンダード市場との重複上場となる。同社は、鍼灸・整骨院向け経営支援プラットフォーム「A-COMS」を中核事業とし、全国への導入を進めている。事業の持続的な成長に向け、投資家層のさらなる拡大と事業への認知度",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Chinese AI chip developer Enflame raises $912M in IPO",
+      "url": "https://siliconangle.com/2026/09/11/chinese-ai-chip-developer-enflame-raises-912m-in-ipo/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-09-11T20:54:40Z",
+      "description": "Shares of Shanghai Enflame Technology Co. closed 179% higher today following an initial public offering that raised 6.12 billion yuan, or about $912 billion. The listing drew particularly strong demand from retail investors. Such investors ordered 6,109 times…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Nscale adds OpenAI’s Fidji Simo to board ahead of US IPO",
+      "url": "https://cryptobriefing.com/nscale-openai-fidji-simo-board-ipo/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-09-10T19:52:54Z",
-      "description": "Altera's IPO could reshape the FPGA market, highlighting its growth potential and influencing investor sentiment in AI-driven sectors. The post Altera prepares IPO with Silver Lake backing, could raise over $2B appeared first on Crypto Briefing.",
+      "publishedAt": "2026-09-11T11:29:19Z",
+      "description": "Nscale's strategic board appointments and partnerships signal its aggressive positioning in the AI infrastructure market ahead of its IPO. The post Nscale adds OpenAI’s Fidji Simo to board ahead of US IPO appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "Motive pulls its IPO filing after raising $1.3bn from General Catalyst",
-      "url": "https://thenextweb.com/news/motive-1-3bn-general-catalyst-withdraws-ipo-filing",
-      "source": "The Next Web",
-      "publishedAt": "2026-09-10T19:15:51Z",
-      "description": "Motive has secured more than $1.3bn in growth financing from General Catalyst’s Customer Value Fund, the company announced on Thursday. Because of the financing, Motive has withdrawn its previously filed S-1 registration statement for an initial public offeri…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Trump's tech guru demands Anthropic is investigated and their $2trillion IPO is paused after researcher warned AI will wipe out humanity",
-      "url": "https://www.dailymail.com/yourmoney/article-16120171/trump-david-sacks-anthropic-ipo-delay.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-10T16:08:34Z",
-      "description": "Anthropic is preparing for one of the biggest stock-market listings in history, with the company reportedly targeting a valuation of around $2 trillion.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "'We intend to be disruptive': Robinhood CEO details big investment bank ambitions after Oura IPO win",
-      "url": "https://finance.yahoo.com/markets/stocks/article/we-intend-to-be-disruptive-robinhood-ceo-details-big-investment-bank-ambitions-after-oura-ipo-win-151806118.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-10T15:18:06Z",
-      "description": "Robinhood CEO Vlad Tenev has his eyes on more lucrative underwriting dollars.",
+      "title": "Should You Buy Redwire While It's Below $13?",
+      "url": "https://biztoc.com/x/04745a7e556e560f",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-11T09:10:01Z",
+      "description": "Redwire (NYSE: RDW) shares surged earlier this year, reaching as high as $26. The pick-and-shovel space and defense company rode the wave of enthusiasm around space stocks amid the initial public offering of Space Exploration Technologies, aka SpaceX, in June…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "北の飛翔体は弾道ミサイル 韓国軍",
-      "url": "https://news.yahoo.co.jp/pickup/6595014?source=rss",
+      "title": "習氏が訪印 中印関係の改善探る",
+      "url": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T23:41:35.000Z",
+      "publishedAt": "2026-09-12T14:12:43.000Z",
       "description": ""
     },
     {
-      "title": "フーシ派が海峡周辺掌握 原油急騰",
-      "url": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
+      "title": "米利上げ予想高まる インフレ続く",
+      "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T13:46:57.000Z",
+      "publishedAt": "2026-09-12T13:09:47.000Z",
+      "description": ""
+    },
+    {
+      "title": "台湾に武器売却なら習氏訪米せず",
+      "url": "https://news.yahoo.co.jp/pickup/6595095?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-12T12:24:57.000Z",
+      "description": ""
+    },
+    {
+      "title": "ウ大統領 米は新たな対露制裁を",
+      "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-12T08:09:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "サウジの原油パイプラインが停止",
+      "url": "https://news.yahoo.co.jp/pickup/6595049?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-12T05:46:06.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国で「半導体高校」希望者殺到",
+      "url": "https://news.yahoo.co.jp/pickup/6595045?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-12T05:06:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "露に抵抗 地下組織・黒い火花とは",
+      "url": "https://news.yahoo.co.jp/pickup/6595027?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-12T01:50:16.000Z",
+      "description": ""
+    },
+    {
+      "title": "北方領土の地図修正巡り 露が反発",
+      "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-12T00:06:12.000Z",
       "description": ""
     },
     {
@@ -127,48 +185,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-11T12:37:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国 日本人ビザ約7.5倍に値上げ",
-      "url": "https://news.yahoo.co.jp/pickup/6594984?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T11:57:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "「トランプ配当金」共和党内賛否",
-      "url": "https://news.yahoo.co.jp/pickup/6594966?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T08:34:54.000Z",
-      "description": ""
-    },
-    {
-      "title": "日銀利上げの公算大 1.25%程度に",
-      "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T07:25:40.000Z",
-      "description": ""
-    },
-    {
-      "title": "天安門集会巡り3人実刑判決 香港",
-      "url": "https://news.yahoo.co.jp/pickup/6594955?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T06:25:36.000Z",
-      "description": ""
-    },
-    {
-      "title": "米同時テロ 24年間「封印」の映像",
-      "url": "https://news.yahoo.co.jp/pickup/6594953?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T05:56:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "米同時テロの遺族 悲しみ死ぬまで",
-      "url": "https://news.yahoo.co.jp/pickup/6594925?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T00:43:31.000Z",
       "description": ""
     }
   ]
