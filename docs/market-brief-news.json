@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T23:51:40.310Z",
+  "fetchedAt": "2026-09-13T23:57:52.240Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,22 @@
   ],
   "ma": [
     {
+      "title": "【噂】小島秀夫監督、ソニーの買収提案を何度も断ったとの報道！新作『PHYSINT』の撤退要因は「時限独占」か",
+      "url": "http://blog.esuteru.com/archives/10566918.html",
+      "source": "Esuteru.com",
+      "publishedAt": "2026-09-12T10:30:18Z",
+      "description": "【噂】小島秀夫監督、ソニーの買収提案を何度も断ったとの報道！新作『PHYSINT』の撤退要因は「時限独占」かの記事ページ",
+      "maMarket": "jp"
+    },
+    {
+      "title": "’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
+      "url": "https://biztoc.com/x/c0477c0705d48f70",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-12T23:00:26Z",
+      "description": "GE Aerospace (NYSE:GE) is making its largest acquisition since becoming a standalone publicly traded company. It agreed to acquire Consolidated Precision Products (CPP) for around $12 billion. CPP is one of the world's largest precision castings providers. It…",
+      "maMarket": "us"
+    },
+    {
       "title": "【OpenAIへの出資1.6兆円】ソフトバンクGの決算書にどれほど影響を与えたのか、説明できますか？ - サンキー図で「お金の流れ」が1秒でわかる　見るだけ決算書",
       "url": "https://diamond.jp/articles/-/399116",
       "source": "Diamond.jp",
@@ -17,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Akintobi’s decade-long art journey leads to patent",
-      "url": "https://punchng.com/akintobis-decade-long-art-journey-leads-to-patent/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-11T23:35:09Z",
-      "description": "Contemporary artist, Akintayo Akintobi, has acquired a Nigerian patent for a cross-cultural, textile-integrated visual art system after a decade-long caree Read More: https://punchng.com/akintobis-decade-long-art-journey-leads-to-patent/",
+      "title": "Huge L.A. Job Losses If Paramount Exits California, County Warns; Ellison-Led Company Slams AGs & WGA’s Antitrust Action In Official Rebuke",
+      "url": "http://deadline.com/2026/09/paramount-job-losses-california-exit-antitrust-lawsuit-1237099942/",
+      "source": "Deadline",
+      "publishedAt": "2026-09-12T22:56:31Z",
+      "description": "There will be harsh job losses and severe economic pain if Paramount carries out its threat to leave California over the antitrust action a coalition of blue state Attorneys General are pursuing to stop David Ellison’s $111 billion merger with Warner Bros Dis…",
       "maMarket": "us"
     },
     {
@@ -33,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Circle-Tazapay deal aims to accelerate USDC adoption in cross-border B2B payments",
-      "url": "https://www.digitalcommerce360.com/2026/09/11/circle-tazapay-acquisition-usdc-stablecoin/",
-      "source": "DigitalCommerce360",
-      "publishedAt": "2026-09-11T22:42:06Z",
-      "description": "Circle Internet Group has signed a definitive agreement to acquire Tazapay, a Singapore-based business-to-business (B2B) cross-border payments company, in a deal aimed at accelerating adoption of its USDC stablecoin for global commerce. Meanwhile, Tazapay bri…",
+      "title": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6856e3d3-fa28-4651-b786-fd187687ceaa",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-12T22:38:33Z",
+      "description": "",
       "maMarket": "us"
     },
     {
@@ -49,27 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "95-Mile 2018 BMW R nineT Racer at No Reserve",
-      "url": "https://bringatrailer.com/listing/2018-bmw-r-ninet-8/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-09-11T22:00:25Z",
-      "description": "This 2018 BMW R nineT Racer was registered with a single owner before its recent acquisition by the selling dealer. Powered by an air- and oil-cooled 1,170cc opposed-twin paired with a six-speed transmission, the bike is finished in Light White with Motorspor…",
-      "maMarket": "us"
-    },
-    {
-      "title": "フォーティネットジャパン合同会社フォーティネット、Virtue AIの買収により継続的なAI保護を推進",
-      "url": "https://japan.cnet.com/release/31206384/",
-      "source": "CNET",
-      "publishedAt": "2026-09-11T09:11:54Z",
-      "description": "サイバーセキュリティの世界的リーダーで、ネットワークとセキュリティの融合を牽引するフォーティネット（Fortinet®）は、AIランタイム保護、自動AI検証、および自律型AIシステムのセキュリティにおけるイノベーターであるVirtue AIを買収したことを発表しました。この買収は、同社の幅広いAI向けセキュリティ戦略...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Greenberg Traurig Advises Ryman Hospitality Properties on $1.38B Grande Lakes Orlando Resort Acquisition",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-ryman-hospitality-properties-on-1-38b-grande-lakes-orlando-resort-acquisition-302876661.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-11T21:55:00Z",
-      "description": "WASHINGTON, Sept. 11, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig, LLP represented Ryman Hospitality Properties, Inc. (NYSE: RHP) (Ryman), a lodging real estate investment trust (REIT), in its acquisition of the fee simple interest in Grande Lakes …",
+      "title": "Leaked Report Details Fallout if Paramount Exits California",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-warner-brothers-california-exit-threat-economy-1236699278/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-09-12T22:08:53Z",
+      "description": "Nearly 58,000 jobs and $21 billion in annual losses are on the line as the Oct. 1 merger deadline approaches.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Robbins LLP Reminds Investors of the Pending September 21, 2026, Lead Plaintiff Deadline in the Securities Fraud Class Action Lawsuit Filed Against EQPT After a Significant Decline in the Company's Stock Price Following its IPO",
-      "url": "https://www.prnewswire.com/news-releases/robbins-llp-reminds-investors-of-the-pending-september-21-2026-lead-plaintiff-deadline-in-the-securities-fraud-class-action-lawsuit-filed-against-eqpt-after-a-significant-decline-in-the-companys-stock-price-following-its-ipo-302876653.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-11T21:52:00Z",
-      "description": "SAN DIEGO, Sept. 11, 2026 /PRNewswire/ -- Robbins LLP reminds investors that a securities class action has been filed on behalf of shareholders who purchased or otherwise acquired EquipmentShare.com, Inc. (NASDAQ: EQPT): (1) Class A common stock issued in con…",
+      "title": "Predicting the Value of a $10,000 Bet on SpaceX by 2030",
+      "url": "https://biztoc.com/x/53c94b7d6bc4b4fb",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-12T21:29:58Z",
+      "description": "Space Exploration Technologies (NASDAQ: SPCX), more commonly known as SpaceX, completed the largest IPO in history in June, opening its first day of trading at a price of $150 per share. As many expected, the stock has been extremely volatile in the months si…",
       "ipoMarket": "us"
     },
     {
@@ -99,92 +99,92 @@
       "ipoMarket": "jp"
     },
     {
+      "title": "Here's who stands to make money from the Anthropic IPO",
+      "url": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-12T15:16:19Z",
+      "description": "The initial public offering could mint riches for the AI model maker's unusually broad base of private investors, while putting its intertwined financial rel...",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Robbins LLP Reminds Investors of the Pending September 21, 2026, Lead Plaintiff Deadline in the Securities Fraud Class Action Lawsuit Filed Against EQPT After a Significant Decline in the Company's Stock Price Following its IPO",
+      "url": "https://www.prnewswire.com/news-releases/robbins-llp-reminds-investors-of-the-pending-september-21-2026-lead-plaintiff-deadline-in-the-securities-fraud-class-action-lawsuit-filed-against-eqpt-after-a-significant-decline-in-the-companys-stock-price-following-its-ipo-302876653.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-11T21:52:00Z",
+      "description": "SAN DIEGO, Sept. 11, 2026 /PRNewswire/ -- Robbins LLP reminds investors that a securities class action has been filed on behalf of shareholders who purchased or otherwise acquired EquipmentShare.com, Inc. (NASDAQ: EQPT): (1) Class A common stock issued in con…",
+      "ipoMarket": "us"
+    },
+    {
       "title": "Chinese AI chip developer Enflame raises $912M in IPO",
       "url": "https://siliconangle.com/2026/09/11/chinese-ai-chip-developer-enflame-raises-912m-in-ipo/",
       "source": "SiliconANGLE News",
       "publishedAt": "2026-09-11T20:54:40Z",
       "description": "Shares of Shanghai Enflame Technology Co. closed 179% higher today following an initial public offering that raised 6.12 billion yuan, or about $912 billion. The listing drew particularly strong demand from retail investors. Such investors ordered 6,109 times…",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Nscale adds OpenAI’s Fidji Simo to board ahead of US IPO",
-      "url": "https://cryptobriefing.com/nscale-openai-fidji-simo-board-ipo/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-11T11:29:19Z",
-      "description": "Nscale's strategic board appointments and partnerships signal its aggressive positioning in the AI infrastructure market ahead of its IPO. The post Nscale adds OpenAI’s Fidji Simo to board ahead of US IPO appeared first on Crypto Briefing.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Should You Buy Redwire While It's Below $13?",
-      "url": "https://biztoc.com/x/04745a7e556e560f",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-11T09:10:01Z",
-      "description": "Redwire (NYSE: RDW) shares surged earlier this year, reaching as high as $26. The pick-and-shovel space and defense company rode the wave of enthusiasm around space stocks amid the initial public offering of Space Exploration Technologies, aka SpaceX, in June…",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "習氏が訪印 中印関係の改善探る",
-      "url": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
+      "title": "米大統領 軽油高騰巡りウに要求",
+      "url": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T14:12:43.000Z",
+      "publishedAt": "2026-09-13T22:58:51.000Z",
       "description": ""
     },
     {
-      "title": "米利上げ予想高まる インフレ続く",
-      "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
+      "title": "日銀の利上げ公算大 家計への影響",
+      "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T13:09:47.000Z",
+      "publishedAt": "2026-09-13T11:12:49.000Z",
       "description": ""
     },
     {
-      "title": "台湾に武器売却なら習氏訪米せず",
-      "url": "https://news.yahoo.co.jp/pickup/6595095?source=rss",
+      "title": "ジャワ海で船沈没 130人行方不明",
+      "url": "https://news.yahoo.co.jp/pickup/6595178?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T12:24:57.000Z",
+      "publishedAt": "2026-09-13T10:58:14.000Z",
       "description": ""
     },
     {
-      "title": "ウ大統領 米は新たな対露制裁を",
-      "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
+      "title": "極右AfDが勝利 独全土で抗議デモ",
+      "url": "https://news.yahoo.co.jp/pickup/6595165?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T08:09:40.000Z",
+      "publishedAt": "2026-09-13T08:16:07.000Z",
       "description": ""
     },
     {
-      "title": "サウジの原油パイプラインが停止",
-      "url": "https://news.yahoo.co.jp/pickup/6595049?source=rss",
+      "title": "ネパール災害 救助まで換気口で息",
+      "url": "https://news.yahoo.co.jp/pickup/6595163?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T05:46:06.000Z",
+      "publishedAt": "2026-09-13T07:43:01.000Z",
       "description": ""
     },
     {
-      "title": "韓国で「半導体高校」希望者殺到",
-      "url": "https://news.yahoo.co.jp/pickup/6595045?source=rss",
+      "title": "フーシ派 紅海入口要衝を「支配」",
+      "url": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T05:06:40.000Z",
+      "publishedAt": "2026-09-13T06:24:48.000Z",
       "description": ""
     },
     {
-      "title": "露に抵抗 地下組織・黒い火花とは",
-      "url": "https://news.yahoo.co.jp/pickup/6595027?source=rss",
+      "title": "ラスベガス地下にホームレス 実態",
+      "url": "https://news.yahoo.co.jp/pickup/6595138?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T01:50:16.000Z",
+      "publishedAt": "2026-09-13T03:26:56.000Z",
       "description": ""
     },
     {
-      "title": "北方領土の地図修正巡り 露が反発",
-      "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
+      "title": "トランプ氏 フーシ派が不介入要請",
+      "url": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-12T00:06:12.000Z",
+      "publishedAt": "2026-09-13T01:40:51.000Z",
       "description": ""
     },
     {
-      "title": "同時テロ25年 ドローンでビル再現",
-      "url": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
+      "title": "北アイルランド巡り 米英に火種か",
+      "url": "https://news.yahoo.co.jp/pickup/6595130?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-11T12:37:51.000Z",
+      "publishedAt": "2026-09-13T01:40:14.000Z",
       "description": ""
     }
   ]
