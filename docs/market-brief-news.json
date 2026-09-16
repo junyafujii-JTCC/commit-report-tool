@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T00:23:58.711Z",
+  "fetchedAt": "2026-09-16T00:03:02.969Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,63 +9,87 @@
   ],
   "ma": [
     {
-      "title": "社員のご家族をオフィスへご招待！第4回「MACPファミリーデー」を開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000541.000051639.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-14T00:10:18Z",
-      "description": "[M&Aキャピタルパートナーズ] M&Aキャピタルパートナーズ株式会社(東京都中央区・代表取締役社長 中村悟)は8月26日（水）に、当社で働く社員のご家族を対象とした「MACPファミリーデー」を開催いたしました。 第4回となる今回は、過去最多...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Brookfield looks to buy PGP Glass for up to $1.5 bn from Blackstone",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/paper-/-wood-/-glass/-plastic/-marbles/brookfield-looks-to-buy-pgp-glass-for-up-to-1-5-bn-from-blackstone/articleshow/134219911.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "description": "Brookfield is negotiating to acquire PGP Glass from Blackstone for $1.3 billion. This deal marks a significant transaction between two major alternative asset managers in India. Blackstone aims to exit its six-year investment in the glass packaging company. A…",
-      "maMarket": "us"
-    },
-    {
-      "title": "株式会社大小サイト売買・事業譲渡の独占掲載案件ならM&Aクラブ(MAクラブ)・掲載の特徴と探し方を紹介",
-      "url": "https://japan.cnet.com/release/31206567/",
+      "title": "株式会社大小ebayアカウントの独占案件を売買するならM&Aクラブ・掲載の特徴と探し方を紹介",
+      "url": "https://japan.cnet.com/release/31206941/",
       "source": "CNET",
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "description": "株式会社大小が運営するSNSアカウント・Webサイトなどの売買プラットフォーム「M&Aクラブ(MAクラブ) https://maclub.jp/」では、2026年9月1日よりサイト売買・事業譲渡の独占掲載案件の取り扱いを開始しました。Webメディアの運営経験を持つ企業や、サイト運営に取り組みたい個人に向けて、M&Aクラブだけに掲載されてい...",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "description": "株式会社大小が運営するSNSアカウント・Webサイトなどの売買プラットフォーム「M&Aクラブ(MAクラブ) https://maclub.jp/」では、2026年9月1日よりebayアカウントの独占掲載案件の取り扱いを開始しました。海外向けの商品販売に関わる企業や個人事業主に向けて、M&Aクラブだけに掲載されている案件の特徴と探し方をご紹介...",
       "maMarket": "jp"
     },
     {
-      "title": "1956 Austin-Healey 100 BN2 Roadster",
-      "url": "https://bringatrailer.com/listing/1956-austin-healey-100-roadster-12/",
+      "title": "Near-Zero Creep Ionic Elastomer for Non-drifting Ear Electroencephalogram Signal Acquisition",
+      "url": "https://www.nature.com/articles/s41467-026-77777-6.pdf",
+      "source": "Nature.com",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "description": "Polymer electrodes are promising for wearable ear electroencephalogram sensors, though they are sensitive to polymer creep under sustained strain. Here the authors report a crosslinked copolymer which resists creep for stable sensing.",
+      "maMarket": "us"
+    },
+    {
+      "title": "『超かぐや姫！』製作のツインエンジン、実写映画第2弾を発表　実写事業を本格化へ",
+      "url": "https://kai-you.net/article/96543",
+      "source": "Kai-you.net",
+      "publishedAt": "2026-09-14T22:00:00Z",
+      "description": "アニメーションの制作／企画を行う株式会社ツインエンジンが、実写映像事業の第2弾映画『旅する練習』の製作を発表した。同社と資本業務提携を締結した株式会社ヨアケとの共同製作／配給作品となる。公開は2027年予定。第3弾の共同製作及び配給作品も決定しており、こちらは近日中に発表予定だ。事業の多角化を進めるアニメ会社・ツインエンジンツインエンジンは、アニメーションの企画／制作／プロデュース／宣伝／配給までを一貫して手がける企業。グループ内に18のアニメーションスタジオ、クリエイティブユニットを有しており...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Mastercard CFO Outlines Growth Strategy Driven by Stablecoins and Value-Added Services",
+      "url": "https://www.pymnts.com/mastercard/2026/mastercard-cfo-outlines-growth-strategy-driven-by-stablecoins-and-value-added-services/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-09-14T23:53:37Z",
+      "description": "Incoming Mastercard Chief Financial Officer Ling Hai, who assumed that role Aug. 3, outlined a growth-focused capital allocation strategy that includes frontline sales, targeted acquisition and infrastructure expansion Thursday (Sept. 10) during the Goldman S…",
+      "maMarket": "us"
+    },
+    {
+      "title": "抗体検査のAOI Biosciences、増資と株式譲渡で総額約5億円",
+      "url": "https://thebridge.jp/2026/09/aoi-biosciences-funding-secondary-transaction",
+      "source": "Thebridge.jp",
+      "publishedAt": "2026-09-14T21:33:33Z",
+      "description": "不妊症・不育症領域の抗体検査と創薬研究を手がける AOI Biosciences は14日、第三者割当増資および株式譲渡（セカンダリー取引）により、取引総額約5億円の資金調達を実施したと発表した。 出資したのは日本ベンチ […]",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Why Do Some People Remember Nearly Every Day of Their Lives?",
+      "url": "https://www.psychologytoday.com/us/blog/quirks-of-memory/202609/why-do-some-people-remember-nearly-every-day-of-their-lives",
+      "source": "Psychology Today",
+      "publishedAt": "2026-09-14T23:44:14Z",
+      "description": "For two decades, standard memory tests have failed to explain highly superior autobiographical memory (HSAM). Two new cases suggest where researchers might look next.",
+      "maMarket": "us"
+    },
+    {
+      "title": "元ユニコーンのゾンビスタートアップを買い漁る謎の企業 Bending Spoonsとは？",
+      "url": "https://blog.btrax.com/jp/bending-spoons/",
+      "source": "Btrax.com",
+      "publishedAt": "2026-09-14T21:30:38Z",
+      "description": "Miroが買収された。13.55億ドル(約2,000億円)で。買収したのはBending Spoonsという聞き慣れない会社だ。でも実はこの会社、もう何年も前から僕らが毎日使ってたアプリを次々と飲み込んでる。 Evern […] The post 元ユニコーンのゾンビスタートアップを買い漁る謎の企業 Bending Spoonsとは？ first appeared on デザイン会社 ビートラックス: ブログ freshtrax.",
+      "maMarket": "jp"
+    },
+    {
+      "title": "2016 BMW X4 xDrive28i M Sport at No Reserve",
+      "url": "https://bringatrailer.com/listing/2016-bmw-x4/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-09-13T23:40:16Z",
-      "description": "This 1956 Austin-Healey 100 BN2 roadster underwent a cosmetic refurbishment in the early 2000s, and work following the selling dealer's 2024 acquisition involved rebuilding the 2.7-liter inline-four, the four-speed manual transmission, and the overdrive unit.…",
+      "publishedAt": "2026-09-14T22:55:17Z",
+      "description": "This 2016 BMW X4 xDrive28i has been registered primarily in Texas and has 38k miles following its recent acquisition by the selling dealer. It is finished in Black Sapphire Metallic over black Nevada leather upholstery with gray contrast stitching and is powe…",
       "maMarket": "us"
-    },
-    {
-      "title": "日本M＆Aセンター「不適切な買い手リスト」登録逃れ　担当者は解雇",
-      "url": "https://www.asahi.com/articles/ASV95447XV95ULFA007M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-09-13T21:00:00Z",
-      "description": "■M＆A仲介の罠Ⅶ 中立・公平の限界① 一通の通知書が6月24日、仲介最大手の日本M＆Aセンターあてに差し出された。 差出人のひとりはM＆A（企業合併・買収）に精通し、中小企業庁の有識者会議で委員も務…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Valentino Beauty Brings Vendetta to Los Angeles with a Day-to-Night Celebration",
-      "url": "https://fuckingyoung.es/valentino-beauty-brings-vendetta-to-los-angeles-with-a-day-to-night-celebration/",
-      "source": "Fuckingyoung.es",
-      "publishedAt": "2026-09-13T22:02:51Z",
-      "description": "Valentino Beauty celebrated the launch of its new Vendetta fragrances with a takeover in Los Angeles, transforming the city into the setting of its latest fragrance story. The post Valentino Beauty Brings Vendetta to Los Angeles with a Day-to-Night Celebratio…",
-      "maMarket": "us"
-    },
-    {
-      "title": "アパグループ｢同業ホテル買収｣に透ける狙い…新中計で推し進める｢アパ一本足｣からの脱却戦略 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957520?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-09-13T21:00:00Z",
-      "description": "「日本三名園」の1つと称される兼六園などの主要観光地にほど近く、金沢最大の繁華街である石川県金沢市片町。ここは1984年にアパグループの第1号ホテルが開業した地だ。現在は徒歩数分圏内にグループのホテ…",
-      "maMarket": "jp"
     }
   ],
   "ipo": [
+    {
+      "title": "テクノマセ---ストップ高買い気配、株式交換でアバールデータの完全子会社に - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1073012",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-14T05:58:28Z",
+      "description": "&lt;3787&gt; テクノマセ 406カ -ストップ高買い気配。アバールデータを株式交換完全親会社、同社を株式交換完全子会社とする株式交換を行うと発表している。株式交換の効力発生日は12月3日となる。同社は上場維持基準不適合のため、10月1日にスタンダード市場の上場廃止が決定している。また、福岡証取への上場申請も中止していた。株式交換の基準時における同社株主に対し、１株690円の割合で金銭を交付する予定",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Bamboo Insurance seeks $700 million in IPO as backers plan exit",
+      "url": "https://cryptobriefing.com/bamboo-insurance-ipo-700-million/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-14T21:43:56Z",
+      "description": "Bamboo's IPO highlights investor appetite for high-growth insurtech firms, despite the absence of direct capital infusion into the company. The post Bamboo Insurance seeks $700 million in IPO as backers plan exit appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
     {
       "title": "ちゅうぎんインフィニティファンド1号の投資先 株式会社KOMPEITOの東証グロース市場新規上場",
       "url": "https://prtimes.jp/main/html/rd/p/000000213.000166651.html",
@@ -75,108 +99,85 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic has chosen the Nasdaq for its IPO listing",
-      "url": "https://biztoc.com/x/d731ee9ab6742e59",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-13T22:01:57Z",
-      "description": "Anthropic has selected the Nasdaq for its potential IPO, according to a person familiar with their plans. The company, which has been targeting an October listing, has given Nasdaq another big win, according to a person familiar with the matter. Nasdaq secure…",
+      "title": "AI-Doomsday Warnings Haven’t Derailed Anthropic IPO",
+      "url": "http://nymag.com/intelligencer/article/ai-doomsday-warnings-anthropic-ipo.html",
+      "source": "New York Magazine",
+      "publishedAt": "2026-09-14T20:23:46Z",
+      "description": "The AI giant is expected to list on the NASDAQ as early as next month, while OpenAI delays its plans to go public.",
       "ipoMarket": "us"
     },
     {
-      "title": "アトラG---名古屋証券取引所メイン市場への上場承認、東証との重複上場へ - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1072908",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-11T00:42:09Z",
-      "description": "&lt;6029&gt; アトラG 187 +1アトラグループ&lt;6029&gt;は10日、名古屋証券取引所メイン市場への上場承認を得たと発表した。上場予定日は2026年9月17日で、現在上場している東京証券取引所スタンダード市場との重複上場となる。同社は、鍼灸・整骨院向け経営支援プラットフォーム「A-COMS」を中核事業とし、全国への導入を進めている。事業の持続的な成長に向け、投資家層のさらなる拡大と事業への認知度",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Data Center IPO Wave Reveals A Variety Of New Strategies In Booming Sector",
-      "url": "https://www.bisnow.com/news/national/data-center-capital-markets/surging-ipo-pipeline-data-centers-return-wall-street",
-      "source": "Bisnow",
-      "publishedAt": "2026-09-13T21:53:18Z",
-      "description": "Nearly a dozen data center companies have filed to go public or are reportedly preparing an IPO, signaling a shift in strategy for the hot industry.",
+      "title": "Anthropic tells investors it will be profitable for second straight quarter",
+      "url": "https://www.irishtimes.com/business/2026/09/14/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-14T18:42:41Z",
+      "description": "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic has chosen the Nasdaq for its IPO listing - Business Insider",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185639434",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-13T21:52:36Z",
-      "description": "Anthropic has chosen the Nasdaq for its IPO listingBusiness Insider Here's who stands to make money from the Anthropic IPOYahoo Finance EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources sayreuters.com Anthropic Said to Choose Nasdaq for Mu…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO Listing",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-choose-nasdaq-much-180359465.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-13T18:03:59Z",
-      "description": "Anthropic PBC has picked Nasdaq as its listing venue ahead of a potential record-setting initial public offering, according to a person familiar with the mat...",
+      "title": "CVC-backed Bamboo Insurance targets $3.24 billion valuation in US IPO",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/cvc-backed-bamboo-insurance-targets-3-24-billion-valuation-in-us-ipo/articleshow/134246642.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-14T18:30:53Z",
+      "description": "Bamboo Insurance is targeting a valuation of up to $3.24 billion in its US IPO, with selling shareholders seeking to raise as much as $700 million. The residential property insurer plans to offer 35 million shares at $18-$20 apiece and list on the New York St…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "印警察 偽アカ巡りGoogle聴取へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595439?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T23:47:18.000Z",
+      "description": ""
+    },
+    {
+      "title": "サウジ西岸の港 原油積み込み停止",
+      "url": "https://news.yahoo.co.jp/pickup/6595428?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T22:19:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "北朝鮮体育相 アジア大会で訪日へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595417?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T14:20:21.000Z",
+      "description": ""
+    },
+    {
+      "title": "ヘンリー王子夫妻の子 2日で転校",
+      "url": "https://news.yahoo.co.jp/pickup/6595367?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T05:40:54.000Z",
+      "description": ""
+    },
+    {
+      "title": "米 対イラン作戦で深刻な弾薬不足",
+      "url": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T05:08:37.000Z",
+      "description": ""
+    },
+    {
+      "title": "3歳から伝統王国を率いた34歳死去",
+      "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T01:23:05.000Z",
+      "description": ""
+    },
+    {
+      "title": "宇宙空間に兵器配備 米空軍認める",
+      "url": "https://news.yahoo.co.jp/pickup/6595333?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-15T00:59:12.000Z",
+      "description": ""
+    },
+    {
       "title": "サウジ パイプライン復旧に3～5週",
       "url": "https://news.yahoo.co.jp/pickup/6595326?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-15T00:11:52.000Z",
-      "description": ""
-    },
-    {
-      "title": "米長期金利一時5%台 インフレ懸念",
-      "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-14T23:06:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "タイ 邦人のビザなし滞在期間短縮",
-      "url": "https://news.yahoo.co.jp/pickup/6595293?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-14T12:03:59.000Z",
-      "description": ""
-    },
-    {
-      "title": "25年の災害で学習中断の子1.7億人",
-      "url": "https://news.yahoo.co.jp/pickup/6595274?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-14T07:57:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 軽油高騰巡りウに要求",
-      "url": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-13T22:58:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "ジャワ海で船沈没 130人行方不明",
-      "url": "https://news.yahoo.co.jp/pickup/6595178?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-13T10:58:14.000Z",
-      "description": ""
-    },
-    {
-      "title": "極右AfDが勝利 独全土で抗議デモ",
-      "url": "https://news.yahoo.co.jp/pickup/6595165?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-13T08:16:07.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパール災害 救助まで換気口で息",
-      "url": "https://news.yahoo.co.jp/pickup/6595163?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-13T07:43:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "フーシ派 紅海入口要衝を「支配」",
-      "url": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-13T06:24:48.000Z",
       "description": ""
     }
   ]
