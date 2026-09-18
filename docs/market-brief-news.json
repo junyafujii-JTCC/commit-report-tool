@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T00:12:58.089Z",
+  "fetchedAt": "2026-09-18T00:00:00.314Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,126 +9,161 @@
   ],
   "ma": [
     {
-      "title": "株式会社大小YouTubeアカウントの独占案件を売買するならM&Aクラブ・掲載の特徴と探し方を紹介",
-      "url": "https://japan.cnet.com/release/31207446/",
-      "source": "CNET",
-      "publishedAt": "2026-09-16T00:00:00Z",
-      "description": "株式会社大小が運営するSNSアカウント・Webサイトなどの売買プラットフォーム「M&Aクラブ(MAクラブ) https://maclub.jp/」では、2026年9月1日よりYouTubeアカウントの独占掲載案件の取り扱いを開始しました。動画制作の経験を生かしたい方や、動画メディアの運営を検討する企業に向けて、M&Aクラブだけに掲載されている...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-      "url": "https://biztoc.com/x/f7e977e3936bd450",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-16T00:11:28Z",
-      "description": "The plumbing-supplies manufacturer said Brookfield firmed its US$3.38-a-share proposal after four weeks of exclusive due diligence.",
-      "maMarket": "us"
-    },
-    {
-      "title": "Solvvy---ジャックスと資本業務提携契約を締結 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073102",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-15T23:51:43Z",
-      "description": "&lt;7320&gt; Solvvy 1447 0ジャックス&lt;8584&gt;と資本業務提携契約を締結したと発表。住宅リフォーム向けプラットフォームの共同開発、リフォームビジネスへの決済サービス組み込みなどで協業する。住宅業界のDX化に向けたプラットフォームに決済機能等の追加開発を行うことで、プラットフォーム内で見積書・契約書の授受、さらに決済までをシームレスかつ自動的に案内できるようになる。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Judge Sets Date For Settlement Talks In Paramount-WBD Antitrust Case",
-      "url": "http://deadline.com/2026/09/paramount-attorneys-general-settlement-talks-in-october-1237104639/",
-      "source": "Deadline",
-      "publishedAt": "2026-09-16T00:02:29Z",
-      "description": "Paramount and the State Attorneys General suing to block its merger with Warner Bros. Discovery were ordered by a judge to appear for a two-day settlement conference Oct. 14-15 in a San Francisco courtroom. It’s a mandated step for two sides approaching a tri…",
-      "maMarket": "us"
-    },
-    {
-      "title": "業務自動化プラットフォームのYoom、初の外部調達で7億円——DUAL BRIDGE CAPITALやみずほキャピタルら5社が出資",
-      "url": "https://thebridge.jp/2026/09/yoom-raises-700m-jpy-in-first-external-funding",
+      "title": "介護の記録・報告を映像AIで自動化する「Vケア」のVoxela、シリーズAでデライト・ベンチャーズら出資",
+      "url": "https://thebridge.jp/2026/09/voxela-raises-series-a-for-vcare",
       "source": "Thebridge.jp",
-      "publishedAt": "2026-09-15T22:41:11Z",
-      "description": "業務の自動運転プラットフォーム「Yoom（ユーム）」を開発・運営する Yoom は15日、初の外部資金調達として総額7億円を調達したと発表した。出資したのは DUAL BRIDGE CAPITAL（DBC1号投資事業有限 […]",
+      "publishedAt": "2026-09-16T23:55:19Z",
+      "description": "ネットワークカメラの映像を AI で解析し、介護現場の記録・報告・管理までを自動化する映像 AI「Vケア」を提供する Voxela は16日、シリーズ A 優先株式による資金調達を完了したと発表した。デライト・ベンチャー […]",
       "maMarket": "jp"
     },
     {
-      "title": "Xpansiv to Acquire Formbay, Australia's AI-Enabled Renewable Energy Certificate and Compliance Technology Platform",
-      "url": "https://www.prnewswire.com/news-releases/xpansiv-to-acquire-formbay-australias-ai-enabled-renewable-energy-certificate-and-compliance-technology-platform-302879205.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-16T00:00:00Z",
-      "description": "Acquisition strengthens Xpansiv's position in global electricity and environmental markets SYDNEY, Sept. 15, 2026 /PRNewswire/ -- Xpansiv, the leading infrastructure provider for the global energy transition markets, announced it has signed a definitive agree…",
+      "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
+      "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-09-16T23:45:27Z",
+      "description": "Anthropic PBC said today it’s trying to make life simpler for its customers by merging its regular chatbot Claude with its agentic artificial intelligence tool Claude Cowork. The merger, which went into effect immediately, came as the company introduced two n…",
       "maMarket": "us"
     },
     {
-      "title": "「待ちきれないです！！」りくりゅう、写真家・蜷川実花撮影で『AERA』の表紙に登場で話題に　「シックなりくりゅう最高かよ」「りくちゃん幸せ太り？」",
-      "url": "https://news.livedoor.com/article/detail/32335741/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-09-15T22:15:00Z",
-      "description": "朝日新聞出版のニュース週刊誌『AERA』が9月11日、公式Xを更新。2026年ミラノ・コルティナオリンピックペア日本人初金メダリストである三浦璃来（24）と木原龍一（34）の2人が表紙を飾る、9月21-28日合併号の書影を公開した。 【画像】「破壊力ハンパねえ」倉科カナ、オークスに“背中ばっくりドレス”で登場 ファン骨抜き「めちゃくちゃ綺麗」「永久保存します！」 9月14日発売の『AERA』9月21-28日合併号では、8月に婚約を発表したことでも話題を呼んだ「りくり全文SPORTS DATA and ARTICL…",
+      "title": "三菱重工、インフラ・防衛向けAIでPFNと資本業務提携　100億円出資し共同開発",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-09-16T23:00:00Z",
+      "description": "三菱重工業とPreferred Networksが資本業務提携契約を締結。三菱重工はPFNに100億円を出資し、社会インフラや国家安全保障分野で機械・システムの知能化・自律化に向けたAI技術の共同開発を本格化する。",
       "maMarket": "jp"
     },
     {
-      "title": "30-Mile 1987 Buick GNX",
-      "url": "https://bringatrailer.com/listing/1987-buick-gnx-70/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-09-15T23:57:05Z",
-      "description": "This 1987 Buick GNX is #450 of 547 produced for a single model year, and it now shows 30 miles following its July 2024 sale on BaT and subsequent acquisition by the selling dealer. The car is powered by a turbocharged 3.8-liter V6 paired with a four-speed aut…",
+      "title": "Company Reassured Everyone After the Takeover—But One Worker Quietly Prepared for What He Thought Was Coming",
+      "url": "https://twistedsifter.com/2026/09/company-reassured-everyone-after-the-takeover-but-one-worker-quietly-prepared-for-what-he-thought-was-coming/",
+      "source": "Twistedsifter.com",
+      "publishedAt": "2026-09-16T23:35:59Z",
+      "description": "Oops! No paycheck, no password, sorryyyyyyyy. The post Company Reassured Everyone After the Takeover—But One Worker Quietly Prepared for What He Thought Was Coming appeared first on TwistedSifter.",
+      "maMarket": "us"
+    },
+    {
+      "title": "”シンケンイエロー”・森田涼花、『週プレ』で魅せた清涼感感じる美麗グラビア",
+      "url": "https://news.livedoor.com/article/detail/32345310/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-09-16T21:30:00Z",
+      "description": "『週刊プレイボーイ』39＆40号は9月14日に発売！ 声優としても活躍する俳優・森田涼花が、9月14日（月）に発売の『週刊プレイボーイ』39＆40合併号に登場！ 森田涼花 ©細居幸次郎／集英社 【プロフィール】森田涼花（もりた・すずか）1992年9月7日生まれ京都府出身身長157cm『侍戦隊シンケンジャー』にシンケンイエロー／花織ことは役で出演。「アイドリング！！！」卒業後、映画や舞台など多数出演。全文ラブすぽ 09月17日06時30分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paramount To Leave California Amid Antitrust Battle & Stalled Warner Bros Merger",
+      "url": "https://biztoc.com/x/b92d7f887ed8f3c0",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-16T23:32:01Z",
+      "description": "David Ellison has let it be known that he is willing to take his Paramount ball and leave California if the state doesn’t ditch its effort to block the company’s pending merger with Warner Bros Discovery. And now it looks like the CEO’s ball really could be i…",
+      "maMarket": "us"
+    },
+    {
+      "title": "M＆A仲介「買い手寄り」でガイドライン違反か　売り手側弁護士語る",
+      "url": "https://www.asahi.com/articles/ASV954FW9V95ULFA00YM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-09-16T21:00:00Z",
+      "description": "■M＆A仲介の罠Ⅶ 中立・公平の限界④完 M＆A仲介最大手の日本M＆Aセンターで、新たな不祥事が発覚した。仲介担当者が買い手側と連携して「不適切な買い手リスト」への登録を逃れ、他にも複数の課題を抱えて…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Announces An Investigation of The Baldwin Insurance Group, Inc. (NASDAQ: BWIN)",
+      "url": "https://www.prnewswire.com/news-releases/hareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-the-baldwin-insurance-group-inc-nasdaq-bwin-302881182.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-16T23:17:00Z",
+      "description": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Class Action Attorney Juan Monteverde with Monteverde & Associates PC (the \"M&A Class Action Firm\"), has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm in the 2025 ISS Securities Clas…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "テクノマセ---ストップ高買い気配、株式交換でアバールデータの完全子会社に - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073012",
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1073155",
       "source": "Diamond.jp",
-      "publishedAt": "2026-09-14T05:58:28Z",
-      "description": "&lt;3787&gt; テクノマセ 406カ -ストップ高買い気配。アバールデータを株式交換完全親会社、同社を株式交換完全子会社とする株式交換を行うと発表している。株式交換の効力発生日は12月3日となる。同社は上場維持基準不適合のため、10月1日にスタンダード市場の上場廃止が決定している。また、福岡証取への上場申請も中止していた。株式交換の基準時における同社株主に対し、１株690円の割合で金銭を交付する予定",
+      "publishedAt": "2026-09-16T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:50 資金循環統計速報(4-6月、日本銀行)08:50 対外・対内証券投資(先週)14:00 首都圏新築分譲マンション(8月) 6.9％ 日銀政策委員会・金融政策決定会合(1日目) Skyfallが東証グロースに新規上場(公開価格:1500円)＜海外＞07:45 NZ・GDP(4-6月) 2.2％ 1.5％10:00 中・SWIFTグローバル支払いCNY(",
       "ipoMarket": "jp"
     },
     {
-      "title": "SPAC Circle Acquisition reportedly files for $150M IPO targeting digital assets, tech, and healthcare",
-      "url": "https://cryptobriefing.com/spac-circle-acquisition-150m-ipo-filing/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-15T22:05:18Z",
-      "description": "The SPAC market faces increased scrutiny and investor skepticism, highlighting the need for transparency and verified filings to ensure trust. The post SPAC Circle Acquisition reportedly files for $150M IPO targeting digital assets, tech, and healthcare appea…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "ちゅうぎんインフィニティファンド1号の投資先 株式会社KOMPEITOの東証グロース市場新規上場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000213.000166651.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-11T03:40:49Z",
-      "description": "[ちゅうぎんFG] ちゅうぎんキャピタルパートナーズ（岡山市 代表取締役 岡田 浩幸）が運営する「ちゅうぎんインフィニティファンド1号」の投資先である株式会社KOMPEITO（東京都品川区、代表取締役CEO 渡邉 瞬、以下「KOMPEITO社...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Three Lions Acquisition Corp. Announces the Separate Trading of Its Ordinary Shares and Warrants, Commencing on or About September 17, 2026",
-      "url": "https://www.prnewswire.com/news-releases/three-lions-acquisition-corp-announces-the-separate-trading-of-its-ordinary-shares-and-warrants-commencing-on-or-about-september-17-2026-302879733.html",
+      "title": "Haymaker Acquisition Corp V Announces Pricing of $250,000,000 Initial Public Offering",
+      "url": "https://www.prnewswire.com/news-releases/haymaker-acquisition-corp-v-announces-pricing-of-250-000-000-initial-public-offering-302881194.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-09-15T21:32:00Z",
-      "description": "LA JOLLA, Calif., Sept. 15, 2026 /PRNewswire/ -- Three Lions Acquisition Corp. (the \"Company\") announced today that, commencing on or about Thursday, September 17, 2026, holders of the units sold in the Company's initial public offering may elect to separatel…",
+      "publishedAt": "2026-09-16T22:14:00Z",
+      "description": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Haymaker Acquisition Corp V (the \"Company\") announced today the pricing of its initial public offering of 25,000,000 units at a price of $10.00 per unit. The units are expected to be listed on The New York Stock Exchan…",
       "ipoMarket": "us"
     },
     {
-      "title": "What a $10,000 Investment in Amazon Now Would Be Worth if Its Anthropic Stake Gets Marked at $2 Trillion",
-      "url": "https://biztoc.com/x/7a503157a5205246",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-15T15:59:57Z",
-      "description": "Wall Street is already treating an Anthropic IPO as more than just a rumor. Reports are floating a $2 trillion listing as early as October, following the filing of a confidential S-1 earlier this summer. In May, Anthropic told the public its annualized revenu…",
+      "title": "岡山イノベーションプロジェクト参加企業から初の上場企業誕生 株式会社オーディオストックの東証グロース市場への新規上場",
+      "url": "https://prtimes.jp/main/html/rd/p/000000222.000166651.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-16T02:59:27Z",
+      "description": "[ちゅうぎんFG] 中国銀行（岡山市 頭取 加藤 貞則）が運営に参画する「岡山イノベーションプロジェクト」の参加企業である株式会社オーディオストック（岡山市 代表取締役社長 西尾 周一郎）が、２０２６年９月１６日、東京証券...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Oura’s IPO sparks tech valuation debate as S-1 filing progresses",
+      "url": "https://cryptobriefing.com/oura-ipo-valuation-debate-s1-filing/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-16T12:03:02Z",
+      "description": "Oura filed its S-1 with the SEC targeting a Nasdaq IPO at a potential $16 billion valuation, posting $1.21 billion in revenue with 74% The post Oura’s IPO sparks tech valuation debate as S-1 filing progresses appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "Electra targets $342m IPO to fund hyperinflammatory syndrome drug’s pivotal trials",
-      "url": "https://www.pharmaceutical-technology.com/news/electra-targets-342m-ipo-to-fund-hyperinflammatory-syndrome-drugs-pivotal-trials/",
-      "source": "Pharmaceutical Technology",
-      "publishedAt": "2026-09-15T15:47:58Z",
-      "description": "Electra likens its targeted approach in immune-mediated disease to what precision oncology has achieved in cancer.",
+      "title": "Dear Future Holtec Nuclear Stock Investors, Mark Your Calendars for September 18",
+      "url": "https://www.barchart.com/story/news/4630316/dear-future-holtec-nuclear-stock-investors-mark-your-calendars-for-september-18",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-16T11:01:29Z",
+      "description": "Holtec Nuclear’s Sept. 18 IPO offers investors a fresh chance to tap into the nuclear energy boom fueled by surging data center demand.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "NSE to launch IPO amid investor caution over derivatives-fuelled growth",
+      "url": "https://www.thehindubusinessline.com/markets/nse-to-launch-ipo-amid-investor-caution-over-derivatives-fuelled-growth/article71471383.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-16T07:28:42Z",
+      "description": "Price band of ₹1,700-1,785 values bourse at $46 billion, below earlier private-market indications",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ガザで損壊建物が倒壊 20人超死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6595549?source=rss",
+      "title": "米大統領 習氏訪米で異例の厚遇へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595658?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T23:48:30.000Z",
+      "publishedAt": "2026-09-17T23:36:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "スウェーデン政権交代へ 首相辞意",
+      "url": "https://news.yahoo.co.jp/pickup/6595636?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-17T13:42:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "キューバの紙幣最高額 半年で4倍",
+      "url": "https://news.yahoo.co.jp/pickup/6595626?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-17T11:27:46.000Z",
+      "description": ""
+    },
+    {
+      "title": "北朝鮮体育相が来日 閣僚8年ぶり",
+      "url": "https://news.yahoo.co.jp/pickup/6595616?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-17T10:16:35.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパール土石流 行方不明6150人に",
+      "url": "https://news.yahoo.co.jp/pickup/6595586?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-17T05:59:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "豪 留学のビザで子など同伴認めず",
+      "url": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-17T05:36:49.000Z",
       "description": ""
     },
     {
@@ -143,55 +178,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6595540?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-16T22:24:17.000Z",
-      "description": ""
-    },
-    {
-      "title": "米FRB 3年2カ月ぶり利上げ決定",
-      "url": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T21:08:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "3カ月ごと利上げ? やや期待先行",
-      "url": "https://news.yahoo.co.jp/pickup/6595525?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T12:58:09.000Z",
-      "description": ""
-    },
-    {
-      "title": "フィジー HIV拡大で非常事態宣言",
-      "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T12:51:44.000Z",
-      "description": ""
-    },
-    {
-      "title": "強制連行遺族 日本6社に賠償請求",
-      "url": "https://news.yahoo.co.jp/pickup/6595496?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T07:07:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "米LAでテレビ局ヘリ墜落 3人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6595490?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T05:40:08.000Z",
-      "description": ""
-    },
-    {
-      "title": "フーシ派「紅海封鎖」長期化懸念",
-      "url": "https://news.yahoo.co.jp/pickup/6595461?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T04:52:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "北朝鮮に50億円賠償命令 韓国地裁",
-      "url": "https://news.yahoo.co.jp/pickup/6595472?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T02:59:47.000Z",
       "description": ""
     }
   ]
