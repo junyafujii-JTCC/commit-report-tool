@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T00:00:00.314Z",
+  "fetchedAt": "2026-09-19T00:00:01.010Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,85 +9,101 @@
   ],
   "ma": [
     {
-      "title": "介護の記録・報告を映像AIで自動化する「Vケア」のVoxela、シリーズAでデライト・ベンチャーズら出資",
-      "url": "https://thebridge.jp/2026/09/voxela-raises-series-a-for-vcare",
+      "title": "大企業向けAI開発支援のHang Ten Systems、Xora主導で追加シード5,300万ドルを調達",
+      "url": "https://thebridge.jp/2026/09/hang-ten-systems-53m-seed-raise",
       "source": "Thebridge.jp",
-      "publishedAt": "2026-09-16T23:55:19Z",
-      "description": "ネットワークカメラの映像を AI で解析し、介護現場の記録・報告・管理までを自動化する映像 AI「Vケア」を提供する Voxela は16日、シリーズ A 優先株式による資金調達を完了したと発表した。デライト・ベンチャー […]",
+      "publishedAt": "2026-09-17T23:51:29Z",
+      "description": "大企業のソフトウェア開発を AI で支援する Hang Ten Systems は現地時間16日、Xora が主導するシードラウンドで追加5,300万ドルを調達したと発表した。 Xora は Temasek が出資するフ […]",
       "maMarket": "jp"
     },
     {
-      "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
-      "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-09-16T23:45:27Z",
-      "description": "Anthropic PBC said today it’s trying to make life simpler for its customers by merging its regular chatbot Claude with its agentic artificial intelligence tool Claude Cowork. The merger, which went into effect immediately, came as the company introduced two n…",
+      "title": "TUK Group Advances 35 Toronto Rental Homes, Launches TUK Partner Portal",
+      "url": "https://financialpost.com/globe-newswire/tuk-group-advances-35-toronto-rental-homes-launches-tuk-partner-portal",
+      "source": "Financial Post",
+      "publishedAt": "2026-09-17T23:43:38Z",
+      "description": "Foundation walls poured at Lambton, Coxwell acquisition closed and McRoberts agreement firm as TUK Group rolls out a secure digital reporting platform for its partners TORONTO, Sept. 17, 2026 (GLOBE NEWSWIRE) — TUK Group today announced milestones across thre…",
       "maMarket": "us"
     },
     {
-      "title": "三菱重工、インフラ・防衛向けAIでPFNと資本業務提携　100億円出資し共同開発",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
-      "source": "Itmedia.co.jp",
-      "publishedAt": "2026-09-16T23:00:00Z",
-      "description": "三菱重工業とPreferred Networksが資本業務提携契約を締結。三菱重工はPFNに100億円を出資し、社会インフラや国家安全保障分野で機械・システムの知能化・自律化に向けたAI技術の共同開発を本格化する。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Company Reassured Everyone After the Takeover—But One Worker Quietly Prepared for What He Thought Was Coming",
-      "url": "https://twistedsifter.com/2026/09/company-reassured-everyone-after-the-takeover-but-one-worker-quietly-prepared-for-what-he-thought-was-coming/",
-      "source": "Twistedsifter.com",
-      "publishedAt": "2026-09-16T23:35:59Z",
-      "description": "Oops! No paycheck, no password, sorryyyyyyyy. The post Company Reassured Everyone After the Takeover—But One Worker Quietly Prepared for What He Thought Was Coming appeared first on TwistedSifter.",
-      "maMarket": "us"
-    },
-    {
-      "title": "”シンケンイエロー”・森田涼花、『週プレ』で魅せた清涼感感じる美麗グラビア",
-      "url": "https://news.livedoor.com/article/detail/32345310/",
+      "title": "注目の美少女・榎本彩乃が『週プレ』登場、眩しすぎ青春グラビア披露♡",
+      "url": "https://news.livedoor.com/article/detail/32355584/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-09-16T21:30:00Z",
-      "description": "『週刊プレイボーイ』39＆40号は9月14日に発売！ 声優としても活躍する俳優・森田涼花が、9月14日（月）に発売の『週刊プレイボーイ』39＆40合併号に登場！ 森田涼花 ©細居幸次郎／集英社 【プロフィール】森田涼花（もりた・すずか）1992年9月7日生まれ京都府出身身長157cm『侍戦隊シンケンジャー』にシンケンイエロー／花織ことは役で出演。「アイドリング！！！」卒業後、映画や舞台など多数出演。全文ラブすぽ 09月17日06時30分",
+      "publishedAt": "2026-09-17T21:30:00Z",
+      "description": "『週刊プレイボーイ』39＆40号は9月14日に発売！ 「美少女図鑑AWARD 2026」では５冠に輝いた注目の美少女・榎本彩乃が、9月14日（月）に発売の『週刊プレイボーイ』39＆40合併号に登場！ 榎本彩乃 ©熊谷貫／集英社 【プロフィール】榎本彩乃（えのもと・あやの）2012年2月23日生まれ福島県出身身長152cm血液型＝B型福島美少女図鑑所属。全文ラブすぽ 09月18日06時30分",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount To Leave California Amid Antitrust Battle & Stalled Warner Bros Merger",
-      "url": "https://biztoc.com/x/b92d7f887ed8f3c0",
+      "title": "Paramount Preps California Exit Amid State AGs’ Warner Bros. Merger Battle",
+      "url": "https://biztoc.com/x/e32e357b19d467c8",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-16T23:32:01Z",
-      "description": "David Ellison has let it be known that he is willing to take his Paramount ball and leave California if the state doesn’t ditch its effort to block the company’s pending merger with Warner Bros Discovery. And now it looks like the CEO’s ball really could be i…",
+      "publishedAt": "2026-09-17T22:57:37Z",
+      "description": "The page could not be loaded properly.",
       "maMarket": "us"
     },
     {
-      "title": "M＆A仲介「買い手寄り」でガイドライン違反か　売り手側弁護士語る",
-      "url": "https://www.asahi.com/articles/ASV954FW9V95ULFA00YM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-09-16T21:00:00Z",
-      "description": "■M＆A仲介の罠Ⅶ 中立・公平の限界④完 M＆A仲介最大手の日本M＆Aセンターで、新たな不祥事が発覚した。仲介担当者が買い手側と連携して「不適切な買い手リスト」への登録を逃れ、他にも複数の課題を抱えて…",
+      "title": "SBI ライブドアを買収：20年前の騒ぎは何だったのか",
+      "url": "https://agora-web.jp/archives/260917114313.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-09-17T11:53:52Z",
+      "description": "SBIホールディングスは9月17日、ミンカブ・ジ・インフォノイド傘下のライブドアの全株式を75億円で取得することで基本合意した。ライブドアはライブドアニュースやライブドアブログなどを運営し、月間総利用者数は約1億人。SBIはこれを、金融とメ...…",
       "maMarket": "jp"
     },
     {
-      "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Announces An Investigation of The Baldwin Insurance Group, Inc. (NASDAQ: BWIN)",
-      "url": "https://www.prnewswire.com/news-releases/hareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-the-baldwin-insurance-group-inc-nasdaq-bwin-302881182.html",
+      "title": "Bending Spoons’ acquisition spree and the future of insurance brokerages",
+      "url": "https://www.cbinsights.com/research/newsletter-september-17/",
+      "source": "Cbinsights.com",
+      "publishedAt": "2026-09-17T22:30:06Z",
+      "description": "Below, we break down some of tech’s biggest stories, with analyst perspective on the moves that matter the most. Here’s what we’re watching this week: Bending Spoons’ acquisition spree Mental health care gains momentum The future of insurance brokerages This …",
+      "maMarket": "us"
+    },
+    {
+      "title": "SBI、ライブドア買収　75億円、「因縁」超え子会社化（時事通信） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/14b59ff31a91e315f9f8d7cfe38853ed1f60f6c1",
+      "source": "Yahoo.co.jp",
+      "publishedAt": "2026-09-17T11:13:34Z",
+      "description": "SBIホールディングスは17日、インターネット関連企業ライブドア（東京）を完全子会社化すると発表した。 親会社のミンカブ・ジ・インフォノイドからライブドアの全株式を約75億円で取得する。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "UWM Holdings Corporation (UWMC) Alert: October 13, 2026 Lead Plaintiff Deadline in Class Action Lawsuit, Investors with $150K+ Losses Encouraged to Contact Hagens Berman",
+      "url": "https://www.prnewswire.com/news-releases/uwm-holdings-corporation-uwmc-alert-october-13-2026-lead-plaintiff-deadline-in-class-action-lawsuit-investors-with-150k-losses-encouraged-to-contact-hagens-berman-302882642.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-09-16T23:17:00Z",
-      "description": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Class Action Attorney Juan Monteverde with Monteverde & Associates PC (the \"M&A Class Action Firm\"), has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm in the 2025 ISS Securities Clas…",
+      "publishedAt": "2026-09-17T22:28:00Z",
+      "description": "SAN FRANCISCO, Sept. 17, 2026 /PRNewswire/ -- UWM Holdings Corporation (NYSE: UWMC) faces a securities class action lawsuit after the price of their shares cratered 34% on August 6, 2026 in response to revelations that the company suffered over a $603 million…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
       "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073155",
+      "url": "https://diamond.jp/zai/articles/-/1073226",
       "source": "Diamond.jp",
-      "publishedAt": "2026-09-16T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞08:50 資金循環統計速報(4-6月、日本銀行)08:50 対外・対内証券投資(先週)14:00 首都圏新築分譲マンション(8月) 6.9％ 日銀政策委員会・金融政策決定会合(1日目) Skyfallが東証グロースに新規上場(公開価格:1500円)＜海外＞07:45 NZ・GDP(4-6月) 2.2％ 1.5％10:00 中・SWIFTグローバル支払いCNY(",
+      "publishedAt": "2026-09-17T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:30 全国CPI(8月) 2.0％ 1.9％15:30 植田日銀総裁が会見 日銀政策委員会・金融政策決定会合(2日目)、終了後決定内容発表 1.25％ 1.00％ テクノクラフトが東証スタンダードに新規上場(公開価格:650円) ベルテックスが東証スタンダードに新規上場(公開価格:550円) akippaが東証スタンダードに新規上場(公開価格:570円)",
       "ipoMarket": "jp"
     },
     {
-      "title": "Haymaker Acquisition Corp V Announces Pricing of $250,000,000 Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/haymaker-acquisition-corp-v-announces-pricing-of-250-000-000-initial-public-offering-302881194.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-16T22:14:00Z",
-      "description": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Haymaker Acquisition Corp V (the \"Company\") announced today the pricing of its initial public offering of 25,000,000 units at a price of $10.00 per unit. The units are expected to be listed on The New York Stock Exchan…",
+      "title": "Couple spends SpaceX IPO riches on $25K-a-month year of travel to French Alps, Italian Grand Prix",
+      "url": "https://nypost.com/2026/09/17/business/couple-spends-spacex-ipo-riches-on-25k-a-month-year-of-travel-to-french-alps-italian-grand-prix/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-17T16:22:50Z",
+      "description": "SpaceX shattered records and briefly made Elon Musk the world’s first trillionaire after it opened at $150 a share in the largest-ever IPO in June – and it also created a new class of millionaires.…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "「らしくないものは出さないでくれ」大改革に挑んだ“オリオンビール社長”村野一氏　〈SONY流〉ブランディングでライセンス事業が急成長《流通総額60億円》",
+      "url": "https://news.livedoor.com/article/detail/32355539/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-09-17T21:00:00Z",
+      "description": "1957年に沖縄で創業したオリオンビールは、昨年9月、東証プライム市場に新規上場を果たした。沖縄で70年近く「県民ビール」愛されてきたオリオンビールは、今や日本中で愛されるブランドに成長した。【画像】新規上場し鐘を鳴らす村野一氏こうしたオリオンビールの進化は、2021年から社長を務める村野一氏（64）による数々の改革の成果だ。特に、2023年にブランドライセンス事業の専門部署を立ち上げるなど、ブランド価値を軸にした戦略を打ち出してきた。全文文春オンライン 09月18日06時00分",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Revolut looking at dual IPO in London and New York",
+      "url": "https://www.rte.ie/news/business/2026/0917/1591960-revolut-ipo/",
+      "source": "RTE",
+      "publishedAt": "2026-09-17T16:06:23Z",
+      "description": "The founder and boss of Revolut has said the bank is considering a dual stock market listing in London and New York.",
       "ipoMarket": "us"
     },
     {
@@ -99,85 +115,84 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Oura’s IPO sparks tech valuation debate as S-1 filing progresses",
-      "url": "https://cryptobriefing.com/oura-ipo-valuation-debate-s1-filing/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-16T12:03:02Z",
-      "description": "Oura filed its S-1 with the SEC targeting a Nasdaq IPO at a potential $16 billion valuation, posting $1.21 billion in revenue with 74% The post Oura’s IPO sparks tech valuation debate as S-1 filing progresses appeared first on Crypto Briefing.",
+      "title": "Plaud Plans to File IPO for AI Note-Taking Startup in 2028",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/plaud-plans-to-file-ipo-for-ai-note-taking-startup-in-2028/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-09-17T15:49:44Z",
+      "description": "AI startup Plaud is reportedly planning to file for an initial public offering (IPO) in 2028. CEO Nathan Xu told The Wall Street Journal (WSJ) Thursday (Sept. 17) that the company will be ready for a U.S. public listing once its yearly revenue surpasses $1 bi…",
       "ipoMarket": "us"
     },
     {
-      "title": "Dear Future Holtec Nuclear Stock Investors, Mark Your Calendars for September 18",
-      "url": "https://www.barchart.com/story/news/4630316/dear-future-holtec-nuclear-stock-investors-mark-your-calendars-for-september-18",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-16T11:01:29Z",
-      "description": "Holtec Nuclear’s Sept. 18 IPO offers investors a fresh chance to tap into the nuclear energy boom fueled by surging data center demand.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "NSE to launch IPO amid investor caution over derivatives-fuelled growth",
-      "url": "https://www.thehindubusinessline.com/markets/nse-to-launch-ipo-amid-investor-caution-over-derivatives-fuelled-growth/article71471383.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-16T07:28:42Z",
-      "description": "Price band of ₹1,700-1,785 values bourse at $46 billion, below earlier private-market indications",
+      "title": "AARD Deadline Alert: SueWallSt Reminds Aardvark Therapeutics, Inc. (AARD) Investors of Securities Class Action Deadline on October 13, 2026",
+      "url": "https://www.prnewswire.com/news-releases/aard-deadline-alert-suewallst-reminds-aardvark-therapeutics-inc-aard-investors-of-securities-class-action-deadline-on-october-13-2026-302881820.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-17T14:09:00Z",
+      "description": "Dated chronology: from a $16.00 IPO in February 2025 to a Phase 3 pause and a full FDA clinical hold, a securities class action alleges Aardvark Therapeutics' ARD-101 safety representations unraveled while AARD shares fell to $4.57. NEW YORK, Sept. 17, 2026 /…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米大統領 習氏訪米で異例の厚遇へ",
-      "url": "https://news.yahoo.co.jp/pickup/6595658?source=rss",
+      "title": "米 グリーンランド安保で「合意」",
+      "url": "https://news.yahoo.co.jp/pickup/6595770?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-17T23:36:24.000Z",
+      "publishedAt": "2026-09-18T23:30:16.000Z",
       "description": ""
     },
     {
-      "title": "スウェーデン政権交代へ 首相辞意",
-      "url": "https://news.yahoo.co.jp/pickup/6595636?source=rss",
+      "title": "習氏訪米 異例の経済代表団同行へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595766?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-17T13:42:30.000Z",
+      "publishedAt": "2026-09-18T23:10:01.000Z",
       "description": ""
     },
     {
-      "title": "キューバの紙幣最高額 半年で4倍",
-      "url": "https://news.yahoo.co.jp/pickup/6595626?source=rss",
+      "title": "中国でタケノコ違法加工 当局押収",
+      "url": "https://news.yahoo.co.jp/pickup/6595764?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-17T11:27:46.000Z",
+      "publishedAt": "2026-09-18T22:58:08.000Z",
       "description": ""
     },
     {
-      "title": "北朝鮮体育相が来日 閣僚8年ぶり",
-      "url": "https://news.yahoo.co.jp/pickup/6595616?source=rss",
+      "title": "露下院選 帰還兵180人超が立候補",
+      "url": "https://news.yahoo.co.jp/pickup/6595760?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-17T10:16:35.000Z",
+      "publishedAt": "2026-09-18T22:37:35.000Z",
       "description": ""
     },
     {
-      "title": "ネパール土石流 行方不明6150人に",
-      "url": "https://news.yahoo.co.jp/pickup/6595586?source=rss",
+      "title": "ダイアナ元妃の復讐ドレス 出品へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595758?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-17T05:59:38.000Z",
+      "publishedAt": "2026-09-18T22:24:26.000Z",
       "description": ""
     },
     {
-      "title": "豪 留学のビザで子など同伴認めず",
-      "url": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
+      "title": "日銀利上げ 金利との付き合い方は",
+      "url": "https://news.yahoo.co.jp/pickup/6595732?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-17T05:36:49.000Z",
+      "publishedAt": "2026-09-18T10:41:42.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 FRBに迅速利下げ要求",
-      "url": "https://news.yahoo.co.jp/pickup/6595545?source=rss",
+      "title": "女性の殺害相次ぐ南ア 9人目遺体",
+      "url": "https://news.yahoo.co.jp/pickup/6595727?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T23:36:45.000Z",
+      "publishedAt": "2026-09-18T09:51:26.000Z",
       "description": ""
     },
     {
-      "title": "酒離れ進む韓国 日本酒ブームの訳",
-      "url": "https://news.yahoo.co.jp/pickup/6595540?source=rss",
+      "title": "北サイバー攻撃 世界で17億円被害",
+      "url": "https://news.yahoo.co.jp/pickup/6595710?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-16T22:24:17.000Z",
+      "publishedAt": "2026-09-18T07:36:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "ジャガイモ輸入解禁加速を 米要請",
+      "url": "https://news.yahoo.co.jp/pickup/6595701?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-18T06:37:04.000Z",
       "description": ""
     }
   ]
