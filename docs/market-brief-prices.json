@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-09-20T23:58:28.269Z",
+  "fetchedAt": "2026-09-22T00:39:20.342Z",
   "baseDateRequested": "2026-01-01",
-  "rangeTo": "2026-09-20",
+  "rangeTo": "2026-09-21",
   "closeLatestNote": "終値の最新日は東京カレンダーの前日まで（当日バーは含めず、前営業日の終値が最新）",
   "indexBaseValue": 100,
   "sources": {
