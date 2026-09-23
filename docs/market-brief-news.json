@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T00:39:20.282Z",
+  "fetchedAt": "2026-09-23T00:09:38.142Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "ステーブルコイン決済のdtcpay、SBI Groupが戦略出資——シリーズA総額2500万ドルで完了",
+      "url": "https://thebridge.jp/2026/09/dtcpay-sbi-seriesa-stablecoin-payment",
+      "source": "Thebridge.jp",
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "description": "シンガポールの決済企業 dtcpay は現地時間18日、日本の SBI Group を戦略投資家に迎えてシリーズ A ラウンドを拡張し、総額2500万ドルで完了したと発表した。 同ラウンドは2026年4月に Vertex […]",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The Afghans who snuck into Britain by pretending to have helped the Armed Forces... before being given homes and thousands in benefits: SUE REID lifts lid on the scandal - and sickening behaviour of 'refugees' after they arrived",
+      "url": "https://www.dailymail.com/news/article-16149373/The-Afghans-snuck-Britain-pretending-helped-Armed-Forces-given-homes-thousands-benefits-SUE-REID-lifts-lid-scandal-sickening-behaviour-refugees-arrived.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-22T00:00:52Z",
+      "description": "Operation Warm Welcome is the cosy name for the British effort to help thousands of terrified Afghans after they won sanctuary in the UK following the Taliban takeover",
+      "maMarket": "us"
+    },
+    {
+      "title": "Newsight Tech Angels：緑内障をはじめとする失明性眼疾患治療薬を開発するEyegenex社へ追加出資を実行",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000110083.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-21T03:40:37Z",
+      "description": "[株式会社NEWSIGHT TECH ANGELS] 株式会社Newsight Tech Angels（本社：東京都中央区、CEO：瀬尾 亨、以下「NTA」）は、緑内障をはじめとする失明性眼疾患の治療薬を開発するEyegenex, Inc.（本社：米国カリフォルニア州サンディエゴ、CEO：Prasa...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paramount Skydance reaches settlement with states over Warner Bros. merger",
+      "url": "https://www.cbsnews.com/video/paramount-skydance-reaches-settlement-states-warner-bros-merger/",
+      "source": "CBS News",
+      "publishedAt": "2026-09-21T23:56:34Z",
+      "description": "Paramount-Skydance has now settled two major lawsuits that were holding up the company's $111 billion buyout of Warner Bros. Discovery. One lawsuit was filed by the Writers Guild of America; the other by a dozen states. Paramount is the parent company of CBS …",
+      "maMarket": "us"
+    },
+    {
+      "title": "テスラ、「日本のタクシー会社」を買収か？ロボタクシー展開なら | 自動運転ラボ",
+      "url": "https://jidounten-lab.com/u_68036",
+      "source": "Jidounten-lab.com",
+      "publishedAt": "2026-09-21T01:38:37Z",
+      "description": "テスラのロボタクシー「Cybercab（サイバーキャブ）」のお披露目イベントが東京で幕を開け、大きな注目を集めているようだ。 ハンドルなどを備えない新規格の自動運転車両で、センサー山積みのWaymoの自動運転車両とは一線を画すスタイリッシュな仕上がりだ。 今のところ日本導入は計画されていないが、テスラジャパン代...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Chiefs news: Eric Bieniemy named biggest offseason acquisition of 2026",
+      "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-eric-bieniemy-named-biggest-offseason-pickup-2026",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-09-21T23:53:53Z",
+      "description": "The Kansas City Chiefs defeated the Indianapolis Colts 33-30 in Week 2 overtime action that caused Patrick Mahomes’ wife Brittany to scream ‘bad words.’ Mahomes had an outstanding game in offensive coordinator Eric Bieniemy’s system that led to a “best” comme…",
+      "maMarket": "us"
+    },
+    {
       "title": "橋本梨菜と葉月あやが『週プレ』登場！密着する肌がセクシーなコラボグラビア♡",
       "url": "https://news.livedoor.com/article/detail/32377329/",
       "source": "Livedoor.com",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
-      "url": "https://wordupnews.com/business/analog-devices-adi-bets-1-35-billion-on-chips-that-let-machines-think-for-themselves/",
-      "source": "Wordupnews.com",
-      "publishedAt": "2026-09-21T00:26:42Z",
-      "description": "On September 9, 2026, Analog Devices, Inc. (NASDAQ:ADI) agreed to acquire privately held Alif Semiconductor for $1.35 billion in cash, with up to $200 million in additional contingent payments. It adds Alif’s low-power, AI-native microcontrollers and fusion p…",
-      "maMarket": "us"
-    },
-    {
-      "title": "編集部が厳選、今週の必読記事13選：2026年9月12日〜9月18日公開",
-      "url": "https://dhbr.diamond.jp/articles/-/14876",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-20T09:00:00Z",
-      "description": "サマリー：AIの浸透は、人材評価や組織設計、戦略実行のあり方を変えつつある。AI時代に求められる評価制度や職場環境、人材採用、リスキリング、戦略実行、M&Aなど、企業が変化に適応するための重要テーマを紹介する。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
-      "url": "https://biztoc.com/x/243c7b0ae6a79fd5",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-20T23:56:05Z",
-      "description": "On September 9, 2026, Analog Devices, Inc. (NASDAQ:ADI) agreed to acquire privately held Alif Semiconductor for $1.35 billion in cash, with up to $200 million in additional contingent payments. It adds Alif's low-power, AI-native microcontrollers and fusion p…",
-      "maMarket": "us"
-    },
-    {
-      "title": "GoPro買収でDJI・Insta360の二強へ？中国の論評が見る競争の行方",
-      "url": "https://smhn.info/202609-gopro-dji-insta360-camera-competition-analysis",
-      "source": "Smhn.info",
-      "publishedAt": "2026-09-20T07:01:22Z",
-      "description": "GoProの統合合意を受けて、アクションカメラ、360度カメラ、ジンバルカメラ、ドローンといった映像機器の市場の競争はDJIとInsta360が中心になっていく――。中国の36氪に9月19日付で掲載された寄稿者「慢放」の記事は、こうした見方を示しています。背景にあるのは、GoPr...smhn.infoにアクセスすると、全文を読むことができます。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Perpetual rejects EQT's final offer and confirms asset sale plans",
-      "url": "https://www.fool.com.au/2026/09/21/perpetual-rejects-eqts-final-offer-and-confirms-asset-sale-plans/",
-      "source": "Motley Fool Australia",
-      "publishedAt": "2026-09-20T23:44:40Z",
-      "description": "Perpetual has rejected a further revised takeover proposal from EQT, ending engagement and confirming its focus on core business and asset sale. The post Perpetual rejects EQT's final offer and confirms asset sale plans appeared first on The Motley Fool Austr…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【悲報】社長「パワハラ、セクハラ、社内規定、俺には関係ない。お前を殺す」ナイフを向ける",
-      "url": "http://matometanews.com/archives/2121145.html",
-      "source": "Matometanews.com",
-      "publishedAt": "2026-09-20T03:48:00Z",
-      "description": "1 ： 以下、？ちゃんねるからVIPがお送りします ：2026/09/19(土) 19:03:42.290 ID:6rhtMc8F0.net「パワハラ、セクハラ、社内規定、オレには関係ない」仙台中央食肉卸売市場社長の衝撃の発言 元従業員は「出資者の仙台市が動いてほしい」と訴え（省略）全文https://newsdig....",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
-      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-adi-bets-1-233705093.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-20T23:37:05Z",
-      "description": "On September 9, 2026, Analog Devices, Inc. (NASDAQ:ADI) agreed to acquire privately held Alif Semiconductor for $1.35 billion in cash, with up to $200 millio...",
+      "title": "Paramount Skydance 'Emerges Victorious', Finally Wins Settlement for Warner Bros Takeover",
+      "url": "https://entertainment.slashdot.org/story/26/09/21/226252/paramount-skydance-emerges-victorious-finally-wins-settlement-for-warner-bros-takeover",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-21T23:34:00Z",
+      "description": "Paramount Skydance just \"emerged victorious\" reports Reuters, \"from a legal battle over its $110 billion acquisition of Warner Bros Discovery\" that will \"dramatically concentrate power across Hollywood's film, TV, streaming and news businesses.\" The victory…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-mulls-new-ai-model-amid-investors-pre-ipo-worries/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-09-20T22:03:10Z",
-      "description": "Anthropic is reportedly considering the launch of a new artificial intelligence model before it goes public. That’s according to a Friday (Sept. 18) report by Reuters, citing three sources familiar with the matter. The report noted that a new AI model could o…",
+      "title": "Iambic Therapeutics files for US IPO with Nvidia backing",
+      "url": "https://cryptobriefing.com/iambic-therapeutics-ipo-nvidia-backing/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-21T23:14:13Z",
+      "description": "Iambic's IPO, backed by Nvidia, highlights AI's transformative role in biotech, potentially reshaping drug discovery and investment landscapes. The post Iambic Therapeutics files for US IPO with Nvidia backing appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Should You Buy SpaceX Stock Before Its Next Earnings Report?",
-      "url": "https://biztoc.com/x/e89d8397dfe5ce13",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-20T21:41:47Z",
-      "description": "Since going public in June, Space Exploration Technologies (NASDAQ: SPCX) has already experienced a full market cycle. Although shares were priced at $135, SpaceX stock opened closer to $150. From there, Elon Musk's space empire witnessed extreme volatility, …",
+      "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
+      "url": "https://www.channelnewsasia.com/business/nvidia-qia-backed-iambic-therapeutics-files-us-ipo-biotech-boom-rolls-6400706",
+      "source": "CNA",
+      "publishedAt": "2026-09-21T21:42:34Z",
+      "description": "Sept 21 : Drug developer Iambic Therapeutics, backed by chip giant Nvidia and Qatar's sovereign wealth fund, filed for a US initial public offering on Monday, bolstering a busy slate of biotech listings in the fall window.While the fall IPO window has gotten …",
       "ipoMarket": "us"
     },
     {
@@ -115,77 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic’s potential $2 trillion IPO is fueling an $80 million crypto trade",
-      "url": "https://cryptoslate.com/anthropics-potential-2-trillion-ipo-is-fueling-an-80-million-crypto-trade/",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-09-19T18:05:02Z",
-      "description": "Anthropic’s prospective $2 trillion IPO has already spawned nearly $80 million in crypto derivatives bets before its public debut. Open interest in futures linked to the Claude developer has climbed to about $79.27 million, close to a record $80 million, as t…",
+      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+      "source": "Decrypt",
+      "publishedAt": "2026-09-21T19:26:49Z",
+      "description": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
       "ipoMarket": "us"
     },
     {
-      "title": "NSE IPO analysis: Exchange excitement for patience this time",
-      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/nse-ipo-analysis-exchange-excitement-for-patience-this-time/article71481085.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-19T15:39:47Z",
-      "description": "Although NSE remains the dominant exchange in India with over 90 per cent share in India’s equities cash turnover value, at its current valuation it does not offer sufficient margin of safety for new investors",
+      "title": "Microsoft and Anthropic dominate Nscale's $103B IPO contract backlog",
+      "url": "https://biztoc.com/x/677d7e4da334e9d4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-21T17:46:02Z",
+      "description": "Nscale Limited filed for an initial public offering on the New York Stock Exchange last week, revealing that Microsoft and Anthropic together account for 85% of its $103 billion in total contract value, according to Bloomberg. The British AI infrastructure co…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "大英図書館 日本企業が再開発着手",
-      "url": "https://news.yahoo.co.jp/pickup/6596104?source=rss",
+      "title": "米大統領 質問したCNN記者を威圧",
+      "url": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T00:24:51.000Z",
+      "publishedAt": "2026-09-22T22:47:17.000Z",
       "description": ""
     },
     {
-      "title": "露与党 下院で過去最多議席獲得へ",
-      "url": "https://news.yahoo.co.jp/pickup/6596101?source=rss",
+      "title": "米大統領 国連でICC脱退呼びかけ",
+      "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-21T23:41:13.000Z",
+      "publishedAt": "2026-09-22T22:11:22.000Z",
       "description": ""
     },
     {
-      "title": "CNNなど 記者証没収で米政権提訴",
-      "url": "https://news.yahoo.co.jp/pickup/6596084?source=rss",
+      "title": "インドネシア 緊急地震速報整備へ",
+      "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-21T14:58:02.000Z",
+      "publishedAt": "2026-09-22T13:47:41.000Z",
       "description": ""
     },
     {
-      "title": "中国 軍制服組トップら2人を処分",
-      "url": "https://news.yahoo.co.jp/pickup/6596064?source=rss",
+      "title": "サウジのパイプライン 稼働再開",
+      "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-21T12:51:54.000Z",
+      "publishedAt": "2026-09-22T13:33:42.000Z",
       "description": ""
     },
     {
-      "title": "韓国兵が負傷 非武装地帯に地雷か",
-      "url": "https://news.yahoo.co.jp/pickup/6596037?source=rss",
+      "title": "タイに130歳?の女性 信じる家族",
+      "url": "https://news.yahoo.co.jp/pickup/6596163?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-21T08:00:46.000Z",
+      "publishedAt": "2026-09-22T09:04:16.000Z",
       "description": ""
     },
     {
-      "title": "米 ICCへの「広範な制裁」準備か",
-      "url": "https://news.yahoo.co.jp/pickup/6595994?source=rss",
+      "title": "トランプ氏支持率32% 過去最低",
+      "url": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-21T02:12:28.000Z",
+      "publishedAt": "2026-09-22T05:44:18.000Z",
       "description": ""
     },
     {
-      "title": "独州議会選 極右政党が再び勝利",
-      "url": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
+      "title": "リトアニア 露が攻撃なら反撃する",
+      "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-21T00:05:01.000Z",
+      "publishedAt": "2026-09-22T05:02:12.000Z",
       "description": ""
     },
     {
-      "title": "イラン 戦闘終結へ米に7条件伝達",
-      "url": "https://news.yahoo.co.jp/pickup/6595980?source=rss",
+      "title": "露攻撃 ウ首都でマック品切れ続出",
+      "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-20T23:15:39.000Z",
+      "publishedAt": "2026-09-22T01:13:24.000Z",
       "description": ""
     }
   ]
