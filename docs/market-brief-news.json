@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T00:09:38.142Z",
+  "fetchedAt": "2026-09-24T00:18:39.210Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,38 @@
   ],
   "ma": [
     {
+      "title": "パラマウントと州司法長官連合、和解交渉が大詰めに",
+      "url": "https://eiga.com/news/20260922/13/",
+      "source": "Eiga.com",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "description": "パラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー(WBD)の買収計画が、完了に向けて大きく前進している。反トラスト法違反を訴える12州の司法長官連合とパラマウントが週末に和解交渉を進め、協議は重要な局面を迎えているという",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Rob Bonta Sued Paramount to Counter Political Influence, Then Fell Victim to It",
+      "url": "https://variety.com/2026/film/news/rob-bonta-paramount-politics-newsom-nashville-1236872658/",
+      "source": "Variety",
+      "publishedAt": "2026-09-23T00:01:16Z",
+      "description": "When Rob Bonta sued to block the Paramount-Warner Bros. merger in July, he said he was doing so because the Trump administration had failed to act for political reasons. “They are greenlighting deals that their own antitrust section at U.S. DOJ knows and beli…",
+      "maMarket": "us"
+    },
+    {
+      "title": "レオパレス21に約2700億円TOB　光通信を支援する投資ファンドの狙いとは",
+      "url": "https://news.livedoor.com/article/detail/32387404/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-09-22T10:04:00Z",
+      "description": "アパートの賃貸・管理などを手掛けるレオパレス21が、TOB（公開買い付け）によって非公開化される公算が高まった。光通信と、韓国系投資ファンドMBKパートナーズ、NEC系ファンドが買付総額約2700億円を投じるTOBに、レオパレスが賛同している。 レオパレスは2019年3月期から3年連続で最終赤字を計上し、2020年6月末には負債が資産を上回る債務超過に陥った。しかし、2022年3月期からは黒字に転換。増収と営業利益の増益を続けて復活を果たした。全文内外タイムス 09月22日19時04分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "2000 Jaguar XKR Coupe",
+      "url": "https://bringatrailer.com/listing/2000-jaguar-xkr-coupe-4/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-09-22T23:46:13Z",
+      "description": "This 2000 Jaguar XKR coupe was previously sold on BaT in June 2021, and it now has 52k miles following the seller's 2022 acquisition. Finished in Phoenix Red over Cashmere leather, the car is powered by a supercharged 4.0-liter V8 paired with a five-speed aut…",
+      "maMarket": "us"
+    },
+    {
       "title": "ステーブルコイン決済のdtcpay、SBI Groupが戦略出資——シリーズA総額2500万ドルで完了",
       "url": "https://thebridge.jp/2026/09/dtcpay-sbi-seriesa-stablecoin-payment",
       "source": "Thebridge.jp",
@@ -17,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "The Afghans who snuck into Britain by pretending to have helped the Armed Forces... before being given homes and thousands in benefits: SUE REID lifts lid on the scandal - and sickening behaviour of 'refugees' after they arrived",
-      "url": "https://www.dailymail.com/news/article-16149373/The-Afghans-snuck-Britain-pretending-helped-Armed-Forces-given-homes-thousands-benefits-SUE-REID-lifts-lid-scandal-sickening-behaviour-refugees-arrived.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-22T00:00:52Z",
-      "description": "Operation Warm Welcome is the cosy name for the British effort to help thousands of terrified Afghans after they won sanctuary in the UK following the Taliban takeover",
+      "title": "Paltry Concessions Given to Secure Paramount-Warner Merger Deal Decried as 'Meaningless Bullshit'",
+      "url": "https://www.commondreams.org/news/paramount-warner-deal-slammed",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-22T23:41:47Z",
+      "description": "\"A settlement that promises less than nothing.\"That's how one critic of Paramount Skydance's planned acquisition of Warner Bros. Discovery on Tuesday described the paltry concessions extracted by Democratic California Attorney General Rob Bonta and other stat…",
       "maMarket": "us"
     },
     {
@@ -33,43 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Paramount Skydance reaches settlement with states over Warner Bros. merger",
-      "url": "https://www.cbsnews.com/video/paramount-skydance-reaches-settlement-states-warner-bros-merger/",
-      "source": "CBS News",
-      "publishedAt": "2026-09-21T23:56:34Z",
-      "description": "Paramount-Skydance has now settled two major lawsuits that were holding up the company's $111 billion buyout of Warner Bros. Discovery. One lawsuit was filed by the Writers Guild of America; the other by a dozen states. Paramount is the parent company of CBS …",
-      "maMarket": "us"
-    },
-    {
-      "title": "テスラ、「日本のタクシー会社」を買収か？ロボタクシー展開なら | 自動運転ラボ",
-      "url": "https://jidounten-lab.com/u_68036",
-      "source": "Jidounten-lab.com",
-      "publishedAt": "2026-09-21T01:38:37Z",
-      "description": "テスラのロボタクシー「Cybercab（サイバーキャブ）」のお披露目イベントが東京で幕を開け、大きな注目を集めているようだ。 ハンドルなどを備えない新規格の自動運転車両で、センサー山積みのWaymoの自動運転車両とは一線を画すスタイリッシュな仕上がりだ。 今のところ日本導入は計画されていないが、テスラジャパン代...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Chiefs news: Eric Bieniemy named biggest offseason acquisition of 2026",
-      "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-eric-bieniemy-named-biggest-offseason-pickup-2026",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-09-21T23:53:53Z",
-      "description": "The Kansas City Chiefs defeated the Indianapolis Colts 33-30 in Week 2 overtime action that caused Patrick Mahomes’ wife Brittany to scream ‘bad words.’ Mahomes had an outstanding game in offensive coordinator Eric Bieniemy’s system that led to a “best” comme…",
-      "maMarket": "us"
-    },
-    {
-      "title": "橋本梨菜と葉月あやが『週プレ』登場！密着する肌がセクシーなコラボグラビア♡",
-      "url": "https://news.livedoor.com/article/detail/32377329/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-09-20T21:30:00Z",
-      "description": "『週刊プレイボーイ』39＆40号は9月14日に発売！ 橋本梨菜＆葉月あやが、9月14日（月）に発売の『週刊プレイボーイ』39＆40合併号に登場！ 橋本梨菜・葉月あや ©佐藤裕之／集英社 【プロフィール】橋本梨菜（はしもと・りな）1993年9月13日生まれ大阪府出身身長158cmB88 W58 H85キャッチフレーズは〝なにわのブラックダイヤモンド〞。アイドルユニット「sherbet」のメンバーとしても活躍中。全文ラブすぽ 09月21日06時30分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Paramount Skydance 'Emerges Victorious', Finally Wins Settlement for Warner Bros Takeover",
-      "url": "https://entertainment.slashdot.org/story/26/09/21/226252/paramount-skydance-emerges-victorious-finally-wins-settlement-for-warner-bros-takeover",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-21T23:34:00Z",
-      "description": "Paramount Skydance just \"emerged victorious\" reports Reuters, \"from a legal battle over its $110 billion acquisition of Warner Bros Discovery\" that will \"dramatically concentrate power across Hollywood's film, TV, streaming and news businesses.\" The victory…",
+      "title": "NY Mayor Zohran Mamdani Blasts Paramount-WBD Deal As “Shameful Monument To Corruption”",
+      "url": "http://deadline.com/2026/09/zohran-mamdani-blasts-paramount-wbd-deal-donald-trump-1237110847/",
+      "source": "Deadline",
+      "publishedAt": "2026-09-22T23:30:43Z",
+      "description": "New York Mayor Zohran Mamdani, a day after continuing his congenial dealings with President Donald Trump, blasted the “federal leaders” supporting the Paramount-Warner Bros. Discovery merger. “America is free only when the media is competitive, independent, a…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Iambic Therapeutics files for US IPO with Nvidia backing",
-      "url": "https://cryptobriefing.com/iambic-therapeutics-ipo-nvidia-backing/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-21T23:14:13Z",
-      "description": "Iambic's IPO, backed by Nvidia, highlights AI's transformative role in biotech, potentially reshaping drug discovery and investment landscapes. The post Iambic Therapeutics files for US IPO with Nvidia backing appeared first on Crypto Briefing.",
+      "title": "Live Oak Acquisition VI prices 20M unit IPO at $11.50 per share",
+      "url": "https://www.thefly.com/lovi",
+      "source": "Thefly.com",
+      "publishedAt": "2026-09-22T22:31:19Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Nvidia, QIA-backed Iambic Therapeutics files for US IPO as biotech boom rolls on",
-      "url": "https://www.channelnewsasia.com/business/nvidia-qia-backed-iambic-therapeutics-files-us-ipo-biotech-boom-rolls-6400706",
-      "source": "CNA",
-      "publishedAt": "2026-09-21T21:42:34Z",
-      "description": "Sept 21 : Drug developer Iambic Therapeutics, backed by chip giant Nvidia and Qatar's sovereign wealth fund, filed for a US initial public offering on Monday, bolstering a busy slate of biotech listings in the fall window.While the fall IPO window has gotten …",
+      "title": "VIDEO: Davido joins Dangote at Times Square, New York, as refinery IPO hits Nasdaq Billboard",
+      "url": "https://punchng.com/video-davido-joins-dangote-at-times-square-new-york-as-refinery-ipo-hits-nasdaq-billboard/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-22T20:05:41Z",
+      "description": "Nigerian singer Davido joined Aliko Dangote in New York’s Times Square as the Dangote Petroleum Refinery’s IPO was advertised on a Nasdaq billboard. Read More: https://punchng.com/video-davido-joins-dangote-at-times-square-new-york-as-refinery-ipo-hits-nasda…",
       "ipoMarket": "us"
     },
     {
@@ -115,77 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-      "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-      "source": "Decrypt",
-      "publishedAt": "2026-09-21T19:26:49Z",
-      "description": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
+      "title": "Anthropic IPO faces uncertainty amid market delays, eyes $2T valuation",
+      "url": "https://cryptobriefing.com/anthropic-ipo-faces-uncertainty-amid-market-delays-eyes-2t-valuation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-22T19:06:27Z",
+      "description": "Anthropic's IPO challenges highlight market fragility, potentially reshaping investor confidence and tech IPO strategies amid valuation concerns. The post Anthropic IPO faces uncertainty amid market delays, eyes $2T valuation appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "Microsoft and Anthropic dominate Nscale's $103B IPO contract backlog",
-      "url": "https://biztoc.com/x/677d7e4da334e9d4",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-21T17:46:02Z",
-      "description": "Nscale Limited filed for an initial public offering on the New York Stock Exchange last week, revealing that Microsoft and Anthropic together account for 85% of its $103 billion in total contract value, according to Bloomberg. The British AI infrastructure co…",
+      "title": "Accelevation targets up to $5.4 billion valuation in US IPO",
+      "url": "https://economictimes.indiatimes.com/tech/startups/accelevation-targets-up-to-5-4-billion-valuation-in-us-ipo/articleshow/134418945.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-22T18:25:21Z",
+      "description": "The Miamisburg, Ohio-based Accelevation and some selling shareholders are aiming to raise up to $720 million by offering 30 million shares priced between $20 and $24.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "イラン首都でUFO飛行? SNS拡散",
+      "url": "https://news.yahoo.co.jp/pickup/6596328?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T23:27:07.000Z",
+      "description": ""
+    },
+    {
+      "title": "習氏が米到着 トランプ氏が出迎え",
+      "url": "https://news.yahoo.co.jp/pickup/6596324?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T22:26:32.000Z",
+      "description": ""
+    },
+    {
+      "title": "露側 プーチン氏のG20出席検討",
+      "url": "https://news.yahoo.co.jp/pickup/6596320?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T21:38:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "「スクイーズ」から有害物質 韓国",
+      "url": "https://news.yahoo.co.jp/pickup/6596305?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T13:18:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国 高市首相の国連演説巡り反発",
+      "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T12:27:12.000Z",
+      "description": ""
+    },
+    {
+      "title": "マスク氏 習主席は偉大な指導者",
+      "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T07:10:09.000Z",
+      "description": ""
+    },
+    {
+      "title": "イスラエル 動画で国連各国やゆ",
+      "url": "https://news.yahoo.co.jp/pickup/6596236?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-23T03:13:36.000Z",
+      "description": ""
+    },
+    {
       "title": "米大統領 質問したCNN記者を威圧",
       "url": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-22T22:47:17.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 国連でICC脱退呼びかけ",
-      "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T22:11:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "インドネシア 緊急地震速報整備へ",
-      "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T13:47:41.000Z",
-      "description": ""
-    },
-    {
-      "title": "サウジのパイプライン 稼働再開",
-      "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T13:33:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "タイに130歳?の女性 信じる家族",
-      "url": "https://news.yahoo.co.jp/pickup/6596163?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T09:04:16.000Z",
-      "description": ""
-    },
-    {
-      "title": "トランプ氏支持率32% 過去最低",
-      "url": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T05:44:18.000Z",
-      "description": ""
-    },
-    {
-      "title": "リトアニア 露が攻撃なら反撃する",
-      "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T05:02:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "露攻撃 ウ首都でマック品切れ続出",
-      "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T01:13:24.000Z",
       "description": ""
     }
   ]
