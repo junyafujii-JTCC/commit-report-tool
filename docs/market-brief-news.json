@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T00:21:18.374Z",
+  "fetchedAt": "2026-09-26T00:26:38.425Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,182 +9,159 @@
   ],
   "ma": [
     {
-      "title": "パラマウントと州司法長官連合、和解交渉が大詰めに",
-      "url": "https://eiga.com/news/20260922/13/",
-      "source": "Eiga.com",
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "description": "パラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー(WBD)の買収計画が、完了に向けて大きく前進している。反トラスト法違反を訴える12州の司法長官連合とパラマウントが週末に和解交渉を進め、協議は重要な局面を迎えているという",
+      "title": "NVIDIA、ハギングフェイス買収で狙う「オープン型AI経済圏」の防衛2兆円投じるモデル流通網の掌握、巨大テックの半導体内製化に対抗する布石 - IT最前線",
+      "url": "https://jbpress.ismedia.jp/articles/-/97159",
+      "source": "Ismedia.jp",
+      "publishedAt": "2026-09-24T21:00:00Z",
+      "description": "9月上旬、米半導体大手エヌビディア（NVIDIA）が、AIモデルやデータセットの共有基盤を運営する米ハギングフェイス（Hugging Face）を買収することで合意した（NVIDIAの発表資料）。 同社による買収としては、昨年12月に実施した米半導体新興グロック（Groq）の資産取得（200億ドル）に次ぐ、過去2番目の規模となる。 発表から約3週間が経過した。市場では、この巨額買収が単なる規模拡大",
       "maMarket": "jp"
     },
     {
-      "title": "Guinness Nigeria treasury head acquires 10,000 shares",
-      "url": "https://punchng.com/guinness-nigeria-treasury-head-acquires-10000-shares/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-24T00:06:12Z",
-      "description": "Guinness Nigeria Plc has officially announced an insider share acquisition by its Head of Treasury, Mr Ankush Taneja, following a regulatory notification filed from its corporate headquarters in Ikeja, Lagos. The initial notification, issued on Tuesday, detai…",
-      "maMarket": "us"
-    },
-    {
-      "title": "レオパレス21に約2700億円TOB　光通信を支援する投資ファンドの狙いとは",
-      "url": "https://news.livedoor.com/article/detail/32387404/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-09-22T10:04:00Z",
-      "description": "アパートの賃貸・管理などを手掛けるレオパレス21が、TOB（公開買い付け）によって非公開化される公算が高まった。光通信と、韓国系投資ファンドMBKパートナーズ、NEC系ファンドが買付総額約2700億円を投じるTOBに、レオパレスが賛同している。 レオパレスは2019年3月期から3年連続で最終赤字を計上し、2020年6月末には負債が資産を上回る債務超過に陥った。しかし、2022年3月期からは黒字に転換。増収と営業利益の増益を続けて復活を果たした。全文内外タイムス 09月22日19時04分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "B-52 Achieves Key Milestones for Engine, Radar Modernization",
-      "url": "https://soldiersystems.net/2026/09/24/b-52-achieves-key-milestones-for-engine-radar-modernization/",
-      "source": "Soldiersystems.net",
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "description": "ARLINGTON, Va. (AFNS) — The U.S. Air Force marked major progress in the long-term modernization of the B-52 strategic bomber fleet in 2026 with two critical acquisition decisions: Milestone B approval on June 1 for the B-52J Commercial Engine Replacement Pr…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ステーブルコイン決済のdtcpay、SBI Groupが戦略出資——シリーズA総額2500万ドルで完了",
-      "url": "https://thebridge.jp/2026/09/dtcpay-sbi-seriesa-stablecoin-payment",
-      "source": "Thebridge.jp",
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "description": "シンガポールの決済企業 dtcpay は現地時間18日、日本の SBI Group を戦略投資家に迎えてシリーズ A ラウンドを拡張し、総額2500万ドルで完了したと発表した。 同ラウンドは2026年4月に Vertex […]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "L.A. Comes to Grips With a Studio Merger Many Didn’t Want",
-      "url": "https://biztoc.com/x/3b635f5370e50a3b",
+      "title": "Matthew Proud-led SPAC threatens to pull out of merger with delivery company UniUni",
+      "url": "https://biztoc.com/x/ad79ac81fe46ec76",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-23T23:52:05Z",
-      "description": "Politicians and rank-and-file workers who feared a Paramount-Warner Bros. Discovery deal now hope concessions will soften the impact.",
+      "publishedAt": "2026-09-24T23:37:47Z",
+      "description": "Matthew Proud’s special purpose acquisition company is threatening to pull out of its proposed combination with last-mile delivery company UniUni.",
       "maMarket": "us"
     },
     {
-      "title": "Newsight Tech Angels：緑内障をはじめとする失明性眼疾患治療薬を開発するEyegenex社へ追加出資を実行",
-      "url": "https://prtimes.jp/main/html/rd/p/000000011.000110083.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-21T03:40:37Z",
-      "description": "[株式会社NEWSIGHT TECH ANGELS] 株式会社Newsight Tech Angels（本社：東京都中央区、CEO：瀬尾 亨、以下「NTA」）は、緑内障をはじめとする失明性眼疾患の治療薬を開発するEyegenex, Inc.（本社：米国カリフォルニア州サンディエゴ、CEO：Prasa...",
+      "title": "〈1年強で閉店200超え〉うな重｢鰻の成瀬｣売却劇の顛末…創業者は持ち株ゼロ､買収側も8億円借り入れで背水の陣 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958111?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-09-24T21:00:00Z",
+      "description": "ウナギ屋にとって、1年でいちばんのかき入れ時となる、夏の「土用の丑の日」。うな重チェーン「鰻の成瀬」のフランチャイズ（FC）加盟店が繁忙期を迎えていたころ、運営会社は株式譲渡をめぐる争いの渦中にいた…",
       "maMarket": "jp"
     },
     {
-      "title": "Barry Diller Drops Bid To Acquire Full Control Of MGM Resorts",
-      "url": "http://deadline.com/2026/09/barry-diller-drops-bid-to-acquire-mgm-resorts-1237112063/",
-      "source": "Deadline",
-      "publishedAt": "2026-09-23T23:52:01Z",
-      "description": "People Inc. Chairman Barry Diller has withdrawn a proposal to acquire full ownership of MGM Resorts. The media company will retain its 27% stake in the casino operator, he said in a statement Wednesday, though it remains “open and interested” in potential str…",
+      "title": "MGM Resorts Considering Bid for People Inc.",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/mgm-resorts-eyes-people-inc-bid/",
+      "source": "TheWrap",
+      "publishedAt": "2026-09-24T23:36:18Z",
+      "description": "The move comes after the Barry Diller-owned publisher withdrew a takeover bid for the hospitality company The post MGM Resorts Considering Bid for People Inc. appeared first on TheWrap.",
+      "maMarket": "us"
+    },
+    {
+      "title": "LINEヤフーのカカクコム買収、共同買収相手ベインキャピタルとの異例の「片務的な取り決め」が足かせに!?買収総額が大きく膨らむリスクが顕在化 - Diamond Premium News",
+      "url": "https://diamond.jp/articles/-/399832",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-24T19:55:00Z",
+      "description": "レストラン検索・予約サービス「食べログ」を運営するカカクコムを巡る、欧州系投資ファンドのEQTとLINEヤフー陣営による買収価格の引き上げ合戦に変化が出ている。LINEヤフー陣営は9月16日に再び価格を引き上げたが、上げ幅からは苦境もにじむ。LINEヤフーは、共同買収を目指す米投資ファンドのベインキャピタルとの間で結んだ“片務的”ともいえる取り決めが足かせになりつつある。LINEヤフーの買収価格を大きく膨らませかねない、異例の取り決めの中身とは。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "XSS vulnerability in",
+      "url": "https://seclists.org/oss-sec/2026/q3/926",
+      "source": "Seclists.org",
+      "publishedAt": "2026-09-24T23:02:25Z",
+      "description": "Posted by Sam James on Sep 24Hi, Normally, I don't find XSS particularly interesting, but I saw writeup leverging a bug in of interest: https://blog.arusekk.pl/posts/srht-account-takeover/ In short, crafted lines in a build log on sr.ht's Ci service were t…",
+      "maMarket": "us"
+    },
+    {
+      "title": "GMO TECHホールディングス、GMO TECHとGMOデザインワンの合併を決議",
+      "url": "https://prtimes.jp/main/html/rd/p/000005539.000000136.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-24T08:03:02Z",
+      "description": "[GMOインターネットグループ] GMOインターネットグループのGMO TECHホールディングス株式会社（代表取締役社長 CEO：鈴木 明人、以下「GMO TECHホールディングス」）は、2026年9月24日（木）開催の取締役会において、連結会社であるGMO TECH...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "455-Powered 1970 Buick Skylark Coupe",
+      "url": "https://bringatrailer.com/listing/1970-buick-skylark-21/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-09-24T22:55:07Z",
+      "description": "This 1970 Buick Skylark coupe was modified in the style of a contemporary GSX by the seller following their acquisition in 2023, and a GSX donor car is said to have been used to supply various components. The yellow paintwork is joined by black graphics and a…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "株式会社ベルテックス 東京証券取引所スタンダード市場へ新規上場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000029.000147635.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-18T15:40:32Z",
-      "description": "[株式会社ベルテックス] 株式会社ベルテックス（本社：東京都新宿区 代表取締役社長：梶尾祐司、証券コード：623A、以下「当社」）は、2026年9月18日、東京証券取引所スタンダード市場へ新規上場いたしました。 ここに謹んでご報告申し...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "SpaceX’s historic $2 trillion debut defied one of the market's big fears",
-      "url": "https://www.businessinsider.com/spacex-ipo-spcx-stock-elon-concentration-risk-musk-anthopic-openai-2026-9#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-09-23T19:48:18Z",
-      "description": "The SpaceX IPO was so big that investors worried it could reshape overall market structure. Morningstar says the impact so far has been limited.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "ベルテックス---本日新規上場、買い先行後は伸び悩む展開に - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073247",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-18T07:48:56Z",
-      "description": "&lt;%%%623A%%%&gt; ベルテックス 562 -本日スタンダード市場に新規上場、公開価格の550円を10.4％上回る607円で初値を示現し、その後650円まで上値を伸ばした後に伸び悩み。初値を下回る水準での推移となっている。高水準の配当利回りに関心も向かったが、公開規模は23.7億円と本日IPOの4社の中では最も大きい水準であるほか、IPO市場では人気化しにくい不動産関連であることから、上値追い",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Michael Burry Says SpaceX Isn't Worth $1 Trillion. Its AI Business Could Prove Him Wrong",
-      "url": "https://biztoc.com/x/7cae291da4bd9d37",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-23T15:38:26Z",
-      "description": "Before Space Exploration Technologies (NASDAQ: SPCX) went public in the largest debut in history at $1.8 trillion, Michael Burry of \"The Big Short\" fame argued that nothing in its IPO filing justified even a $1 trillion valuation. Weeks later, he called the c…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "RYDE UPCOMING DEADLINE: Levi & Korsinsky Alerts Ryde Group Ltd Stockholders of Securities Class Action - Contact the Firm",
-      "url": "https://www.prnewswire.com/news-releases/ryde-upcoming-deadline-levi--korsinsky-alerts-ryde-group-ltd-stockholders-of-securities-class-action---contact-the-firm-302887164.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-23T14:09:00Z",
-      "description": "Ryde Group Ltd purchasers who bought between the $4.00 March 2024 IPO and the September 11, 2024 collapse hold specific rights under the federal securities laws, following allegations that an undisclosed social media promotion scheme inflated RYDE shares. NEW…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Kalshi assigns 93% chance Anthropic goes public before OpenAI",
-      "url": "https://cryptobriefing.com/kalshi-anthropic-ipo-before-openai-prediction/",
+      "title": "Anthropic founders to hold 50% voting control ahead of IPO",
+      "url": "https://cryptobriefing.com/anthropic-founders-to-hold-50-voting-control-ahead-of-ipo/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-09-23T12:43:45Z",
-      "description": "Anthropic's likely IPO lead over OpenAI highlights shifting market dynamics, impacting investor strategies and AI sector valuations. The post Kalshi assigns 93% chance Anthropic goes public before OpenAI appeared first on Crypto Briefing.",
+      "publishedAt": "2026-09-24T22:00:53Z",
+      "description": "Anthropic's governance strategy may deter investor confidence, impacting IPO valuation and market cap amid concerns over founder control. The post Anthropic founders to hold 50% voting control ahead of IPO appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Bluerock Acquisition II prices 15M unit IPO at $10 per unit",
+      "url": "https://www.thefly.com/brrk",
+      "source": "Thefly.com",
+      "publishedAt": "2026-09-24T21:39:17Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "DeepSeek Doubles Annual Revenue Run Rate to $1 Billion Ahead of IPO",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-doubles-annual-revenue-run-rate-to-1-billion-ahead-of-ipo/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-09-24T19:38:55Z",
+      "description": "DeepSeek more than doubled its annualized revenue run rate over the past few months, bringing the rate to $1 billion, The Information reported Wednesday (Sept. 23), citing unnamed sources. The figure was shared with investors by DeepSeek CEO Liang Wenfeng, ac…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Nscale wants a $35 billion valuation. Nvidia is helping foot the bill",
+      "url": "https://fortune.com/2026/09/24/nscale-wants-a-35-billion-valuation-nvidia-is-helping-foot-the-bill/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-24T17:49:56Z",
+      "description": "The neocloud's IPO filing shows a company that burned through cash while a chipmaker that also happens to be its biggest supplier helped keep it alive.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米中首脳 ワインで友好ムード演出",
-      "url": "https://news.yahoo.co.jp/pickup/6596444?source=rss",
+      "title": "ネパール土石流 捜索打ち切り検討",
+      "url": "https://news.yahoo.co.jp/pickup/6596572?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T00:00:19.000Z",
+      "publishedAt": "2026-09-25T23:56:36.000Z",
       "description": ""
     },
     {
-      "title": "ICC脱退呼びかけ呼応 ナウルだけ",
-      "url": "https://news.yahoo.co.jp/pickup/6596446?source=rss",
+      "title": "米中首脳 年内あと2回会談に意欲",
+      "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T23:58:18.000Z",
+      "publishedAt": "2026-09-25T22:20:17.000Z",
       "description": ""
     },
     {
-      "title": "習氏 米に台湾独立への反対求める",
-      "url": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
+      "title": "ローマ教皇 仏に核軍縮の主導促す",
+      "url": "https://news.yahoo.co.jp/pickup/6596551?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T21:36:38.000Z",
+      "publishedAt": "2026-09-25T14:05:41.000Z",
       "description": ""
     },
     {
-      "title": "米イラン 段階的な戦闘終結⁠模索",
-      "url": "https://news.yahoo.co.jp/pickup/6596430?source=rss",
+      "title": "米大統領 第2次大戦絡め異例発言",
+      "url": "https://news.yahoo.co.jp/pickup/6596484?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T21:27:02.000Z",
+      "publishedAt": "2026-09-25T05:44:40.000Z",
       "description": ""
     },
     {
-      "title": "パンダ2頭近く米へ到着 習氏発表",
-      "url": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
+      "title": "蘭首相 ICCへの米「攻撃」を批判",
+      "url": "https://news.yahoo.co.jp/pickup/6596469?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T21:07:05.000Z",
+      "publishedAt": "2026-09-25T03:22:08.000Z",
       "description": ""
     },
     {
-      "title": "米#MeToo巡る性犯罪 禁錮15年",
-      "url": "https://news.yahoo.co.jp/pickup/6596406?source=rss",
+      "title": "ネタニヤフ氏が国連演説 各国退席",
+      "url": "https://news.yahoo.co.jp/pickup/6596464?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T11:29:43.000Z",
+      "publishedAt": "2026-09-25T02:20:38.000Z",
       "description": ""
     },
     {
-      "title": "取材許可巡る米政権措置 差し止め",
-      "url": "https://news.yahoo.co.jp/pickup/6596403?source=rss",
+      "title": "スタバ 北米で250店舗を閉鎖へ",
+      "url": "https://news.yahoo.co.jp/pickup/6596460?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T11:01:05.000Z",
+      "publishedAt": "2026-09-25T02:11:25.000Z",
       "description": ""
     },
     {
-      "title": "円安進行 レートチェック効果相殺",
-      "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
+      "title": "旧敵国条項 日中に新たな火種か",
+      "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T04:20:49.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ 北朝鮮兵2人を韓国に引き渡し",
-      "url": "https://news.yahoo.co.jp/pickup/6596348?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T03:02:46.000Z",
+      "publishedAt": "2026-09-25T00:50:14.000Z",
       "description": ""
     }
   ]
