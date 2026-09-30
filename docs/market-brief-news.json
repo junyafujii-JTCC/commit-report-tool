@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T01:37:04.811Z",
+  "fetchedAt": "2026-09-30T01:09:25.580Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,113 +9,178 @@
   ],
   "ma": [
     {
-      "title": "リブワーク---V3D Asiaとの資本業務提携 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073431",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-28T01:33:27Z",
-      "description": "&lt;1431&gt; リブワーク 654 +6Ｌｉｂ Ｗｏｒｋ&lt;1431&gt;は25日、V3D Asiaとの間で資本業務提携を実施したと発表した。本提携は、同社の3Dプリンター建設事業における海外進出と低価格化を推進することを目的としている。出資による議決権所有割合は約10％で、連結決算対象会社には該当せず、出資によるV3D Asiaの経営体制に変更はない。業務提携では、インドネシア・マレーシアを中心に、現地",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal",
-      "url": "https://biztoc.com/x/3e99df51202e936a",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-28T01:30:42Z",
-      "description": "Northern Star Resources shares jumped more than 9% Monday after the Australian gold miner rejected a $27-billion takeover proposal from South Africa's Gold Fields, saying the offer undervalued the company. Gold Fields proposed acquiring 100% of Northern Star …",
-      "maMarket": "us"
-    },
-    {
-      "title": "社会課題解決に挑む人と事業が生まれ続ける地域づくりを推進 taliki２号ファンドへの出資を決定しました！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000226.000166651.html",
+      "title": "ホテル運営と次世代型ホテル運営AIプラットフォームの開発・提供を行うWayfarerに出資",
+      "url": "https://prtimes.jp/main/html/rd/p/000001462.000013943.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-09-28T01:10:00Z",
-      "description": "[ちゅうぎんFG] 中国銀行（岡山市 頭取 加藤 貞則）は、このたび、株式会社taliki（京都府京都市 代表取締役CEO 中村 多伽）が運営する「taliki２号投資事業有限責任組合」（以下「taliki２号ファンド」）への出資を決定いたし...",
+      "publishedAt": "2026-09-29T01:00:00Z",
+      "description": "[キヤノンMJ] キヤノンマーケティングジャパン株式会社（代表取締役社長：足立正親、以下キヤノンMJ）は、コーポレートベンチャーキャピタル（CVC）ファンド「Canon Marketing Japan MIRAI Fund」を通じて、ホテル運営および次...",
       "maMarket": "jp"
     },
     {
-      "title": "How does a female choose her mate?",
-      "url": "https://www.lifesciencesworld.com/how-does-a-female-choose-her-mate/",
-      "source": "Lifesciencesworld.com",
-      "publishedAt": "2026-09-28T01:26:37Z",
-      "description": "How Does a Female Choose Her Mate? Unveiling the Complexities of Mate Selection Females choose their mates based on a complex interplay of factors, including genetic fitness, resource acquisition, parental investment, and social status, ultimately aiming to m…",
+      "title": "Chinese-owned firm takes over one of Australia's largest cannabis farms",
+      "url": "https://www.abc.net.au/news/2026-09-29/chinese-company-buys-tasmanian-botanics-cannabis/107206340",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-29T00:58:08Z",
+      "description": "Despite the takeover of the cannabis farm north of Hobart, the chief executive of Tasmanian Botanics says it is \"business as usual\" for staff and customers.",
       "maMarket": "us"
     },
     {
-      "title": "人とAIエージェントが同じチャンネルで働くAndo、Accelなど2,000万ドル出資",
-      "url": "https://thebridge.jp/2026/09/ando-agent-native-messaging-20m-seed",
-      "source": "Thebridge.jp",
-      "publishedAt": "2026-09-28T00:05:37Z",
-      "description": "チーム向けメッセージングプラットフォームを開発する Ando は現地時間24日、2,000万ドルのシード資金の調達と、AI エージェントを前提に設計したメッセージングプラットフォームの提供開始を発表した。 Accel、I […]",
+      "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
+      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-09-29T00:38:00Z",
+      "description": "AMDは、フェイフェイ・リー博士が率いるAI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した。空間知能や物理AIの知見を取り込み次世代インフラを強化する。買収完了後、リー氏はAMDのEVP兼チーフサイエンティストに就任し、同氏のチームとともにオープンなAIエコシステム構築を担う。",
       "maMarket": "jp"
     },
     {
-      "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal",
-      "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
-      "source": "CNBC",
-      "publishedAt": "2026-09-28T01:19:23Z",
-      "description": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.",
+      "title": "data-aggregator-mcp 0.51.0",
+      "url": "https://pypi.org/project/data-aggregator-mcp/0.51.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-09-29T00:54:49Z",
+      "description": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
       "maMarket": "us"
     },
     {
-      "title": "出版物の流通危機「三つの要素が必要」　丸紅と出版3社が効率化へ：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASV9H269NV9HUCVL022M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-09-27T23:45:07Z",
-      "description": "出版業界の救世主になるか――。総合商社の丸紅や出版大手の講談社、集英社、小学館が出資する「PubteX（パブテックス）」は15日、新たな書籍物流の事業を始めると発表した。出版業界は本離れが進み、物流…",
+      "title": "【速報】イーロン・マスク、日本のテレビ局買収について言及！！！！",
+      "url": "https://asianoneta.blog.jp/63511853",
+      "source": "Blog.jp",
+      "publishedAt": "2026-09-28T23:07:07Z",
+      "description": "1: スナドリネコ(東京都) [ﾇｺ] 2026/09/28(月) 21:41:44.34 ID:phcDDNzT0● BE:837857943-PLT(18184) イーロン・マスクが日本のテレビ局の“買収”を検討か？！日本人ユーザーがマスク氏に「日本の報道は左翼に支配されている。あなたが日本を救える最後の人物だ」とテレビ...",
       "maMarket": "jp"
     },
     {
-      "title": "Ardova-led consortium to acquire Powergas",
-      "url": "https://punchng.com/ardova-led-consortium-to-acquire-powergas/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-28T00:51:55Z",
-      "description": "A consortium led by Ardova Plc has agreed to acquire Powergas, one of Africa’s largest compressed natural gas producers and virtual pipeline distributors. Read More: https://punchng.com/ardova-led-consortium-to-acquire-powergas/",
+      "title": "Buzzing stocks: Tata Group, Anupam Rasayan, HCLSoftware, IRFC, NCC, Pidilite and others in focus",
+      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-tata-group-anupam-rasayan-hclsoftware-irfc-ncc-pidilite-and-others-in-focus/article71522304.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-29T00:35:30Z",
+      "description": "Corporate restructuring, strategic acquisitions, new partnerships, major project orders, fleet expansion and renewable-energy capacity additions marked a busy day of announcements from Indian companies",
+      "maMarket": "us"
+    },
+    {
+      "title": "ジャングリア沖縄「資金ショートを避けたい。追加融資して」",
+      "url": "https://news4vip.livedoor.biz/archives/52590970.html",
+      "source": "Livedoor.biz",
+      "publishedAt": "2026-09-28T23:00:38Z",
+      "description": "1: 以下、ニュー速クオリティでお送りします 2026/09/25(金) 21:59:08.25 ID:vNz2Ifli0 昨年７月に沖縄県に開業したテーマパーク「ジャングリア沖縄」の運営会社が、「資金ショート（不足）のリスクに対応するため」として、 金融機関に追加の融資を求め、新たな出資企業も...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Paramount Woos Investors With Mega $44 Billion Debt Offer To Fund WBD Deal As Judge Weighs Settlement",
+      "url": "https://biztoc.com/x/0a9b64ae409a5bd1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T00:28:21Z",
+      "description": "Paramount began marketing a massive $44.4 billion debt offering Monday to fund its acquisition of Warner Bros. Discovery as it awaits a decision by a federal judge that’s the last remaining hurdle to clinching the deal. “The actual closing date of the acquisi…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Global X Japan株式会社「グローバルＸ 中国半導体・トップ10 ETF」（銘柄コード：650A）東京証券取引所より上場承認",
-      "url": "https://prtimes.jp/main/html/rd/p/000000099.000137367.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-25T07:30:00Z",
-      "description": "[Global X Japan株式会社] 大和証券グループのGlobal X Japan株式会社（東京都千代田区、代表取締役社長：藤岡 智男、以下「当社」）は、本日、東京証券取引所より「グローバルＸ 中国半導体・トップ10 ETF」（銘柄コード：650A、以下「...",
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1073474",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-28T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞14:00 景気先行CI指数(7月) 117.914:00 景気一致指数(7月) 120.6 月例経済報告(9月) クラサスケミカルが東証スタンダードに新規上場(パーシャルスピンオフ)＜海外＞13:30 豪・オーストラリア準備銀行(中央銀行)が政策金利発表 4.60％ 4.35％18:00 欧・ユーロ圏景況感指数(9月) 98.8 98.418:00 欧・ユー",
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic valuation hits $965B amid AI safety focus, IPO speculation: WSJ",
-      "url": "https://cryptobriefing.com/anthropic-valuation-hits-965b-amid-ai-safety-focus-ipo-speculation-wsj/",
+      "title": "Anthropic establishes Founder LLC to prioritize public good over profits ahead of IPO",
+      "url": "https://cryptobriefing.com/anthropic-founder-llc-public-good-governance/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-09-27T01:05:37Z",
-      "description": "Anthropic's focus on AI safety and effective altruism could reshape industry priorities, influencing investor confidence and market dynamics. The post Anthropic valuation hits $965B amid AI safety focus, IPO speculation: WSJ appeared first on Crypto Briefing.",
+      "publishedAt": "2026-09-29T00:54:28Z",
+      "description": "Anthropic's governance model may set a precedent for balancing ethical AI development with investor interests, challenging traditional corporate norms. The post Anthropic establishes Founder LLC to prioritize public good over profits ahead of IPO appeared fir…",
       "ipoMarket": "us"
     },
     {
-      "title": "XRP IPO on the Horizon? Evernorth Secures $30 Million for XRP Ahead of Nasdaq Listing",
-      "url": "https://zycrypto.com/xrp-ipo-on-the-horizon-evernorth-secures-30-million-for-xrp-ahead-of-nasdaq-listing/",
-      "source": "ZyCrypto",
-      "publishedAt": "2026-09-26T12:30:07Z",
-      "description": "Evernorth is raising $30 million through a convertible bond deal as the XRP-focused treasury company prepares to expand its cryptocurrency holdings.",
+      "title": "不動産開発×AIのトグルHD、東証グロース上場へ——想定時価総額は約594.9億円",
+      "url": "https://thebridge.jp/2026/09/toggle-holdings-tse-growth-ipo-approved",
+      "source": "Thebridge.jp",
+      "publishedAt": "2026-09-28T07:56:49Z",
+      "description": "AI とデータを活用した不動産開発を手がけるトグルホールディングスは28日、東京証券取引所への新規上場申請が承認された。 市場区分はグロース、証券コードは652Aで、上場予定日は10月30日。224万4,600株を公募し […]",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Prospecto do IPO da Anthropic revela visão abrangente de IA e custos crescentes",
+      "url": "https://www.infomoney.com.br/mercados/prospecto-do-ipo-da-anthropic-revela-visao-abrangente-de-ia-e-custos-crescentes/",
+      "source": "InfoMoney",
+      "publishedAt": "2026-09-29T00:32:47Z",
+      "description": "Prospecto do IPO da Anthropic revela visão abrangente de IA e custos crescentes The post Prospecto do IPO da Anthropic revela visão abrangente de IA e custos crescentes appeared first on InfoMoney.",
       "ipoMarket": "us"
     },
     {
-      "title": "Kraken Users Can Register For Ōura IPO Access Through xStocks",
-      "url": "https://bitcoinist.com/kraken-users-can-register-for-oura-ipo-access-through-xstocks/",
-      "source": "Bitcoinist",
-      "publishedAt": "2026-09-26T10:30:00Z",
-      "description": "Payward Services has opened non-binding indications of interest for Ōura’s expected IPO through the xStocks ecosystem. Eligible Kraken users and customers of xStocks Alliance partners in more than 110 countries can register interest before the Nasdaq listing.…",
+      "title": "東京証券取引所グロース市場への新規上場承認に関するお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000106.000097866.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-28T07:30:00Z",
+      "description": "[トグルホールディングス株式会社] トグルホールディングス株式会社（本社：東京都港区、代表取締役CEO：伊藤嘉盛、以下「当社」）は、2026年9月28日（月）、株式会社東京証券取引所（以下、東京証券取引所）より、当社株式の東京証券取引所グロー...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Anthropic’s IPO prospectus shows sweeping AI vision, surging costs",
+      "url": "https://www.straitstimes.com/business/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs",
+      "source": "The Straits Times",
+      "publishedAt": "2026-09-29T00:01:32Z",
+      "description": "The IPO, potentially valuing the company above US$2 trillion, will test investor appetite amid fierce competition. Read more at straitstimes.com.",
       "ipoMarket": "us"
     },
     {
-      "title": "AI data center builder Nscale raises $3.36B ahead of IPO",
-      "url": "https://siliconangle.com/2026/09/25/ai-data-center-builder-nscale-raises-3-36b-ahead-of-ipo/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-09-26T00:37:14Z",
-      "description": "Nscale Ltd. today announced that it has secured $3.36 billion in funding to support its data center construction push. The capital will arrive in two tranches. Nscale expects to receive $2.26 billion in the near future from a consortium that includes Third Po…",
+      "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs: Reuters",
+      "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-28T23:55:07Z",
+      "description": "Anthropic is making a massive bet that AI will transform the global economy more profoundly than industrialization, electricity and the internet, according to its IPO prospectus seen by Reuters.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "習近平政権 岩屋前外相を厚遇",
+      "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T00:41:55.000Z",
+      "description": ""
+    },
+    {
+      "title": "仏各地の高校で抗議デモ 逮捕者も",
+      "url": "https://news.yahoo.co.jp/pickup/6597022?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T00:13:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "北朝鮮 地雷爆発は韓国の自作自演",
+      "url": "https://news.yahoo.co.jp/pickup/6597020?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-29T23:54:35.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国念頭 鉄鋼う回輸出監視強化へ",
+      "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-29T23:25:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "トランプ氏 AI監督委設置を検討",
+      "url": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-29T22:34:21.000Z",
+      "description": ""
+    },
+    {
+      "title": "日本から返還のパンダ 中国で公開",
+      "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-29T11:16:07.000Z",
+      "description": ""
+    },
+    {
+      "title": "海峡再開巡るイラン案 米拒否なぜ",
+      "url": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-29T05:04:42.000Z",
+      "description": ""
+    },
     {
       "title": "中国「テクノロジー観光」に注力",
       "url": "https://news.yahoo.co.jp/pickup/6596921?source=rss",
@@ -128,48 +193,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-29T00:04:07.000Z",
-      "description": ""
-    },
-    {
-      "title": "米中関税 対象品で大幅引き下げへ",
-      "url": "https://news.yahoo.co.jp/pickup/6596855?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-28T07:41:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国がウに謝罪要求 捕虜移送巡り",
-      "url": "https://news.yahoo.co.jp/pickup/6596844?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-28T06:42:10.000Z",
-      "description": ""
-    },
-    {
-      "title": "台湾 第2次大戦の中国認識に反発",
-      "url": "https://news.yahoo.co.jp/pickup/6596841?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-28T06:00:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ侵攻「黒海海運」の麻痺深刻化",
-      "url": "https://news.yahoo.co.jp/pickup/6596826?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-28T04:33:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "英基地付近でテロ準備疑い 逮捕",
-      "url": "https://news.yahoo.co.jp/pickup/6596814?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-28T01:58:46.000Z",
-      "description": ""
-    },
-    {
-      "title": "南アで銃撃事件相次ぐ 27人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6596775?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-27T13:30:44.000Z",
       "description": ""
     }
   ]
