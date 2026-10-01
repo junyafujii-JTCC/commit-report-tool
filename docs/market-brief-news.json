@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T01:09:25.580Z",
+  "fetchedAt": "2026-10-01T01:09:20.494Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,71 +9,87 @@
   ],
   "ma": [
     {
-      "title": "ホテル運営と次世代型ホテル運営AIプラットフォームの開発・提供を行うWayfarerに出資",
-      "url": "https://prtimes.jp/main/html/rd/p/000001462.000013943.html",
+      "title": "ヤモリが運営する「Tokyo空き家再生賃貸アフォーダブル住宅ファンド」に株式会社日本政策投資銀行が有限責任組合員として出資参画いたします",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000080742.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-09-29T01:00:00Z",
-      "description": "[キヤノンMJ] キヤノンマーケティングジャパン株式会社（代表取締役社長：足立正親、以下キヤノンMJ）は、コーポレートベンチャーキャピタル（CVC）ファンド「Canon Marketing Japan MIRAI Fund」を通じて、ホテル運営および次...",
+      "publishedAt": "2026-09-30T01:00:00Z",
+      "description": "[株式会社ヤモリ] 株式会社ヤモリ（本社：東京都渋谷区、代表取締役：藤澤正太郎、以下「ヤモリ」）は、ヤモリが運営する「Tokyo空き家再生賃貸アフォーダブル住宅ファンド投資事業有限責任組合」（以下「本ファンド」）に、株式会...",
       "maMarket": "jp"
     },
     {
-      "title": "Chinese-owned firm takes over one of Australia's largest cannabis farms",
-      "url": "https://www.abc.net.au/news/2026-09-29/chinese-company-buys-tasmanian-botanics-cannabis/107206340",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-29T00:58:08Z",
-      "description": "Despite the takeover of the cannabis farm north of Hobart, the chief executive of Tasmanian Botanics says it is \"business as usual\" for staff and customers.",
-      "maMarket": "us"
-    },
-    {
-      "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
-      "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
-      "source": "Itmedia.co.jp",
-      "publishedAt": "2026-09-29T00:38:00Z",
-      "description": "AMDは、フェイフェイ・リー博士が率いるAI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した。空間知能や物理AIの知見を取り込み次世代インフラを強化する。買収完了後、リー氏はAMDのEVP兼チーフサイエンティストに就任し、同氏のチームとともにオープンなAIエコシステム構築を担う。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "data-aggregator-mcp 0.51.0",
-      "url": "https://pypi.org/project/data-aggregator-mcp/0.51.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-09-29T00:54:49Z",
-      "description": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
-      "maMarket": "us"
-    },
-    {
-      "title": "【速報】イーロン・マスク、日本のテレビ局買収について言及！！！！",
-      "url": "https://asianoneta.blog.jp/63511853",
-      "source": "Blog.jp",
-      "publishedAt": "2026-09-28T23:07:07Z",
-      "description": "1: スナドリネコ(東京都) [ﾇｺ] 2026/09/28(月) 21:41:44.34 ID:phcDDNzT0● BE:837857943-PLT(18184) イーロン・マスクが日本のテレビ局の“買収”を検討か？！日本人ユーザーがマスク氏に「日本の報道は左翼に支配されている。あなたが日本を救える最後の人物だ」とテレビ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Buzzing stocks: Tata Group, Anupam Rasayan, HCLSoftware, IRFC, NCC, Pidilite and others in focus",
-      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-tata-group-anupam-rasayan-hclsoftware-irfc-ncc-pidilite-and-others-in-focus/article71522304.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-29T00:35:30Z",
-      "description": "Corporate restructuring, strategic acquisitions, new partnerships, major project orders, fleet expansion and renewable-energy capacity additions marked a busy day of announcements from Indian companies",
-      "maMarket": "us"
-    },
-    {
-      "title": "ジャングリア沖縄「資金ショートを避けたい。追加融資して」",
-      "url": "https://news4vip.livedoor.biz/archives/52590970.html",
-      "source": "Livedoor.biz",
-      "publishedAt": "2026-09-28T23:00:38Z",
-      "description": "1: 以下、ニュー速クオリティでお送りします 2026/09/25(金) 21:59:08.25 ID:vNz2Ifli0 昨年７月に沖縄県に開業したテーマパーク「ジャングリア沖縄」の運営会社が、「資金ショート（不足）のリスクに対応するため」として、 金融機関に追加の融資を求め、新たな出資企業も...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Paramount Woos Investors With Mega $44 Billion Debt Offer To Fund WBD Deal As Judge Weighs Settlement",
-      "url": "https://biztoc.com/x/0a9b64ae409a5bd1",
+      "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
+      "url": "https://biztoc.com/x/97aa4660804719ec",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-29T00:28:21Z",
-      "description": "Paramount began marketing a massive $44.4 billion debt offering Monday to fund its acquisition of Warner Bros. Discovery as it awaits a decision by a federal judge that’s the last remaining hurdle to clinching the deal. “The actual closing date of the acquisi…",
+      "publishedAt": "2026-09-30T00:43:04Z",
+      "description": "WASHINGTON — Army acquisition leaders and Joint Interagency Task Force 401 officials announced today that the service awarded multiple contracts worth up to $7 billion for counter-drone capabilities. The contracts, which the Army began awarding Monday, are pa…",
+      "maMarket": "us"
+    },
+    {
+      "title": "ハウテレビジョン---連結子会社mond Japanを吸収合併 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1073536",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-09-30T00:41:52Z",
+      "description": "&lt;7064&gt; ハウテレビジョン 1006 -25ハウテレビジョン&lt;7064&gt;は29日、同日開催の取締役会において、連結子会社であるmond Japanの吸収合併を決議したと発表した。本吸収合併は連結子会社を対象とする簡易吸収合併で、グループ経営管理の効率化を目的とする。mond Japan(旧Liiga)は2024年2月1日に完全子会社として設立されたが、2025年1月1日に全事業をハウテレビジョ",
+      "maMarket": "jp"
+    },
+    {
+      "title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
+      "url": "https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-09-30T00:38:31Z",
+      "description": "GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「トイザらス」をドンキ運営のPPIHが買収へ　国内で150店舗",
+      "url": "https://www.asahi.com/articles/ASV9Y7W5NV9YULFA01XM.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-09-29T23:58:05Z",
+      "description": "玩具販売大手「トイザらス」が日本での店舗運営から撤退する方針であることが、関係者への取材で分かった。ディスカウント店「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングス…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Why Tata Trusts chose TCE, TESS for proposed Tata Sons merger",
+      "url": "https://www.livemint.com/companies/news/tata-sons-restructuring-ipo-listing-tata-trusts-11790669521997.html",
+      "source": "Livemint",
+      "publishedAt": "2026-09-30T00:30:15Z",
+      "description": "Tata Trusts plans to merge Tata Consulting Engineers and Tata Electronics into Tata Sons, enhancing its revenue streams and potentially sidestepping non-banking financial company classification. The move also simplifies ownership structures, promoting easier …",
+      "maMarket": "us"
+    },
+    {
+      "title": "「有罪判決が出たらメダルを返さなきゃいけない」　元マンUファーディナンドが元マンCレスコットにタイトル返還を要求",
+      "url": "https://news.livedoor.com/article/detail/32446631/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-09-29T23:00:02Z",
+      "description": "2008年のクラブ買収後、多くのタイトルを獲得したマンチェスター・シティ。特にペップ・グアルディオラ政権での勢いは凄まじく、プレミアリーグ4連覇、CL制覇を経験している。しかし、シティは2009年から2018年にかけて財務規則に違反した疑いでプレミアリーグから告発されている。独立委員会による審理が2024年からスタートし、2年を経て疑いのあった115件のうち1件を除く114件の違反が認められたと『The Athletic』が報じている。全文theWORLD（ザ・ワールド） 09月30日08時00分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Bain Capital bids to acquire Koch’s data center company in deal exceeding $15 billion",
+      "url": "https://cryptobriefing.com/bain-capital-koch-edged-data-center-acquisition/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-30T00:23:38Z",
+      "description": "Bain's acquisition of Edged could accelerate sustainable data center practices, influencing industry standards amid growing environmental concerns. The post Bain Capital bids to acquire Koch’s data center company in deal exceeding $15 billion appeared first o…",
       "maMarket": "us"
     }
   ],
   "ipo": [
+    {
+      "title": "内部統制評価ソリューション「WizLabo Keeper」、9月30日より提供開始",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000185501.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-09-30T01:00:00Z",
+      "description": "[宝印刷株式会社] TAKARA & CO （東証プライム・証券コード7921）グループでディスクロージャー関連のシステムを提供する宝印刷株式会社（本社：東京都豊島区/代表取締役社長：白井恒太）は、ジュリオ株式会社との共同事業によ...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Blockchain.com Is Reportedly Seeking Up To $500M In US IPO",
+      "url": "https://bitcoinist.com/blockchain-com-is-reportedly-seeking-up-to-500m-in-us-ipo/",
+      "source": "Bitcoinist",
+      "publishedAt": "2026-09-29T22:30:00Z",
+      "description": "Blockchain.com is reportedly preparing a U.S. IPO that could raise about $500 million. Bloomberg reports the company is discussing a valuation of roughly $4 billion to $6 billion. The plans remain private and could change; Blockchain.com has not announced a f…",
+      "ipoMarket": "us"
+    },
     {
       "title": "本日のスケジュール - 最新株式ニュース",
       "url": "https://diamond.jp/zai/articles/-/1073474",
@@ -83,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic establishes Founder LLC to prioritize public good over profits ahead of IPO",
-      "url": "https://cryptobriefing.com/anthropic-founder-llc-public-good-governance/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-29T00:54:28Z",
-      "description": "Anthropic's governance model may set a precedent for balancing ethical AI development with investor interests, challenging traditional corporate norms. The post Anthropic establishes Founder LLC to prioritize public good over profits ahead of IPO appeared fir…",
+      "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
+      "url": "https://biztoc.com/x/ae6a5bb29c3f1099",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-29T20:40:46Z",
+      "description": "Biometric ring maker Oura raised eyebrows on Wall Street Tuesday, postponing its initial public offering due to \"uncertainty\" in market conditions while also claiming there was \"strong demand\" for stock. IPO delays have accelerated in 2026, even as Oura faced…",
       "ipoMarket": "us"
     },
     {
@@ -99,39 +115,65 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Prospecto do IPO da Anthropic revela visão abrangente de IA e custos crescentes",
-      "url": "https://www.infomoney.com.br/mercados/prospecto-do-ipo-da-anthropic-revela-visao-abrangente-de-ia-e-custos-crescentes/",
-      "source": "InfoMoney",
-      "publishedAt": "2026-09-29T00:32:47Z",
-      "description": "Prospecto do IPO da Anthropic revela visão abrangente de IA e custos crescentes The post Prospecto do IPO da Anthropic revela visão abrangente de IA e custos crescentes appeared first on InfoMoney.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "東京証券取引所グロース市場への新規上場承認に関するお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000106.000097866.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-28T07:30:00Z",
-      "description": "[トグルホールディングス株式会社] トグルホールディングス株式会社（本社：東京都港区、代表取締役CEO：伊藤嘉盛、以下「当社」）は、2026年9月28日（月）、株式会社東京証券取引所（以下、東京証券取引所）より、当社株式の東京証券取引所グロー...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Anthropic’s IPO prospectus shows sweeping AI vision, surging costs",
-      "url": "https://www.straitstimes.com/business/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs",
-      "source": "The Straits Times",
-      "publishedAt": "2026-09-29T00:01:32Z",
-      "description": "The IPO, potentially valuing the company above US$2 trillion, will test investor appetite amid fierce competition. Read more at straitstimes.com.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs: Reuters",
-      "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+      "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
+      "url": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
       "source": "CNBC",
-      "publishedAt": "2026-09-28T23:55:07Z",
-      "description": "Anthropic is making a massive bet that AI will transform the global economy more profoundly than industrialization, electricity and the internet, according to its IPO prospectus seen by Reuters.",
+      "publishedAt": "2026-09-29T20:33:01Z",
+      "description": "It's been a strong year for IPOs. But now, more companies are deciding to stay on the sidelines.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Leaked Anthropic IPO filing reveals $8B operating loss, rapid revenue growth",
+      "url": "https://siliconangle.com/2026/09/29/leaked-anthropic-ipo-filing-reveals-8b-operating-loss-rapid-revenue-growth/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-09-29T20:08:22Z",
+      "description": "Anthropic PBC’s revenue and losses grew significantly last year, while its cloud spending is on track to top $500 billion over the next decade. The newly published financial information comes from the company’s confidential S-1 filing. The document, which out…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "テルアビブ便 乗客らが襲撃者制圧",
+      "url": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T00:33:56.000Z",
+      "description": ""
+    },
+    {
+      "title": "テルアビブ便 副操縦士が機長刺す",
+      "url": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T22:17:08.000Z",
+      "description": ""
+    },
+    {
+      "title": "米軍 IS巡るイラクでの任務を終了",
+      "url": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T13:02:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "モロッコ初の女性首相 組閣へ",
+      "url": "https://news.yahoo.co.jp/pickup/6597059?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T04:55:37.000Z",
+      "description": ""
+    },
+    {
+      "title": "ウ侵攻 通信インフラの防御策焦点",
+      "url": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T04:32:47.000Z",
+      "description": ""
+    },
+    {
+      "title": "AI名称「SI」に 米大統領令に署名",
+      "url": "https://news.yahoo.co.jp/pickup/6597046?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-30T03:05:56.000Z",
+      "description": ""
+    },
     {
       "title": "習近平政権 岩屋前外相を厚遇",
       "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
@@ -144,55 +186,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6597022?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-09-30T00:13:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "北朝鮮 地雷爆発は韓国の自作自演",
-      "url": "https://news.yahoo.co.jp/pickup/6597020?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T23:54:35.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国念頭 鉄鋼う回輸出監視強化へ",
-      "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T23:25:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "トランプ氏 AI監督委設置を検討",
-      "url": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T22:34:21.000Z",
-      "description": ""
-    },
-    {
-      "title": "日本から返還のパンダ 中国で公開",
-      "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T11:16:07.000Z",
-      "description": ""
-    },
-    {
-      "title": "海峡再開巡るイラン案 米拒否なぜ",
-      "url": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T05:04:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国「テクノロジー観光」に注力",
-      "url": "https://news.yahoo.co.jp/pickup/6596921?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T00:37:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン 間接協議で米側へ要求伝達",
-      "url": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-29T00:04:07.000Z",
       "description": ""
     }
   ]
