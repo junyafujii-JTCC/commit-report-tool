@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T01:09:20.494Z",
+  "fetchedAt": "2026-10-02T01:25:49.231Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "ヤモリが運営する「Tokyo空き家再生賃貸アフォーダブル住宅ファンド」に株式会社日本政策投資銀行が有限責任組合員として出資参画いたします",
-      "url": "https://prtimes.jp/main/html/rd/p/000000015.000080742.html",
+      "title": "シティ、樋口元を日本投資銀行部門M&A責任者、安久芳伸を日本のスポンサーカバレッジ統括責任者に任命",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000004844.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-09-30T01:00:00Z",
-      "description": "[株式会社ヤモリ] 株式会社ヤモリ（本社：東京都渋谷区、代表取締役：藤澤正太郎、以下「ヤモリ」）は、ヤモリが運営する「Tokyo空き家再生賃貸アフォーダブル住宅ファンド投資事業有限責任組合」（以下「本ファンド」）に、株式会...",
+      "publishedAt": "2026-10-01T01:17:37Z",
+      "description": "[Citigroup] シティは、樋口元（ひぐち はじめ）を日本投資銀行部門M&A本部長に、また安久芳伸（あぐ よしのぶ）をスポンサーカバレッジ統括責任者に任命したことを発表しました。両人事は2026年10月1日付で発効します。...",
       "maMarket": "jp"
     },
     {
-      "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
-      "url": "https://biztoc.com/x/97aa4660804719ec",
+      "title": "Transurban to buy $4.5 billion of Sydney toll-road stakes from CPP Investments",
+      "url": "https://biztoc.com/x/d52f507113d9605a",
       "source": "Biztoc.com",
-      "publishedAt": "2026-09-30T00:43:04Z",
-      "description": "WASHINGTON — Army acquisition leaders and Joint Interagency Task Force 401 officials announced today that the service awarded multiple contracts worth up to $7 billion for counter-drone capabilities. The contracts, which the Army began awarding Monday, are pa…",
+      "publishedAt": "2026-10-01T01:18:30Z",
+      "description": "Investing.com -- Transurban (ASX:TCL) on Thursday agreed to acquire additional stakes in two major Sydney toll-road assets from Canada Pension Plan Investment Board for about A$4.5 billion ($3.13 billion), increasing its ownership of Westlink M7, NorthConnex …",
       "maMarket": "us"
     },
     {
-      "title": "ハウテレビジョン---連結子会社mond Japanを吸収合併 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073536",
+      "title": "コンフインタ--- flaggsを連結子会社化 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1073595",
       "source": "Diamond.jp",
-      "publishedAt": "2026-09-30T00:41:52Z",
-      "description": "&lt;7064&gt; ハウテレビジョン 1006 -25ハウテレビジョン&lt;7064&gt;は29日、同日開催の取締役会において、連結子会社であるmond Japanの吸収合併を決議したと発表した。本吸収合併は連結子会社を対象とする簡易吸収合併で、グループ経営管理の効率化を目的とする。mond Japan(旧Liiga)は2024年2月1日に完全子会社として設立されたが、2025年1月1日に全事業をハウテレビジョ",
+      "publishedAt": "2026-10-01T01:04:16Z",
+      "description": "&lt;7374&gt; コンフインタ 1502 0コンフィデンス・インターワークス&lt;7374&gt;は30日、flaggs(本社：東京都品川区)の株式を取得し、連結子会社化することを決議したと発表した。株式譲渡実行日は2026年10月1日を予定しており、吉江直人氏が保有する株式34,168株を取得することで、取得後の所有株式数は34,168株、議決権所有割合は70.0％となる。取得価額は非開示としている。2015",
       "maMarket": "jp"
     },
     {
-      "title": "GlobalFoundries Singapore capacity utilization tops 90% as silicon photonics expansion hits equipment lead-time bottleneck",
-      "url": "https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html",
+      "title": "AI chip packaging demand meets labor pushback: ASE's NT$5.6B Taiwan snack factory deal sparks strike vote",
+      "url": "https://www.digitimes.com/news/a20260930PD251/ase-plant-expansion-strike-relocation.html",
       "source": "Digitimes",
-      "publishedAt": "2026-09-30T00:38:31Z",
-      "description": "GlobalFoundries (GF) is expanding its Singapore footprint following its acquisition of local silicon photonics foundry Advanced Micro Foundry (AMF), integrating 200mm and 300mm silicon photonics technologies while transferring its existing US 300mm capabiliti…",
+      "publishedAt": "2026-10-01T01:15:15Z",
+      "description": "ASE Technology Holding (ASEH) announced on July 30 that it would spend roughly NT$5.67 billion (approx. US$177.97 million) to acquire land and factory buildings in the Zhongli Industrial Park from Taiwanese snack maker Kuai Kuai, a move meant to support futur…",
       "maMarket": "us"
     },
     {
-      "title": "「トイザらス」をドンキ運営のPPIHが買収へ　国内で150店舗",
-      "url": "https://www.asahi.com/articles/ASV9Y7W5NV9YULFA01XM.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-09-29T23:58:05Z",
-      "description": "玩具販売大手「トイザらス」が日本での店舗運営から撤退する方針であることが、関係者への取材で分かった。ディスカウント店「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングス…",
+      "title": "合同会社マイアジアエンターテイメント【2026年最新調査】動画販売・デジタルコンテンツ販売の集客に必要なXアカウント(旧Twitter)とは？告知投稿の形式・見てもらう段階と買ってもらう段階の違い・販売ページへの導線設計を徹底調査",
+      "url": "https://pcmsx.aiasahi.jp/cnet/release/31211511/",
+      "source": "Aiasahi.jp",
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "description": "SNSアカウントの売買・M&Aプラットフォーム「アカバイ」(https://akabuy.co.jp/)を運営する合同会社マイアジアエンターテインメント(本社:東京都)は、2026年8月1日から2026年9月15日にかけて実施した自社プラットフォームの利用動向調査をもとに、動画講座、教材、電子書籍、作品データといったデジタルコンテンツを販売...",
       "maMarket": "jp"
     },
     {
-      "title": "Why Tata Trusts chose TCE, TESS for proposed Tata Sons merger",
-      "url": "https://www.livemint.com/companies/news/tata-sons-restructuring-ipo-listing-tata-trusts-11790669521997.html",
-      "source": "Livemint",
-      "publishedAt": "2026-09-30T00:30:15Z",
-      "description": "Tata Trusts plans to merge Tata Consulting Engineers and Tata Electronics into Tata Sons, enhancing its revenue streams and potentially sidestepping non-banking financial company classification. The move also simplifies ownership structures, promoting easier …",
+      "title": "Mark Ruffalo Slams Approved ParaBros Merger: “Bad Deal For This Country”",
+      "url": "http://deadline.com/2026/09/mark-ruffalo-slams-paramount-merger-1237143906/",
+      "source": "Deadline",
+      "publishedAt": "2026-10-01T00:26:57Z",
+      "description": "Mark Ruffalo has been one of the fiercest critics of the $111 billion Paramount and Warner Bros Discovery merger and after the deal became a reality today, the man who plays the Incredible Hulk in the MCU came out swinging. “This merger will stifle creativity…",
       "maMarket": "us"
     },
     {
-      "title": "「有罪判決が出たらメダルを返さなきゃいけない」　元マンUファーディナンドが元マンCレスコットにタイトル返還を要求",
-      "url": "https://news.livedoor.com/article/detail/32446631/",
+      "title": "日本製鉄がUSスチール買収1年で成果、地元に「未来がある」と希望の声",
+      "url": "https://news.livedoor.com/article/detail/32456498/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-09-29T23:00:02Z",
-      "description": "2008年のクラブ買収後、多くのタイトルを獲得したマンチェスター・シティ。特にペップ・グアルディオラ政権での勢いは凄まじく、プレミアリーグ4連覇、CL制覇を経験している。しかし、シティは2009年から2018年にかけて財務規則に違反した疑いでプレミアリーグから告発されている。独立委員会による審理が2024年からスタートし、2年を経て疑いのあった115件のうち1件を除く114件の違反が認められたと『The Athletic』が報じている。全文theWORLD（ザ・ワールド） 09月30日08時00分",
+      "publishedAt": "2026-09-30T21:15:00Z",
+      "description": "ざっくり言うと <ul> <li>日本製鉄によるUSスチール買収から1年が経過し成果が出始めている</li> <li>設備投資や賃上げが進み、地元労働者の間に「未来がある」との声が広がりつつある</li> <li>在米ジャーナリストの岩田太郎氏は買収は概ね成功との見方を示している</li> </ul> 記事を読む",
       "maMarket": "jp"
     },
     {
-      "title": "Bain Capital bids to acquire Koch’s data center company in deal exceeding $15 billion",
-      "url": "https://cryptobriefing.com/bain-capital-koch-edged-data-center-acquisition/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-30T00:23:38Z",
-      "description": "Bain's acquisition of Edged could accelerate sustainable data center practices, influencing industry standards amid growing environmental concerns. The post Bain Capital bids to acquire Koch’s data center company in deal exceeding $15 billion appeared first o…",
+      "title": "South Korea ordered to pay Elliott $48.49 million in Samsung merger case",
+      "url": "https://www.channelnewsasia.com/business/south-korea-ordered-pay-elliott-4849-million-in-samsung-merger-case-6422986",
+      "source": "CNA",
+      "publishedAt": "2026-10-01T00:25:24Z",
+      "description": "SEOUL, Oct 1 : South Korea has been ordered to pay US hedge fund Elliott about $48.49 million plus interest after a tribunal ruled the government's involvement in the 2015 merger of Samsung C&T and Cheil Industries was causally linked to Elliott's losses, Seo…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Blockchain.com Is Reportedly Seeking Up To $500M In US IPO",
-      "url": "https://bitcoinist.com/blockchain-com-is-reportedly-seeking-up-to-500m-in-us-ipo/",
-      "source": "Bitcoinist",
-      "publishedAt": "2026-09-29T22:30:00Z",
-      "description": "Blockchain.com is reportedly preparing a U.S. IPO that could raise about $500 million. Bloomberg reports the company is discussing a valuation of roughly $4 billion to $6 billion. The plans remain private and could change; Blockchain.com has not announced a f…",
+      "title": "AI infra firm Accelevation's shares fall in tepid Nasdaq debut",
+      "url": "https://www.channelnewsasia.com/business/ai-infra-firm-accelevations-shares-fall-in-tepid-nasdaq-debut-6422336",
+      "source": "CNA",
+      "publishedAt": "2026-09-30T18:14:18Z",
+      "description": "Sept 30 : Data center infrastructure firm Accelevation fell 2.5 per cent in its Nasdaq debut on Wednesday, after pricing its IPO below its marketed range, signaling that investors are turning cautious on the AI story as spending uncertainty looms. Accelevatio…",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
-      "url": "https://biztoc.com/x/ae6a5bb29c3f1099",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-29T20:40:46Z",
-      "description": "Biometric ring maker Oura raised eyebrows on Wall Street Tuesday, postponing its initial public offering due to \"uncertainty\" in market conditions while also claiming there was \"strong demand\" for stock. IPO delays have accelerated in 2026, even as Oura faced…",
+      "title": "US stocks: AI infra firm Accelevation valued at $3.9 billion as shares fall in Nasdaq debut",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-infra-firm-accelevation-valued-at-3-9-billion-as-shares-fall-in-nasdaq-debut/articleshow/134600144.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-30T17:38:04Z",
+      "description": "Accelevation's shares began trading below the initial public offering price of $18, reflecting current market instability. The company, which focuses on data center infrastructure, successfully raised $540 million by offering around 30 million shares at a deb…",
       "ipoMarket": "us"
     },
     {
@@ -115,77 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
-      "url": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
-      "source": "CNBC",
-      "publishedAt": "2026-09-29T20:33:01Z",
-      "description": "It's been a strong year for IPOs. But now, more companies are deciding to stay on the sidelines.",
+      "title": "Oura postpones its $2.2bn IPO, citing market uncertainty",
+      "url": "https://thenextweb.com/news/oura-ipo-postponed-market-uncertainty",
+      "source": "The Next Web",
+      "publishedAt": "2026-09-30T17:23:23Z",
+      "description": "Oura has postponed its Nasdaq IPO, citing “uncertainty in the IPO market”. The Finnish-founded smart ring maker said so in a statement on Tuesday, a week after it launched the offering. It said it is postponing “despite strong demand”, and gave no new date. O…",
       "ipoMarket": "us"
     },
     {
-      "title": "Leaked Anthropic IPO filing reveals $8B operating loss, rapid revenue growth",
-      "url": "https://siliconangle.com/2026/09/29/leaked-anthropic-ipo-filing-reveals-8b-operating-loss-rapid-revenue-growth/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-09-29T20:08:22Z",
-      "description": "Anthropic PBC’s revenue and losses grew significantly last year, while its cloud spending is on track to top $500 billion over the next decade. The newly published financial information comes from the company’s confidential S-1 filing. The document, which out…",
+      "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
+      "url": "https://www.businessinsider.com/michael-burry-warns-against-openai-anthropic-going-public-2026-9#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-30T16:47:30Z",
+      "description": "Michael Burry says it would benefit humanity if markets tanked and blocked OpenAI and Anthropic IPOs, warning they could destroy trillions in capital.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "韓国「検察庁」78年の歴史に幕",
+      "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-02T00:08:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "G20貿易相 過剰生産巡り意見対立",
+      "url": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T23:09:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "トランプ氏 習氏へ日中対話促す",
+      "url": "https://news.yahoo.co.jp/pickup/6597227?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T22:11:42.000Z",
+      "description": ""
+    },
+    {
+      "title": "米死刑囚への刑執行が「失敗」",
+      "url": "https://news.yahoo.co.jp/pickup/6597226?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T22:00:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "スイス氷河 過去5年で2割消失",
+      "url": "https://news.yahoo.co.jp/pickup/6597220?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T14:38:16.000Z",
+      "description": ""
+    },
+    {
+      "title": "米誌「次世代の100人」に八幡市長",
+      "url": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T02:50:47.000Z",
+      "description": ""
+    },
+    {
+      "title": "国防長官 米軍将官20%削減と発表",
+      "url": "https://news.yahoo.co.jp/pickup/6597146?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T02:14:11.000Z",
+      "description": ""
+    },
+    {
       "title": "テルアビブ便 乗客らが襲撃者制圧",
       "url": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-01T00:33:56.000Z",
-      "description": ""
-    },
-    {
-      "title": "テルアビブ便 副操縦士が機長刺す",
-      "url": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T22:17:08.000Z",
-      "description": ""
-    },
-    {
-      "title": "米軍 IS巡るイラクでの任務を終了",
-      "url": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T13:02:02.000Z",
-      "description": ""
-    },
-    {
-      "title": "モロッコ初の女性首相 組閣へ",
-      "url": "https://news.yahoo.co.jp/pickup/6597059?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T04:55:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ侵攻 通信インフラの防御策焦点",
-      "url": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T04:32:47.000Z",
-      "description": ""
-    },
-    {
-      "title": "AI名称「SI」に 米大統領令に署名",
-      "url": "https://news.yahoo.co.jp/pickup/6597046?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T03:05:56.000Z",
-      "description": ""
-    },
-    {
-      "title": "習近平政権 岩屋前外相を厚遇",
-      "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T00:41:55.000Z",
-      "description": ""
-    },
-    {
-      "title": "仏各地の高校で抗議デモ 逮捕者も",
-      "url": "https://news.yahoo.co.jp/pickup/6597022?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-30T00:13:22.000Z",
       "description": ""
     }
   ]
