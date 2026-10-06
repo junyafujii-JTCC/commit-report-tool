@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T00:34:28.231Z",
+  "fetchedAt": "2026-10-06T02:07:23.707Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,59 @@
   ],
   "ma": [
     {
-      "title": "パラマウントとワーナー統合、新社名は「スカイダンス」に決定",
-      "url": "https://news.livedoor.com/article/detail/32479130/",
+      "title": "最新撮り下ろしで魅せる菊地姫奈、『週プレ』60周年創刊月間を飾る至高グラビア",
+      "url": "https://news.livedoor.com/article/detail/32490099/",
       "source": "Livedoor.com",
-      "publishedAt": "2026-10-03T13:39:08Z",
-      "description": "パラマウント・スカイダンスとワーナー・ブラザース・ディスカバリー（WBD）の統合後、新たな親会社は「Skydance Corporation（スカイダンス・コーポレーション）」を名乗ることが決まった。買収は2026年10月6日に完了する見込みで、同日付で社名変更が実施される予定だ。 アナウンス映像が公開されている。『タイタニック』『ロード・オブ・ザ・リング』『ダークナイト』『スーパーマン』『トップガン マーヴェリック』『ハリー・ポッター』『罪人たち』「ゲーム・オブ・スローンズ全文THE RIVER 10月03日2…",
+      "publishedAt": "2026-10-05T01:45:00Z",
+      "description": "『週刊プレイボーイ』42＆43号は10月5日に発売！ 2nd写真集が大ヒット発売中の菊地姫奈が、10月5日発売の『週刊プレイボーイ』42＆43合併号に登場。巻頭20ページの撮り下ろしグラビアを披露している。 菊地姫奈 ©前康輔／集英社 【プロフィール】菊地姫奈（きくち・ひな）2004年10月19日生まれ茨城県出身身長160cmファッション誌『non-no』の専属モデルで、俳優としても活躍中！高校卒業のタイミングで発売した2nd写真集『moment』（集英社）が全文ラブすぽ 10月05日10時45分",
       "maMarket": "jp"
     },
     {
-      "title": "data-aggregator-mcp 0.55.2",
-      "url": "https://pypi.org/project/data-aggregator-mcp/0.55.2/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-10-03T23:19:19Z",
-      "description": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
+      "title": "Lite-On invests NT$8.85 billion in Kaohsiung expansion; subsidiary Leotek to acquire AmpUp",
+      "url": "https://www.digitimes.com/news/a20261003PD200/lite-on-leotek-ev-charging-expansion-kaohsiung.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-05T01:48:11Z",
+      "description": "Lite-On Technology is stepping up its strategic investment in server hardware manufacturing and electric vehicle (EV) charging software integration to support overall revenue growth. On October 2, the company announced that its board approved a capital expend…",
       "maMarket": "us"
     },
     {
-      "title": "ISSUE RESEARCH & TECHNOLOGIES、一般社団法人M&A支援機関協会に入会",
-      "url": "https://prtimes.jp/main/html/rd/p/000000029.000098689.html",
+      "title": "FLAGSグループ 東京支店を開設",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000139233.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-10-03T08:11:09Z",
-      "description": "[株式会社ISSUE RESEARCH & TECHNOLOGIES] 株式会社ISSUE RESEARCH & TECHNOLOGIES（本社：東京都港区、代表取締役社長：水野貴弘、以下「当社」）は、一般社団法人M&A支援機関協会（以下「協会」）への入会が、2026年9月30日開催の同協会理事会に...",
+      "publishedAt": "2026-10-05T01:40:40Z",
+      "description": "[税理士法人FLAGS（FLAGS GROUP)] 創業以来57年にわたり、名古屋市を拠点として中小企業様の経営課題解決に取り組み、公的制度支援やM&A支援などの専門的なサポートも積極的に行っているFLAGSグループ https://sue-tax.com/（本社：愛知県名古...",
       "maMarket": "jp"
     },
     {
-      "title": "EQUITY ALERT - The M&A Class Action Firm Launches Inquiry -- LSTA, FSHP, BWIN, and ACVA",
-      "url": "https://www.prnewswire.com/news-releases/equity-alert---the-ma-class-action-firm-launches-inquiry--lsta-fshp-bwin-and-acva-302897700.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-03T22:38:00Z",
-      "description": "NEW YORK, Oct. 3, 2026 /PRNewswire/ -- Class Action Attorney Juan Monteverde with Monteverde & Associates PC (the \"M&A Class Action Firm\"), has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm in the 2025 ISS Securities Class …",
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "url": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+      "source": "Publickey1.jp",
+      "publishedAt": "2026-10-04T14:06:26Z",
+      "description": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "France's Schneider Electric nears $20 billion deal to buy US software group PTC: Report",
+      "url": "https://economictimes.indiatimes.com/news/international/business/frances-schneider-electric-nears-20-billion-deal-to-buy-us-software-group-ptc-report/articleshow/134683604.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-05T01:36:58Z",
+      "description": "Schneider Electric is reportedly nearing a deal to acquire US-based software company PTC for about $20 billion. The Financial Times highlighted that negotiations might result in an announcement by Monday. PTC, based in Boston, has a current market value of ap…",
       "maMarket": "us"
     },
     {
-      "title": "「スガキヤ」がドムドムを買収　関東出店も見据え連携強化",
-      "url": "https://goldennews.blog.jp/archives/52308680.html",
-      "source": "Blog.jp",
-      "publishedAt": "2026-10-03T04:12:14Z",
-      "description": "1 ：ななしさん ：26/10/02(金) 16:41:24 ID:??? あのスガキヤが…あのドムドムを… ラーメン店「スガキヤ」、ハンバーガーのドムドムを買収https://t.co/YhSTiIKtjZショッピングモールへの共同出店やテイクアウト強化などで連携を模索します。ドムドムは「どむぞ...",
+      "title": "泉佐野と泉南、合併かｗｗｗｗｗｗｗｗｗｗ",
+      "url": "http://blog.livedoor.jp/nanjstu/archives/63523703.html",
+      "source": "Livedoor.jp",
+      "publishedAt": "2026-10-04T11:00:33Z",
+      "description": "転載元: https://nova.5ch.io/test/read.cgi/livegalileo/1791106573/1: それでも動く名無し 2026/10/04(日) 18:36:13.82 ID:CMySMnya0 大阪府の泉佐野市と泉南市が、合併を視野に検討を始めることが4日、関係者への取材で分かった。 来年1月にも合併に関する研究会を発",
       "maMarket": "jp"
     },
     {
-      "title": "1969 Ford F-250 Ranger Camper Special at No Reserve",
-      "url": "https://bringatrailer.com/listing/1969-ford-f-250-118/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-10-03T22:25:08Z",
-      "description": "This 1969 Ford F-250 Ranger Camper Special is a rear-wheel-drive pickup that is said to have remained with a single family from new until its 2026 acquisition by the seller, who tells us that its Ford FE V8 displaces 390ci and has been modified with an electr…",
-      "maMarket": "us"
-    },
-    {
-      "title": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54032",
-      "source": "Web.nhk",
-      "publishedAt": "2026-10-03T02:59:42Z",
-      "description": "【NHK】アメリカのメディア大手「パラマウント・スカイダンス」は、「ワーナー・ブラザース・ディスカバリー」を買収した後の新たな社名を「スカイダンス」に変更すると発表しました。100年以上の歴史を持つ「パラマウン",
-      "maMarket": "jp"
-    },
-    {
-      "title": "‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop",
-      "url": "https://biztoc.com/x/541fea7b57e70072",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-03T21:27:34Z",
-      "description": "Alejandro G. Iñárritu, left, the director of “Diggers,” and Tom Cruise, who plays a gray-haired billionaire in the film. They were in Mexico late last month promoting it.",
+      "title": "IDF honors Unit 8200 officer who warned before Oct. 7",
+      "url": "https://www.israelnationalnews.com/news/434110",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-05T01:36:24Z",
+      "description": "IDF Chief of Staff Eyal Zamir honors Unit 8200 CWO who warned before October 7 that Hamas was preparing a large-scale surprise attack.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +75,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Broadcom to lend Anthropic up to $42bn to lease its chips",
-      "url": "https://www.gulf-times.com/article/734706/business/broadcom-to-lend-anthropic-up-to-42bn-to-lease-its-chips",
-      "source": "Gulf-times.com",
-      "publishedAt": "2026-10-03T20:12:15Z",
-      "description": "Anthropic’s IPO prospectus documents extensive partnerships with a handful of big tech firms. One stands out: Chip maker Broadcom....",
+      "title": "Wall Street IPO activity slows amid valuation concerns: FT",
+      "url": "https://cryptobriefing.com/wall-street-ipo-activity-slows-amid-valuation-concerns-ft/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-04T06:19:20Z",
+      "description": "The slowdown in IPO activity may lead to increased caution among investors, affecting future market dynamics and tech sector valuations. The post Wall Street IPO activity slows amid valuation concerns: FT appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +91,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "If You'd Invested $1,000 in Broadcom's 2009 IPO, Here's How Much You'd Have Today",
-      "url": "https://biztoc.com/x/0ebbbe1c650f1d16",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-03T11:12:54Z",
-      "description": "Broadcom (NASDAQ: AVGO) launched its IPO on Aug. 6, 2009. Known at the time as Avago Technologies, its strategy of building semiconductors for other businesses resonated with customers and investors alike. The company's success also spurred a move into softwa…",
+      "title": "Broadcom to lend Anthropic up to $42bn to lease its chips",
+      "url": "https://www.gulf-times.com/article/734706/business/broadcom-to-lend-anthropic-up-to-42bn-to-lease-its-chips",
+      "source": "Gulf-times.com",
+      "publishedAt": "2026-10-03T20:12:15Z",
+      "description": "Anthropic’s IPO prospectus documents extensive partnerships with a handful of big tech firms. One stands out: Chip maker Broadcom....",
       "ipoMarket": "us"
     },
     {
@@ -115,92 +107,77 @@
       "ipoMarket": "jp"
     },
     {
+      "title": "If You'd Invested $1,000 in Broadcom's 2009 IPO, Here's How Much You'd Have Today",
+      "url": "https://biztoc.com/x/0ebbbe1c650f1d16",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-03T11:12:54Z",
+      "description": "Broadcom (NASDAQ: AVGO) launched its IPO on Aug. 6, 2009. Known at the time as Avago Technologies, its strategy of building semiconductors for other businesses resonated with customers and investors alike. The company's success also spurred a move into softwa…",
+      "ipoMarket": "us"
+    },
+    {
       "title": "Anthropic targets mega-IPO before Thanksgiving Holiday",
       "url": "https://economictimes.indiatimes.com/ai/ai-insights/anthropic-targets-mega-ipo-before-thanksgiving-holiday/articleshow/134650730.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-03T01:27:46Z",
       "description": "Anthropic PBC is expected to start marketing its initial public offering around November 9. The company's trading debut could occur before Thanksgiving, which is on November 26. Although facing competition from OpenAI, investors remain optimistic about Anthro…",
       "ipoMarket": "us"
-    },
-    {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1073474",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-09-28T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞14:00 景気先行CI指数(7月) 117.914:00 景気一致指数(7月) 120.6 月例経済報告(9月) クラサスケミカルが東証スタンダードに新規上場(パーシャルスピンオフ)＜海外＞13:30 豪・オーストラリア準備銀行(中央銀行)が政策金利発表 4.60％ 4.35％18:00 欧・ユーロ圏景況感指数(9月) 98.8 98.418:00 欧・ユー",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Nscale hires former Meta executive Justin Osofsky as COO ahead of US IPO",
-      "url": "https://cryptobriefing.com/nscale-hires-justin-osofsky-coo-ipo/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-10-02T20:31:40Z",
-      "description": "Nscale's strategic leadership shift signals potential volatility in executive stability, impacting investor confidence ahead of its ambitious IPO. The post Nscale hires former Meta executive Justin Osofsky as COO ahead of US IPO appeared first on Crypto Brief…",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "AI政策司令塔SIフォース 米が創設",
-      "url": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
+      "title": "「ケインとアベル」英作家が死去",
+      "url": "https://news.yahoo.co.jp/pickup/6597714?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T21:47:44.000Z",
+      "publishedAt": "2026-10-06T01:41:50.000Z",
       "description": ""
     },
     {
-      "title": "ブラジル大統領選 決選投票の公算",
-      "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
+      "title": "日本の制裁受け 露が対抗措置表明",
+      "url": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T12:54:18.000Z",
+      "publishedAt": "2026-10-06T01:23:30.000Z",
       "description": ""
     },
     {
-      "title": "露元首相 プーチン氏の過ち語る",
-      "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
+      "title": "米の公立学校で「禁書」が大幅増",
+      "url": "https://news.yahoo.co.jp/pickup/6597710?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T12:34:33.000Z",
+      "publishedAt": "2026-10-06T01:00:29.000Z",
       "description": ""
     },
     {
-      "title": "独 ウに2400億円相当を追加支援へ",
-      "url": "https://news.yahoo.co.jp/pickup/6597536?source=rss",
+      "title": "サウジ 集団防衛態勢へ直ちに移行",
+      "url": "https://news.yahoo.co.jp/pickup/6597702?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T09:54:00.000Z",
+      "publishedAt": "2026-10-05T23:25:37.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 対立議員の電話番号公開",
-      "url": "https://news.yahoo.co.jp/pickup/6597522?source=rss",
+      "title": "NY州で緊急事態宣言 はしか増加",
+      "url": "https://news.yahoo.co.jp/pickup/6597694?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T08:07:45.000Z",
+      "publishedAt": "2026-10-05T22:23:55.000Z",
       "description": ""
     },
     {
-      "title": "副操縦士襲撃 緊迫の状況語る機長",
-      "url": "https://news.yahoo.co.jp/pickup/6597506?source=rss",
+      "title": "米兵逮捕 米メディアも相次ぎ報道",
+      "url": "https://news.yahoo.co.jp/pickup/6597691?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T06:32:44.000Z",
+      "publishedAt": "2026-10-05T21:45:07.000Z",
       "description": ""
     },
     {
-      "title": "クマに襲われ1カ月で16人死亡 露",
-      "url": "https://news.yahoo.co.jp/pickup/6597489?source=rss",
+      "title": "露のペスト研究所員死亡 米が注視",
+      "url": "https://news.yahoo.co.jp/pickup/6597690?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T02:33:13.000Z",
+      "publishedAt": "2026-10-05T21:30:32.000Z",
       "description": ""
     },
     {
-      "title": "死刑執行失敗 州矯正局長が辞任",
-      "url": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
+      "title": "土石流の捜索打ち切り ネパール",
+      "url": "https://news.yahoo.co.jp/pickup/6597668?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T01:24:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "米国産ジャガイモ解禁 前倒し浮上",
-      "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-03T13:57:57.000Z",
+      "publishedAt": "2026-10-05T11:59:58.000Z",
       "description": ""
     }
   ]
