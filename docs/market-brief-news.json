@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T01:16:47.244Z",
+  "fetchedAt": "2026-10-08T01:38:01.490Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "AI時代、人事に求められる役割とは。DYM HR Tech事業部責任者・佐々木聡祐が「総務・人事・経理Week」に登壇",
-      "url": "https://prtimes.jp/main/html/rd/p/000000541.000027235.html",
+      "title": "MOLCURE、伊藤忠商事と資本提携契約を締結し、医薬品開発支援体制の強化を推進",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000083912.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-10-06T00:40:56Z",
-      "description": "[DYM] WEB事業、人材事業、海外医療事業などを中心に、M&A事業やスポーツ事業など多角的に事業を展開する株式会社DYM（読み：ディーワイエム、本社：東京都品川区、代表取締役社長：水谷佑毅）は、2026年9月16日（...",
+      "publishedAt": "2026-10-07T01:00:00Z",
+      "description": "[株式会社MOLCURE] 株式会社MOLCURE（本社：神奈川県川崎市、代表取締役CEO兼CSO：玉木 聡志、以下「MOLCURE」）は、伊藤忠商事株式会社（本社：東京都港区、代表取締役社長COO：石井 敬太、以下「伊藤忠商事」）と資本提携契約を締...",
       "maMarket": "jp"
     },
     {
-      "title": "Schneider Electric's deal to buy PTC is the next step in its software push",
-      "url": "https://www.digitimes.com/news/a20261005VL211/software-schneider-electric-data-acquisition-industrial.html",
-      "source": "Digitimes",
-      "publishedAt": "2026-10-06T00:15:29Z",
-      "description": "Schneider Electric has agreed to purchase software company PTC in a deal valuing its equity at around US$22.6 billion. The all-cash acquisition marks the French energy and tech company's latest move to expand into the software and AI market.",
+      "title": "SpaceX’s $40 billion AI bet: Elon Musk turns to banks and investors for Nvidia chips",
+      "url": "https://www.livemint.com/companies/people/spacexs-40-billion-ai-bet-elon-musk-turns-to-banks-and-investors-for-nvidia-chips-11791335088153.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-07T01:11:43Z",
+      "description": "Elon Musk announced 110,000 Nvidia GB200 chips and 440,000 GB300s for Colossus 2, with plans for an additional 660,000. SpaceX seeks $40 billion in debt financing to acquire chips, reflecting the significant demand for AI computing power and ongoing large-sca…",
       "maMarket": "us"
     },
     {
-      "title": "世界越境投資上位10社、TSMCが首位、バイトダンスが2位-中国メディア",
-      "url": "https://news.livedoor.com/article/detail/32497471/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-10-05T22:30:01Z",
-      "description": "中国メディアの快科技は4日、Visual Capitalistによる「fDi Report 2026」について伝えた。それによると、2025年に多国籍企業が発表した海外直接投資（FDI）の新規総額は1兆3000億ドル（約205兆4000億円）を突破し、前年比で2．2％の微増となった。この統計は、工場建設やインフラ整備といった新規投資に焦点を当て、企業買収や企業間融資を除外することで、多国籍企業による物理的な生産能力拡大への実質的なコミットメントを反映している。 全文Record China 10月06日 07時3…",
+      "title": "Paramount、Warner Bros. Discoveryの買収を完了　新社名は「Skydance」に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002069/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-10-06T22:36:11Z",
+      "description": "Paramount Skydanceは、Warner Bros. Discoveryの買収を完了し、新社名をSkydanceとした。Netflixとの争奪戦を経て映画・配信・放送事業を網羅する巨大複合メディアが誕生した。今後は配信サービスの統合や年間30本以上の劇場公開を進め、3年間で60億ドル以上のシナジー創出を目指す。",
       "maMarket": "jp"
     },
     {
-      "title": "2015 Porsche 911 Turbo S Coupe",
-      "url": "https://bringatrailer.com/listing/2015-porsche-911-turbo-s-coupe-34/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-10-05T23:34:08Z",
-      "description": "This 2015 Porsche 911 Turbo S coupe has 59k miles and was fitted with a Kline Innovation exhaust system, DSC Sport V3 suspension controller, Porsche RS side skirts, and a 991.2-style steering wheel following the seller's acquisition in 2023. Service since the…",
-      "maMarket": "us"
-    },
-    {
-      "title": "秋田銀行など北東北3行の経営統合から考える、これからの地方銀行の姿",
-      "url": "https://agora-web.jp/archives/261005050755.html",
-      "source": "Agora-web.jp",
-      "publishedAt": "2026-10-05T21:40:55Z",
-      "description": "記事のポイント 北東北3行の経営統合は、人口減少や事業者数の減少が進む地域において、地方銀行の経営基盤と企業支援機能を強化する取り組みである。 地域経済の持続的な成長には、地域資源を商品やサービスへ転換し、地域内外の市場から収益を獲得する事...…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme Court - The Hollywood Reporter",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186033148",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-10-05T23:33:21Z",
-      "description": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme CourtThe Hollywood Reporter David Ellison just brought in a co-CEO to run his new empire: Meet Ynon KreizCNBC 5 Challenges David Ellison Faces as Warner Bros. Discovery and Paramou…",
-      "maMarket": "us"
-    },
-    {
-      "title": "大阪・泉佐野市と泉南市、合併も選択肢に検討へ　来年にも研究会",
-      "url": "https://www.asahi.com/articles/ASVB53GBMVB5OXIE016M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-10-05T11:27:16Z",
-      "description": "大阪府泉佐野市と泉南市が、合併も選択肢に入れ、新たな研究会を発足させる。地域の人口減が進むなか、単独の自治体では安定した行政サービスの維持が難しいとして、検討を進めていく。 国勢調査によると、人口は…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Why Is Bentley Systems (BSY) Stock Rocketing Higher Today",
-      "url": "https://biztoc.com/x/f2304c947af53185",
+      "title": "Paramount closes Warner merger in historic Hollywood deal",
+      "url": "https://biztoc.com/x/e7f32fdc24471b0d",
       "source": "Biztoc.com",
-      "publishedAt": "2026-10-05T23:21:49Z",
-      "description": "What Happened? Shares of infrastructure engineering software company Bentley Systems (NASDAQ:BSY) jumped 5.1% in the pre-market session after French industrial group Schneider Electric agreed to acquire peer engineering software provider PTC in a $23.7 billio…",
+      "publishedAt": "2026-10-07T01:10:44Z",
+      "description": "Paramount Skydance closed its $110 billion acquisition of Warner Bros. Discovery on Tuesday, completing one of the biggest media mergers of all time after engaging in a bruising battle for control with Netflix and fending off antitrust lawsuits. The new compa…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「ニューヒロインPROJECT」GP獲得の清埜きりが『週プレ』登場、美麗バックラインで魅せるグラビア披露",
+      "url": "https://news.livedoor.com/article/detail/32506009/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-06T21:30:00Z",
+      "description": "『週刊プレイボーイ』42＆43号は10月5日に発売！ 昨年、ホリプロと週プレがタッグを組んで開催された次世代ヒロイン発掘オーディション「ニューヒロインPROJECT」でグランプリを獲得した清埜きりが、10月5日発売の『週刊プレイボーイ』42＆43合併号に登場。 清埜きり ©熊谷貫／集英社 【プロフィール】清埜きり（せいの・きり）2008年3月19日生まれ愛媛県出身身長168cmB97 W65 H92特技＝相撲、フラフープホリプロと週プレがタッグを組んで昨年全文ラブすぽ 10月07日06時30分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Seagate, Toshiba reportedly compete for TDK's HDD head unit, a key AI storage link",
+      "url": "https://www.digitimes.com/news/a20261007VL200/seagate-toshiba-tdk-hdd-demand.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-07T00:50:06Z",
+      "description": "Seagate Technology and Toshiba are reportedly competing to acquire TDK's hard-disk-drive magnetic-head business, a deal that could reshape one of the most concentrated supply chains in AI data-center storage.",
+      "maMarket": "us"
+    },
+    {
+      "title": "青森みちのく､秋田､岩手銀｢経営統合の深層｣…強烈な人口減に危機感､四半世紀の連携を経て地銀再編の最適解を示せるか | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/960305?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-10-06T20:30:00Z",
+      "description": "青森みちのく銀行を傘下に持つプロクレアホールディングス（HD）、秋田銀行、岩手銀行は10月2日、経営統合に向けた検討を開始すると発表した。銀行同士の合併は予定しておらず、2028年4月に持ち株会社方…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Read the memo from Skydance’s product chief after Paramount and WBD joined forces",
+      "url": "https://www.businessinsider.com/skydance-product-chief-read-the-memo-paramount-wbd-merger-2026-10#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-07T00:25:58Z",
+      "description": "The product chief at Skydance said in a memo to staff after the Paramount and WBD merger that they will \"move at a pace that matches our ambition.'",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "DayOne Data Centers Files for Nasdaq IPO amid Market Uncertainty",
-      "url": "https://www.theinformation.com/briefings/dayone-data-centers-files-nasdaq-ipo-amid-market-uncertainty",
-      "source": "The Information",
-      "publishedAt": "2026-10-05T22:47:54Z",
-      "description": "",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://biztoc.com/x/09e4bd3c19011e11",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-06T20:14:00Z",
+      "description": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A l…",
       "ipoMarket": "us"
     },
     {
@@ -99,39 +99,73 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "DayOne Files Registration Statement for Proposed Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/dayone-files-registration-statement-for-proposed-initial-public-offering-302898967.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-05T21:48:00Z",
-      "description": "SINGAPORE, Oct. 5, 2026 /PRNewswire/ -- DayOne Data Centers Limited (\"DayOne\"), a Singapore-headquartered global digital infrastructure platform, today announced that it has filed a registration statement on Form F-1 with the U.S. Securities and Exchange Comm…",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T20:01:31Z",
+      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "ipoMarket": "us"
     },
     {
-      "title": "内部統制評価ソリューション「WizLabo Keeper」、9月30日より提供開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000185501.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-09-30T01:00:00Z",
-      "description": "[宝印刷株式会社] TAKARA & CO （東証プライム・証券コード7921）グループでディスクロージャー関連のシステムを提供する宝印刷株式会社（本社：東京都豊島区/代表取締役社長：白井恒太）は、ジュリオ株式会社との共同事業によ...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "DayOne Data Centers files for US IPO",
-      "url": "https://www.channelnewsasia.com/business/dayone-data-centers-files-us-ipo-6434451",
+      "title": "Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports",
+      "url": "https://www.channelnewsasia.com/business/nvidia-backed-lambda-targets-4-billion-raise-ahead-planned-ipo-wsj-reports-6437266",
       "source": "CNA",
-      "publishedAt": "2026-10-05T20:41:04Z",
-      "description": "Oct 5 : DayOne Data Centers filed for an initial public offering in the United States on Monday.The filing comes as surging bond yields and elevated interest rates cloud the outlook for the fall IPO market. Morgan Stanley, J.P. Morgan, BofA Securities, Citigr…",
+      "publishedAt": "2026-10-06T17:21:43Z",
+      "description": "Oct 6 : Nvidia-backed cloud-computing company Lambda is raising up to $4 billion at a pre-money valuation of $14.5 billion in what would be its final funding round before a planned initial public offering, the Wall Street Journal reported on Tuesday, citing p…",
       "ipoMarket": "us"
     },
     {
-      "title": "DayOne files for IPO, seeks to list ADSs on Nasdaq under 'DODC'",
-      "url": "https://www.thefly.com/dodc",
-      "source": "Thefly.com",
-      "publishedAt": "2026-10-05T20:31:36Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "title": "IPO Market Stalls Four Months After SpaceX's $75 Billion Debut",
+      "url": "https://oilprice.com/Finance/investing-and-trading-reports/IPO-Market-Stalls-Four-Months-After-SpaceXs-75-Billion-Debut.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-10-06T17:00:00Z",
+      "description": "It was hoped SpaceX’s blockbuster June flotation would add rocket boosters to the global IPO market. But four months on, momentum has come crashing back down to earth. Wall Street IPOs have slowed considerably since Elon Musk’s $75bn (£56.7bn) listing, damag…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "意識回復の米死刑囚に重い症状",
+      "url": "https://news.yahoo.co.jp/pickup/6597956?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-08T00:40:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "愛知・大村知事の発言 タイで波紋",
+      "url": "https://news.yahoo.co.jp/pickup/6597927?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T13:23:29.000Z",
+      "description": ""
+    },
+    {
+      "title": "マンジャロ求め訪日 韓国で広がり",
+      "url": "https://news.yahoo.co.jp/pickup/6597871?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T05:38:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "ガザ戦闘から3年 死者は7万4000人",
+      "url": "https://news.yahoo.co.jp/pickup/6597866?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T05:08:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "ParamountがWBD買収 新会社誕生",
+      "url": "https://news.yahoo.co.jp/pickup/6597847?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T02:51:59.000Z",
+      "description": ""
+    },
+    {
+      "title": "故障でトイレ不足 NYに緊急着陸",
+      "url": "https://news.yahoo.co.jp/pickup/6597841?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T01:29:06.000Z",
+      "description": ""
+    },
     {
       "title": "米スタバを提訴 「無糖」表示巡り",
       "url": "https://news.yahoo.co.jp/pickup/6597832?source=rss",
@@ -140,52 +174,10 @@
       "description": ""
     },
     {
-      "title": "執行失敗の米死刑囚 意識戻り発話",
-      "url": "https://news.yahoo.co.jp/pickup/6597833?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-07T00:33:55.000Z",
-      "description": ""
-    },
-    {
       "title": "独情報機関の元長官 スパイ容疑",
       "url": "https://news.yahoo.co.jp/pickup/6597825?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-06T23:27:54.000Z",
-      "description": ""
-    },
-    {
-      "title": "元軍医に銃殺刑 トランプ氏が承認",
-      "url": "https://news.yahoo.co.jp/pickup/6597779?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-06T09:49:42.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国「金」で兵役特例 公平性疑問",
-      "url": "https://news.yahoo.co.jp/pickup/6597770?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-06T09:38:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "4千円台の絵画が2億円で落札 米",
-      "url": "https://news.yahoo.co.jp/pickup/6597737?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-06T03:10:30.000Z",
-      "description": ""
-    },
-    {
-      "title": "「ケインとアベル」英作家が死去",
-      "url": "https://news.yahoo.co.jp/pickup/6597714?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-06T01:41:50.000Z",
-      "description": ""
-    },
-    {
-      "title": "日本の制裁受け 露が対抗措置表明",
-      "url": "https://news.yahoo.co.jp/pickup/6597713?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-06T01:23:30.000Z",
       "description": ""
     }
   ]
