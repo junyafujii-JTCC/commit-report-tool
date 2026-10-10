@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T01:51:03.778Z",
+  "fetchedAt": "2026-10-10T01:34:36.442Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "住友重機械マテリアルソリューションズの営業・サービス拠点をシンガポールに新設",
-      "url": "https://prtimes.jp/main/html/rd/p/000000156.000100192.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-10-08T01:02:12Z",
-      "description": "[住友重機械工業株式会社] 住友重機械マテリアルソリューションズ株式会社（本社：東京都品川区、代表取締役社長：月原光国、住友重機械工業株式会社100%出資、以下「SMS」）は、東南アジア・南アジア地域における営業・サービス体制の強化...",
+      "title": "ソフトバンクＧ---大幅続落、オープンAIの売上高下振れ報道を受け - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1073947",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-10-09T01:24:39Z",
+      "description": "&lt;9984&gt; ソフトバンクＧ 5714 -326大幅続落。英紙では、オープンAIの年換算売上高がこれまで示唆されていた水準を約200億ドル下回ると報じている。オープンAIでは9月末時点の年換算売上高が500億ドルに近づいていると説明しているもようだ。これは9月下旬に各報道機関が伝えた700億ドルを大幅に下回る水準となっている。オープンAIへの出資企業として売りが先行する展開になっている。なお、本日",
       "maMarket": "jp"
     },
     {
-      "title": "Brookfield to acquire 8 ESR logistics parks for $450 million",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/brookfield-to-acquire-8-esr-logistics-parks-for-450-million/articleshow/134777559.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-08T01:43:28Z",
-      "description": "Brookfield is entering the industrial and logistics real estate market by acquiring eight warehousing parks from ESR India. This acquisition amounts to $450 million and expands Brookfield's operations beyond office and hospitality spaces. The warehousing port…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ディープシークの資金調達は800億元超か、CATLとテンセントが出資へ-仏メディア",
-      "url": "https://news.livedoor.com/article/detail/32515471/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-10-07T23:00:01Z",
-      "description": "2026年10月6日、仏国際放送局RFI（ラジオ・フランス・アンテルナショナル）の中国語版サイトは、中国のAI新興企業ディープシーク（Deep Seek）が今回の資金調達で800億元（約1兆8900億円）を超える資金を集める見通しだと報じた。記事はロイター通信の報道を引用し、ディープシークが中国での新規株式公開（IPO）を準備する中、十分な資本を確保するため、積極的に資金調達を進めていると紹介。 全文Record China 10月08日 08時00分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Anyflo emerges from stealth with acquisition of Native, to simplify stablecoin payments for enterprises",
-      "url": "https://www.prnewswire.com/news-releases/anyflo-emerges-from-stealth-with-acquisition-of-native-to-simplify-stablecoin-payments-for-enterprises-302901053.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-08T01:00:00Z",
-      "description": "Led by Lola Oyelayo-Pearson, formerly of Shopify, Capital One and Mysten Labs, the original contributor to Sui Bolstered by the acqui-hire of Native, a top five Sui Overflow 2025 project Enters private alpha in October with production preview and liquidity on…",
-      "maMarket": "us"
-    },
-    {
-      "title": "買収後も成長したインディード、リクルートの買収戦略にみる従来型M&Aとの「決定的な違い」 - 経営のためのIT活用実学",
-      "url": "https://jbpress.ismedia.jp/articles/-/97366",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-10-07T20:50:00Z",
-      "description": "2026年8月、リクルートホールディングスが発表した2027年3月期第1四半期決算では、売上収益が前年同期比18.9％増の1兆453億円となり、四半期として過去最高を更新した。この好業績をけん引する事業の一つが、インディードを中核とするHRテクノロジー事業だ。2012年に買収したインディードは、リクルート傘下でいかにして事業拡大を実現してきたのか──。2026年7月に著書『起業家のためのスタートアップM&A入門 企業価値を最大化するもう1つの方法』（ダイヤモンド社）を出版したファイナンス・プロデュース共同創業者の…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Creatorverse: Paramount and WBD Are Already Behind in the Brewing Creator Battle",
-      "url": "https://www.thewrap.com/media-platforms/tv/creatorverse-paramount-wbd-creator-strategy/",
-      "source": "TheWrap",
-      "publishedAt": "2026-10-08T00:30:00Z",
-      "description": "The Skydance acquisition may help with streaming, but neither company has a solid creator strategy - yet The post Creatorverse: Paramount and WBD Are Already Behind in the Brewing Creator Battle appeared first on TheWrap.",
-      "maMarket": "us"
-    },
-    {
-      "title": "中国企業の物流会社買収阻止　供給網の混乱懸念―独",
-      "url": "https://www.jiji.com/jc/article?k=2026100800156&g=int",
-      "source": "Jiji.com",
-      "publishedAt": "2026-10-07T20:35:00Z",
-      "description": "【ベルリン時事】ドイツ政府は７日、中国国有海運大手の中国遠洋海運集団（ＣＯＳＣＯ）による独物流会社コンラート・ツィッペルの買収を認めないことを決めた。独メディアが伝えた。経済安全保障の観点から、中国が供給網の安定性を脅かす恐れがあると判断した。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "The logic behind Emera’s $14.3-billion acquisition of Canadian Utilities is murky so far",
-      "url": "https://biztoc.com/x/ba2da411550f0a42",
+      "title": "SpaceX Spectrum Deal Sends AT&T, Verizon and T-Mobile Shares Lower",
+      "url": "https://biztoc.com/x/d25d1ace31a06d11",
       "source": "Biztoc.com",
-      "publishedAt": "2026-10-08T00:28:04Z",
-      "description": "At the heart of the big Canadian merger between power companies Emera Inc. and Canadian Utilities Ltd., there is a simple question: Is bigger actually better? So far, the answer’s pretty murky. When the two companies announced the $14.3-billion all-share marr…",
+      "publishedAt": "2026-10-09T01:21:43Z",
+      "description": "SpaceX has agreed to acquire Grain Management’s nationwide 800 MHz spectrum portfolio, expanding Elon Musk’s ambitions to compete with established U.S. wireless carriers. The deal could strengthen Starlink Mobile’s ability to provide cellular connectivity dir…",
+      "maMarket": "us"
+    },
+    {
+      "title": "トヨタ、中国国有大手と戦略提携　合弁再編、電動化を加速",
+      "url": "https://www.jiji.com/jc/article?k=2026100900268&g=int",
+      "source": "Jiji.com",
+      "publishedAt": "2026-10-08T23:50:00Z",
+      "description": "【北京時事】トヨタ自動車は８日、中国で合弁事業を行う国有自動車大手２社と、新たに３社の枠組みで戦略提携協定を結んだと発表した。トヨタは中国第一汽車、広州汽車集団とそれぞれ合弁会社を運営しているが、出資体制を再編する。自動車の電動化や知能化を一段と進め、中国市場での競争力強化を図る。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Jordan Clarkson happy to do his part with Knicks — and knows role",
+      "url": "https://nypost.com/2026/10/08/sports/jordan-clarkson-happy-to-do-his-part-with-knicks-and-knows-role/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+      "source": "New York Post",
+      "publishedAt": "2026-10-09T01:08:21Z",
+      "description": "Unlike a year prior, Jordan Clarkson’s free agency included no buyouts or last-minute calls. He experienced the Knicks and wanted more of that.",
+      "maMarket": "us"
+    },
+    {
+      "title": "Apple、M&A部門の責任者を交代",
+      "url": "https://www.applelinkage.com/2026/10/09/apple-replaces-head-of-m-and-a/",
+      "source": "Applelinkage.com",
+      "publishedAt": "2026-10-08T22:19:17Z",
+      "description": "当サイトはアフィリエイトによる収益を得ており、アフィリエイトリンクが含まれている場合があります。Bloombergのマーク・ガーマン氏は、AppleがM&A（合併・買収）部門の新しい責任者にスティーブ・スミス氏 … 続きを読む Apple、M&A部門の責任者を交代 →",
+      "maMarket": "jp"
+    },
+    {
+      "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186072010",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-09T00:32:49Z",
+      "description": "SpaceX takes aim at US wireless carriers with spectrum acquisitionReuters SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-MobileCNBC SpaceX Just Got Permission to Compete With AT&T and Verizon From OrbitYahoo Finance SpaceX to Ac…",
+      "maMarket": "us"
+    },
+    {
+      "title": "眞木花が『週プレ』グラビア登場、ロケ地・沖縄で見せた魅力爆発のダイナミックボディ",
+      "url": "https://news.livedoor.com/article/detail/32524152/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-08T21:30:00Z",
+      "description": "『週刊プレイボーイ』42＆43号は10月5日に発売！ 俳優のマイク眞木の長女・眞木 花(はんな)が、10月5日発売の『週刊プレイボーイ』42＆43合併号に登場。 眞木 花 ©菊地泰久／集英社 【プロフィール】眞木 花（まき・はんな）2002年2月24日生まれ千葉県出身趣味＝ピックルボール、お祭り巡り特技＝英語、ダンス、水球、ネイル歌手、俳優のマイク眞木の長女。4人の兄のうち、ひとりは俳優の眞木蔵人。全文ラブすぽ 10月09日06時30分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm",
+      "url": "https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm",
+      "source": "The Information",
+      "publishedAt": "2026-10-09T00:15:46Z",
+      "description": "",
       "maMarket": "us"
     }
   ],
@@ -83,84 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Bezos says Blue Origin likely to pursue IPO in coming years",
-      "url": "https://www.channelnewsasia.com/business/bezos-says-blue-origin-likely-pursue-ipo-in-coming-years-6441136",
-      "source": "CNA",
-      "publishedAt": "2026-10-08T00:28:19Z",
-      "description": "Oct 7 : Blue Origin is likely to pursue an initial public offering in the coming years, billionaire founder Jeff Bezos said on Wednesday, after the space company raised $10 billion from outside investors for the first time in a funding round.\"I think, someday…",
+      "title": "Revolut CEO Targets Wall Street IPO",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/revolut-ceo-targets-wall-street-ipo/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-10-08T22:53:48Z",
+      "description": "If Revolut pursues an initial public offering, CEO Nik Storonsky wants the primary listing to be in the United States, Bloomberg reported Thursday (Oct. 8). During an interview with Bloomberg TV, Storonsky said, per the report: “That was always the target, gi…",
       "ipoMarket": "us"
     },
     {
-      "title": "What CECO Environmental (CECO)'s Move to Become TXSE’s First Primary Listing Means For Shareholders",
-      "url": "https://biztoc.com/x/110eea8d7e3fc99a",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-07T23:20:27Z",
-      "description": "CECO Environmental has already shifted its primary stock listing from Nasdaq to the newly formed Texas Stock Exchange (TXSE), with Nasdaq trading ending on Friday, October 16, 2026, making CECO the first company to hold a primary listing on the TXSE. - This m…",
+      "title": "How to protect your 401(k) from an AI stock market crash... as Wall Street analyst brands Anthropic's $2 trillion debut 'the most ridiculous IPO of 2026'",
+      "url": "https://www.dailymail.com/yourmoney/article-16193427/anthropic-wall-street-ipo-ai-boom-protect-401k.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-08T19:56:32Z",
+      "description": "A Wall Street analyst called Anthropic's forthcoming market debut 'the most ridiculous IPO of 2026,' as more than one expert believes that an AI market crash is coming.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Blue Origin IPO could come in next few years, Jeff Bezos says in wake of rocket disaster",
+      "url": "https://nypost.com/2026/10/08/business/blue-origin-ipo-could-come-in-next-few-years-jeff-bezos-says-in-wake-of-rocket-disaster/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-08T19:53:42Z",
+      "description": "The public listing push follows a May disaster in which one of Bezo's $150 million rockets exploded into a massive fireball, setting back Blue Origin back in the race to catch up to Elon Musk’s SpaceX.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Blue Origin to pursue IPO in the future – Bezos",
+      "url": "https://www.manilatimes.net/2026/10/09/business/foreign-business/blue-origin-to-pursue-ipo-in-the-future-bezos/2442064",
+      "source": "The Manila Times",
+      "publishedAt": "2026-10-08T17:52:06Z",
+      "description": "BLUE Origin is likely to pursue an initial public offering (IPO) in the coming years, billionaire founder Jeff Bezos said on Wednesday, after the space company raised $10 billion from outside investors for the first time in a funding round.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米国防総省 銃殺刑を生配信へ",
-      "url": "https://news.yahoo.co.jp/pickup/6598082?source=rss",
+      "title": "米軍の銃殺刑生配信計画 非難殺到",
+      "url": "https://news.yahoo.co.jp/pickup/6598221?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T23:58:22.000Z",
+      "publishedAt": "2026-10-10T00:59:23.000Z",
       "description": ""
     },
     {
-      "title": "露でペスト疑い 接触者に異常なし",
-      "url": "https://news.yahoo.co.jp/pickup/6598077?source=rss",
+      "title": "パナマでM7.7 ホテルなどが倒壊",
+      "url": "https://news.yahoo.co.jp/pickup/6598220?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T23:33:55.000Z",
+      "publishedAt": "2026-10-10T00:39:35.000Z",
       "description": ""
     },
     {
-      "title": "蛇口の水恐怖 ネパールでトラウマ",
-      "url": "https://news.yahoo.co.jp/pickup/6598073?source=rss",
+      "title": "露 米や世界向けの軽油供給開始へ",
+      "url": "https://news.yahoo.co.jp/pickup/6598216?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T22:56:13.000Z",
+      "publishedAt": "2026-10-10T00:09:39.000Z",
       "description": ""
     },
     {
-      "title": "中間選挙前に攻撃しない 米大統領",
-      "url": "https://news.yahoo.co.jp/pickup/6598065?source=rss",
+      "title": "制裁対象指定 ICC赤根所長が声明",
+      "url": "https://news.yahoo.co.jp/pickup/6598208?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T21:16:09.000Z",
+      "publishedAt": "2026-10-09T23:06:25.000Z",
       "description": ""
     },
     {
-      "title": "進む脱炭素 中国依存拡大のリスク",
-      "url": "https://news.yahoo.co.jp/pickup/6598057?source=rss",
+      "title": "ガザ停戦1年 続く命がけの日常",
+      "url": "https://news.yahoo.co.jp/pickup/6598209?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T13:31:29.000Z",
+      "publishedAt": "2026-10-09T23:04:24.000Z",
       "description": ""
     },
     {
-      "title": "ロシア ICC所長らの引き渡し要求",
-      "url": "https://news.yahoo.co.jp/pickup/6598055?source=rss",
+      "title": "米 ICC本体を制裁対象⁠に指定",
+      "url": "https://news.yahoo.co.jp/pickup/6598196?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T13:30:01.000Z",
+      "publishedAt": "2026-10-09T15:07:57.000Z",
       "description": ""
     },
     {
-      "title": "ノーベル文学賞にカナダ出身詩人",
-      "url": "https://news.yahoo.co.jp/pickup/6598049?source=rss",
+      "title": "ノーベル平和賞 南アの国際法学者",
+      "url": "https://news.yahoo.co.jp/pickup/6598160?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T11:17:54.000Z",
+      "publishedAt": "2026-10-09T09:24:00.000Z",
       "description": ""
     },
     {
-      "title": "韓国とウクライナ 対立深まる背景",
-      "url": "https://news.yahoo.co.jp/pickup/6598034?source=rss",
+      "title": "バンス氏発言 米は対イラン軟化?",
+      "url": "https://news.yahoo.co.jp/pickup/6598111?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T11:00:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国 駐ウクライナ大使の召還発表",
-      "url": "https://news.yahoo.co.jp/pickup/6598038?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T09:54:20.000Z",
+      "publishedAt": "2026-10-09T07:09:58.000Z",
       "description": ""
     }
   ]
