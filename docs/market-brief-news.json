@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T00:44:19.006Z",
+  "fetchedAt": "2026-10-12T01:05:13.378Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,22 @@
   ],
   "ma": [
     {
+      "title": "スシローの運営会社が「京樽」を37億円で売却へ、65億円増資で債務超過を埋めてまで手放した「決断の理由」とは？《再配信》 - 今だからこそ読みたい！注目特集",
+      "url": "https://diamond.jp/articles/-/400901",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-10-10T19:50:00Z",
+      "description": "回転ずし首位の「スシロー」を展開するFOOD ＆ LIFE COMPANIES（F＆LC）は、2021年に買収した持ち帰りずしの老舗「京樽」の全株式を、SRSホールディングス（SRSHD）へ売却した。F＆LCは自ら約64.8億円の第三者割当増資を引き受け、約30億円の債務超過を解消した上で譲渡に踏み切る。25年9月期に営業黒字化を果たした京樽を、なぜ追加資金まで投入して手放すのか。また、買い手となるSRSHDが買収に踏み切った狙いと今後の再建策とは何か。本稿では、中食市場の構造変化と両社の経営戦略から、今回のM＆…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "On Fresh Debt And Deal Funding Looks Caught Between Quality And Price",
+      "url": "https://biztoc.com/x/7bb65c2d47217235",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-10T21:51:16Z",
+      "description": "recently issued $600 million of 6.250% senior notes due 2034, using most of the proceeds to fund its EnviroServe acquisition and repay borrowings tied to the ES&H deal. Clean Harbors' latest debt raise lands after a powerful run in the stock, with a year to d…",
+      "maMarket": "us"
+    },
+    {
       "title": "EUの公開情報から、AppleがHuxeを買収したことが明らかに",
       "url": "https://www.macotakara.jp/news/entry-52017.html",
       "source": "Macotakara.jp",
@@ -17,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Could Be 15% Below Fair Value Following Capital Deal Talk",
-      "url": "https://biztoc.com/x/37b2805cfcdd03ef",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-10T00:17:08Z",
-      "description": "moved into focus after an M&A call with Capital Bancorp, Inc., which put the regional lender's acquisition activity and broader growth ambitions on investors' radar. The M&A spotlight has landed on Peoples Bancorp at a time when momentum has cooled in the sho…",
+      "title": "Elon Musk: What Comes Next for Humanity",
+      "url": "https://www.nextbigfuture.com/2026/10/elon-musk-what-comes-next-for-humanity.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-10-10T21:48:47Z",
+      "description": "A conversation at X Takeover about AI abundance and existential risk, the next chapter of space exploration, and what it takes to turn extraordinary ideas into reality. Engine computer software for one of the engines was the problem for the Starship Flight 14…",
       "maMarket": "us"
     },
     {
@@ -33,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Stockholders of an Investigation into the Fairness of the Acquisition of Priority Technology Holdings, Inc.",
-      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-levi--korsinsky-llp-notifies-stockholders-of-an-investigation-into-the-fairness-of-the-acquisition-of-priority-technology-holdings-inc-302903895.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-09T23:40:00Z",
-      "description": "NEW YORK, Oct. 9, 2026 /PRNewswire/ -- The following statement is being issued by Levi & Korsinsky, LLP: To: All Persons or Entities who purchased Priority Technology Holdings, Inc. (\"PRTH\" or the \"Company\") (NASDAQ: PRTH) stock prior to September 18, 2026. Y…",
+      "title": "transitio 0.23.0",
+      "url": "https://pypi.org/project/transitio/0.23.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-10-10T21:13:07Z",
+      "description": "AOI-driven OSM and GTFS acquisition, validation and repair — companion to pyrosm and cafein",
       "maMarket": "us"
     },
     {
@@ -47,30 +63,6 @@
       "publishedAt": "2026-10-09T10:49:29Z",
       "description": "岩手銀行や秋田銀行との経営統合に向けて協議を始めた青森みちのく銀行（本店・青森市）の石川啓太郎頭取が9日、青森市内で報道各社のインタビューに応じた。各県で最大手の地銀が動いたきっかけは、東京内で設け…",
       "maMarket": "jp"
-    },
-    {
-      "title": "Strive reportedly buys 638 Bitcoin with preferred stock proceeds this week",
-      "url": "https://cryptobriefing.com/strive-reportedly-buys-638-bitcoin-with-preferred-stock-proceeds-this-week/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-10-09T22:18:13Z",
-      "description": "Strive's strategic Bitcoin acquisition may boost investor confidence, potentially driving its stock price higher amid ongoing financial maneuvers. The post Strive reportedly buys 638 Bitcoin with preferred stock proceeds this week appeared first on Crypto Bri…",
-      "maMarket": "us"
-    },
-    {
-      "title": "見逃されがちな疾患を拾い上げる臨床AIのHealthleap、Sequoia Capitalらから3,800万ドルを調達",
-      "url": "https://thebridge.jp/2026/10/healthleap-seed-series-a-38m-sequoia-clinical-ai",
-      "source": "Thebridge.jp",
-      "publishedAt": "2026-10-09T08:05:01Z",
-      "description": "臨床 AI プラットフォームを開発する Healthleap は現地時間7日、シードとシリーズ A を合わせて3,800万ドルを調達したと発表した。出資したのは Sequoia Capital、First Round C […]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "IBEW joins opposition to Union Pacific-Norfolk Souther merger",
-      "url": "https://www.herald-dispatch.com/business/ibew-joins-opposition-to-union-pacific-norfolk-souther-merger/article_672bf165-e2d0-4762-9ba3-8b4f2aba0919.html",
-      "source": "Herald-dispatch.com",
-      "publishedAt": "2026-10-09T22:12:40Z",
-      "description": "The International Brother of Electrical Workers has joined six other unions in opposing the proposed acquisition of Norfolk Southern Corp. by Union Pacific Corp.",
-      "maMarket": "us"
     }
   ],
   "ipo": [
@@ -81,6 +73,14 @@
       "publishedAt": "2026-10-07T05:05:21Z",
       "description": "クラウド受付システム「RECEPTIONIST」などを手がける RECEPTIONIST は6日、東京証券取引所への新規上場が承認された。 市場区分はグロース、証券コードは660Aで、上場予定日は11月10日。5万株を公 […]",
       "ipoMarket": "jp"
+    },
+    {
+      "title": "Cerebras shares slip below their $185 IPO price after a blockbuster debut",
+      "url": "https://cryptobriefing.com/cerebras-shares-fall-below-ipo-price/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-11T00:42:26Z",
+      "description": "Cerebras' stock decline highlights the volatility and risks in tech IPOs, emphasizing the need for cautious investor sentiment in AI markets. The post Cerebras shares slip below their $185 IPO price after a blockbuster debut appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
     },
     {
       "title": "How Firmus, the biggest IPO in three decades, fell over",
@@ -105,71 +105,63 @@
       "publishedAt": "2026-10-09T17:23:04Z",
       "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Columbia Seligman Premium Technology Growth Fund Announces a Fourth Quarter Distribution: 9.25% Annual Rate for IPO Investors",
-      "url": "https://biztoc.com/x/7a7f72e089798bcf",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-09T16:59:09Z",
-      "description": "Columbia Seligman Premium Technology Growth Fund Announces a Fourth Quarter Distribution: 9.25% Annual Rate for IPO Investors BOSTON, October 09, 2026--(BUSINESS WIRE)--Today, Columbia Seligman Premium Technology Growth Fund, Inc. (NYSE: STK) (the Fund) decla…",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "銃殺刑の配信 トランプ氏が判断へ",
-      "url": "https://news.yahoo.co.jp/pickup/6598331?source=rss",
+      "title": "北再び発射 弾道ミサイルの可能性",
+      "url": "https://news.yahoo.co.jp/pickup/6598468?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T00:05:45.000Z",
+      "publishedAt": "2026-10-12T00:52:39.000Z",
       "description": ""
     },
     {
-      "title": "サウジ首都の空港に攻撃 12人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6598321?source=rss",
+      "title": "ジブチ沖で移民船転覆 139人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T23:10:14.000Z",
+      "publishedAt": "2026-10-11T23:23:05.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 製油所攻撃巡りウに警告",
-      "url": "https://news.yahoo.co.jp/pickup/6598320?source=rss",
+      "title": "サウジの安保が悪化 米国支援鈍く",
+      "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T23:03:56.000Z",
+      "publishedAt": "2026-10-11T23:18:03.000Z",
       "description": ""
     },
     {
-      "title": "米で銃撃 子どもや妊婦ら8人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6598319?source=rss",
+      "title": "米ウ首脳 露軽油の制裁緩和で応酬",
+      "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T23:02:36.000Z",
+      "publishedAt": "2026-10-11T22:56:33.000Z",
       "description": ""
     },
     {
-      "title": "米長官 ICCの「資金源断ちきる」",
-      "url": "https://news.yahoo.co.jp/pickup/6598289?source=rss",
+      "title": "エネルギー停戦発表 ウは「初耳」",
+      "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T10:32:26.000Z",
+      "publishedAt": "2026-10-11T15:18:09.000Z",
       "description": ""
     },
     {
-      "title": "ゴキブリ党の創設者を拘束 インド",
-      "url": "https://news.yahoo.co.jp/pickup/6598263?source=rss",
+      "title": "ネパールで再び土石流 5人不明",
+      "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T07:23:18.000Z",
+      "publishedAt": "2026-10-11T14:36:25.000Z",
       "description": ""
     },
     {
-      "title": "米がICC制裁 日本など8カ国反対",
-      "url": "https://news.yahoo.co.jp/pickup/6598255?source=rss",
+      "title": "元独情報機関トップ逮捕 内外衝撃",
+      "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T05:41:49.000Z",
+      "publishedAt": "2026-10-11T13:57:46.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 平和賞を逃し批判",
-      "url": "https://news.yahoo.co.jp/pickup/6598243?source=rss",
+      "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T04:03:00.000Z",
+      "publishedAt": "2026-10-11T13:51:26.000Z",
       "description": ""
     }
   ]
