@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T01:05:13.378Z",
+  "fetchedAt": "2026-10-13T02:54:43.384Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,38 @@
   ],
   "ma": [
     {
+      "title": "平均年収2100万円の三菱商事社員が180万円のインサイダー取引で懲戒解雇",
+      "url": "https://agora-web.jp/archives/261012002404.html",
+      "source": "Agora-web.jp",
+      "publishedAt": "2026-10-12T02:45:49Z",
+      "description": "日本を代表する総合商社、三菱商事の元社員が、約180万円の利益を得るために会社を懲戒解雇されるという事件が起きました。【速報】三菱商事元社員インサイダー取引疑いで勧告— 47NEWS (@47news_official) October 9...…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "8th Pay Commission: DA rise over past few years fuels demands for higher fitment factor",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-da-rise-over-past-few-years-fuels-demands-for-higher-fitment-factor-11791768654638.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-12T02:10:17Z",
+      "description": "8th Pay Commission: Demands for a higher fitment factor as Dearness Allowance (DA) rises to 60%. Here is what employee unions are seeking regarding salary revisions, minimum basic pay, DA merger and pension changes.",
+      "maMarket": "us"
+    },
+    {
+      "title": "俳優・月山鈴音が『週プレ』に登場、沖縄ロケで青春感じるフレッシュグラビア♡",
+      "url": "https://news.livedoor.com/article/detail/32544923/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-11T21:30:00Z",
+      "description": "『週刊プレイボーイ』42＆43号は10月5日に発売！ 俳優、シンガー・ソングライターとして活動する月山鈴音が、10月5日発売の『週刊プレイボーイ』42＆43合併号に登場。 月山鈴音 ©カノウリョウマ／集英社 【プロフィール】月山鈴音（つきやま・りおん）2004年4月6日生まれ福岡県出身身長156cm2022年開催の「キューブ主演女優オーディション～そのままのあなたで来てください～」で審査員特別賞を受賞。全文ラブすぽ 10月12日06時30分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Amazon in talks to buy AI startup Decart for around $7 billion: Report",
+      "url": "https://economictimes.indiatimes.com/news/international/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-report/articleshow/134880456.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-12T01:54:00Z",
+      "description": "Amazon is reportedly in discussions to acquire Decart, a startup specializing in artificial intelligence, for around $7 billion. Decart's Lucy model offers real-time video editing, while its Oasis model simulates environments for robotics and autonomous syste…",
+      "maMarket": "us"
+    },
+    {
       "title": "スシローの運営会社が「京樽」を37億円で売却へ、65億円増資で債務超過を埋めてまで手放した「決断の理由」とは？《再配信》 - 今だからこそ読みたい！注目特集",
       "url": "https://diamond.jp/articles/-/400901",
       "source": "Diamond.jp",
@@ -17,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "On Fresh Debt And Deal Funding Looks Caught Between Quality And Price",
-      "url": "https://biztoc.com/x/7bb65c2d47217235",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-10T21:51:16Z",
-      "description": "recently issued $600 million of 6.250% senior notes due 2034, using most of the proceeds to fund its EnviroServe acquisition and repay borrowings tied to the ES&H deal. Clean Harbors' latest debt raise lands after a powerful run in the stock, with a year to d…",
+      "title": "October 12: Two dozen stocks, including Lenskart, Everyday Ind, SJS, Authum, Chemplast, Bajel Projects will remain in focus",
+      "url": "https://www.thehindubusinessline.com/markets/october-12-two-dozen-stocks-including-lenskart-everyday-ind-sjs-authum-chemplast-bajel-projects-will-remain-in-focus/article71573595.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-12T01:45:25Z",
+      "description": "Market buzz highlights varied sector bets, stake sales, new ventures, and major contracts across consumer tech, energy, infrastructure, and manufacturing.",
       "maMarket": "us"
     },
     {
@@ -33,36 +65,12 @@
       "maMarket": "jp"
     },
     {
-      "title": "Elon Musk: What Comes Next for Humanity",
-      "url": "https://www.nextbigfuture.com/2026/10/elon-musk-what-comes-next-for-humanity.html",
-      "source": "Next Big Future",
-      "publishedAt": "2026-10-10T21:48:47Z",
-      "description": "A conversation at X Takeover about AI abundance and existential risk, the next chapter of space exploration, and what it takes to turn extraordinary ideas into reality. Engine computer software for one of the engines was the problem for the Starship Flight 14…",
+      "title": "SLS Stock Jumps Overnight: Retail Sees Big Pharma Buyout Clues In 'M&A Negotiation Lounge' Booth At ASH",
+      "url": "https://biztoc.com/x/208e1278b70dacd2",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-12T01:41:15Z",
+      "description": "SLS Stock Jumps Overnight: Retail Sees Big Pharma Buyout Clues In 'M&A Negotiation Lounge' Booth At ASH - Eli Lilly, Pfizer, Merck, Sanofi, AstraZeneca, GSK, Novartis, AbbVie, Bristol Myers Squibb, Takeda, and other major drugmakers are also on the floor plan…",
       "maMarket": "us"
-    },
-    {
-      "title": "エヴァートン売却の可能性が浮上…TFGによる買収から約2年「今こそ次の章を検討すべき時期」",
-      "url": "https://www.soccer-king.jp/news/world/eng/20261009/2214889.html",
-      "source": "Soccer-king.jp",
-      "publishedAt": "2026-10-09T11:06:19Z",
-      "description": "エヴァートンは9日、オーナーであるフリードキン・グループ（TFG）がクラブ経営権の売却を検討していることを発表した。 アメリカのヒューストンに拠点を置き、セリエAのローマのオーナーも務めるTFGは2024年12月に4億ポンド（約838億円）超と見られる取引でエヴァートンを買収。財政難に揺れていたクラブに財務的安定をもたらし、『グディソン・パーク』に代わる新たな本拠地『ヒル・ディッキンソン・スタ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "transitio 0.23.0",
-      "url": "https://pypi.org/project/transitio/0.23.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-10-10T21:13:07Z",
-      "description": "AOI-driven OSM and GTFS acquisition, validation and repair — companion to pyrosm and cafein",
-      "maMarket": "us"
-    },
-    {
-      "title": "東北3地銀の統合協議　始まりは東京での食事会「手を組む選択肢も」",
-      "url": "https://www.asahi.com/articles/ASVB93CPFVB9UBNB007M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-10-09T10:49:29Z",
-      "description": "岩手銀行や秋田銀行との経営統合に向けて協議を始めた青森みちのく銀行（本店・青森市）の石川啓太郎頭取が9日、青森市内で報道各社のインタビューに応じた。各県で最大手の地銀が動いたきっかけは、東京内で設け…",
-      "maMarket": "jp"
     }
   ],
   "ipo": [
@@ -73,6 +81,22 @@
       "publishedAt": "2026-10-07T05:05:21Z",
       "description": "クラウド受付システム「RECEPTIONIST」などを手がける RECEPTIONIST は6日、東京証券取引所への新規上場が承認された。 市場区分はグロース、証券コードは660Aで、上場予定日は11月10日。5万株を公 […]",
       "ipoMarket": "jp"
+    },
+    {
+      "title": "Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-11T23:58:00Z",
+      "description": "CNBC reports: As Anthropic barrels toward a potential $2 trillion market cap on the Nasdaq, one research firm is valuing the artificial intelligence company at a mere $150 billion and says Wall Street is about to face an \"unprecedented test of investor gulli…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "NGX targets broader ownership as OPay considers local IPO",
+      "url": "https://punchng.com/ngx-targets-broader-ownership-as-opay-considers-local-ipo/",
+      "source": "The Punch",
+      "publishedAt": "2026-10-11T23:52:19Z",
+      "description": "Fintech company OPay has secured approval to pursue a secondary listing on the Nigerian Exchange after its planned primary listing on the NYSE. Read More: https://punchng.com/ngx-targets-broader-ownership-as-opay-considers-local-ipo/",
+      "ipoMarket": "us"
     },
     {
       "title": "Cerebras shares slip below their $185 IPO price after a blockbuster debut",
@@ -89,79 +113,63 @@
       "publishedAt": "2026-10-09T18:00:00Z",
       "description": "There were high hopes for the Firmus float, but it sunk amid concerns about debt and ambitious expansion plans.",
       "ipoMarket": "us"
-    },
-    {
-      "title": "Nvidia-backed Firmus scraps $5 bn Australia IPO amid growing AI scrutiny",
-      "url": "https://www.business-standard.com/markets/news/nvidia-backed-firmus-scraps-5-bn-australia-ipo-amid-growing-ai-scrutiny-126100901490_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-09T17:26:35Z",
-      "description": "Nvidia-backed Firmus has scrapped its planned $5 billion Australian IPO amid investor concerns over its valuation, debt burden and ambitious AI data centre expansion plans.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "vVardis files initial public offering",
-      "url": "https://www.thefly.com/vvvv",
-      "source": "Thefly.com",
-      "publishedAt": "2026-10-09T17:23:04Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-      "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "北再び発射 弾道ミサイルの可能性",
-      "url": "https://news.yahoo.co.jp/pickup/6598468?source=rss",
+      "title": "中間選挙にマスク氏440億円投入か",
+      "url": "https://news.yahoo.co.jp/pickup/6598597?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-12T00:52:39.000Z",
+      "publishedAt": "2026-10-13T02:34:19.000Z",
       "description": ""
     },
     {
-      "title": "ジブチ沖で移民船転覆 139人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6598457?source=rss",
+      "title": "中国にもトー横? 日本との共通点",
+      "url": "https://news.yahoo.co.jp/pickup/6598578?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T23:23:05.000Z",
+      "publishedAt": "2026-10-12T23:50:27.000Z",
       "description": ""
     },
     {
-      "title": "サウジの安保が悪化 米国支援鈍く",
-      "url": "https://news.yahoo.co.jp/pickup/6598456?source=rss",
+      "title": "正恩氏と「会うかも」トランプ氏",
+      "url": "https://news.yahoo.co.jp/pickup/6598577?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T23:18:03.000Z",
+      "publishedAt": "2026-10-12T23:27:12.000Z",
       "description": ""
     },
     {
-      "title": "米ウ首脳 露軽油の制裁緩和で応酬",
-      "url": "https://news.yahoo.co.jp/pickup/6598451?source=rss",
+      "title": "平和賞のピレイ氏 ICC職員を激励",
+      "url": "https://news.yahoo.co.jp/pickup/6598576?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T22:56:33.000Z",
+      "publishedAt": "2026-10-12T23:16:04.000Z",
       "description": ""
     },
     {
-      "title": "エネルギー停戦発表 ウは「初耳」",
-      "url": "https://news.yahoo.co.jp/pickup/6598444?source=rss",
+      "title": "英基地事件はイラン関与 共同声明",
+      "url": "https://news.yahoo.co.jp/pickup/6598574?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T15:18:09.000Z",
+      "publishedAt": "2026-10-12T23:10:20.000Z",
       "description": ""
     },
     {
-      "title": "ネパールで再び土石流 5人不明",
-      "url": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
+      "title": "米俳優 セルマ・ブレア容疑者逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6598569?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T14:36:25.000Z",
+      "publishedAt": "2026-10-12T21:56:46.000Z",
       "description": ""
     },
     {
-      "title": "元独情報機関トップ逮捕 内外衝撃",
-      "url": "https://news.yahoo.co.jp/pickup/6598437?source=rss",
+      "title": "ICC制裁 赤根智子所長がコメント",
+      "url": "https://news.yahoo.co.jp/pickup/6598542?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T13:57:46.000Z",
+      "publishedAt": "2026-10-12T11:25:28.000Z",
       "description": ""
     },
     {
-      "title": "ウ軍「露のGoogle」を相次ぎ攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6598438?source=rss",
+      "title": "パリ最古 屋根付きマーケット全焼",
+      "url": "https://news.yahoo.co.jp/pickup/6598530?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-11T13:51:26.000Z",
+      "publishedAt": "2026-10-12T09:08:31.000Z",
       "description": ""
     }
   ]
