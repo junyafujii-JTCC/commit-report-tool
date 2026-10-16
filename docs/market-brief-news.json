@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T00:20:56.737Z",
+  "fetchedAt": "2026-10-16T00:09:01.365Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,142 +9,167 @@
   ],
   "ma": [
     {
-      "title": "人気上昇中の入間ゆいが『週プレ』に登場！ホテルを舞台に魅せる妹系グラドルのオトナな一面",
-      "url": "https://news.livedoor.com/article/detail/32559917/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-10-13T21:30:00Z",
-      "description": "『週刊プレイボーイ』42＆43号は10月5日に発売！ 「グラビア・ オブ・ザ・イヤー」2025年にグランプリを獲得し、今グラビア界で勢いのある入間ゆいが、10月5日発売の『週刊プレイボーイ』42＆43合併号に登場。 入間ゆい ©前康輔／集英社 【プロフィール】入間ゆい（いるま・ゆい）2005年7月12日生まれ埼玉県出身身長153cm「グラビア・ オブ・ザ・イヤー」で2024年には新人賞、2025年にはグランプリを受賞した、今、最も勢いのあるグラビアアイ全文ラブすぽ 10月14日06時30分",
+      "title": "なぜドン・キホーテ親会社は赤字が続く「トイザらス」を買収したのか。“子連れ以外の大人”がおもちゃを買う消費動向に注目",
+      "url": "https://nikkan-spa.jp/2189981",
+      "source": "Nikkan-spa.jp",
+      "publishedAt": "2026-10-14T23:52:40Z",
+      "description": "ディスカウントストア「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングス（PPIH）が、日本トイザらスの事業譲受を発表。トイザらスは長年赤字が続いていました。PPIHは立て直し策として従来と […]",
       "maMarket": "jp"
     },
     {
-      "title": "‘The White Lotus’ Filming In Cannes As Season 4 Production Enters Final Stretch, Hôtel Martinez Transformation Confirms New Resort Logo",
-      "url": "http://deadline.com/2026/10/white-lotus-season-4-production-cannes-final-stretch-1237155644/",
-      "source": "Deadline",
-      "publishedAt": "2026-10-14T00:08:49Z",
-      "description": "The White Lotus‘ Cannes takeover continues. As Season 4 of Mike White’s HBO series is headed into the final stretch on its lengthy shoot, the mystery series has camped out at the famous Hôtel Martinez on Promenade de la Croisette six months after production o…",
+      "title": "Cabinet clears way for Watsa's Fairfax's Rs 52,878 crore deal for 60.72% stake in IDBI Bank",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/cabinet-clears-way-for-watsa-fairfax-rs-52878-crore-deal-for-60-72-stake-in-idbi-bank-lic/articleshow/134950380.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "description": "Fairfax Financial Holdings will acquire a majority stake of 60.72% in IDBI Bank for ₹52,878 crore. This acquisition marks a significant moment in the government's divestment efforts, as it represents strategic restructuring. The deal aims to strengthen the ba…",
       "maMarket": "us"
     },
     {
-      "title": "ジャパネット髙田旭人社長が明かす｢ツインバードに買収提案を行った理由｣｢買収断念後の新しい製販垂直統合戦略｣ | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/960722?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-10-13T21:00:00Z",
-      "description": "長崎県を地盤とするユニークな通販大手として知られるジャパネットホールディングス。同社が今年6月に打ち出した、上場家電メーカー・ツインバードへの株式公開買い付け（TOB）提案が株式市場の注目を浴びた。…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "H&R REIT CEO’s investor role in proposed takeover deal draws opposition",
-      "url": "https://biztoc.com/x/27c2e9956b77901b",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-13T23:58:54Z",
-      "description": "A founder-backed takeover bid for H&R Real Estate Investment Trust is facing growing opposition ahead of recommendations from proxy advisory services that could kill the $3.4-billion acquisition. Last week, several institutional investors came out against a u…",
-      "maMarket": "us"
-    },
-    {
-      "title": "日立とTOPPANはなぜM&Aに動くのか…単なる規模拡大ではない両社の「深い狙い」 - 経営のためのIT活用実学",
-      "url": "https://jbpress.ismedia.jp/articles/-/97367",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-10-13T20:58:00Z",
-      "description": "ドイツ企業からバイオメタネーション技術（微生物の働きを利用し、水素と二酸化炭素から合成メタンを製造する技術）の知的財産や関連資産を、日立パワーソリューションズとともに取得したと2026年8月に発表した日立製作所。米国企業の包装事業を買収したことなどが寄与し、2027年3月期第1四半期決算で営業利益が前年同期比47.9％増となったTOPPANホールディングス。両社の動きについて、「日本の大企業がM&Aを事業変革に生かしている好例」と語るのは、2026年7月に著書『起業家のためのスタートアップM&A入門 企業価値を最…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Guardians GM gets 100% real on trade deadline acquisition who is seriously impacting playoff push",
-      "url": "https://clutchpoints.com/mlb/cleveland-guardians/guardians-news-gm-gets-real-trade-deadline-acquisition-impacting-playoff",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-10-13T23:58:51Z",
-      "description": "With the Cleveland Guardians in the midst of the ALCS against the Tampa Bay Rays , winning Game 1 on Monday, 7-3, it has been a collective effort from many, though one key factor was a player the team got right before the trade deadline. As the Guardians have…",
-      "maMarket": "us"
-    },
-    {
-      "title": "東武住販(3297)、株主優待を廃止！ カチタスによるTOB(公開買い付け)が行われる影響で、5月末時点で100株以上の株主に贈呈されていた食品の優待は廃止 - 株主優待【新設・変更・廃止】最新ニュース[2026年]",
-      "url": "https://diamond.jp/zai/articles/-/1074041",
+      "title": "「何のために上場してるんだっけ？」強面アクティビストはなぜ日本企業の“過少投資”を問題視するのか、フォスター電機との“二人三脚”の内幕【動画連載】 - 協奏の賭け アクティビストは敵か味方か",
+      "url": "https://diamond.jp/articles/-/401110",
       "source": "Diamond.jp",
-      "publishedAt": "2026-10-13T11:31:00Z",
-      "description": "東武住販（3297）が株主優待を「廃止」することを、2026年10月13日の15時30分に発表した。東武住販の株主優待は、毎年5月末時点の株主に実施されており、従来の内容は「100株以上の株主に、保有株数と保有期間に応じて、自社営業エリアにゆかりのある食品1000～3000円相当を贈呈」というものだった。しかし、この株主優待は2026年5月分を最後に「廃止」となる。（東武住販、コード：3297、市場：東証スタンダード）",
+      "publishedAt": "2026-10-14T19:55:00Z",
+      "description": "アクティビストのアクシウム・キャピタルは、フォスター電機と中期経営計画を共同で策定している。他の出資先企業には、経営陣の刷新を迫るなど強硬な手段も辞さないが、フォスター電機とはなぜ協調を選んだのか。本動画では、門田泰人最高経営責任者（CEO）を直撃。異例の“二人三脚”に踏み切った内幕を明かすほか、日本企業に対し、「何のために上場しているんだっけ？」と疑問を投げかける。",
       "maMarket": "jp"
     },
     {
-      "title": "ServiceNow Denies Reports of Takeover Interest in AI Agent Startup Decagon",
-      "url": "https://www.pymnts.com/news/acquiring/2026/servicenow-denies-reports-of-takeover-interest-in-ai-agent-startup-decagon/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-10-13T23:40:22Z",
-      "description": "ServiceNow denied Tuesday (Oct. 13) media reports suggesting it has shown interest in purchasing Decagon, a developer of artificial intelligence (AI) agents. Seeking Alpha reported Tuesday (Oct. 13), citing a paywalled article by Business Insider, that Decago…",
+      "title": "Ava DuVernay Drops A Film Industry Hot Take: “Hollywood Is Over”",
+      "url": "https://hiphopwired.com/3067860/ava-duvernay-says-hollywood-is-over-debate/",
+      "source": "Hip-Hop Wired",
+      "publishedAt": "2026-10-14T23:30:00Z",
+      "description": "Famed director Ava DuVernay made a bold comment about the state of the film industry amid current mergers and studio collapses in Hollywood.",
+      "maMarket": "us"
+    },
+    {
+      "title": "『Ever17』『極限脱出』などの打越鋼太郎氏、来年発表予定だった新作が開発中止になったと報告。新スタジオ「CRASH KEYS」設立を明かし、新たな仕事や出資を募る",
+      "url": "https://www.gamespark.jp/article/2026/10/15/173612.html",
+      "source": "Gamespark.jp",
+      "publishedAt": "2026-10-14T17:20:51Z",
+      "description": "ファンならニヤリとできる公式サイトも公開。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "DC Studios: James Gunn on DCU Plans/Skydance: \"David Knows Everything\"",
+      "url": "https://bleedingcool.com/tv/dc-studios-james-gunn-on-dcu-plans-skydance-david-knows-everything/",
+      "source": "Bleeding Cool News",
+      "publishedAt": "2026-10-14T23:22:10Z",
+      "description": "Earlier this month, shortly after the Paramount Skydance-Warner Bros. Discovery merger deal closed and Skydance Corporation was born, word came down that James Gunn and Peter Safran would stay on board as Co-Chairs of DC Studios and would answer directly to S…",
+      "maMarket": "us"
+    },
+    {
+      "title": "米金融大手、５社増益　ＩＰＯ減速が逆風―７～９月期",
+      "url": "https://www.jiji.com/jc/article?k=2026101401259&g=int",
+      "source": "Jiji.com",
+      "publishedAt": "2026-10-14T13:10:00Z",
+      "description": "【ニューヨーク時事】米金融大手６社の２０２６年７～９月期決算が１４日出そろい、バンク・オブ・アメリカを除く５社が増益を確保した。長期金利の上昇により、融資で得る利息収入から預金の利子支出を差し引いた純金利収入が増えた半面、企業による新規株式公開（ＩＰＯ）やＭ＆Ａ（合併・買収）の勢いは減速し、投資銀行業務に逆風となった。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Beck 550 Spyder",
+      "url": "https://bringatrailer.com/listing/1955-porsche-550-spyder-replica-17/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-10-14T23:21:14Z",
+      "description": "This Beck 550 Spyder was assembled under previous ownership and was previously listed on BaT in October 2023 before the seller's acquisition in 2024. Finished in Silver Blue over black vinyl, it is powered by an air-cooled 2,165cc flat-four paired with a Free…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Harbour Island Acquisition Corp. I Announces the Pricing of $100,000,000 Initial Public Offering",
-      "url": "https://www.prnewswire.com/news-releases/harbour-island-acquisition-corp-i-announces-the-pricing-of-100-000-000-initial-public-offering-302907576.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-13T21:00:00Z",
-      "description": "NEW YORK, Oct. 13, 2026 /PRNewswire/ -- Harbour Island Acquisition Corp. I (the \"Company\") announced today the pricing of its initial public offering of 10,000,000 units at a price of $10.00 per unit. The units are expected to be listed on the Global Market t…",
+      "title": "Global X Japan株式会社「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A）東京証券取引所に新規上場",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000137367.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "description": "[Global X Japan株式会社] 大和証券グループのGlobal X Japan株式会社（東京都千代田区、代表取締役社長：藤岡 智男、以下「当社」）は、本日10月15日に、東京証券取引所へ「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A、...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Anthropic tells investors it expects to be profitable again ahead of planned Nasdaq IPO",
+      "url": "https://cryptobriefing.com/anthropic-profitable-q3-ahead-of-nasdaq-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-10-14T22:22:36Z",
+      "description": "Anthropic's anticipated profitability and IPO could significantly influence investor confidence and valuations in the AI sector, despite GAAP losses. The post Anthropic tells investors it expects to be profitable again ahead of planned Nasdaq IPO appeared fir…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1074112",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-10-14T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:50 コア機械受注(8月) 2.6％ -3.7％10:30 小枝日銀審議委員が熊本県金融経済懇談会に出席、同記者会見13:30 設備稼働率(8月) 0.5％13:30 鉱工業生産(8月) -1.7％ ルクレが東証グロースに新規上場(公開価格:1480円)＜海外＞09:30 豪・失業率(9月) 4.6％ 4.6％15:00 英・鉱工業生産(8月) 0.6％",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Amaero 4.706M share IPO priced at $4.25",
+      "url": "https://www.thefly.com/amro",
+      "source": "Thefly.com",
+      "publishedAt": "2026-10-14T21:21:45Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Warren Buffett's Berkshire Hathaway Just Bet Nearly $1 Billion on This IPO Stock (Hint: It's Not SpaceX)",
+      "url": "https://biztoc.com/x/9baad2c013bfc4f5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-14T20:54:21Z",
+      "description": "Warren Buffett spent nearly 60 years at Berkshire Hathaway (NYSE: BRKA) (NYSE: BRKB) buying businesses with durable competitive advantages, strong cash flow, and capable management teams. Now, Berkshire is doubling down on an unfamiliar technology company tha…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米8州がオープンAIを提訴",
-      "url": "https://news.yahoo.co.jp/pickup/6598818?source=rss",
+      "title": "フーシ イエメンの大統領宮殿攻撃",
+      "url": "https://news.yahoo.co.jp/pickup/6598950?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-15T00:11:35.000Z",
+      "publishedAt": "2026-10-15T23:57:52.000Z",
       "description": ""
     },
     {
-      "title": "軽油価格の高騰 米国の農家は悲鳴",
-      "url": "https://news.yahoo.co.jp/pickup/6598814?source=rss",
+      "title": "小学校銃撃で子ら4人死亡 米報道",
+      "url": "https://news.yahoo.co.jp/pickup/6598946?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T23:50:42.000Z",
+      "publishedAt": "2026-10-15T23:12:00.000Z",
       "description": ""
     },
     {
-      "title": "仏で高校生がデモ 激化する背景",
-      "url": "https://news.yahoo.co.jp/pickup/6598812?source=rss",
+      "title": "トランプ氏 銃殺刑の配信計画中止",
+      "url": "https://news.yahoo.co.jp/pickup/6598936?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T23:38:28.000Z",
+      "publishedAt": "2026-10-15T21:21:48.000Z",
       "description": ""
     },
     {
-      "title": "海峡で機雷接触の貨物船沈没 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6598794?source=rss",
+      "title": "米の新報道官 弁護士経歴に疑念",
+      "url": "https://news.yahoo.co.jp/pickup/6598880?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T15:05:35.000Z",
+      "publishedAt": "2026-10-15T07:21:43.000Z",
       "description": ""
     },
     {
-      "title": "日銀利上げ 2%超える可能性は",
-      "url": "https://news.yahoo.co.jp/pickup/6598757?source=rss",
+      "title": "ソウルで最後の売春街 解体に本腰",
+      "url": "https://news.yahoo.co.jp/pickup/6598858?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T13:18:09.000Z",
+      "publishedAt": "2026-10-15T04:06:17.000Z",
       "description": ""
     },
     {
-      "title": "2014年完成の中朝結ぶ橋 15日開通",
-      "url": "https://news.yahoo.co.jp/pickup/6598760?source=rss",
+      "title": "北朝鮮 14日に潜水艦巡航ミサイル",
+      "url": "https://news.yahoo.co.jp/pickup/6598841?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T09:17:31.000Z",
+      "publishedAt": "2026-10-15T02:47:27.000Z",
       "description": ""
     },
     {
-      "title": "ウのEU加盟 ハンガリー反対撤回",
-      "url": "https://news.yahoo.co.jp/pickup/6598724?source=rss",
+      "title": "邦人記者拘束 露の狙いを識者指摘",
+      "url": "https://news.yahoo.co.jp/pickup/6598834?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T05:01:19.000Z",
+      "publishedAt": "2026-10-15T02:25:47.000Z",
       "description": ""
     },
     {
-      "title": "W杯予定地サウジ 進む脱スポーツ",
-      "url": "https://news.yahoo.co.jp/pickup/6598713?source=rss",
+      "title": "米大統領 機密情報漏れ説明し不満",
+      "url": "https://news.yahoo.co.jp/pickup/6598822?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T04:34:46.000Z",
-      "description": ""
-    },
-    {
-      "title": "OpenAIのエンジニアを逮捕 FBI",
-      "url": "https://news.yahoo.co.jp/pickup/6598695?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T01:10:32.000Z",
+      "publishedAt": "2026-10-15T00:53:02.000Z",
       "description": ""
     }
   ]
