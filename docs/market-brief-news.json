@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T00:57:56.388Z",
+  "fetchedAt": "2026-10-21T00:26:58.553Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "インフィニティファンド２号および３号による株式会社SoVaへの追加出資および新株予約権付社債の引受け",
-      "url": "https://prtimes.jp/main/html/rd/p/000000245.000166651.html",
+      "title": "三菱電機と鴻海、自動車機器事業の共同運営で会見 出資比率50：50で2030年度売上高1兆円を目指す",
+      "url": "https://car.watch.impress.co.jp/docs/news/2149437.html",
+      "source": "Impress.co.jp",
+      "publishedAt": "2026-10-19T20:05:00Z",
+      "description": "三菱電機は10月16日、鴻海精密工業（FOXCONN）による三菱電機モビリティへの50%の出資受け入れに合意したと発表。それに伴い、2026年10月19日に三菱電機本社で記者会見を行なった。同会見には、三菱電機の加賀邦彦副社長、三菱電機モビリティの田中和徳社長、鴻海精密工業EV最高戦略責任者（CSO）の関 潤氏が出席した。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Dan Campbell Opens Up on Offensive Line Uncertainty Entering Week 7",
+      "url": "https://heavy.com/sports/nfl/detroit-lions/dan-campbell-juice-mays/",
+      "source": "Heavy.com",
+      "publishedAt": "2026-10-20T00:10:09Z",
+      "description": "The Detroit Lions have a tough decision to make when it comes to starting center Juice Scruggs. Their offseason trade acquisition has slid into the starting center role and has done well. However, with their starting center Cade Mays expected to return to the…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「横浜スタジアムはDeNAに私物化された？」横浜市議の批判を検証",
+      "url": "https://news.livedoor.com/article/detail/32606657/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-19T15:09:50Z",
+      "description": "YouTubeチャンネル「アポロの野球・歴史探訪」が、「【検証】横浜スタジアムはDeNAに乗っ取られた？横浜市と球団の関係を整理」を公開した。動画では、横浜市議会議員による横浜スタジアムの「私物化」批判をきっかけに、同球場と横浜市、DeNAの複雑な関係や歴史を検証している。 横浜スタジアムの建物は現在も横浜市が所有しており、DeNAが2016年に子会社化したのは、あくまで「株式会社横浜スタジアム」という球場の運営会社であると指摘。全文livedoor ECHOES 10月20日00時09分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Kirk Herbstreit’s Amazon extension reportedly for three seasons, with yearly buyout options",
+      "url": "https://awfulannouncing.com/amazon/andrew-marchand-kirk-herbstreit-three-year-deal-buyouts.html",
+      "source": "Awful Announcing",
+      "publishedAt": "2026-10-20T00:00:53Z",
+      "description": "Last month, Andrew Marchand at The Athletic reported that Kirk Herbstreit was re-signing with Amazon Prime Video to continue as the lead analyst for Thursday Night Football. However, there’s a catch: Amazon could move on from Herbstreit if one of its preferre…",
+      "maMarket": "us"
+    },
+    {
+      "title": "「辞任を要求し続ければいい」…レアルサポーターが掲げた横断幕に対し、テバス会長が反応",
+      "url": "https://www.soccer-king.jp/news/world/esp/20261019/2218561.html",
+      "source": "Soccer-king.jp",
+      "publishedAt": "2026-10-19T08:32:34Z",
+      "description": "ラ・リーガのハビエル・テバス会長が、レアル・マドリードの一部サポーターによる自身を標的にした横断幕に対して反応した。 問題の発端となったのは、テバス会長が16日に自身の公式Xに投稿したコメント。同会長はレアル・マドリードTVが展開する批判報道について触れ、「この手法は、ナチス・ドイツの宣伝大臣ゲッベルスが用いたプロパガンダ戦術を彷彿とさせる」とし、バルセロナの審判買収疑惑であるネグレイラ事件や...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Encore: My orgasm induced amnesia and other epic adventures",
+      "url": "https://www.abc.net.au/listen/programs/conversations/dasha-ross-and-her-memoir-big-trouble-coming-rpt/107272934",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "description": "Dasha Ross tells the story of her bizarre brush with memory loss and what happened when she and her husband decided to takeover a rundown beachside hotel in Sri Lanka. Dasha has lived a life full of adventures, from nude modelling in Sydney and making films …",
+      "maMarket": "us"
+    },
+    {
+      "title": "大手44社が出資し、国のAI開発事業に採択されたNoetraが語る、\"国産\"AIの現在地。特別講演を開催＜12/10・参加無料＞",
+      "url": "https://prtimes.jp/main/html/rd/p/000000205.000001332.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-10-19T00:10:00Z",
-      "description": "[ちゅうぎんFG] ちゅうぎんキャピタルパートナーズ（岡山市 代表取締役 岡田 浩幸）は、スタートアップ企業を出資対象とする「ちゅうぎんインフィニティファンド2号」にて株式会社SoVa（東京都千代田区 代表取締役 山本 健太郎、...",
+      "publishedAt": "2026-10-19T08:10:00Z",
+      "description": "[株式会社イプロス] 日本発のAIは、いまどこまで進んでいるのでしょうか。世界でAIの開発競争が加速するなか、ロボットなど現実の世界で動く「フィジカルAI」は、まだ研究・開発の途上にあります。だからこそ、日本企業にも差別化の...",
       "maMarket": "jp"
     },
     {
-      "title": "data-aggregator-mcp 0.75.2",
-      "url": "https://pypi.org/project/data-aggregator-mcp/0.75.2/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-10-19T00:49:44Z",
-      "description": "Research-data acquisition MCP — find and fetch datasets across archives, omics registries, and literature",
-      "maMarket": "us"
-    },
-    {
-      "title": "アニプレックスとクランチロールによる新会社HAYATE　ソニーのアニメ事業をどう加速させるのか - ニュース・経営",
-      "url": "https://jbpress.ismedia.jp/articles/-/97437",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-10-18T20:50:00Z",
-      "description": "アニメの世界市場が拡大する中、ソニーグループがアニメ事業を強化している。共にソニーグループのアニメやゲーム、音楽の企画などを行っているアニプレックスと、世界でアニメを配信する米クランチロールは2025年3月、共同出資でプロデュース会社HAYATEを設立した。ネット配信で作品が世界に届く時代に、アニメの作り方は何が変わり、何が変わらないのか。HAYATEプロデューサーの中山信宏氏に聞いた。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "FF EAI Robotics Ecosystem Inc. (FFR) Highlights Faraday Future Founder and Global CEO YT Jia's Weekly Investor Update: Three New Product Offerings Launched; More Details on FFR's Acquisition of FFAI's Robotics Business and Independent Public Listing",
-      "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-ffr-highlights-faraday-future-founder-and-global-ceo-yt-jias-weekly-investor-update-three-new-product-offerings-launched-more-details-on-ffrs-acquisition-of-ffais-robotics-business-and-indepen-302912061.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-19T00:10:00Z",
-      "description": "On October 26, FFR will hold its listing ceremony and first Investor Day at the Nasdaq Tower in New York, where management will share more about FFR's strategy and business plans, with more details to follow soon. Two new EAI Devices launched including FF Nov…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【独白】ホンダ・青山元副社長が失脚後メディア初出演！「いい夢を見ない…」辞任の真相と電撃復帰のワケとは【往路編】 - ホンダ元副社長が“電撃復帰” トヨタ・ホンダ・日産を斬る！【モビリティショー2026】",
-      "url": "https://diamond.jp/articles/-/401212",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-10-18T19:00:00Z",
-      "description": "ホンダの海外二輪事業を飛躍させ、取締役副社長として日産自動車との経営統合協議も舞台裏で支えた青山真二氏。だが、2025年4月、青山氏は業務時間外の懇親の場での不適切な行為による訴えを受け、約40年勤めたホンダを突然去った。本動画では、青山氏が辞任後では初のメディア出演。辞任の真相や騒動のその後、再就職で直面した現実、電撃復帰の理由などを赤裸々に語った。青山氏は、巨額赤字に陥った古巣ホンダの現状なども語り、そして、かつて運営にも携わったジャパンモビリティショーの会場にも姿を現した。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Maryland Football Gives Mike Locksley A Scapegoat To Avoid Paying $10 Million Buyout",
-      "url": "https://brobible.com/sports/article/maryland-football-will-not-fire-mike-locksley-rutgers-staff-changes-defensive-coordinator/",
-      "source": "BroBible",
-      "publishedAt": "2026-10-18T23:59:10Z",
-      "description": "The Maryland football team fell to Big Ten rival Rutgers on Saturday at home. Mike Locksley fired his defensive coordinator after the fact. He found a scapegoat in order to keep his job. It provides further evidence that the Terrapins do not want to pay his b…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ワールドが経営統合、キム・ジョーンズが新レーベル始動…【5分でわかる主要ニュース 10/11〜10/17】",
-      "url": "https://www.fashionsnap.com/article/roundup-october-17/",
-      "source": "Fashionsnap.com",
-      "publishedAt": "2026-10-18T10:00:36Z",
-      "description": "10/11〜10/17に掲載したニュース・特集・連載記事から主要トピックをピックアップ。「マックイーン」ショーン・マクギアーがクリエイティブディレクター退任 「マックイーン（McQueen）」のクリエイティブディレクター ショーン・マクギアー（Seán McGirr）が同職を退任した。後任は近日中に発表される予定。 マクギアーは、アイルランド・ダブリ...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Challenger confirms $11.80 per share takeover proposal",
-      "url": "https://www.fool.com.au/2026/10/19/challenger-confirms-11-80-per-share-takeover-proposal/",
-      "source": "Motley Fool Australia",
-      "publishedAt": "2026-10-18T23:11:35Z",
-      "description": "Challenger shares are in focus following a non-binding takeover proposal at a significant premium to recent trading levels. The post Challenger confirms $11.80 per share takeover proposal appeared first on The Motley Fool Australia.",
+      "title": "Western to Acquire Canadian Farm Insurance and Stockmens Insurance, Specialized Property and Casualty Livestock Insurers; Announces Concurrent Private Placement of Approximately $50 Million",
+      "url": "https://financialpost.com/globe-newswire/western-to-acquire-canadian-farm-insurance-and-stockmens-insurance-specialized-property-and-casualty-livestock-insurers-announces-concurrent-private-placement-of-approximately-50-million",
+      "source": "Financial Post",
+      "publishedAt": "2026-10-19T23:59:21Z",
+      "description": "Canadian Farm is a niche livestock transit insurance franchise with an established distribution channel through Western Canadian cattle auction markets Transaction also includes the acquisition of Stockmens Insurance, Managing General Agents (“MGAs”) in Canad…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels U.K. data center project",
-      "url": "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-10-19T00:57:31Z",
-      "description": "British neocloud startup Nscale Global Holdings Ltd.’s plans to launch an initial public offering in the U.S. have suffered a massive setback after its biggest customer Microsoft Corp. pulled out of a critical data center deal this weekend. A report in The Te…",
+      "title": "Microsoft Pulls Out of Giant British AI Cloud Deal Just As Cloud Company Was Expecting to IPO",
+      "url": "https://gizmodo.com/microsoft-pulls-out-of-giant-british-ai-cloud-deal-just-as-cloud-company-was-expecting-to-ipo-2000827469",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-10-19T09:00:39Z",
+      "description": "AI is looking less and less like a sure thing for investors.",
       "ipoMarket": "us"
     },
     {
@@ -99,23 +99,57 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Here's What $5,000 Invested in SpaceX Could Be Worth in 2030",
-      "url": "https://biztoc.com/x/7fada9b6e468d43d",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-18T23:50:21Z",
-      "description": "Space Exploration Technologies (NASDAQ: SPCX), otherwise known as SpaceX, was the hottest initial public offering (IPO) of the year, if not the century. However, despite the massive demand for shares at IPO and the initial price jump, SpaceX stock has been a …",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Nscale meets investor resistance over its IPO valuation target",
-      "url": "https://cryptobriefing.com/nscale-ipo-valuation-investor-pushback/",
+      "title": "Anthropic tokenized pre-IPO asset debuts on Solana via CoinGecko",
+      "url": "https://cryptobriefing.com/anthropic-tokenized-pre-ipo-asset-debuts-on-solana-via-coingecko/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-10-18T21:38:51Z",
-      "description": "Investor resistance to Nscale's IPO valuation highlights broader market skepticism towards high valuations in the cooling AI sector. The post Nscale meets investor resistance over its IPO valuation target appeared first on Crypto Briefing.",
+      "publishedAt": "2026-10-19T08:03:33Z",
+      "description": "The token's debut on Solana highlights growing investor interest and speculation in AI valuations, potentially influencing future IPO strategies. The post Anthropic tokenized pre-IPO asset debuts on Solana via CoinGecko appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "米大統領 ウに露との和平合意促す",
+      "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T23:37:28.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国2棟ビル火災19人負傷 男拘束",
+      "url": "https://news.yahoo.co.jp/pickup/6599526?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T14:15:34.000Z",
+      "description": ""
+    },
+    {
+      "title": "米国防長官 ネタニヤフ首相と会談",
+      "url": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T09:31:37.000Z",
+      "description": ""
+    },
+    {
+      "title": "露の道新記者拘束 米国務省が非難",
+      "url": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T05:24:58.000Z",
+      "description": ""
+    },
+    {
+      "title": "米政権の汚職問題 中間選挙争点に",
+      "url": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T05:15:53.000Z",
+      "description": ""
+    },
+    {
+      "title": "元OpenAIの被告をサウジが支援か",
+      "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T02:54:38.000Z",
+      "description": ""
+    },
     {
       "title": "トランプ氏支持率31% ロイター",
       "url": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
@@ -128,48 +162,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-19T23:31:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "トランプ氏 米露中会談に前向き",
-      "url": "https://news.yahoo.co.jp/pickup/6599417?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T22:19:09.000Z",
-      "description": ""
-    },
-    {
-      "title": "ウ軍 ドローンで空から負傷兵救出",
-      "url": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T14:55:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "仏首相 一部に夜間外出禁止令要請",
-      "url": "https://news.yahoo.co.jp/pickup/6599406?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T14:05:17.000Z",
-      "description": ""
-    },
-    {
-      "title": "金与正氏 韓国軍非難する談話発表",
-      "url": "https://news.yahoo.co.jp/pickup/6599392?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T12:26:49.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国経済成長 テック産業が後押し",
-      "url": "https://news.yahoo.co.jp/pickup/6599384?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T10:34:59.000Z",
-      "description": ""
-    },
-    {
-      "title": "仏で抗議デモ 欧州各地に広がり",
-      "url": "https://news.yahoo.co.jp/pickup/6599367?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T08:39:49.000Z",
       "description": ""
     }
   ]
