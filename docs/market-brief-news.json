@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T00:26:58.553Z",
+  "fetchedAt": "2026-10-22T00:30:02.134Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "三菱電機と鴻海、自動車機器事業の共同運営で会見 出資比率50：50で2030年度売上高1兆円を目指す",
-      "url": "https://car.watch.impress.co.jp/docs/news/2149437.html",
+      "title": "【検討】テスラとSpaceX、合併を協議する特別委員会を設置〜マスク「良いアイデア」とコメント",
+      "url": "https://touchlab.jp/2026/10/elon_on_tesla_spacex_merger/",
+      "source": "Touchlab.jp",
+      "publishedAt": "2026-10-20T23:32:04Z",
+      "description": "イーロン・マスクが、10月20日（米国時間）に開かれたSpaceXの第3四半期決算説明会で、テスラとSpaceXに両者の合併関する特別委員会をそれぞれ設置したことを明らかにしました。 株主の要請 マスクによると、委員会は […]©2019 \"Touch Lab - タッチ ラボ\".",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Private equity firms said to have weighed bid for Microsoft's Xbox",
+      "url": "https://biztoc.com/x/5d6055b3738ebc54",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-21T00:12:10Z",
+      "description": "Several private equity firms considered a potential acquisition of Microsoft's Xbox gaming unit that could have valued it at between $100 billion and $150 billion, The Information reported, citing peo...",
+      "maMarket": "us"
+    },
+    {
+      "title": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002441/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-10-20T22:39:00Z",
+      "description": "SpaceXのマスクCEOは決算説明会で、Teslaとの合併に向け両社が特別委員会を設置したと明らかにした。統合利点に超知能（SI）開発や半導体工場、Starlink連携を挙げた一方、合意の保証はなくTesla側で全発行済み株式の過半数賛成が必要などハードルは高いと説明した。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger",
+      "url": "https://www.theinformation.com/articles/spacexs-musk-lauds-soaring-cloud-business-possible-tesla-merger",
+      "source": "The Information",
+      "publishedAt": "2026-10-21T00:01:02Z",
+      "description": "",
+      "maMarket": "us"
+    },
+    {
+      "title": "【大原雄介の半導体業界こぼれ話】TSMCのインターポーザー不足、頼った先はGlobalFoundriesだった",
+      "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/2149324.html",
       "source": "Impress.co.jp",
-      "publishedAt": "2026-10-19T20:05:00Z",
-      "description": "三菱電機は10月16日、鴻海精密工業（FOXCONN）による三菱電機モビリティへの50%の出資受け入れに合意したと発表。それに伴い、2026年10月19日に三菱電機本社で記者会見を行なった。同会見には、三菱電機の加賀邦彦副社長、三菱電機モビリティの田中和徳社長、鴻海精密工業EV最高戦略責任者（CSO）の関 潤氏が出席した。",
+      "publishedAt": "2026-10-20T21:04:00Z",
+      "description": "TSMCのシリコンインターポーザーが明らかに足りない。で、その穴埋めに選ばれたのが、UMCではなくGlobalFoundriesだった。ADIのAlif Semiconductor買収、InfineonとWolfspeedのSiCウェハ契約と合わせて、今回もおなじみ“雑談3題”を取り上げたい。",
       "maMarket": "jp"
     },
     {
-      "title": "Dan Campbell Opens Up on Offensive Line Uncertainty Entering Week 7",
-      "url": "https://heavy.com/sports/nfl/detroit-lions/dan-campbell-juice-mays/",
-      "source": "Heavy.com",
-      "publishedAt": "2026-10-20T00:10:09Z",
-      "description": "The Detroit Lions have a tough decision to make when it comes to starting center Juice Scruggs. Their offseason trade acquisition has slid into the starting center role and has done well. However, with their starting center Cade Mays expected to return to the…",
+      "title": "Mr. President, Don’t Strike Yemen",
+      "url": "https://original.antiwar.com/nolan_denaro/2026/10/20/mr-president-dont-strike-yemen/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-10-21T00:00:01Z",
+      "description": "The fight between Saudi Arabia and Yemen is escalating at a rapid pace. On October 11, the Houthis carried out a major attack on the airport in Saudi Arabia’s capital city, Riyadh. The strikes killed 12 and injured over 300, in what was the deadliest Houthi a…",
       "maMarket": "us"
     },
     {
-      "title": "「横浜スタジアムはDeNAに私物化された？」横浜市議の批判を検証",
-      "url": "https://news.livedoor.com/article/detail/32606657/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-10-19T15:09:50Z",
-      "description": "YouTubeチャンネル「アポロの野球・歴史探訪」が、「【検証】横浜スタジアムはDeNAに乗っ取られた？横浜市と球団の関係を整理」を公開した。動画では、横浜市議会議員による横浜スタジアムの「私物化」批判をきっかけに、同球場と横浜市、DeNAの複雑な関係や歴史を検証している。 横浜スタジアムの建物は現在も横浜市が所有しており、DeNAが2016年に子会社化したのは、あくまで「株式会社横浜スタジアム」という球場の運営会社であると指摘。全文livedoor ECHOES 10月20日00時09分",
+      "title": "【破談後の再会】ホンダ・青山元副社長が日産エスピノーサ社長と対面！経営統合を交渉した2人は何を語った？古巣ホンダにも容赦なし、モビリティショーを辛口評価【前編・動画】 - ホンダ元副社長が“電撃復帰” トヨタ・ホンダ・日産を斬る！【モビリティショー2026】",
+      "url": "https://diamond.jp/articles/-/401498",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-10-20T19:45:00Z",
+      "description": "ホンダの取締役副社長として日産自動車との経営統合協議も舞台裏で支えた青山真二氏。だが、2025年4月、青山氏は業務時間外の懇親の場での不適切な行為による訴えを受け、約40年勤めたホンダを突然去った。その青山氏が、「見る側」としてジャパンモビリティショーの会場に足を運んだ。会場では、25年2月に破断となったホンダと日産自動車の経営統合協議の最前線にいた青山氏と、日産のイヴァン・エスピノーサ社長が再会。かつて両社の未来を左右する交渉に携わった2人は何を語ったのか。本動画では、青山氏と日産トップとのやりとりに加え、古巣…",
       "maMarket": "jp"
     },
     {
-      "title": "Kirk Herbstreit’s Amazon extension reportedly for three seasons, with yearly buyout options",
-      "url": "https://awfulannouncing.com/amazon/andrew-marchand-kirk-herbstreit-three-year-deal-buyouts.html",
-      "source": "Awful Announcing",
-      "publishedAt": "2026-10-20T00:00:53Z",
-      "description": "Last month, Andrew Marchand at The Athletic reported that Kirk Herbstreit was re-signing with Amazon Prime Video to continue as the lead analyst for Thursday Night Football. However, there’s a catch: Amazon could move on from Herbstreit if one of its preferre…",
-      "maMarket": "us"
-    },
-    {
-      "title": "「辞任を要求し続ければいい」…レアルサポーターが掲げた横断幕に対し、テバス会長が反応",
-      "url": "https://www.soccer-king.jp/news/world/esp/20261019/2218561.html",
-      "source": "Soccer-king.jp",
-      "publishedAt": "2026-10-19T08:32:34Z",
-      "description": "ラ・リーガのハビエル・テバス会長が、レアル・マドリードの一部サポーターによる自身を標的にした横断幕に対して反応した。 問題の発端となったのは、テバス会長が16日に自身の公式Xに投稿したコメント。同会長はレアル・マドリードTVが展開する批判報道について触れ、「この手法は、ナチス・ドイツの宣伝大臣ゲッベルスが用いたプロパガンダ戦術を彷彿とさせる」とし、バルセロナの審判買収疑惑であるネグレイラ事件や...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Encore: My orgasm induced amnesia and other epic adventures",
-      "url": "https://www.abc.net.au/listen/programs/conversations/dasha-ross-and-her-memoir-big-trouble-coming-rpt/107272934",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "description": "Dasha Ross tells the story of her bizarre brush with memory loss and what happened when she and her husband decided to takeover a rundown beachside hotel in Sri Lanka. Dasha has lived a life full of adventures, from nude modelling in Sydney and making films …",
-      "maMarket": "us"
-    },
-    {
-      "title": "大手44社が出資し、国のAI開発事業に採択されたNoetraが語る、\"国産\"AIの現在地。特別講演を開催＜12/10・参加無料＞",
-      "url": "https://prtimes.jp/main/html/rd/p/000000205.000001332.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-10-19T08:10:00Z",
-      "description": "[株式会社イプロス] 日本発のAIは、いまどこまで進んでいるのでしょうか。世界でAIの開発競争が加速するなか、ロボットなど現実の世界で動く「フィジカルAI」は、まだ研究・開発の途上にあります。だからこそ、日本企業にも差別化の...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Western to Acquire Canadian Farm Insurance and Stockmens Insurance, Specialized Property and Casualty Livestock Insurers; Announces Concurrent Private Placement of Approximately $50 Million",
-      "url": "https://financialpost.com/globe-newswire/western-to-acquire-canadian-farm-insurance-and-stockmens-insurance-specialized-property-and-casualty-livestock-insurers-announces-concurrent-private-placement-of-approximately-50-million",
-      "source": "Financial Post",
-      "publishedAt": "2026-10-19T23:59:21Z",
-      "description": "Canadian Farm is a niche livestock transit insurance franchise with an established distribution channel through Western Canadian cattle auction markets Transaction also includes the acquisition of Stockmens Insurance, Managing General Agents (“MGAs”) in Canad…",
+      "title": "Preferred evolutionary routes of convergence in Klebsiella pneumoniae favor siderophore acquisition over hypervirulence",
+      "url": "https://www.nature.com/articles/s41467-026-78501-0.pdf",
+      "source": "Nature.com",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "description": "Authors present a global study revealing that drug-resistant Klebsiella pneumoniae repeatedly acquires conjugative plasmids with aerobactin, boosting iron-scavenging ability without becoming hypervirulent. This may help emerging strains spread in healthcare s…",
       "maMarket": "us"
     }
   ],
@@ -83,31 +83,60 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Microsoft Pulls Out of Giant British AI Cloud Deal Just As Cloud Company Was Expecting to IPO",
-      "url": "https://gizmodo.com/microsoft-pulls-out-of-giant-british-ai-cloud-deal-just-as-cloud-company-was-expecting-to-ipo-2000827469",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-10-19T09:00:39Z",
-      "description": "AI is looking less and less like a sure thing for investors.",
+      "title": "Investors eagerly await key Anthropic filing to see blockbuster IPO will stoke demand",
+      "url": "https://nypost.com/2026/10/20/business/investors-eagerly-await-anthropics-official-ipo-statement-to-see-if-it-will-stoke-demand/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-20T23:19:13Z",
+      "description": "The lack of profitability, however, isn't the only thing motivating investors – it’s the growth of the business, and that's where things get interesting in reading the document.",
       "ipoMarket": "us"
     },
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1074112",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-10-14T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞08:50 コア機械受注(8月) 2.6％ -3.7％10:30 小枝日銀審議委員が熊本県金融経済懇談会に出席、同記者会見13:30 設備稼働率(8月) 0.5％13:30 鉱工業生産(8月) -1.7％ ルクレが東証グロースに新規上場(公開価格:1480円)＜海外＞09:30 豪・失業率(9月) 4.6％ 4.6％15:00 英・鉱工業生産(8月) 0.6％",
-      "ipoMarket": "jp"
+      "title": "Why Anthropic's $80.7B in net losses shouldn't worry IPO investors",
+      "url": "https://biztoc.com/x/d69a1b588f138241",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-20T21:26:45Z",
+      "description": "B. Riley Wealth Chief Market Strategist Art Hogan joins Market Domination Overtime host Brooke DiPalma to discuss Anthropic's (ANTH.PVT) reported IPO draft disclosing about $80.7 billion in first-half 2026 net losses. 00:00 Speaker A Anthropic, you have repor…",
+      "ipoMarket": "us"
     },
     {
-      "title": "Anthropic tokenized pre-IPO asset debuts on Solana via CoinGecko",
-      "url": "https://cryptobriefing.com/anthropic-tokenized-pre-ipo-asset-debuts-on-solana-via-coingecko/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-10-19T08:03:33Z",
-      "description": "The token's debut on Solana highlights growing investor interest and speculation in AI valuations, potentially influencing future IPO strategies. The post Anthropic tokenized pre-IPO asset debuts on Solana via CoinGecko appeared first on Crypto Briefing.",
+      "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports",
+      "url": "https://www.channelnewsasia.com/business/anthropic-logged-net-loss-over-80-billion-in-first-half-2026-wsj-reports-6476676",
+      "source": "CNA",
+      "publishedAt": "2026-10-20T19:41:08Z",
+      "description": "Oct 20 : AI startup Anthropic recorded a net loss of more than $80 billion in the first half of this year, including $72 billion in accounting charges, the Wall Street Journal reported on Tuesday, citing a draft initial public offering prospectus.That compare…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Lycia Therapeutics 14.7M share IPO price range $16.00-$18.00",
+      "url": "https://www.thefly.com/lyca",
+      "source": "Thefly.com",
+      "publishedAt": "2026-10-20T16:32:12Z",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "メタに約4兆円支払い命令 米地裁",
+      "url": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T23:28:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "ヒマラヤ山脈 日本人2人が不明",
+      "url": "https://news.yahoo.co.jp/pickup/6599653?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T22:57:44.000Z",
+      "description": ""
+    },
+    {
+      "title": "PHPに欠陥 欧州各国でサイト遮断",
+      "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T21:57:25.000Z",
+      "description": ""
+    },
     {
       "title": "米大統領 ウに露との和平合意促す",
       "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
@@ -141,27 +170,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-20T05:15:53.000Z",
-      "description": ""
-    },
-    {
-      "title": "元OpenAIの被告をサウジが支援か",
-      "url": "https://news.yahoo.co.jp/pickup/6599451?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T02:54:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "トランプ氏支持率31% ロイター",
-      "url": "https://news.yahoo.co.jp/pickup/6599430?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T00:42:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "スーチー氏に英国王書簡 親軍政権",
-      "url": "https://news.yahoo.co.jp/pickup/6599421?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-19T23:31:03.000Z",
       "description": ""
     }
   ]
