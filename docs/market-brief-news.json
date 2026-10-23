@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T00:30:02.134Z",
+  "fetchedAt": "2026-10-23T00:27:44.420Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,167 +9,151 @@
   ],
   "ma": [
     {
-      "title": "【検討】テスラとSpaceX、合併を協議する特別委員会を設置〜マスク「良いアイデア」とコメント",
-      "url": "https://touchlab.jp/2026/10/elon_on_tesla_spacex_merger/",
-      "source": "Touchlab.jp",
-      "publishedAt": "2026-10-20T23:32:04Z",
-      "description": "イーロン・マスクが、10月20日（米国時間）に開かれたSpaceXの第3四半期決算説明会で、テスラとSpaceXに両者の合併関する特別委員会をそれぞれ設置したことを明らかにしました。 株主の要請 マスクによると、委員会は […]©2019 \"Touch Lab - タッチ ラボ\".",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Private equity firms said to have weighed bid for Microsoft's Xbox",
-      "url": "https://biztoc.com/x/5d6055b3738ebc54",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-21T00:12:10Z",
-      "description": "Several private equity firms considered a potential acquisition of Microsoft's Xbox gaming unit that could have valued it at between $100 billion and $150 billion, The Information reported, citing peo...",
-      "maMarket": "us"
-    },
-    {
-      "title": "マスクCEO、SpaceXとTeslaが合併協議で特別委員会を設置と明かす",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002441/",
+      "title": "Tesla決算、営業益56％減　FSD契約は67％増の174万件　SpaceX合併は「昨日すべて話した」とマスク氏",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002488/",
       "source": "Itmedia.co.jp",
-      "publishedAt": "2026-10-20T22:39:00Z",
-      "description": "SpaceXのマスクCEOは決算説明会で、Teslaとの合併に向け両社が特別委員会を設置したと明らかにした。統合利点に超知能（SI）開発や半導体工場、Starlink連携を挙げた一方、合意の保証はなくTesla側で全発行済み株式の過半数賛成が必要などハードルは高いと説明した。",
+      "publishedAt": "2026-10-22T00:02:00Z",
+      "description": "Teslaの7～9月期決算は、売上高が前年並みの280億ドル、純利益は43％減の7.8億ドルとなった。SI研究開発費の急増や株式報酬が利益を圧迫した。一方、FSD有効契約は67％増と伸長し、Cybercabによる無人タクシーも稼働を開始した。注目のSpaceXとの合併についてマスク氏は新規の言及を避けた。",
       "maMarket": "jp"
     },
     {
-      "title": "SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger",
-      "url": "https://www.theinformation.com/articles/spacexs-musk-lauds-soaring-cloud-business-possible-tesla-merger",
-      "source": "The Information",
-      "publishedAt": "2026-10-21T00:01:02Z",
-      "description": "",
+      "title": "SpaceX Tesla Merger: Elon Musk Just Called it a Good Idea",
+      "url": "https://biztoc.com/x/daab7fac2f72bc06",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-22T00:25:02Z",
+      "description": "A possible merger between Space Exploration Technologies Corp (SPCX +7.80%) and Tesla (TSLA +3.41%) has been rumored for months. Ever since Elon Musk took his space and technology conglomerate public, investors have anticipated bringing his electric vehicle a…",
       "maMarket": "us"
     },
     {
-      "title": "【大原雄介の半導体業界こぼれ話】TSMCのインターポーザー不足、頼った先はGlobalFoundriesだった",
-      "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/2149324.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-10-20T21:04:00Z",
-      "description": "TSMCのシリコンインターポーザーが明らかに足りない。で、その穴埋めに選ばれたのが、UMCではなくGlobalFoundriesだった。ADIのAlif Semiconductor買収、InfineonとWolfspeedのSiCウェハ契約と合わせて、今回もおなじみ“雑談3題”を取り上げたい。",
+      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "source": "Publickey1.jp",
+      "publishedAt": "2026-10-21T14:52:28Z",
+      "description": "Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ...",
       "maMarket": "jp"
     },
     {
-      "title": "Mr. President, Don’t Strike Yemen",
-      "url": "https://original.antiwar.com/nolan_denaro/2026/10/20/mr-president-dont-strike-yemen/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-21T00:00:01Z",
-      "description": "The fight between Saudi Arabia and Yemen is escalating at a rapid pace. On October 11, the Houthis carried out a major attack on the airport in Saudi Arabia’s capital city, Riyadh. The strikes killed 12 and injured over 300, in what was the deadliest Houthi a…",
+      "title": "Indian banks open cheque books for ₹10,000 crore-plus in M&A funding after RBI rule change",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-open-cheque-books-for-10000-crore-plus-in-ma-funding-after-rbi-rule-change/articleshow/135099726.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "description": "Indian banks have recently engaged in significant M&A deals after the central bank eased financing rules. State Bank of India and other lenders are now financing up to 75% of deal values. The acquisition-financing market is estimated at nearly ₹2 lakh crore d…",
       "maMarket": "us"
     },
     {
-      "title": "【破談後の再会】ホンダ・青山元副社長が日産エスピノーサ社長と対面！経営統合を交渉した2人は何を語った？古巣ホンダにも容赦なし、モビリティショーを辛口評価【前編・動画】 - ホンダ元副社長が“電撃復帰” トヨタ・ホンダ・日産を斬る！【モビリティショー2026】",
-      "url": "https://diamond.jp/articles/-/401498",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-10-20T19:45:00Z",
-      "description": "ホンダの取締役副社長として日産自動車との経営統合協議も舞台裏で支えた青山真二氏。だが、2025年4月、青山氏は業務時間外の懇親の場での不適切な行為による訴えを受け、約40年勤めたホンダを突然去った。その青山氏が、「見る側」としてジャパンモビリティショーの会場に足を運んだ。会場では、25年2月に破断となったホンダと日産自動車の経営統合協議の最前線にいた青山氏と、日産のイヴァン・エスピノーサ社長が再会。かつて両社の未来を左右する交渉に携わった2人は何を語ったのか。本動画では、青山氏と日産トップとのやりとりに加え、古巣…",
+      "title": "血管炎薬、「申請資料に問題」　新規投与中止を要請―「タブネオス」死亡２３人に・厚労省",
+      "url": "https://www.jiji.com/jc/article?k=2026102101135&g=soc",
+      "source": "Jiji.com",
+      "publishedAt": "2026-10-21T12:13:00Z",
+      "description": "キッセイ薬品工業（長野県松本市）が国内販売する血管炎治療薬「タブネオス」の投与後に患者が相次ぎ死亡した問題で、厚生労働省は２１日、対応方針を公表した。「承認申請時の提出資料の信頼性に問題があり得る」とし、改めて医療機関に新規投与中止を要請。年内にも、承認取り消しの可能性も含め行政処分を決める。",
       "maMarket": "jp"
     },
     {
-      "title": "Preferred evolutionary routes of convergence in Klebsiella pneumoniae favor siderophore acquisition over hypervirulence",
-      "url": "https://www.nature.com/articles/s41467-026-78501-0.pdf",
-      "source": "Nature.com",
-      "publishedAt": "2026-10-21T00:00:00Z",
-      "description": "Authors present a global study revealing that drug-resistant Klebsiella pneumoniae repeatedly acquires conjugative plasmids with aerobactin, boosting iron-scavenging ability without becoming hypervirulent. This may help emerging strains spread in healthcare s…",
+      "title": "Taiwan's FTC blocks Grab's Foodpanda acquisition over competition concerns",
+      "url": "https://www.digitimes.com/news/a20261022PD200/grab-ftc-taiwan-acquisition-competition.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-10-21T23:55:27Z",
+      "description": "Grab Holdings' proposed acquisition of Delivery Hero's Foodpanda operations in Taiwan has been rejected by Taiwan's Fair Trade Commission (FTC). The commission made the announcement on October 21, blocking the deal on the grounds that it would restrict market…",
+      "maMarket": "us"
+    },
+    {
+      "title": "ジョブズの妻、ワーナーとパラマウントの親会社の取締役に",
+      "url": "https://eiga.com/news/20261021/17/",
+      "source": "Eiga.com",
+      "publishedAt": "2026-10-21T10:00:00Z",
+      "description": "故スティーブ・ジョブズの妻ローレン・パウエル・ジョブズが、ワーナー・ブラザースとパラマウントを抱えるスカイダンスの取締役に就いたと、米バラエティが報じた。スカイダンスは、パラマウントによる買収でワーナー・ブラザースとひとつになり、10月6日",
+      "maMarket": "jp"
+    },
+    {
+      "title": "SpaceX and Tesla Consider Merger - WSJ",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186399886",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-21T23:32:17Z",
+      "description": "SpaceX and Tesla Consider MergerWSJ Tesla earnings are out – here are the numbersCNBC Elon Musk Says SpaceX and Tesla Are Exploring a MergerThe New York Times Tesla Bulls Eying Merger Bump Find Stock Needs More Than RocketsBloomberg.com Wall St sees Tesla-Spa…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Global X Japan株式会社「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A）東京証券取引所に新規上場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000102.000137367.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "description": "[Global X Japan株式会社] 大和証券グループのGlobal X Japan株式会社（東京都千代田区、代表取締役社長：藤岡 智男、以下「当社」）は、本日10月15日に、東京証券取引所へ「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A、...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Investors eagerly await key Anthropic filing to see blockbuster IPO will stoke demand",
-      "url": "https://nypost.com/2026/10/20/business/investors-eagerly-await-anthropics-official-ipo-statement-to-see-if-it-will-stoke-demand/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-20T23:19:13Z",
-      "description": "The lack of profitability, however, isn't the only thing motivating investors – it’s the growth of the business, and that's where things get interesting in reading the document.",
+      "title": "WSJ: Anthropic Lost $80 Billion in First Half of Year, Has $600 Billion in Infrastructure Commitments",
+      "url": "https://www.breitbart.com/tech/2026/10/21/wsj-anthropic-lost-80-billion-in-first-half-of-year-has-600-billion-in-infrastructure-commitments/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-21T16:49:29Z",
+      "description": "AI startup Anthropic lost more than $80 billion in the first half of 2026, according to a draft IPO prospectus viewed by the Wall Street Journal, even as the AI company's revenue climbed and it prepared for a possible IPO that could value it at $2 trillion. T…",
       "ipoMarket": "us"
     },
     {
-      "title": "Why Anthropic's $80.7B in net losses shouldn't worry IPO investors",
-      "url": "https://biztoc.com/x/d69a1b588f138241",
+      "title": "Anthropic Has Committed $450 Billion to Cloud Computing, Its Draft IPO Filing Shows",
+      "url": "https://biztoc.com/x/060732775fad39e6",
       "source": "Biztoc.com",
-      "publishedAt": "2026-10-20T21:26:45Z",
-      "description": "B. Riley Wealth Chief Market Strategist Art Hogan joins Market Domination Overtime host Brooke DiPalma to discuss Anthropic's (ANTH.PVT) reported IPO draft disclosing about $80.7 billion in first-half 2026 net losses. 00:00 Speaker A Anthropic, you have repor…",
+      "publishedAt": "2026-10-21T12:33:47Z",
+      "description": "The post Anthropic Has Committed $450 Billion to Cloud Computing, Its Draft IPO Filing Shows appeared first on 24/7 Wall St.. Anthropic’s updated confidential draft IPO filing describes about $450 billion of cloud compute agreements over the next decade, whic…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports",
-      "url": "https://www.channelnewsasia.com/business/anthropic-logged-net-loss-over-80-billion-in-first-half-2026-wsj-reports-6476676",
-      "source": "CNA",
-      "publishedAt": "2026-10-20T19:41:08Z",
-      "description": "Oct 20 : AI startup Anthropic recorded a net loss of more than $80 billion in the first half of this year, including $72 billion in accounting charges, the Wall Street Journal reported on Tuesday, citing a draft initial public offering prospectus.That compare…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Lycia Therapeutics 14.7M share IPO price range $16.00-$18.00",
-      "url": "https://www.thefly.com/lyca",
-      "source": "Thefly.com",
-      "publishedAt": "2026-10-20T16:32:12Z",
-      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "title": "Is Anthropic the IPO market’s last hope for 2026? The clock is ticking",
+      "url": "https://fortune.com/2026/10/21/is-anthropic-ipo-markets-last-hope-2026/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-21T11:23:56Z",
+      "description": "More bad news in the IPO market this week, but Anthropic could just maybe turn the tide.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "チベットでM7.0の地震 16人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6599773?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-23T00:07:35.000Z",
+      "description": ""
+    },
+    {
+      "title": "米大統領 レブロン「無礼」と批判",
+      "url": "https://news.yahoo.co.jp/pickup/6599769?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T23:26:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "モンゴル火災 日系企業幹部が謝罪",
+      "url": "https://news.yahoo.co.jp/pickup/6599749?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T14:43:02.000Z",
+      "description": ""
+    },
+    {
+      "title": "初の核最終処分場の操業決定 北欧",
+      "url": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T14:28:24.000Z",
+      "description": ""
+    },
+    {
+      "title": "軟禁下のスー・チー氏 次男と電話",
+      "url": "https://news.yahoo.co.jp/pickup/6599742?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T13:22:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "負傷した脚自ら切断 ウ兵士の決断",
+      "url": "https://news.yahoo.co.jp/pickup/6599696?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T05:44:05.000Z",
+      "description": ""
+    },
+    {
+      "title": "米 サウジの大使館員らに退避命令",
+      "url": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-22T04:27:37.000Z",
+      "description": ""
+    },
+    {
       "title": "メタに約4兆円支払い命令 米地裁",
       "url": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-21T23:28:40.000Z",
-      "description": ""
-    },
-    {
-      "title": "ヒマラヤ山脈 日本人2人が不明",
-      "url": "https://news.yahoo.co.jp/pickup/6599653?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-21T22:57:44.000Z",
-      "description": ""
-    },
-    {
-      "title": "PHPに欠陥 欧州各国でサイト遮断",
-      "url": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-21T21:57:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 ウに露との和平合意促す",
-      "url": "https://news.yahoo.co.jp/pickup/6599544?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T23:37:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "韓国2棟ビル火災19人負傷 男拘束",
-      "url": "https://news.yahoo.co.jp/pickup/6599526?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T14:15:34.000Z",
-      "description": ""
-    },
-    {
-      "title": "米国防長官 ネタニヤフ首相と会談",
-      "url": "https://news.yahoo.co.jp/pickup/6599496?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T09:31:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "露の道新記者拘束 米国務省が非難",
-      "url": "https://news.yahoo.co.jp/pickup/6599468?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T05:24:58.000Z",
-      "description": ""
-    },
-    {
-      "title": "米政権の汚職問題 中間選挙争点に",
-      "url": "https://news.yahoo.co.jp/pickup/6599466?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T05:15:53.000Z",
       "description": ""
     }
   ]
