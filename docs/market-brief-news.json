@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T00:23:09.445Z",
+  "fetchedAt": "2026-10-25T00:06:26.380Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "OpenAI、脳インプラントでがんの検知を目指すスタートアップに出資",
-      "url": "https://wired.jp/article/openai-startup-brain-implants-detect-cancer/",
-      "source": "Wired.jp",
-      "publishedAt": "2026-10-22T23:00:00Z",
-      "description": "OpenAI Startup Fundなどが出資するCoherence Neuroは、脳腫瘍に関連する電気信号を検出し、がんの状態の把握や治療につなげる技術を開発している。",
+      "title": "「女性にモテる」「とにかくマメ」地面師たちの意外な共通点とは？気を付けていても“コロッと”騙されてしまう理由 - 社喰い",
+      "url": "https://diamond.jp/articles/-/401779",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-10-23T19:30:00Z",
+      "description": "「自分は騙された」「むしろ被害者だ」――。地面師事件やM＆Aトラブルの当事者たちはそれぞれ異なる「真実」を語り始める。数々の経済事件を追ってきたノンフィクション作家・森功氏と、M＆Aの闇を取材してきた片田江康男記者が語る、嘘と真実が入り交じる取材の難しさと面白さとは。片田江記者の新刊『社喰い』（ダイヤモンド社）と森功氏の最新刊『地面師vs.地面師』（講談社）の刊行を記念し、二人の対談をお届けする。",
       "maMarket": "jp"
     },
     {
-      "title": "Brewers owner takes jab at Dodgers in latest response to Tarik Skubal trade",
-      "url": "https://nypost.com/2026/10/22/sports/brewers-owner-takes-jab-at-dodgers-over-tarik-skubal-trade/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-23T00:13:43Z",
-      "description": "The Dodgers won the trade deadline with the acquisition of Tarik Skubal — but that doesn’t mean they ultimately prevailed. The Brewers were reportedly in the mix to land Skubal in a blockbuster trade, but Milwaukee managed to sweep the Dodgers despite losing …",
+      "title": "Trinidad and Tobago in talks with ONGC Videsh, Oil India to refine Venezuelan crude",
+      "url": "https://www.livemint.com/companies/news/trinidad-and-tobago-in-talks-with-ongc-videsh-oil-india-to-refine-venezuelan-crude-11792749605379.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-24T00:05:09Z",
+      "description": "The Caribbean government has proposed that the two Indian oil companies process crude from neighbouring Venezuela at the Guaracara refinery in Pointe-à-Pierre, which forms part of the former Petrotrin complex and is currently under renovation.",
       "maMarket": "us"
     },
     {
-      "title": "韓国の金持ち企業はなぜ新聞社を欲しがるのか、名門「中央日報」に殺到した意外な買い手たちサムスン創業家の孫2人も参戦、韓国3大紙の買収劇から見えてきたメディア所有の魅力 - オリジナル海外コラム",
-      "url": "https://jbpress.ismedia.jp/articles/-/97652",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-10-22T21:00:00Z",
-      "description": "経営難に陥っていた韓国の有力紙「中央日報」の売却先を探していた主取引銀行が、3つの韓国企業グループで構成するコンソーシアムを優先交渉権者に選んだ。 3つのうち2つはサムスングループをルーツに持つグループで、サムスン創業者が創刊した有力紙を2人の孫が率いる企業グループが入ったコンソーシアムが買収に乗り出すことになった。 中央日報は巨額の赤字が続いていた同じグループの放送局、JTBCに金融支援をしてい",
+      "title": "XBOX部門の再編計画で協議中だった「Arkane Studios」複数の買収案を検討―11月13日が協議期限",
+      "url": "https://www.gamespark.jp/article/2026/10/24/174020.html",
+      "source": "Gamespark.jp",
+      "publishedAt": "2026-10-23T15:39:54Z",
+      "description": "フランスのメディア「Le Monde」が報じています。",
       "maMarket": "jp"
     },
     {
-      "title": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
-      "url": "https://biztoc.com/x/22587297136ca283",
+      "title": "Polygon Secures US Money Transmitter Licenses",
+      "url": "https://biztoc.com/x/7240e608beddb103",
       "source": "Biztoc.com",
-      "publishedAt": "2026-10-23T00:09:36Z",
-      "description": "Partners are leaving for rivals including Sidley Austin and Davis Polk, increasing pressure on the law firm to secure its future.",
+      "publishedAt": "2026-10-23T23:57:14Z",
+      "description": "Polygon has completed its acquisition of Coinme, making Polygon Open Money Stack a U.S.-regulated payments platform, the company said in an Oct. 14 blog post. “This is a huge step for Polygon,” the company said in the post. “We’ve spent years building infrast…",
       "maMarket": "us"
     },
     {
-      "title": "ＵＳスチールに４７００億円　熱延設備へ投資、最大規模―日鉄",
-      "url": "https://www.jiji.com/jc/article?k=2026102300102&g=int",
-      "source": "Jiji.com",
-      "publishedAt": "2026-10-22T20:37:00Z",
-      "description": "【ニューヨーク時事】日本製鉄が買収した米鉄鋼大手ＵＳスチールは２２日、米東部ペンシルベニア州にあるモンバレー製鉄所での熱延設備新設に約３０億ドル（約４７００億円）を投資する計画を発表した。日鉄が買収に際し確約した２０２８年までに１１０億ドル（約１兆７０００億円）を投資する計画の一部で、今回の投資が最大案件になる見通しという。",
+      "title": "滋賀銀と池田泉州HDが経営統合へ　実現なら関西首位",
+      "url": "https://www.asahi.com/articles/ASVBR3FDMVBRPLFA008M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-10-23T10:49:00Z",
+      "description": "滋賀銀行（大津市）と、池田泉州銀行（大阪市）を傘下に持つ池田泉州ホールディングス（HD）が、経営統合の検討を進めていることが分かった。関係者が23日、朝日新聞の取材に明らかにした。実現すれば、関西最…",
       "maMarket": "jp"
     },
     {
-      "title": "Bulletin from Sivers Semiconductors AB's Extraordinary General Meeting on 22 October 2026",
-      "url": "https://www.prnewswire.com/news-releases/bulletin-from-sivers-semiconductors-abs-extraordinary-general-meeting-on-22-october-2026-302917519.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-22T23:10:00Z",
-      "description": "KISTA, Sweden, Oct. 22, 2026 /PRNewswire/ -- The Extraordinary General Meeting in Sivers Semiconductors AB (the \"Company\") was held on 22 October 2026 and in particular the following resolutions were resolved. Election of auditor The Extraordinary General Mee…",
+      "title": "Polygon Secures US Money Transmitter Licenses",
+      "url": "https://www.pymnts.com/blockchain/2026/polygon-secures-us-money-transmitter-licenses/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-10-23T23:41:22Z",
+      "description": "Polygon has completed its acquisition of Coinme, making Polygon Open Money Stack a U.S.-regulated payments platform, the company said in an Oct. 14 blog post. “This is a huge step for Polygon,” the company said in the post. “We’ve spent years building infrast…",
       "maMarket": "us"
     },
     {
-      "title": "EXCLUSIVE-マスク氏の合併支持発言、テスラ・スペースＸ協議に懸念広がる＝関係者（ロイター） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/55d50a8848572e5de4598c34b22e335822655f87",
-      "source": "Yahoo.co.jp",
-      "publishedAt": "2026-10-22T18:09:02Z",
-      "description": "Milana Vinn[ニューヨーク ２２日 ロイター] - 米実業家イーロン・マスク氏が今週、スペースＸとテスラの３兆５０００億ドル規模の合併構想を公に支持したことで、協議に関わる一部の関係者に動",
+      "title": "Mujin､SmartHR､WHILL…資金調達二極化､IPO急減で｢選別の時代｣に本格突入､成熟ベンチャーが打つ次の一手 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/962103?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-10-23T09:00:00Z",
+      "description": "国策マネーが防衛やAIなどディープテックに向かう一方､エグジット（出口戦略）は長期化しています。上場を急がず足腰を鍛える成熟ベンチャーの戦略と､M＆Aなど新たな出口の受け皿づくりに迫ります。",
       "maMarket": "jp"
     },
     {
-      "title": "2,110cc-Powered 1967 Volkswagen Beetle at No Reserve",
-      "url": "https://bringatrailer.com/listing/1967-volkswagen-beetle-264/",
+      "title": "26k-Mile 1994 Mazda MX-5 Miata M Edition 5-Speed at No Reserve",
+      "url": "https://bringatrailer.com/listing/1994-mazda-mx-5-miata-146/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-10-22T23:01:04Z",
-      "description": "This 1967 Volkswagen Beetle was initially sold in California and remained under original ownership in the state through the current owner's acquisition on BaT in March 2022. The car was restored in 2010 and was updated since the previous auction with a high-p…",
+      "publishedAt": "2026-10-23T23:35:13Z",
+      "description": "This 1994 Mazda MX-5 Miata is one of 3,000 M-Edition examples produced for the model year, all of which were finished in Montego Blue Mica over tan leather. Initially sold in California and registered in the state through the current owner's acquisition in 20…",
       "maMarket": "us"
     }
   ],
@@ -83,85 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "New IPO listing at Nasdaq is down at alarming rate, US Stock Market blue-chip index CEO explains why",
-      "url": "https://economictimes.indiatimes.com/news/international/us/new-ipo-listing-at-nasdaq-is-down-at-alarming-rate-us-stock-market-blue-chip-index-ceo-explains-why/articleshow/135123640.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-22T17:20:54Z",
-      "description": "IPO at US Stock Market: With the 30-year Treasury yield sitting at near two-decade highs, the surging cost of capital has dramatically altered the risk appetite of prospective issuers. This shift has effectively chilled the IPO window over the past two months.",
+      "title": "Fintech platform OPay files for $336 million U.S. initial public offering",
+      "url": "https://biztoc.com/x/086e3dc03c6c1d34",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-23T23:43:42Z",
+      "description": "Investing.com -- OPay Limited, a digital financial platform focused on emerging markets, is seeking to raise up to $336 million in an initial public offering on the New York Stock Exchange. According to an updated regulatory filing with the U.S. Securities an…",
       "ipoMarket": "us"
     },
     {
-      "title": "Forgent Power Solutions Stock Crashes 23% Below IPO Price After CFO Ryan Fiedler Exits to Spend Family Time",
-      "url": "https://www.ibtimes.com.au/forgent-shares-plunge-after-cfo-departure-1877229",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-10-22T16:30:48Z",
-      "description": "Forgent Power Solutions shares fell 23% to a record low after CFO Ryan Fiedler announced his departure, despite strong revenue, bookings and backlog growth.",
+      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-23T21:49:08Z",
+      "description": "Stock slumps, pulled IPOs, and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
       "ipoMarket": "us"
     },
     {
-      "title": "DeepSeek Raises $15 Billion Ahead of Planned Shanghai IPO",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-raises-15-billion-ahead-of-planned-shanghai-ipo/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-10-22T15:30:11Z",
-      "description": "Chinese artificial intelligence (AI) startup DeepSeek has raised $15 billion in its second private funding round and is accelerating plans for a Shanghai listing in early 2027, potentially reaching public markets before OpenAI. The financing nearly doubled it…",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-10-23T21:32:16Z",
+      "description": "Wells Fargo, Arm Holdings and Intuit were reportedly among six more companies objecting to the joint venture between the OKX exchange and NYSE parent ICE.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "After previous day's slump, trading is quieter among AI shares",
+      "url": "https://www.channelnewsasia.com/business/after-previous-days-slump-trading-quieter-among-ai-shares-6487931",
+      "source": "CNA",
+      "publishedAt": "2026-10-23T19:33:58Z",
+      "description": "NEW YORK, Oct 23 : Big AI stocks were mixed on Friday, a day after the biggest decline in the Nasdaq Composite Index in four months, giving investors a welcome respite as they look forward to more information on Anthropic's forthcoming IPO and a further wave …",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "パリ近郊で銃乱射 1人死亡4人負傷",
-      "url": "https://news.yahoo.co.jp/pickup/6599883?source=rss",
+      "title": "ブラジル大統領選の決選 接戦予想",
+      "url": "https://news.yahoo.co.jp/pickup/6600005?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T22:36:15.000Z",
+      "publishedAt": "2026-10-24T23:58:07.000Z",
       "description": ""
     },
     {
-      "title": "ウ南部停戦へ トランプ氏夫人仲介",
-      "url": "https://news.yahoo.co.jp/pickup/6599882?source=rss",
+      "title": "フランス全土でデモ再び 厳戒態勢",
+      "url": "https://news.yahoo.co.jp/pickup/6600002?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T22:18:09.000Z",
+      "publishedAt": "2026-10-24T23:20:04.000Z",
       "description": ""
     },
     {
-      "title": "露 ウ南部で一時停戦合意と米発表",
-      "url": "https://news.yahoo.co.jp/pickup/6599879?source=rss",
+      "title": "ウ側 スターシールド接続復旧発表",
+      "url": "https://news.yahoo.co.jp/pickup/6599978?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T14:42:42.000Z",
+      "publishedAt": "2026-10-24T12:41:44.000Z",
       "description": ""
     },
     {
-      "title": "高峰登山で不明2邦人か 遺体発見",
-      "url": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
+      "title": "モンゴル火災 当局が賠償請求検討",
+      "url": "https://news.yahoo.co.jp/pickup/6599972?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T10:17:11.000Z",
+      "publishedAt": "2026-10-24T12:02:23.000Z",
       "description": ""
     },
     {
-      "title": "ソウル市長 政治資金巡り逆転無罪",
-      "url": "https://news.yahoo.co.jp/pickup/6599814?source=rss",
+      "title": "中国で首相と会談 正恩氏日帰りか",
+      "url": "https://news.yahoo.co.jp/pickup/6599971?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T06:54:13.000Z",
+      "publishedAt": "2026-10-24T11:39:51.000Z",
       "description": ""
     },
     {
-      "title": "NYセントラルパークの馬車廃止へ",
-      "url": "https://news.yahoo.co.jp/pickup/6599787?source=rss",
+      "title": "正恩氏が電撃訪中 開通の大橋通り",
+      "url": "https://news.yahoo.co.jp/pickup/6599942?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T02:39:24.000Z",
+      "publishedAt": "2026-10-24T07:12:35.000Z",
       "description": ""
     },
     {
-      "title": "北が心理戦警告 南北で緊張の恐れ",
-      "url": "https://news.yahoo.co.jp/pickup/6599779?source=rss",
+      "title": "露は「人質外交」解放の米紙記者",
+      "url": "https://news.yahoo.co.jp/pickup/6599926?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T00:35:28.000Z",
+      "publishedAt": "2026-10-24T04:50:28.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 レブロン「無礼」と批判",
-      "url": "https://news.yahoo.co.jp/pickup/6599769?source=rss",
+      "title": "劣勢トランプ氏 露骨なバラマキ策",
+      "url": "https://news.yahoo.co.jp/pickup/6599901?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-22T23:26:38.000Z",
+      "publishedAt": "2026-10-24T01:01:49.000Z",
       "description": ""
     }
   ]
