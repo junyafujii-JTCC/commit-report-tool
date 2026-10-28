@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T01:17:55.015Z",
+  "fetchedAt": "2026-10-28T01:02:33.945Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "Gハウス、2030年度グループ売上500億円構想を発表　地域工務店とのM&Aを積極推進",
-      "url": "https://prtimes.jp/main/html/rd/p/000000074.000159579.html",
+      "title": "インキュデータとMagicx consulting、クライアント企業のAI変革を支援する共同オファリング体制を構築",
+      "url": "https://prtimes.jp/main/html/rd/p/000000071.000076738.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-10-26T00:00:00Z",
-      "description": "[株式会社Gハウス] 株式会社Gハウス（本社：大阪市旭区、代表取締役社長：趙 晃啓）は、帝国ホテル大阪で開催した「2026年 経営計画発表会」において、2030年度グループ売上500億円構想を発表しました。その実現に向け、地域工務店...",
+      "publishedAt": "2026-10-27T01:00:00Z",
+      "description": "[インキュデータ株式会社] ソフトバンクと博報堂の共同出資会社であるインキュデータ株式会社（本社：東京都港区、代表取締役社長 兼CEO：町田 紘一、以下 インキュデータ）と博報堂ＤＹグループのコンサルティングビジネスを担う株式会社M...",
       "maMarket": "jp"
     },
     {
-      "title": "Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma among 15 stocks to remain in focus",
-      "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-oct-26-raymond-railtel-kec-intl-honasa-bl-kashyap-lupin-orchid-pharma-gland-pharma-among-15-stocks-to-remain-in-focus/article71624286.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-10-26T01:17:43Z",
-      "description": "Stocks to watch Oct 26: a mix of M&A, contract wins, regulatory updates and new product launches across 15 stocks, from Ray­mond’s rebrand to Lupin’s FDA observation and Orchid Pharma’s Latin American licensing deal.",
+      "title": "Fleet expansion: NAF to acquire 67 aircraft, drones",
+      "url": "https://punchng.com/fleet-expansion-naf-to-acquire-67-aircraft-drones/",
+      "source": "The Punch",
+      "publishedAt": "2026-10-27T00:59:27Z",
+      "description": "The Nigerian Air Force plans to acquire 67 new aircraft and drones, including fighter jets and helicopters, to modernise its fleet and boost its capabiliti Read More: https://punchng.com/fleet-expansion-naf-to-acquire-67-aircraft-drones/",
       "maMarket": "us"
     },
     {
-      "title": "M＆Aに頼らず売上高1兆円超、業界2位も射程に　コスモス薬品を成長させた3つの独自戦略 - ニュース・経営",
-      "url": "https://jbpress.ismedia.jp/articles/-/97651",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-10-25T20:55:00Z",
-      "description": "M＆Aによる規模拡大に頼ることなく、年間100店前後の出店を続けて、売上高1兆円超えのドラッグストアチェーンをつくり上げた「コスモス薬品」。食品強化型の独自モデルで成長を続け、2027年にはドラッグストア業界2位も視野に入る。同社の成長モデルを検証する。",
+      "title": "中国、米国による孔子学院の「国家安全保障上の脅威」指定に反発",
+      "url": "https://www.afpbb.com/articles/-/3659477",
+      "source": "Afpbb.com",
+      "publishedAt": "2026-10-27T00:48:00Z",
+      "description": "【10月27日 AFP】中国は26日、米国が中国政府の出資を受ける教育機関「孔子学院」を国家安全保障上の脅威に指定したことについて、「狙い撃ちにした中傷」だと非難した≫続きを読む",
       "maMarket": "jp"
     },
     {
-      "title": "Ingenia Removes Warburg Pincus From Data Room Following Rival $1.55B Offer",
-      "url": "https://biztoc.com/x/0f6319ece76e1613",
+      "title": "Kevin O’Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo — ‘If You Own Tesla, You’re Gonna Own New Company’",
+      "url": "https://biztoc.com/x/a4cd03ef0c2f396d",
       "source": "Biztoc.com",
-      "publishedAt": "2026-10-26T00:58:48Z",
-      "description": "The retirement-village operator revoked Warburg Pincus’s data-room access after it received a US$1.55 billion takeover offer from AVID Property Group.",
+      "publishedAt": "2026-10-27T00:48:15Z",
+      "description": "Kevin O’Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo — ‘If You Own Tesla, You’re Gonna Own New Company’ Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Tesla just put on a flying-…",
       "maMarket": "us"
     },
     {
-      "title": "【大阪】令和の大合併『南大阪市』爆誕か！？泉佐野市、泉南市、阪南市、周辺自治体続々と参加表明",
-      "url": "http://matometanews.com/archives/2122395.html",
-      "source": "Matometanews.com",
-      "publishedAt": "2026-10-25T07:41:30Z",
-      "description": "1：2026/10/25(日) 14:24:09.74 ID:C5FHIreq0.net 大阪府の泉佐野市と泉南市が合併の可能性を検討しようと、来年にも設置を予定している任意の協議会について、阪南市は２３日、参加する方針を表明した。（省略）全文読売新聞 | 10/24(土) 14:20配信https://news.yahoo.co.j...",
+      "title": "日本の投資会社「JYP株最大50％の取得を推進」…JYP「提案受けていない」",
+      "url": "https://news.livedoor.com/article/detail/32664815/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-27T00:29:54Z",
+      "description": "日本系投資グループ2カ所が26日、JYPエンターテインメントの株式を最大50％取得する方針を明らかにした。これに対し、JYP側は関連する提案を受けたことはないと一蹴した。ザ・ネクスロック・グループ（The NEXROC Group）とSVCV（SVCV， Inc．）は同日、報道資料を通じて「JYP株の取得を推進する。両社は早ければ11月にも公開買付を実施する計画」とし、「取得目標はJYPの発行済み株式の25～50％」と明らかにした。 全文中央日報 10月27日 09時29分",
       "maMarket": "jp"
     },
     {
-      "title": "BFSI Summit 2026: Top experts from the finance world to share insights",
-      "url": "https://www.business-standard.com/specials/bs-events/bfsi-summit-2026-top-experts-from-the-finance-world-to-share-insights-126102500730_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-26T00:55:46Z",
-      "description": "The three-day Business Standard BFSI Insight Summit begins in Mumbai on October 26, bringing together top regulators, bankers and investors to discuss key challenges facing India's financial sector",
+      "title": "Five customer acquisition companies to watch in 2027",
+      "url": "https://www.digitaljournal.com/article/five-customer-acquisition-companies-to-watch-in-2027/",
+      "source": "Digital Journal",
+      "publishedAt": "2026-10-27T00:32:31Z",
+      "description": "These businesses help brands reach prospects, support sales teams and bring in new customers. The post Five customer acquisition companies to watch in 2027 appeared first on Digital Journal.",
       "maMarket": "us"
     },
     {
-      "title": "3万円貸し付け利息22万5000円 ヤミ金疑いで韓国籍の男6人逮捕 元金と利息計約7500万円得たか",
-      "url": "https://www.2nn.jp/newsplus/1792901099/",
-      "source": "Www.2nn.jp",
-      "publishedAt": "2026-10-25T04:04:59Z",
-      "description": "[ 2026年10月24日 05:30 ] スポニチ 福岡、広島両県警などは23日までに、ヤミ金融を営んだとして、出資法違反(高金利)の疑いで東京都台東区、韓国籍の無職金臣俊容疑者(29)ら男6人を逮捕した。22日付。台東区を拠点...https://asahi.5ch.io/test/read.cgi/newsplus/1792901099/",
+      "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画　NVIDIA、AMD、Broadcomも出資に関心",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-10-26T22:26:00Z",
+      "description": "Metaは、AIインフラとパーソナル超知能への投資を支えるため、総額約950億ドル（約15兆円）規模の株式発行による資金調達計画を発表した。まず普通株式と預託株式で約350億ドルを公募し、NVIDIAなど半導体3社も出資意向を示す。2027年には最大600億ドルの段階的売却プログラムも計画する。",
       "maMarket": "jp"
     },
     {
-      "title": "Tesla’s Earnings Are Mixed, but Elon Musk Is Pushing Beyond Cars",
-      "url": "https://observer.com/2026/10/elon-musk-tesla-spacex-merger-control/",
-      "source": "Observer",
-      "publishedAt": "2026-10-26T00:47:58Z",
-      "description": "Examining Elon Musk’s push beyond Tesla’s vehicle business, from the flying Roadster spectacle to the spending and control questions behind a possible SpaceX merger.",
+      "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit - GamesIndustry.biz",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186467832",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-10-27T00:12:27Z",
+      "description": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exitGamesIndustry.biz Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency pushCNBC Microsoft offers voluntary buyout to 60,000 employeesSFGATE Microsoft offers vo…",
       "maMarket": "us"
     }
   ],
@@ -83,93 +83,93 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
-      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-10-26T00:26:09Z",
-      "description": "Food startup Wonder has reportedly set its sights on going public amid wider expansion plans. As CNBC reported Sunday (Oct. 25), the company is also eyeing an “aggressive” expansion in Texas and a subscription program that allows diners to operate their own “…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic’s Big Reveal",
-      "url": "https://info-reader-production.herokuapp.com/newsletters/the-briefing/anthropics-big-reveal",
-      "source": "Herokuapp.com",
-      "publishedAt": "2026-10-25T22:01:16Z",
-      "description": "The tech industry equivalent of the Super Bowl may finally be upon us. Anthropic could make public the paperwork for its initial public offering as early as Monday. Details about Anthropic’s finances from either drafts of the IPO filing or recent investor mee…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Should You Ignore the SpaceX Hype and Buy Rocket Lab Instead?",
-      "url": "https://biztoc.com/x/c9ed63036e8c7abf",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-25T01:10:51Z",
-      "description": "Space stocks blasted off earlier this year, fueled by Space Exploration Technologies' (NASDAQ: SPCX) blockbuster June initial public offering. The excitement lifted companies across the space economy, sending many stocks soaring ahead of the public-market deb…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic targets November IPO as Polymarket traders bet on $ANT ticker",
-      "url": "https://cryptobriefing.com/anthropic-november-ipo-ant-ticker/",
+      "title": "Anthropic IPO filing boosts US stocks, lifts AI sentiment",
+      "url": "https://cryptobriefing.com/anthropic-ipo-filing-boosts-us-stocks-lifts-ai-sentiment/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-10-24T17:49:17Z",
-      "description": "Anthropic's IPO could reshape AI investment, offering public access to AI model developers and highlighting valuation risks amid rapid growth. The post Anthropic targets November IPO as Polymarket traders bet on $ANT ticker appeared first on Crypto Briefing.",
+      "publishedAt": "2026-10-27T00:59:34Z",
+      "description": "Anthropic's IPO filing signals growing investor confidence in AI, potentially driving further investment and innovation in the sector. The post Anthropic IPO filing boosts US stocks, lifts AI sentiment appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Anthropic files for blockbuster IPO that could value AI giant at $2 trillion",
+      "url": "https://nypost.com/2026/10/26/tech/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion-2/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-27T00:35:34Z",
+      "description": "Anthropic formally filed paperwork Monday to go public at a valuation of up to $2 trillion — and the public offering is expected to mint a new crop of California mega-billionaires. The Claude maker’s seven founders are among those potentially poised to net bi…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "url": "https://biztoc.com/x/c580604a58957e23",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-10-26T23:59:59Z",
+      "description": "The tech industry needs this to go well. So does Wall Street. Anthropic's IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company's …",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-26T22:50:07Z",
+      "description": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米大統領 賞ならずノルウェー罵倒",
-      "url": "https://news.yahoo.co.jp/pickup/6600266?source=rss",
+      "title": "米とキューバ 国連で怒声の応酬",
+      "url": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T00:45:04.000Z",
+      "publishedAt": "2026-10-28T00:45:41.000Z",
       "description": ""
     },
     {
-      "title": "米中間選挙 下院は民主党優勢か",
-      "url": "https://news.yahoo.co.jp/pickup/6600255?source=rss",
+      "title": "米大統領「AI」名称禁止する方針",
+      "url": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T23:25:23.000Z",
+      "publishedAt": "2026-10-27T23:49:12.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 ブラジル大統領選は不正",
-      "url": "https://news.yahoo.co.jp/pickup/6600251?source=rss",
+      "title": "ボルソナロ氏亡命か 米認める方針",
+      "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T22:43:14.000Z",
+      "publishedAt": "2026-10-27T23:16:19.000Z",
       "description": ""
     },
     {
-      "title": "イスラエル総選挙 政権維持が焦点",
-      "url": "https://news.yahoo.co.jp/pickup/6600247?source=rss",
+      "title": "イスラエル総選挙 連立協議難航か",
+      "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T22:20:32.000Z",
+      "publishedAt": "2026-10-27T22:54:29.000Z",
       "description": ""
     },
     {
-      "title": "中国が福田氏評価 高市政権は批判",
-      "url": "https://news.yahoo.co.jp/pickup/6600236?source=rss",
+      "title": "習近平氏 福田康夫氏の遺族に弔電",
+      "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T13:56:14.000Z",
+      "publishedAt": "2026-10-27T11:30:45.000Z",
       "description": ""
     },
     {
-      "title": "中国媒体の「VIVANT」批判 背景",
-      "url": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
+      "title": "キーウの「京都公園」にミサイル",
+      "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T10:07:04.000Z",
+      "publishedAt": "2026-10-27T10:41:37.000Z",
       "description": ""
     },
     {
-      "title": "福田元首相が死去 中国が哀悼の意",
-      "url": "https://news.yahoo.co.jp/pickup/6600203?source=rss",
+      "title": "中国2社 エムバペ選手と関係解消",
+      "url": "https://news.yahoo.co.jp/pickup/6600312?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T08:50:33.000Z",
+      "publishedAt": "2026-10-27T07:50:41.000Z",
       "description": ""
     },
     {
-      "title": "中国紙「VIVANT」批判記事を掲載",
-      "url": "https://news.yahoo.co.jp/pickup/6600197?source=rss",
+      "title": "米大統領との面会後悔 司教ら謝罪",
+      "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T08:14:42.000Z",
+      "publishedAt": "2026-10-27T02:22:48.000Z",
       "description": ""
     }
   ]
