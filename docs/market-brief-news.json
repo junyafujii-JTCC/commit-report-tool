@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T01:02:33.945Z",
+  "fetchedAt": "2026-10-29T01:38:33.142Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "インキュデータとMagicx consulting、クライアント企業のAI変革を支援する共同オファリング体制を構築",
-      "url": "https://prtimes.jp/main/html/rd/p/000000071.000076738.html",
+      "title": "組織開発のDroR、M&A支援機関登録制度にFA・仲介業者として登録　統合後の組織づくり（PMI）まで支援",
+      "url": "https://prtimes.jp/main/html/rd/p/000000076.000134829.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
-      "description": "[インキュデータ株式会社] ソフトバンクと博報堂の共同出資会社であるインキュデータ株式会社（本社：東京都港区、代表取締役社長 兼CEO：町田 紘一、以下 インキュデータ）と博報堂ＤＹグループのコンサルティングビジネスを担う株式会社M...",
+      "publishedAt": "2026-10-28T01:30:00Z",
+      "description": "[ドロア] 組織開発・組織変革を伴走支援する株式会社DroR（ドロア）は、M&A支援機関登録制度にFA・仲介業者として登録され、中小企業庁が2026年10月20日に公表した登録フィナンシャル・アドバイザー（FA）・仲介業者の...",
       "maMarket": "jp"
     },
     {
-      "title": "Fleet expansion: NAF to acquire 67 aircraft, drones",
-      "url": "https://punchng.com/fleet-expansion-naf-to-acquire-67-aircraft-drones/",
-      "source": "The Punch",
-      "publishedAt": "2026-10-27T00:59:27Z",
-      "description": "The Nigerian Air Force plans to acquire 67 new aircraft and drones, including fighter jets and helicopters, to modernise its fleet and boost its capabiliti Read More: https://punchng.com/fleet-expansion-naf-to-acquire-67-aircraft-drones/",
+      "title": "Mankind Pharma, AIOS and EBAI Join Hands for Academic Collaboration to Enhance Public Awareness of Corneal Health, Eye Donation and Childhood Myopia",
+      "url": "https://www.business-standard.com/content/press-releases-ani/mankind-pharma-aios-and-ebai-join-hands-for-academic-collaboration-to-enhance-public-awareness-of-corneal-health-eye-donation-and-childhood-myopia-126102800045_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-28T01:26:48Z",
+      "description": "New Delhi [India], October 27: Mankind Pharma, in academic association with All India Ophthalmological Society (AIOS) and Eye Bank Association of India (EBAI), organized Vision Continuum 2026 under the theme \"Connecting Care. Preserving Sight. Across Generati…",
       "maMarket": "us"
     },
     {
-      "title": "中国、米国による孔子学院の「国家安全保障上の脅威」指定に反発",
-      "url": "https://www.afpbb.com/articles/-/3659477",
-      "source": "Afpbb.com",
-      "publishedAt": "2026-10-27T00:48:00Z",
-      "description": "【10月27日 AFP】中国は26日、米国が中国政府の出資を受ける教育機関「孔子学院」を国家安全保障上の脅威に指定したことについて、「狙い撃ちにした中傷」だと非難した≫続きを読む",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Kevin O’Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo — ‘If You Own Tesla, You’re Gonna Own New Company’",
-      "url": "https://biztoc.com/x/a4cd03ef0c2f396d",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-10-27T00:48:15Z",
-      "description": "Kevin O’Leary Says Tesla-SpaceX Merger Is Inevitable After Flying Roadster Demo — ‘If You Own Tesla, You’re Gonna Own New Company’ Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Tesla just put on a flying-…",
-      "maMarket": "us"
-    },
-    {
-      "title": "日本の投資会社「JYP株最大50％の取得を推進」…JYP「提案受けていない」",
-      "url": "https://news.livedoor.com/article/detail/32664815/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-10-27T00:29:54Z",
-      "description": "日本系投資グループ2カ所が26日、JYPエンターテインメントの株式を最大50％取得する方針を明らかにした。これに対し、JYP側は関連する提案を受けたことはないと一蹴した。ザ・ネクスロック・グループ（The NEXROC Group）とSVCV（SVCV， Inc．）は同日、報道資料を通じて「JYP株の取得を推進する。両社は早ければ11月にも公開買付を実施する計画」とし、「取得目標はJYPの発行済み株式の25～50％」と明らかにした。 全文中央日報 10月27日 09時29分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Five customer acquisition companies to watch in 2027",
-      "url": "https://www.digitaljournal.com/article/five-customer-acquisition-companies-to-watch-in-2027/",
-      "source": "Digital Journal",
-      "publishedAt": "2026-10-27T00:32:31Z",
-      "description": "These businesses help brands reach prospects, support sales teams and bring in new customers. The post Five customer acquisition companies to watch in 2027 appeared first on Digital Journal.",
-      "maMarket": "us"
-    },
-    {
-      "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画　NVIDIA、AMD、Broadcomも出資に関心",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/",
+      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
       "source": "Itmedia.co.jp",
-      "publishedAt": "2026-10-26T22:26:00Z",
-      "description": "Metaは、AIインフラとパーソナル超知能への投資を支えるため、総額約950億ドル（約15兆円）規模の株式発行による資金調達計画を発表した。まず普通株式と預託株式で約350億ドルを公募し、NVIDIAなど半導体3社も出資意向を示す。2027年には最大600億ドルの段階的売却プログラムも計画する。",
+      "publishedAt": "2026-10-27T23:55:00Z",
+      "description": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
       "maMarket": "jp"
     },
     {
-      "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit - GamesIndustry.biz",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186467832",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-10-27T00:12:27Z",
-      "description": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exitGamesIndustry.biz Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency pushCNBC Microsoft offers voluntary buyout to 60,000 employeesSFGATE Microsoft offers vo…",
+      "title": "Chicago Bears bring sold-out fan fest to McHenry Outdoor Theater",
+      "url": "https://abc7chicago.com/post/chicago-bears-bring-sold-fan-fest-mchenry-outdoor-theater-lakemoor-illinois/19987466/",
+      "source": "WLS-TV",
+      "publishedAt": "2026-10-28T01:25:31Z",
+      "description": "The Chicago Bears brought a game-day atmosphere to McHenry County on Tuesday, drawing a sold-out crowd to the McHenry Outdoor Theater for what organizers said was the first Bears takeover in the drive-in's 75-year history.",
+      "maMarket": "us"
+    },
+    {
+      "title": "「乗っ取り」商人から「再建」の騎士へ コーポレート・ガヴァナーとしての株主の役割",
+      "url": "https://dhbr.diamond.jp/articles/-/13501",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-10-27T23:00:00Z",
+      "description": "ジャンク・ボンドや敵対的TOBによる企業支配は、その影をひそめつつある。経営者と株主は、政治的解決に新たな活路を求めつつある。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "perp-md 0.5.4",
+      "url": "https://pypi.org/project/perp-md/0.5.4/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-10-28T01:23:30Z",
+      "description": "Typed asynchronous perpetual-market open-interest and funding acquisition",
+      "maMarket": "us"
+    },
+    {
+      "title": "俳優としても活躍の坂巻有紗、ライダーヒロイン特集の『週プレ』で魅せた妖しげクールグラビア",
+      "url": "https://news.livedoor.com/article/detail/32673219/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-10-27T21:30:00Z",
+      "description": "坂巻有紗が登場の『週プレ』45･46合併号は10月26日に発売！ 10月26日発売の『週刊プレイボーイ』45・46合併号は歴代ライダーヒロインが大集結！『仮面ライダーガッチャード』で＂冥黒の三姉妹＂ラケシス役で出演した坂巻有紗が登場。 坂巻有紗 ©蓮井元彦／集英社 【プロフィール】坂巻有紗（さかまき・ありさ）2000年9月23日生まれ埼玉県出身身長162cmB80 W62 H86血液型＝A型『仮面ライダーガッチャード』（テレビ朝日、2023～24年）に＂冥黒の全文ラブすぽ 10月28日06時30分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "DeForest Buckner trade grades for 49ers, Colts as Indy fire sale continues",
+      "url": "https://clutchpoints.com/nfl/nfl-stories/deforest-buckner-trade-grades-49ers-colts-indy-fire-sale",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-10-28T00:39:40Z",
+      "description": "The San Francisco 49ers agreed to acquire DeForest Buckner from the Indianapolis Colts for a 2027 fourth-round pick Tuesday, buying immediate defensive help while Indianapolis turns another veteran into draft capital. The deal remains pending a physical. The …",
       "maMarket": "us"
     }
   ],
@@ -83,39 +83,88 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO filing boosts US stocks, lifts AI sentiment",
-      "url": "https://cryptobriefing.com/anthropic-ipo-filing-boosts-us-stocks-lifts-ai-sentiment/",
+      "title": "Anthropic taps JPMorgan to lead US retail slice of its IPO",
+      "url": "https://cryptobriefing.com/anthropic-jpmorgan-lead-us-retail-ipo/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-10-27T00:59:34Z",
-      "description": "Anthropic's IPO filing signals growing investor confidence in AI, potentially driving further investment and innovation in the sector. The post Anthropic IPO filing boosts US stocks, lifts AI sentiment appeared first on Crypto Briefing.",
+      "publishedAt": "2026-10-28T00:42:40Z",
+      "description": "Anthropic's IPO strategy, emphasizing retail investor inclusion, could democratize access to high-profile tech investments, impacting market dynamics. The post Anthropic taps JPMorgan to lead US retail slice of its IPO appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic files for blockbuster IPO that could value AI giant at $2 trillion",
-      "url": "https://nypost.com/2026/10/26/tech/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion-2/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-27T00:35:34Z",
-      "description": "Anthropic formally filed paperwork Monday to go public at a valuation of up to $2 trillion — and the public offering is expected to mint a new crop of California mega-billionaires. The Claude maker’s seven founders are among those potentially poised to net bi…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-      "url": "https://biztoc.com/x/c580604a58957e23",
+      "title": "A $20 AGNC Share Bought at Its 2008 IPO Has Paid $51 in Dividends. The Stock Trades Near $9",
+      "url": "https://biztoc.com/x/62861c79a33bef21",
       "source": "Biztoc.com",
-      "publishedAt": "2026-10-26T23:59:59Z",
-      "description": "The tech industry needs this to go well. So does Wall Street. Anthropic's IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company's …",
+      "publishedAt": "2026-10-27T21:34:15Z",
+      "description": "At first glance, AGNC (NASDAQ: AGNC) might seem like a terrible long-term investment. The mortgage real estate investment trust (mREIT) went public at $20 per share on May 15, 2008, but now trades at less than $9 per share. But since AGNC's market debut, it's…",
       "ipoMarket": "us"
     },
     {
-      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-      "source": "CNBC",
-      "publishedAt": "2026-10-26T22:50:07Z",
-      "description": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-27T20:16:54Z",
+      "description": "US stocks saw gains as renewed optimism about artificial intelligence lifted chipmakers while corporate earnings were evaluated. Although concerns about AI spending persist, news of Anthropic's IPO provided a relief rally for the sector. The Federal Reserve b…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Tech firms gain on Anthropic IPO optimism, Microsoft exit package for 60,000 staff",
+      "url": "https://www.nzherald.co.nz/business/tech-firms-gain-on-anthropic-ipo-optimism-microsoft-exit-package-for-60000-staff/HEIMTD63RNCGVKPNI3C7EVF4DM/",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-10-27T20:06:27Z",
+      "description": "But gains tempered as traders await Fed decision.",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "スペイン事故 乗客名簿に邦人2人",
+      "url": "https://news.yahoo.co.jp/pickup/6600517?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-29T01:10:01.000Z",
+      "description": ""
+    },
+    {
+      "title": "米FRBが政策金利を据え置き",
+      "url": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-29T00:13:09.000Z",
+      "description": ""
+    },
+    {
+      "title": "プーチン氏 マスク氏は本物の天才",
+      "url": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T23:46:08.000Z",
+      "description": ""
+    },
+    {
+      "title": "スペイン 衝突列車に誤った指示か",
+      "url": "https://news.yahoo.co.jp/pickup/6600500?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T23:03:35.000Z",
+      "description": ""
+    },
+    {
+      "title": "ヒョウ襲撃 オランダで飼育員死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6600426?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T05:27:35.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国 シャインマスカット価格急落",
+      "url": "https://news.yahoo.co.jp/pickup/6600418?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T04:59:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "ボルソナロ氏の入国 米が許可",
+      "url": "https://news.yahoo.co.jp/pickup/6600410?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T03:19:24.000Z",
+      "description": ""
+    },
     {
       "title": "米とキューバ 国連で怒声の応酬",
       "url": "https://news.yahoo.co.jp/pickup/6600382?source=rss",
@@ -124,52 +173,10 @@
       "description": ""
     },
     {
-      "title": "米大統領「AI」名称禁止する方針",
-      "url": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T23:49:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "ボルソナロ氏亡命か 米認める方針",
-      "url": "https://news.yahoo.co.jp/pickup/6600370?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T23:16:19.000Z",
-      "description": ""
-    },
-    {
       "title": "イスラエル総選挙 連立協議難航か",
       "url": "https://news.yahoo.co.jp/pickup/6600366?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-10-27T22:54:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "習近平氏 福田康夫氏の遺族に弔電",
-      "url": "https://news.yahoo.co.jp/pickup/6600336?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T11:30:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "キーウの「京都公園」にミサイル",
-      "url": "https://news.yahoo.co.jp/pickup/6600333?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T10:41:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国2社 エムバペ選手と関係解消",
-      "url": "https://news.yahoo.co.jp/pickup/6600312?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T07:50:41.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領との面会後悔 司教ら謝罪",
-      "url": "https://news.yahoo.co.jp/pickup/6600278?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T02:22:48.000Z",
       "description": ""
     }
   ]
