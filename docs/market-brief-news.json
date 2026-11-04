@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T03:21:54.288Z",
+  "fetchedAt": "2026-11-04T02:01:02.454Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "女性仮面ライダーのスーツアクターを務める宮澤雪、まさかの初グラビア挑戦",
-      "url": "https://news.livedoor.com/article/detail/32712106/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-11-02T03:00:00Z",
-      "description": "デジタル写真集『スーツアクターの美しき肖像』（撮影／岡本武志）より2026年10月26日（月）発売『週刊プレイボーイ45･46合併号』は、仮面ライダー俳優特集号！歴代シリーズに登場した仮面ライダー俳優がグラビア",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Salesforce to Buy Defense Tech Startup, Extending Acquisition Streak",
-      "url": "https://www.theinformation.com/briefings/salesforce-buy-defense-tech-startup-extending-acquisition-streak",
-      "source": "The Information",
-      "publishedAt": "2026-11-02T03:07:35Z",
-      "description": "",
-      "maMarket": "us"
-    },
-    {
-      "title": "池田泉州HDと滋賀銀の経営統合が変える関西勢力図と地銀再編のうねり…注目は南都･紀陽･京都銀とありあけ出資行の行方 | ビジネス | 東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963164?display=b",
-      "source": "Toyokeizai.net",
-      "publishedAt": "2026-11-02T02:30:00Z",
-      "description": "関西最大となる地方銀行グループの誕生は、周辺の地銀を巻き込む広域再編の呼び水となるのか――。大阪府地盤の池田泉州銀行を傘下に持つ池田泉州ホールディングス（HD）と滋賀銀行は10月29日、経営統合に関…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Kathmandu owner KMD Brands in exclusive takeover talks with Bluestar Alliance",
-      "url": "https://www.nzherald.co.nz/business/companies/retail/kathmandu-owner-kmd-brands-in-exclusive-takeover-talks-with-bluestar-alliance/7KWNBWZEXRGLNJ3XM5QRN4IEYM/",
-      "source": "New Zealand Herald",
-      "publishedAt": "2026-11-02T02:56:54Z",
-      "description": "Its share price has risen sharply after announcing the agreement with Bluestar Alliance.",
-      "maMarket": "us"
-    },
-    {
-      "title": "三菱倉---大幅反落、M&A実施に伴う関連費用計上で業績下方修正 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1074854",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-11-02T02:13:11Z",
-      "description": "&lt;9301&gt; 三菱倉 1303.5 -200.5大幅反落。先週末に上半期の決算を発表、営業利益は82.4億円で前年同期比9.3％増となり、ほぼ市場予想線上での着地となっている。一方、通期予想は従来の175億円から155億円、前期比2.7％減に下方修正。一転減益見通しへの下方修正をマイナス視する動きが優勢。阪急阪神エクスプレスの買収を発表しており、M&amp;Aのアドバイザリー費用の発生などが下方修正の主因",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Tesla-SpaceX merger math just shifted in Tesla's favor",
-      "url": "https://biztoc.com/x/5fcdc6a9e0324eaa",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-02T02:39:27Z",
-      "description": "When two companies merge with stock, nobody hands you cash. You trade one set of shares for another and hope the swap was fair. That trade happens whether you pay attention or not. If you own a broad index fund, it can happen inside your 401(k) without a sing…",
-      "maMarket": "us"
-    },
-    {
-      "title": "新設オフサイト型太陽光発電設備及びオンサイト型太陽光発電設備の余剰環境価値を活用したバーチャルコーポレートPPA契約の締結について",
-      "url": "https://prtimes.jp/main/html/rd/p/000000006.000169339.html",
+      "title": "アトミックソフトウェア、SBCメディカルグループホールディングスとの資本業務提携で資金調達を実施、シリーズCラウンドで6億円を調達",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000176667.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-02T01:41:14Z",
-      "description": "[Sun Trinity合同会社] 住友商事株式会社および四国電力株式会社が出資するSun Trinity合同会社（本社：東京都千代田区、社長：樫原 俊樹、以下「Sun Trinity」）は、国内大手飲料メーカー（以下「最終需要家」）向けに、住友商事株式会...",
+      "publishedAt": "2026-11-03T01:40:34Z",
+      "description": "[アトミックソフトウェア株式会社] クリニック向けオールインワンSaaS「medicalforce」を提供するアトミックソフトウェア株式会社（本社：東京都品川区、代表取締役CEO：畠中 翔一、以下「当社」）は、国内外の医療機関に経営支援を行うSBCメディカ...",
       "maMarket": "jp"
     },
     {
-      "title": "No extra land needed for toll plazas as NHAI makes free-flow tolling must for NH projects",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/no-extra-land-needed-for-toll-plazas-as-nhai-makes-free-flow-tolling-must-for-nh-projects/articleshow/135441849.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-02T01:52:43Z",
-      "description": "NEW DELHI: Govt will no more need to acquire extra land for setting up physical toll gates and all future National Highway (NH) projects, including those",
+      "title": "Tusk Cries 'Russian Interference' As Opposition Pushes No-Confidence Vote For Court Takeover",
+      "url": "https://biztoc.com/x/5f1c08e9e09aefac",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-03T02:00:25Z",
+      "description": "Tusk Cries 'Russian Interference' As Opposition Pushes No-Confidence Vote For Court Takeover Recent days have seen Poland's Prime Minister Donald Tusk thrust into the international spotlight after what's been widely dubbed a forced takeover of what's suppos…",
+      "maMarket": "us"
+    },
+    {
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+      "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-11-02T22:07:00Z",
+      "description": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "source": "Universe Today",
+      "publishedAt": "2026-11-03T01:33:59Z",
+      "description": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of…",
+      "maMarket": "us"
+    },
+    {
+      "title": "アンジェラ芽衣が『週プレ』に登場、10頭身・美ボディで魅せるクールなグラビア披露",
+      "url": "https://news.livedoor.com/article/detail/32718792/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-11-02T21:30:00Z",
+      "description": "アンジェラ芽衣が登場の『週プレ』45･46合併号は10月26日に発売！ 10月26日発売の『週刊プレイボーイ』45・46合併号は仮面ライダーヒロインが大集合！『仮面ライダーセイバー』で神代玲花／仮面ライダーサーベラ役として出演していたアンジェラ芽衣が登場している。 アンジェラ芽衣 ©YUJI TAKEUCHI（BALLPARK）／集英社 【プロフィール】アンジェラ芽衣（あんじぇら・めい）1997年4月29日生まれ埼玉県出身身長172cmB92 W58 H90趣味＝読書、コス全文ラブすぽ 11月03日06時30分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Salesforce agrees to acquire AI startup Cresta for about $2.7 billion",
+      "url": "https://cryptobriefing.com/salesforce-acquire-cresta-ai-voice/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-03T00:50:06Z",
+      "description": "Salesforce's acquisition of Cresta could accelerate AI-driven customer service innovation, enhancing efficiency and potentially reshaping industry standards. The post Salesforce agrees to acquire AI startup Cresta for about $2.7 billion appeared first on Cryp…",
+      "maMarket": "us"
+    },
+    {
+      "title": "アトミックソフトウェア株式会社アトミックソフトウェア、SBCメディカルグループホールディングスとの資本業務提携で資金調達を実施、シリーズCラウンドで6億円を調達",
+      "url": "https://pcmsx.aiasahi.jp/cnet/release/31220783/",
+      "source": "Aiasahi.jp",
+      "publishedAt": "2026-11-02T14:00:02Z",
+      "description": "medicalforceの製品と開発体制が評価され、SBCメディカルグループと共同開発クリニック向けオールインワンSaaS「medicalforce」を提供するアトミックソフトウェア株式会社（本社：東京都品川区、代表取締役CEO：畠中 翔一、以下「当社」）は、国内外の医療機関に経営支援を行うSBCメディカルグループホールディングス（...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "28k-Mile 2008 Lexus LS600h L",
+      "url": "https://bringatrailer.com/listing/2008-lexus-ls600h-l-14/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-11-03T00:23:05Z",
+      "description": "This 2008 Lexus LS600h L was sold new in Colorado and spent time in Michigan and Oregon prior to the selling dealer's acquisition in 2026. Now with 28k miles, it is finished in Mercury Metallic over Ash leather, while power is provided by a 5.0-liter V8 that …",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "OPay Halts $4 Billion NYSE IPO on Listing Day",
-      "url": "https://biztoc.com/x/8218c371c38172ec",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-01T23:51:12Z",
-      "description": "OPay, a digital financial platform built for emerging markets, has decided to postpone its planned initial public offering due to “an ongoing inquiry by a regulatory authority,” the company said in a public statement shared Saturday (Oct. 31) in post on X. OP…",
+      "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+      "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-11-02T23:19:38Z",
+      "description": "Anthropic PBC today published an updated version of the S-1 filing for its upcoming public offering. The original document, which the company released last Monday, didn’t contain its third quarter financial results. The new version reveals that Anthropic gene…",
       "ipoMarket": "us"
     },
     {
@@ -99,85 +99,92 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "OPay Halts $4 Billion NYSE IPO on Listing Day",
-      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/opay-halts-4-billion-nyse-ipo-on-listing-day/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-11-01T23:02:39Z",
-      "description": "OPay, a digital financial platform built for emerging markets, has decided to postpone its planned initial public offering due to “an ongoing inquiry by a regulatory authority,” the company said in a public statement shared Saturday (Oct. 31) in post on X. OP…",
+      "title": "Helping PE Owned Co’s Be IPO Ready: NYSE Head of East Coast Capital Markets Tad Nacheff, Live from NYSE",
+      "url": "https://biztoc.com/x/73451fcaddfe226d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-02T22:14:25Z",
+      "description": "IPO Edge hosted a fireside chat from the floor of the New York Stock Exchange during the 3rd Annual Private Equity IPO Summit with Tad Nacheff, Head of East Coast Capital Markets and Financial Sponsor Coverage at NYSE. The in-person interview was joined by Ed…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic’s IPO could make its founders worth up to $200 billion, and critics are watching where the money goes",
-      "url": "https://cryptobriefing.com/anthropic-ipo-founders-wealth-effective-altruism/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-01T21:24:34Z",
-      "description": "Anthropic's IPO could significantly influence philanthropic and political landscapes, raising questions about wealth distribution and societal impact. The post Anthropic’s IPO could make its founders worth up to $200 billion, and critics are watching where th…",
+      "title": "Naomi Klein and Illana Glaser Have a Message: Tax the Billionaires and Block Big Tech IPOs",
+      "url": "https://www.commondreams.org/news/tax-billionaires-halt-ipos",
+      "source": "Common Dreams",
+      "publishedAt": "2026-11-02T20:28:53Z",
+      "description": "Progressive author Naomi Klein and comedian Ilana Glazer on Monday warned that America's billionaire class is taking \"unprecedented risks with our future,\" and said US policymakers must block further Big Tech initial public offerings and mergers to prevent ev…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zero - Fortune",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186549257",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-01T20:53:11Z",
-      "description": "Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zeroFortune We’re Living in the Age of the Imperial CEOWSJ Opinion | The Open Secret Buried in Anthropic’s 300-Page I.P.O. FilingThe New York Times Anthropic'…",
+      "title": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
+      "url": "https://abcnews.com/Technology/wireStory/anthropic-posts-17b-quarterly-revenue-losses-continue-fresh-137775250",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-02T17:45:42Z",
+      "description": "Anthropic reports quarterly revenue swelling to $17 billion but still posts a net loss for the latest three months",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "28年かけ世界一周 英冒険家が帰郷",
-      "url": "https://news.yahoo.co.jp/pickup/6601152?source=rss",
+      "title": "アメリカ中間選挙 注目の激戦州は",
+      "url": "https://news.yahoo.co.jp/pickup/6601269?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-03T02:44:09.000Z",
+      "publishedAt": "2026-11-04T01:54:56.000Z",
       "description": ""
     },
     {
-      "title": "ICC赤根所長 米政権の制裁を批判",
-      "url": "https://news.yahoo.co.jp/pickup/6601146?source=rss",
+      "title": "北朝鮮が日本海に向け飛翔体発射",
+      "url": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-03T02:14:00.000Z",
+      "publishedAt": "2026-11-04T01:16:27.000Z",
       "description": ""
     },
     {
-      "title": "米中間選挙「MAGA」の動向焦点",
-      "url": "https://news.yahoo.co.jp/pickup/6601145?source=rss",
+      "title": "中継 米中間選挙の開票速報",
+      "url": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-03T01:59:48.000Z",
+      "publishedAt": "2026-11-04T01:01:21.000Z",
       "description": ""
     },
     {
-      "title": "米・露・ウが10～11日に3者協議",
-      "url": "https://news.yahoo.co.jp/pickup/6601140?source=rss",
+      "title": "スペイン運輸相 列車事故受け辞意",
+      "url": "https://news.yahoo.co.jp/pickup/6601256?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-03T01:07:31.000Z",
+      "publishedAt": "2026-11-04T00:40:48.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 演説で「口約束」連発",
-      "url": "https://news.yahoo.co.jp/pickup/6601130?source=rss",
+      "title": "米 イスラエル年40億ドル支援終了",
+      "url": "https://news.yahoo.co.jp/pickup/6601259?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-03T00:09:15.000Z",
+      "publishedAt": "2026-11-04T00:15:58.000Z",
       "description": ""
     },
     {
-      "title": "露軍がウの学校に空爆 26人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6601125?source=rss",
+      "title": "欧州で旅客機への爆破予告相次ぐ",
+      "url": "https://news.yahoo.co.jp/pickup/6601246?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-02T23:33:39.000Z",
+      "publishedAt": "2026-11-03T22:30:44.000Z",
       "description": ""
     },
     {
-      "title": "北朝鮮 バイナンス巡り関与否定",
-      "url": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
+      "title": "米中間選挙 集計長期化の可能性も",
+      "url": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-02T22:40:52.000Z",
+      "publishedAt": "2026-11-03T14:02:50.000Z",
       "description": ""
     },
     {
-      "title": "スペイン列車事故 邦人死亡2人に",
-      "url": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
+      "title": "台湾の九份 日本人男性が行方不明",
+      "url": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-02T22:06:06.000Z",
+      "publishedAt": "2026-11-03T12:38:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "豪が追加利上げ 18年ぶり高水準",
+      "url": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-03T10:23:11.000Z",
       "description": ""
     }
   ]
