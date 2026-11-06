@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T02:03:03.461Z",
+  "fetchedAt": "2026-11-06T02:05:14.280Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "グローバル・ブレインの投資先であるAllganize Holdings株式会社、東証グロース市場へ新規上場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000629.000047342.html",
+      "title": "DroR、全額出資の子会社「株式会社Lemnia（レムニア）」を設立　講座などで組織開発の考え方と実践を広く届ける",
+      "url": "https://prtimes.jp/main/html/rd/p/000000081.000134829.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-04T02:00:00Z",
-      "description": "[グローバル・ブレイン株式会社] グローバル・ブレイン株式会社（以下、グローバル・ブレイン）が運営するKDDI新規事業育成2号投資事業有限責任組合およびKDDI新規事業育成3号投資事業有限責任組合より出資していた、Allganize Holdings株式会社...",
+      "publishedAt": "2026-11-05T02:00:00Z",
+      "description": "[ドロア] 組織開発・組織変革を伴走支援する株式会社DroR（ドロア）は、2026年10月5日、子会社「株式会社Lemnia（レムニア）」を設立しました。株式会社Lemniaは、株式会社DroRが全額出資する子会社で、講座などを通じて組...",
       "maMarket": "jp"
     },
     {
-      "title": "CrowdStrike to Acquire 2 Firms to Secure Enterprise AI Agents",
-      "url": "https://biztoc.com/x/0a2484bb6686fd39",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-04T01:52:54Z",
-      "description": "CrowdStrike plans to make two acquisitions that will add artificial intelligence (AI) observability and automated AI security testing to the CrowdStrike Falcon platform, the company said Tuesday (Nov. 3) in a pair of blog posts. The CrowdStrike Falcon platfor…",
+      "title": "Your Skin Deserves These Products & Tools to Combat Tech Neck",
+      "url": "https://www.eonline.com/news/1437825/best-products-tools-to-combat-tech-neck-serums-moisturizers-devices",
+      "source": "Eonline.com",
+      "publishedAt": "2026-11-05T02:00:00Z",
+      "description": "Even though we're getting into the season where turtlenecks and sweaters are planning a wardrobe takeover, you shouldn't be neglecting to take care of your neck and chest during your skincare...",
       "maMarket": "us"
     },
     {
-      "title": "仮面ライダーのスーツアクター・宮澤雪、『週プレ』登場で魅せた色気ある肉体美",
-      "url": "https://news.livedoor.com/article/detail/32725524/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-11-03T21:30:00Z",
-      "description": "宮澤 雪が登場の『週プレ』45･46合併号は10月26日に発売！ 10月26日発売の『週刊プレイボーイ』45・46合併号は仮面ライダーヒロインが大集合！数々の『仮面ライダー』作品で女性が変身する仮面ライダーのスーツアクターを務める宮澤 雪が登場。初グラビアに挑戦している。 宮澤 雪 ©岡本武志／集英社 【プロフィール】宮澤 雪（みやざわ・ゆき）1997年5月5日生まれ長野県出身身長166cm趣味＝筋トレ、お酒幼少期からの〝仮面ライダーになる夢〞を全文ラブすぽ 11月04日06時30分",
+      "title": "《クイーンズ駅伝直前トーク》三井住友海上女子陸上競技部、西山未奈美╳不破聖衣来╳樺沢和佳奈「最後のクイーンズ駅伝に懸ける思い」",
+      "url": "https://number.bunshun.jp/articles/-/872552",
+      "source": "Bunshun.jp",
+      "publishedAt": "2026-11-05T02:00:00Z",
+      "description": "昨年のクイーンズ駅伝で4位となって5年ぶりにシード権を獲得。三井住友海上はいま、着実に力をつけている伸び盛りのチームだ。だが、母体となる企業は来年4月に合併を控えており、チームが現在の名称で大会に臨むのは今年が最後となる。特別な大会に懸ける思いをチームの実力者3人が語り合った。",
       "maMarket": "jp"
     },
     {
-      "title": "Huawei's Hubble builds AI optics supply chain through minority stakes in 22 companies",
-      "url": "https://www.digitimes.com/news/a20261104PD222/huawei-data-optics-supply-chain-laser.html",
+      "title": "OpenAI moves deeper into software infrastructure with Pierre acquisition plan",
+      "url": "https://www.digitimes.com/news/a20261105VL203/openai-software-acquisition-infrastructure-development.html",
       "source": "Digitimes",
-      "publishedAt": "2026-11-04T01:46:02Z",
-      "description": "AI data centers are increasing demand for high-speed optical communications, making optoelectronics supply chains increasingly strategic. Marvell's announced acquisition of Lumentum highlights chipmakers' growing integration of optical technologies. Huawei ha…",
+      "publishedAt": "2026-11-05T01:49:17Z",
+      "description": "OpenAI plans to acquire Pierre Computer Company, extending its push into the infrastructure behind AI-generated software as competition expands beyond coding assistants to the systems that store, review, and manage their output. The November 4 announcement ad…",
       "maMarket": "us"
     },
     {
-      "title": "NTT島田社長に聞く“巨大再編”の舞台裏、ドコモ・データ完全子会社化後も組織再編と巨額投資を続ける理由とは？国内データセンター拡大と大型M＆A戦略「見直し」の真相 - 大NTT 巨大再編の賭け",
-      "url": "https://diamond.jp/articles/-/402453",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-11-03T19:40:00Z",
-      "description": "NTTグループは2018年から巨大再編を進め、NTTドコモとNTTデータグループの完全子会社化を実現した。果たして、グループ再編はこれで完成したのか――。NTTは有利子負債が16兆円規模に膨らむ中、今なおデータセンターなどへの巨額投資を続ける。その一方で、AI（人工知能）の普及を受けて大型M＆A戦略を見直していることが分かった。グループ再編を副社長時代から主導してきた島田明社長を直撃し、巨大再編の舞台裏、国内データセンターの拡大計画、大型M＆Aを巡る経営判断の実態に迫った。",
+      "title": "航空再編を左右する「ドル箱」発着枠の行方　カギ握る「市場の番人」",
+      "url": "https://www.asahi.com/articles/ASVC42W76VC4UTIL022M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "description": "羽田空港の発着枠。ANAホールディングス（HD）が中堅のエア・ドゥとソラシドエアの完全子会社化に踏み切る背景には、この発着枠とも深い関わりがある。 各社が苦しむ国内線のなかでも、国内で最も需要が集中…",
       "maMarket": "jp"
     },
     {
-      "title": "Paramount+ Drama Slate: Series Moving To HBO, Sarah Aubrey & Francesca Orsi Sharing Oversight Among Options Explored Post-Merger – The Dish",
-      "url": "http://deadline.com/2026/11/paramount-plus-drama-slate-sarah-aubrey-francesca-orsi-1237212518/",
-      "source": "Deadline",
-      "publishedAt": "2026-11-04T01:12:50Z",
-      "description": "Almost a month into Paramount’s acquisition of Warner Bros. Discovery into Skydance, pieces are still coming together, and there is probably no area with more pieces to sort out than Skydance’s Direct to Consumer. With the content operations of Paramount+ and…",
+      "title": "Persistent raises Rs 7,600 crore to wrap up funding for Nagarro SE deal",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/persistent-raises-rs-7600-crore-to-wrap-up-funding-for-nagarro-se-deal/articleshow/135555133.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-05T00:45:14Z",
+      "description": "Persistent Systems has made waves in the financial market by securing ₹7,600 crore through non-convertible debentures aimed at funding its acquisition of Nagarro SE. This bold move saw bonds varying from two to three years issued, with demand soaring above ₹1…",
       "maMarket": "us"
     },
     {
-      "title": "無料で使える本格グラフィックツール、iPad版Affinityがリリース、Apple Pencilをサポート",
-      "url": "https://ipod.item-get.com/2026/11/ipadaffinityapple_pencil.php",
-      "source": "Item-get.com",
-      "publishedAt": "2026-11-03T12:29:19Z",
-      "description": "Canvaから、オールインワンのグラフィックツールAffinity for iPadがリリースされています。 Canvaに買収されて傘下となったAffinityは、無料のグラフィックツールとしてmacOSやWindows向けに提供されています。Affinity PhotoとAffinity Designerが統合されており、フォトレタッチからベクターデザインまでを1つでこなせるようになりました。...続きを読む",
+      "title": "中国人ママが、日本の運動会を大好きな理由｜葡萄",
+      "url": "https://note.com/ganqika_0920/n/n598511cabdfa",
+      "source": "Note.com",
+      "publishedAt": "2026-11-04T23:12:58Z",
+      "description": "日本に来て二十年あまり。この国にはひとつ「ずるい」ところがある。一目惚れさせてくれないのだ。ゆっくり、じわじわと惚れさせてくる。 来たばかりの頃は、ルールが多いだの、ゴミの分別が複雑だのと文句ばかり言っていた。ところが住めば住むほど少しずつ買収され、気がつけばスーパーの「半額シール」を日本の主婦たちと一緒に息をひそめて待つ人間になっていた。 そんな私を買収したもののひとつが、子どもの運動会である。 今日は次男の中学最後の運動会。私は朝から本人よりやる気満々だった。出かける前、息子がちらりと私を見た。その顔に…",
       "maMarket": "jp"
     },
     {
-      "title": "Los Angeles, California | Prime LA Mall Restaurant",
-      "url": "https://loopingcloud.com/business/los-angeles-ca-undisclosed-address-los-angeles-california-90017/28784",
-      "source": "Loopingcloud.com",
-      "publishedAt": "2026-11-04T01:05:11Z",
-      "description": "Discover Business property in Los Angeles, California 90017 listed at $299,000.00 A rare asset-sale opportunity to acquire a turn-key, fully equipped fast-ca...",
+      "title": "2,900-Mile 2005 Hummer H2",
+      "url": "https://bringatrailer.com/listing/2005-hummer-h2-69/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-11-05T00:45:05Z",
+      "description": "The late original owner of this 2005 Hummer H2 passed shortly after their purchase, and the truck is said to have remained with their spouse through the selling dealer's acquisition in 2026. It has just 2,900 miles and is powered by a 6.0-liter V8 linked to a…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic tells IPO investors its AI-builds-AI threshold may be imminent",
-      "url": "https://the-gadgeteer.com/2026/11/03/anthropic-tells-ipo-investors-its-ai-builds-ai-threshold-may-be-imminent/",
-      "source": "The Gadgeteer",
-      "publishedAt": "2026-11-03T23:15:00Z",
-      "description": "Anthropic’s first IPO filing said it might not notice a jump in its own AI’s progress until after it happened. The amended version says that’s already happened. That line sits in the amended S-1 Anthropic sent the SEC on November…",
+      "title": "Dario Amodei envisions ‘a country of geniuses in a data center,’ Anthropic’s IPO filing reveals financial risks",
+      "url": "https://cryptobriefing.com/dario-amodei-envisions-a-country-of-geniuses-in-a-data-center-anthropics-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-04T11:31:02Z",
+      "description": "Anthropic's financial risks and strategic partnerships could reshape tech industry dynamics, influencing future data-driven innovation landscapes. The post Dario Amodei envisions ‘a country of geniuses in a data center,’ Anthropic’s IPO filing reveals financi…",
       "ipoMarket": "us"
     },
     {
@@ -99,85 +99,85 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-      "url": "https://cointelegraph.com/news/spacex-tokenization-okxice",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-11-03T21:47:20Z",
-      "description": "SpaceX joins Tesla and Amazon in objecting to OKXICE tokenized stock trading, even as offshore platforms have traded SpaceX tokens since June.",
+      "title": "Anthropic Reports $17B Q3 Revenue, $104B Nine-Month Loss in Amended IPO Filing",
+      "url": "https://www.naturalnews.com/2026-11-04-anthropic-reports-q3-revenue-nine-month-loss.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-04T06:00:00Z",
+      "description": "Artificial intelligence (AI) company Anthropic said in an amended Form S-1 filed with the Securities and Exchange Commission (SEC) on Monday, Nov. 2, that it generated $17 billion in third-quarter revenue but posted a net loss of $23.29 billion for the period…",
       "ipoMarket": "us"
     },
     {
-      "title": "Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks",
-      "url": "https://biztoc.com/x/fbddaa6d945df1b2",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-03T17:59:42Z",
-      "description": "After a rally through the first half of the summer, Wall Street bank stocks have lost their luster as rising interest rates threaten to cool their investment banking and trading booms that have powered their earnings. Despite reporting sturdy third quarter re…",
+      "title": "Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks - Yahoo Finance",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186581344",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-04T02:12:49Z",
+      "description": "Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocksYahoo Finance Everything you need to know ahead of Anthropic's IPOYahoo Finance Anthropic Investors Push for Cautious Valuation Closer to $1.5 TrillionWSJ World in Brief: Anthropic’s b…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic says revenue surged 1100 percent ahead of IPO",
-      "url": "https://www.digitaljournal.com/article/anthropic-says-revenue-surged-1100-percent-ahead-of-ipo/",
-      "source": "Digital Journal",
-      "publishedAt": "2026-11-03T13:35:00Z",
-      "description": "Anthropic's listing, expected as early as next week, comes amid growing nervousness among investors about the huge sums being poured into AI. Revenue reached $17 billion in the third quarter, up from $1.4 billion a year earlier. The post Anthropic says revenu…",
+      "title": "Anthropic tells IPO investors its AI-builds-AI threshold may be imminent",
+      "url": "https://the-gadgeteer.com/2026/11/03/anthropic-tells-ipo-investors-its-ai-builds-ai-threshold-may-be-imminent/",
+      "source": "The Gadgeteer",
+      "publishedAt": "2026-11-03T23:15:00Z",
+      "description": "Anthropic’s first IPO filing said it might not notice a jump in its own AI’s progress until after it happened. The amended version says that’s already happened. That line sits in the amended S-1 Anthropic sent the SEC on November…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "イラン 大敗のトランプ氏を嘲笑",
-      "url": "https://news.yahoo.co.jp/pickup/6601392?source=rss",
+      "title": "米加州 死刑囚548人を終身刑に",
+      "url": "https://news.yahoo.co.jp/pickup/6601498?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-05T01:49:37.000Z",
+      "publishedAt": "2026-11-06T01:04:37.000Z",
       "description": ""
     },
     {
-      "title": "米民主党 次のリーダー不在課題",
-      "url": "https://news.yahoo.co.jp/pickup/6601386?source=rss",
+      "title": "パラグアイ大統領が辞任表明",
+      "url": "https://news.yahoo.co.jp/pickup/6601496?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-05T00:45:30.000Z",
+      "publishedAt": "2026-11-06T00:36:53.000Z",
       "description": ""
     },
     {
-      "title": "米民主党 トランプ政権監視強化へ",
-      "url": "https://news.yahoo.co.jp/pickup/6601374?source=rss",
+      "title": "ルビオ長官 辞任検討の報道否定",
+      "url": "https://news.yahoo.co.jp/pickup/6601491?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T22:35:38.000Z",
+      "publishedAt": "2026-11-05T23:49:50.000Z",
       "description": ""
     },
     {
-      "title": "児童婚増えるガザ 壮絶性暴力訴え",
-      "url": "https://news.yahoo.co.jp/pickup/6601344?source=rss",
+      "title": "欧州で爆破予告 27便以上に影響",
+      "url": "https://news.yahoo.co.jp/pickup/6601486?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T11:58:45.000Z",
+      "publishedAt": "2026-11-05T23:11:46.000Z",
       "description": ""
     },
     {
-      "title": "列車事故で死亡の邦人 20代男女か",
-      "url": "https://news.yahoo.co.jp/pickup/6601338?source=rss",
+      "title": "歴史的勝利 喜び広がるテキサス州",
+      "url": "https://news.yahoo.co.jp/pickup/6601472?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T10:59:54.000Z",
+      "publishedAt": "2026-11-05T13:49:51.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 民主党に「おめでとう」",
-      "url": "https://news.yahoo.co.jp/pickup/6601327?source=rss",
+      "title": "露 JT資産を同国企業の管理下に",
+      "url": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T09:09:06.000Z",
+      "publishedAt": "2026-11-05T12:57:53.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 敗因巡りイラン攻撃言及",
-      "url": "https://news.yahoo.co.jp/pickup/6601315?source=rss",
+      "title": "米右派動揺「トランプ後」を模索",
+      "url": "https://news.yahoo.co.jp/pickup/6601435?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T08:00:55.000Z",
+      "publishedAt": "2026-11-05T08:01:55.000Z",
       "description": ""
     },
     {
-      "title": "黒人女性が州知事に当選確実 米",
-      "url": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
+      "title": "バンス氏 米大統領と距離置く姿勢",
+      "url": "https://news.yahoo.co.jp/pickup/6601425?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T07:53:10.000Z",
+      "publishedAt": "2026-11-05T06:33:22.000Z",
       "description": ""
     }
   ]
