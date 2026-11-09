@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T01:11:32.500Z",
+  "fetchedAt": "2026-11-09T01:30:57.874Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,38 @@
   ],
   "ma": [
     {
+      "title": "老いる東北 旧市町村70地域で人口の半数が65歳以上 2025年国勢調査を分析",
+      "url": "https://www.2nn.jp/newsplus/1794095012/",
+      "source": "Www.2nn.jp",
+      "publishedAt": "2026-11-07T23:43:32Z",
+      "description": "2025年の国勢調査で、東北で顕著に進む高齢化の実態が明らかになった。400あった「平成の大合併」前の旧市町村単位でみると、年齢中位数が65歳以上の地域は、全体の2割近い70に上った。仙台市を含む県庁所在地の年齢...https://asahi.5ch.io/test/read.cgi/newsplus/1794095012/",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better",
+      "url": "https://biztoc.com/x/694aaa06450298cc",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-08T00:56:12Z",
+      "description": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better Musk hinted at a telecom takeover without naming a target, while a rival CEO put a staggering price on SpaceX's ambitions. Debt, regulators, and a spectrum gap stand between the bo…",
+      "maMarket": "us"
+    },
+    {
+      "title": "【悲報】矢野さとるさん、おーぷん2ちゃんねる管理人卒業。爆サイに買収された説も",
+      "url": "https://itsoku.org/archives/63592910.html",
+      "source": "Itsoku.org",
+      "publishedAt": "2026-11-07T13:47:01Z",
+      "description": "1:名無しさん＠おーぷん 26/11/07(土) 21:39:13 ID:HrCN お知らせ/ニュースの所に掲載されてるけどマジかhttps://open2ch.net/news※追記 2026/11/07 20:57:54爆サイに買われたらしいhttps://open2ch.net/disclosure.html※追記 2026/11/07 21:06:10!jien※追記 2026/11/0...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Ryan Day buyout, contract details as Ohio State Buckeyes coach",
+      "url": "https://www.sportingnews.com/us/ncaa-football/ohio-state/news/ryan-day-buyout-contract-details-ohio-state-buckeyes-coach/1571666a78ac5a3d87a2a6d8",
+      "source": "Sporting News",
+      "publishedAt": "2026-11-08T00:55:31Z",
+      "description": "The Buckeyes fall to the worst mark in 15 years.",
+      "maMarket": "us"
+    },
+    {
       "title": "株式会社ATJCの株式取得（子会社化）に関するお知らせ",
       "url": "https://prtimes.jp/main/html/rd/p/000000015.000014703.html",
       "source": "Prtimes.jp",
@@ -17,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Devils’ Connor Hellebuyck joins impressive franchise club with only 1 other goaltender",
-      "url": "https://clutchpoints.com/nhl/new-jersey-devils/devils-news-devils-connor-hellebuyck-joins-impressive-franchise-club-only-1-other-goaltender",
-      "source": "ClutchPoints",
-      "publishedAt": "2026-11-07T00:56:18Z",
-      "description": "It is too early to say whether the New Jersey Devils’ decision to acquire goaltender Connor Hellebuyck will be a success, but the early returns on the deal represent a win for both the team and the goaltender. Hellebuyck was in net Thursday night for New Jers…",
+      "title": "What is Jeff Lebby's buyout after Mississippi State loses fifth straight vs Vanderbilt?",
+      "url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2026/11/07/jeff-lebby-buyout-salary-contract-mississippi-state-coach/92631589007/",
+      "source": "Clarion Ledger",
+      "publishedAt": "2026-11-08T00:54:30Z",
+      "description": "Here is Mississippi State football coach Jeff Lebby's contract, including salary and buyout after the Bulldogs lost their fifth straight to Vanderbilt",
       "maMarket": "us"
     },
     {
@@ -33,43 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "msw-core 0.34.1",
-      "url": "https://pypi.org/project/msw-core/0.34.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-07T00:28:19Z",
-      "description": "Murine Shift Work acquisition stack: CLI, hardware, hooks, and logic.",
-      "maMarket": "us"
-    },
-    {
-      "title": "GMO熊谷代表の迎賓館 ヘリの轟音と爆音宴に住民が怒り",
-      "url": "https://news.livedoor.com/article/detail/32754029/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-11-06T21:01:25Z",
-      "description": "【全2回（前編/後編）の前編】GMOの熊谷正寿代表（63）はダイヤルQ2事業から身を起こし、企業買収によって規模を拡大した。150社を超えるグループの時価総額は1兆円以上。だが、飽くなき拡大路線が裏目に出て足をすくわれた。会見で涙も見せたワンマン経営者。その「真の顔」に迫る。＊＊＊【写真を見る】「まるで映画の世界」クルーザーを横付けできるGMOの迎賓館100億円超えのプライベートジェットも神奈川県横須賀市佐島。全文デイリー新潮 11月07日06時01分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Long Beach oceanfront home destroyed by recent storms has developers lining up to buy it after owner slashed price by $2m",
-      "url": "https://www.dailymail.com/real-estate/article-16272981/Long-Beach-oceanfront-home-destroyed-storms-developers-buy-owner-slashed-price.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-07T00:09:21Z",
-      "description": "The four-story property was declared unsafe after October's storms smashed through its lower levels, leaving extensive damage. Despite fears of further destruction developers are lining up to buy it.",
-      "maMarket": "us"
-    },
-    {
-      "title": "新規上場も続々！M＆A仲介業界に食い込む税理士法人、銀行、コンサル…「支援業務専従者ランキング」で浮き彫りになった群雄割拠の大戦国時代 - 社喰い",
-      "url": "https://diamond.jp/articles/-/402848",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-11-06T19:40:00Z",
-      "description": "主に中小企業同士のM＆Aを仲介する「M＆A仲介業界」。事業承継の手段として着目されてからは市場が急拡大し、各社の業績も右肩上がりで伸びてきた。その隆盛ぶりから新規参入企業が相次ぎ、同時に金融やコンサルティング業界などで、腕に覚えのある人材も引き寄せられている。「支援業務専従者ランキング」からM＆A仲介業界の最新動向を読み解いていく。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "RSR-Style 1968 Porsche 911L Coupe Project at No Reserve",
-      "url": "https://bringatrailer.com/listing/1968-porsche-911l-41/",
+      "title": "2011 Saab 9-3 Turbo4 Sedan at No Reserve",
+      "url": "https://bringatrailer.com/listing/2011-saab-9-3-23/",
       "source": "Bringatrailer.com",
-      "publishedAt": "2026-11-07T00:00:01Z",
-      "description": "This 1968 Porsche 911L coupe is a rolling chassis that was coated in primer and modified with steel fender flares, RSR-style fiberglass bumpers, and a ducktail decklid prior to the current owner's acquisition in 2013. The included 3.0L flat-six was reportedly…",
+      "publishedAt": "2026-11-07T23:00:22Z",
+      "description": "This 2011 Saab 9-3 Turbo4 is a front-wheel-drive sedan that was ordered with the Comfort Package, and it has been registered in Pennsylvania from new through its recent acquisition by the selling dealer. Now indicating 81k miles, the car is finished in Noctur…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T23:46:18Z",
-      "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valua…",
+      "title": "Anthropic IPO faces valuation concerns amid unfavorable market conditions",
+      "url": "https://cryptobriefing.com/anthropic-ipo-faces-valuation-concerns-amid-unfavorable-market-conditions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-07T14:21:13Z",
+      "description": "Anthropic's IPO challenges highlight broader market hesitancy towards large AI investments, potentially affecting future tech valuations. The post Anthropic IPO faces valuation concerns amid unfavorable market conditions appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "url": "https://biztoc.com/x/3c058f272b37669a",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-06T23:23:05Z",
-      "description": "Following tech's selloff on Wall Street this week, some investors are lowering their expectations for Anthropic. The artificial intelligence company had been looking toward a $2 trillion valuation in its IPO up until recently, but stakeholders told CNBC that …",
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-07T13:00:01Z",
+      "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
       "ipoMarket": "us"
     },
     {
@@ -115,11 +115,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic’s IPO Is Cratering",
-      "url": "https://futurism.com/artificial-intelligence/anthropics-ipo-cratering",
-      "source": "Futurism",
-      "publishedAt": "2026-11-06T18:46:11Z",
-      "description": "Anthropic filed to go public at a rumored valuation of up to $2 trillion dollars before the midterm elections. That figure is dropping fast.",
+      "title": "Anthropic IPO valuation: Why investors are lowering expectations after Wall Street sell-off",
+      "url": "https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-07T01:17:06Z",
+      "description": "Anthropic's IPO valuation expectations have fallen sharply after a Wall Street sell-off, with investors now discussing a range of $1.2 trillion to $1.3 trillion, down from earlier expectations of up to $2 trillion.",
       "ipoMarket": "us"
     },
     {
@@ -131,69 +131,69 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Other Barks & Bites for Friday, November 6: USPTO Appoints Former Newman Counsel New Solicitor; CAFC Hears Arguments in Moderna’s COVID-19 Vaccine Appeal; and FTC Complaint Over Amazon’s Deceptive Ad Pricing Unsealed",
-      "url": "https://ipwatchdog.com/2026/11/06/bites-barks-cafc-hears-arguments-in-modernas-covid-19-vaccine-appeal-and-ftc-complaint-over-amazon/",
-      "source": "IPWatchdog.com",
-      "publishedAt": "2026-11-06T18:44:00Z",
-      "description": "This week in Other Barks & Bites: The U.S. Patent and Trademark Office (USPTO) has sworn in former counsel to Judge Pauline Newman as Solicitor; Reuters reports that this week’s massive tech selloff could delay the anticipated initial public offering of Anthr…",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "publishedAt": "2026-11-06T23:46:18Z",
+      "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valua…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "露 ウのエネ施設に大規模攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6601740?source=rss",
+      "title": "イスラエル 反首相陣営に組閣指示",
+      "url": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T23:57:35.000Z",
+      "publishedAt": "2026-11-09T01:26:38.000Z",
       "description": ""
     },
     {
-      "title": "ポーランドで銃乱射事件 6人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6601729?source=rss",
+      "title": "米大統領 戦闘再開「可能性低い」",
+      "url": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T22:54:59.000Z",
+      "publishedAt": "2026-11-09T00:45:33.000Z",
       "description": ""
     },
     {
-      "title": "米中間選挙 共和党大敗の舞台裏",
-      "url": "https://news.yahoo.co.jp/pickup/6601716?source=rss",
+      "title": "エジプトで列車同士衝突 7人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T14:18:01.000Z",
+      "publishedAt": "2026-11-08T22:21:56.000Z",
       "description": ""
     },
     {
-      "title": "露 JT法人3社を一時管理下に追加",
-      "url": "https://news.yahoo.co.jp/pickup/6601707?source=rss",
+      "title": "欧州右派政党 トランプ氏離れ鮮明",
+      "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T13:27:51.000Z",
+      "publishedAt": "2026-11-08T13:13:17.000Z",
       "description": ""
     },
     {
-      "title": "中国拘束の邦人 満期服役で出所へ",
-      "url": "https://news.yahoo.co.jp/pickup/6601692?source=rss",
+      "title": "カナリアの島に移民 緊急事態宣言",
+      "url": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T11:51:20.000Z",
+      "publishedAt": "2026-11-08T08:23:24.000Z",
       "description": ""
     },
     {
-      "title": "ソマリア海賊問題が再燃 今年15件",
-      "url": "https://news.yahoo.co.jp/pickup/6601675?source=rss",
+      "title": "露衛星の軍事利用開始か ウ警戒",
+      "url": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T09:29:01.000Z",
+      "publishedAt": "2026-11-08T04:43:39.000Z",
       "description": ""
     },
     {
-      "title": "中国の大学など 日本語学ぶ学生減",
-      "url": "https://news.yahoo.co.jp/pickup/6601663?source=rss",
+      "title": "ガザで豪雨 避難民のテントが浸水",
+      "url": "https://news.yahoo.co.jp/pickup/6601775?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T07:57:28.000Z",
+      "publishedAt": "2026-11-08T04:03:46.000Z",
       "description": ""
     },
     {
-      "title": "米首席補佐官交代 強硬路線進むか",
-      "url": "https://news.yahoo.co.jp/pickup/6601647?source=rss",
+      "title": "トランプ氏 UFC代表に報道官打診",
+      "url": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T05:51:08.000Z",
+      "publishedAt": "2026-11-08T02:16:55.000Z",
       "description": ""
     }
   ]
