@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T01:30:57.874Z",
+  "fetchedAt": "2026-11-10T03:59:23.622Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "老いる東北 旧市町村70地域で人口の半数が65歳以上 2025年国勢調査を分析",
-      "url": "https://www.2nn.jp/newsplus/1794095012/",
-      "source": "Www.2nn.jp",
-      "publishedAt": "2026-11-07T23:43:32Z",
-      "description": "2025年の国勢調査で、東北で顕著に進む高齢化の実態が明らかになった。400あった「平成の大合併」前の旧市町村単位でみると、年齢中位数が65歳以上の地域は、全体の2割近い70に上った。仙台市を含む県庁所在地の年齢...https://asahi.5ch.io/test/read.cgi/newsplus/1794095012/",
+      "title": "三井化学、半導体材料大手JSRを買収へ　約1.4兆円でJICから",
+      "url": "https://www.asahi.com/articles/ASVC90TN6VC9ULFA004M.html",
+      "source": "Asahi.com",
+      "publishedAt": "2026-11-09T02:52:57Z",
+      "description": "三井化学は9日、半導体材料大手JSRを買収し、子会社化すると発表した。政府系ファンドの産業革新投資機構（JIC）から1兆3921億円で株式を買い取る。JSRは半導体の回路づくりに使うフォトレジスト（…",
       "maMarket": "jp"
     },
     {
-      "title": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better",
-      "url": "https://biztoc.com/x/694aaa06450298cc",
+      "title": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
+      "url": "https://biztoc.com/x/426a67fd5c664f38",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-08T00:56:12Z",
-      "description": "Musk Says SpaceX Could Buy a Legacy Telco and Use Its Spectrum 10 Times Better Musk hinted at a telecom takeover without naming a target, while a rival CEO put a staggering price on SpaceX's ambitions. Debt, regulators, and a spectrum gap stand between the bo…",
+      "publishedAt": "2026-11-09T03:38:14Z",
+      "description": "Mitsui Chemicals has agreed to acquire semiconductor materials maker JSR jointly with government-owned Development Bank of Japan for about $8.8 billion.",
       "maMarket": "us"
     },
     {
-      "title": "【悲報】矢野さとるさん、おーぷん2ちゃんねる管理人卒業。爆サイに買収された説も",
-      "url": "https://itsoku.org/archives/63592910.html",
-      "source": "Itsoku.org",
-      "publishedAt": "2026-11-07T13:47:01Z",
-      "description": "1:名無しさん＠おーぷん 26/11/07(土) 21:39:13 ID:HrCN お知らせ/ニュースの所に掲載されてるけどマジかhttps://open2ch.net/news※追記 2026/11/07 20:57:54爆サイに買われたらしいhttps://open2ch.net/disclosure.html※追記 2026/11/07 21:06:10!jien※追記 2026/11/0...",
+      "title": "11月優待は「トーセイ」「アスクル」他 - 投資のヒント - 株式レポート",
+      "url": "https://diamond.jp/zai/articles/-/1075132",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-11-09T02:49:00Z",
+      "description": "11月6日終値の前月末比の株価上昇率が高い5銘柄をピックアップ値動きの荒い相場では、個別銘柄の株価動向に加え、業績や株主還元の変化にも目を向けたいところです。今回は11月に株主優待の権利確定を迎える銘柄から、11月6日終値の前月末比の株価上昇率が高い5銘柄を抽出しました。 このうち、M＆A支援を手掛けるオンデック（7360）は10月15日、2026年11月末を基準日とする株主優待制度の新設を発表しま",
       "maMarket": "jp"
     },
     {
-      "title": "Ryan Day buyout, contract details as Ohio State Buckeyes coach",
-      "url": "https://www.sportingnews.com/us/ncaa-football/ohio-state/news/ryan-day-buyout-contract-details-ohio-state-buckeyes-coach/1571666a78ac5a3d87a2a6d8",
-      "source": "Sporting News",
-      "publishedAt": "2026-11-08T00:55:31Z",
-      "description": "The Buckeyes fall to the worst mark in 15 years.",
+      "title": "acmadDL 0.3.1",
+      "url": "https://pypi.org/project/acmaddl/0.3.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-09T01:42:58Z",
+      "description": "Canonical data acquisition for seasonal climate forecasting",
       "maMarket": "us"
     },
     {
-      "title": "株式会社ATJCの株式取得（子会社化）に関するお知らせ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000015.000014703.html",
+      "title": "三井化学は半導体材料大手ＪＳＲを約１兆４０００億円で買収すると発表した",
+      "url": "https://www.jiji.com/jc/article?k=2026110900361&g=flash",
+      "source": "Jiji.com",
+      "publishedAt": "2026-11-09T02:19:00Z",
+      "description": "三井化学は半導体材料大手ＪＳＲを約１兆４０００億円で買収すると発表した",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Jason Beck's Buyout Terms: Failure Leads to Michigan Owing Massive Buyout",
+      "url": "https://www.si.com/college/michigan/football/jason-beck-buyout-terms-failure-leads-to-michigan-owing-massive-buyout",
+      "source": "Sports Illustrated",
+      "publishedAt": "2026-11-09T01:27:24Z",
+      "description": "The Wolverines will have to pay Jason Beck a hefty sum.",
+      "maMarket": "us"
+    },
+    {
+      "title": "KKT合同会社、植物由来の次世代合成繊維「PlaX(TM)」を開発するBioworks株式会社へ1億円強出資",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000182952.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-07T00:40:41Z",
-      "description": "[株式会社セキュアソフト] 株式会社セキュアソフト（本社:東京都渋谷区、代表取締役:姜 昇旭、以下「当社」）は、2026年10月30日付で、株式会社ナレルグループ（本社:東京都千代田区、代表取締役:柴田直樹）の連結子会社であった株式会...",
+      "publishedAt": "2026-11-09T01:40:49Z",
+      "description": "[KKT合同会社] KKT合同会社（本社：東京都千代田区、代表取締役社長（CEO）：兼盛 玉輝、以下「KKT」）は、改質ポリ乳酸コンパウンドおよび植物由来の次世代合成繊維「PlaX(TM)（プラックス）」を開発・製造・販売するBioworks...",
       "maMarket": "jp"
     },
     {
-      "title": "What is Jeff Lebby's buyout after Mississippi State loses fifth straight vs Vanderbilt?",
-      "url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2026/11/07/jeff-lebby-buyout-salary-contract-mississippi-state-coach/92631589007/",
-      "source": "Clarion Ledger",
-      "publishedAt": "2026-11-08T00:54:30Z",
-      "description": "Here is Mississippi State football coach Jeff Lebby's contract, including salary and buyout after the Bulldogs lost their fifth straight to Vanderbilt",
-      "maMarket": "us"
-    },
-    {
-      "title": "3度目となる関東進出やドムドムハンバーガーのグループ化など話題多めなスガキヤ",
-      "url": "https://getnews.jp/archives/3753477",
-      "source": "Getnews.jp",
-      "publishedAt": "2026-11-07T00:00:59Z",
-      "description": "スガキヤが約20年ぶりに関東再進出、横浜長津田と本厚木に2店開業しドムドムを子会社化。80周年後に新体制で1000店目標、関東3年で50店出店やテイクアウト・グッズ展開、SNS動画で認知拡大を積極的に図る。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "2011 Saab 9-3 Turbo4 Sedan at No Reserve",
-      "url": "https://bringatrailer.com/listing/2011-saab-9-3-23/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-11-07T23:00:22Z",
-      "description": "This 2011 Saab 9-3 Turbo4 is a front-wheel-drive sedan that was ordered with the Comfort Package, and it has been registered in Pennsylvania from new through its recent acquisition by the selling dealer. Now indicating 81k miles, the car is finished in Noctur…",
+      "title": "Kings Trade Nique Clifford To Thunder For Two Second-Round Picks; Full Details Revealed",
+      "url": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/kings-trade-nique-clifford-to-thunder-for-two-second-round-picks-full-details-revealed",
+      "source": "Fadeaway World",
+      "publishedAt": "2026-11-09T00:46:19Z",
+      "description": "The Thunder finalize the trade to acquire Nique Clifford by sending out to second-round picks to the Kings.",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO faces valuation concerns amid unfavorable market conditions",
-      "url": "https://cryptobriefing.com/anthropic-ipo-faces-valuation-concerns-amid-unfavorable-market-conditions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-07T14:21:13Z",
-      "description": "Anthropic's IPO challenges highlight broader market hesitancy towards large AI investments, potentially affecting future tech valuations. The post Anthropic IPO faces valuation concerns amid unfavorable market conditions appeared first on Crypto Briefing.",
+      "title": "Anthropic presses on with IPO as investors brace for valuation below $1.5 trillion",
+      "url": "https://www.valuewalk.com/anthropic-ipo-1point5-trillion-valuation-investors-brace/",
+      "source": "ValueWalk",
+      "publishedAt": "2026-11-08T12:10:29Z",
+      "description": "Anthropic is moving ahead with its Nasdaq IPO, but some investors now doubt the reported $1.5 trillion valuation after a steep selloff, and one sees $1 trillion to $1.25 trillion as more likely. The post Anthropic presses on with IPO as investors brace for va…",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-07T13:00:01Z",
-      "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+      "title": "Anthropic IPO faces valuation concerns amid unfavorable market conditions",
+      "url": "https://cryptobriefing.com/anthropic-ipo-faces-valuation-concerns-amid-unfavorable-market-conditions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-07T14:21:13Z",
+      "description": "Anthropic's IPO challenges highlight broader market hesitancy towards large AI investments, potentially affecting future tech valuations. The post Anthropic IPO faces valuation concerns amid unfavorable market conditions appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
@@ -115,11 +115,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO valuation: Why investors are lowering expectations after Wall Street sell-off",
-      "url": "https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html",
-      "source": "Livemint",
-      "publishedAt": "2026-11-07T01:17:06Z",
-      "description": "Anthropic's IPO valuation expectations have fallen sharply after a Wall Street sell-off, with investors now discussing a range of $1.2 trillion to $1.3 trillion, down from earlier expectations of up to $2 trillion.",
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-07T13:00:01Z",
+      "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
       "ipoMarket": "us"
     },
     {
@@ -131,69 +131,69 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T23:46:18Z",
-      "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valua…",
+      "title": "Anthropic IPO valuation: Why investors are lowering expectations after Wall Street sell-off",
+      "url": "https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-07T01:17:06Z",
+      "description": "Anthropic's IPO valuation expectations have fallen sharply after a Wall Street sell-off, with investors now discussing a range of $1.2 trillion to $1.3 trillion, down from earlier expectations of up to $2 trillion.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "イスラエル 反首相陣営に組閣指示",
-      "url": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
+      "title": "北九州のド派手晴れ着 欧州初展示",
+      "url": "https://news.yahoo.co.jp/pickup/6602003?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T01:26:38.000Z",
+      "publishedAt": "2026-11-10T01:34:32.000Z",
       "description": ""
     },
     {
-      "title": "米大統領 戦闘再開「可能性低い」",
-      "url": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
+      "title": "露政権批判の代表紙 編集部を閉鎖",
+      "url": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T00:45:33.000Z",
+      "publishedAt": "2026-11-10T01:09:18.000Z",
       "description": ""
     },
     {
-      "title": "エジプトで列車同士衝突 7人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6601860?source=rss",
+      "title": "仏大統領選 リネール氏が出馬表明",
+      "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T22:21:56.000Z",
+      "publishedAt": "2026-11-09T22:34:51.000Z",
       "description": ""
     },
     {
-      "title": "欧州右派政党 トランプ氏離れ鮮明",
-      "url": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+      "title": "米国防長官の弾劾採決へ 米下院",
+      "url": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T13:13:17.000Z",
+      "publishedAt": "2026-11-09T22:27:29.000Z",
       "description": ""
     },
     {
-      "title": "カナリアの島に移民 緊急事態宣言",
-      "url": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
+      "title": "MAGAから急進左派へ 揺らぐ米国",
+      "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T08:23:24.000Z",
+      "publishedAt": "2026-11-09T09:57:24.000Z",
       "description": ""
     },
     {
-      "title": "露衛星の軍事利用開始か ウ警戒",
-      "url": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
+      "title": "米大統領 中露首脳と会談の見通し",
+      "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T04:43:39.000Z",
+      "publishedAt": "2026-11-09T07:23:55.000Z",
       "description": ""
     },
     {
-      "title": "ガザで豪雨 避難民のテントが浸水",
-      "url": "https://news.yahoo.co.jp/pickup/6601775?source=rss",
+      "title": "アフリカ カルト教団が増える背景",
+      "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T04:03:46.000Z",
+      "publishedAt": "2026-11-09T05:00:45.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 UFC代表に報道官打診",
-      "url": "https://news.yahoo.co.jp/pickup/6601757?source=rss",
+      "title": "VIVANTで話題 露諜報員の実態は",
+      "url": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T02:16:55.000Z",
+      "publishedAt": "2026-11-09T03:56:53.000Z",
       "description": ""
     }
   ]
