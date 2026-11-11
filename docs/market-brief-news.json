@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T03:59:23.622Z",
+  "fetchedAt": "2026-11-11T01:45:09.525Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "三井化学、半導体材料大手JSRを買収へ　約1.4兆円でJICから",
-      "url": "https://www.asahi.com/articles/ASVC90TN6VC9ULFA004M.html",
-      "source": "Asahi.com",
-      "publishedAt": "2026-11-09T02:52:57Z",
-      "description": "三井化学は9日、半導体材料大手JSRを買収し、子会社化すると発表した。政府系ファンドの産業革新投資機構（JIC）から1兆3921億円で株式を買い取る。JSRは半導体の回路づくりに使うフォトレジスト（…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
-      "url": "https://biztoc.com/x/426a67fd5c664f38",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-09T03:38:14Z",
-      "description": "Mitsui Chemicals has agreed to acquire semiconductor materials maker JSR jointly with government-owned Development Bank of Japan for about $8.8 billion.",
-      "maMarket": "us"
-    },
-    {
-      "title": "11月優待は「トーセイ」「アスクル」他 - 投資のヒント - 株式レポート",
-      "url": "https://diamond.jp/zai/articles/-/1075132",
+      "title": "オキサイド---ストップ高買い気配、JX金属と資本業務提携し約27億円調達 - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1075211",
       "source": "Diamond.jp",
-      "publishedAt": "2026-11-09T02:49:00Z",
-      "description": "11月6日終値の前月末比の株価上昇率が高い5銘柄をピックアップ値動きの荒い相場では、個別銘柄の株価動向に加え、業績や株主還元の変化にも目を向けたいところです。今回は11月に株主優待の権利確定を迎える銘柄から、11月6日終値の前月末比の株価上昇率が高い5銘柄を抽出しました。 このうち、M＆A支援を手掛けるオンデック（7360）は10月15日、2026年11月末を基準日とする株主優待制度の新設を発表しま",
+      "publishedAt": "2026-11-10T01:38:25Z",
+      "description": "&lt;6521&gt; オキサイド 2968カ -ストップ高買い気配。JX金属との資本業務提携と第三者割当増資を発表した。JX金属を割当先に89万株を1株3,088円で発行し、約27億2,332万円を調達する。調達資金のうち24億98百万円をファラデー回転子の製造設備投資に、2億25百万円を量子事業の研究開発設備投資に充当する。AIデータセンター向け光通信材料の需要拡大に対応し、生産能力を従来比約2倍強に引",
       "maMarket": "jp"
     },
     {
-      "title": "acmadDL 0.3.1",
-      "url": "https://pypi.org/project/acmaddl/0.3.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-09T01:42:58Z",
-      "description": "Canonical data acquisition for seasonal climate forecasting",
+      "title": "Jaguars go all-in with three trades as Giants seek deadline deal",
+      "url": "https://www.nydailynews.com/2026/11/09/jaguars-go-all-in-with-three-trades-as-giants-seek-deadline-deal/",
+      "source": "New York Daily News",
+      "publishedAt": "2026-11-10T01:43:00Z",
+      "description": "NEW YORK — John Harbaugh left little doubt on Monday that the New York Giants intend to acquire at least one player if not more before Tuesday’s 4 p.m. ET NFL trade deadline. “The now weighs more important than the future, if you’re gonna put it on a scale,” …",
       "maMarket": "us"
     },
     {
-      "title": "三井化学は半導体材料大手ＪＳＲを約１兆４０００億円で買収すると発表した",
-      "url": "https://www.jiji.com/jc/article?k=2026110900361&g=flash",
-      "source": "Jiji.com",
-      "publishedAt": "2026-11-09T02:19:00Z",
-      "description": "三井化学は半導体材料大手ＪＳＲを約１兆４０００億円で買収すると発表した",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Jason Beck's Buyout Terms: Failure Leads to Michigan Owing Massive Buyout",
-      "url": "https://www.si.com/college/michigan/football/jason-beck-buyout-terms-failure-leads-to-michigan-owing-massive-buyout",
-      "source": "Sports Illustrated",
-      "publishedAt": "2026-11-09T01:27:24Z",
-      "description": "The Wolverines will have to pay Jason Beck a hefty sum.",
-      "maMarket": "us"
-    },
-    {
-      "title": "KKT合同会社、植物由来の次世代合成繊維「PlaX(TM)」を開発するBioworks株式会社へ1億円強出資",
-      "url": "https://prtimes.jp/main/html/rd/p/000000014.000182952.html",
+      "title": "経営者の約6割が「自社の価値を知りたい」。一方、売却検討を理由に挙げた人はわずか約1割。【経営者500人に聞いた「会社の値段」意識調査2026】",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000179070.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-09T01:40:49Z",
-      "description": "[KKT合同会社] KKT合同会社（本社：東京都千代田区、代表取締役社長（CEO）：兼盛 玉輝、以下「KKT」）は、改質ポリ乳酸コンパウンドおよび植物由来の次世代合成繊維「PlaX(TM)（プラックス）」を開発・製造・販売するBioworks...",
+      "publishedAt": "2026-11-10T01:00:00Z",
+      "description": "[株式会社M&Aサクシード] Visionalグループの株式会社M&Aサクシード（所在地：東京都渋谷区／代表取締役社長：金 蓮実）が運営する法人限定M&Aプラットフォーム「M&Aサクシード」（ https://ma-succeed.jp/ ）は、直近の年...",
       "maMarket": "jp"
     },
     {
-      "title": "Kings Trade Nique Clifford To Thunder For Two Second-Round Picks; Full Details Revealed",
-      "url": "https://fadeawayworld.net/nba-trade-rumors/sacramento-kings/kings-trade-nique-clifford-to-thunder-for-two-second-round-picks-full-details-revealed",
-      "source": "Fadeaway World",
-      "publishedAt": "2026-11-09T00:46:19Z",
-      "description": "The Thunder finalize the trade to acquire Nique Clifford by sending out to second-round picks to the Kings.",
+      "title": "JJ Watt brings up Jessie Bates’ absurd outlook after Jaguars trade",
+      "url": "https://clutchpoints.com/nfl/jacksonville-jaguars/jaguars-news-jj-watt-brings-up-jessie-bates-absurd-outlook-after-dbs-trade",
+      "source": "ClutchPoints",
+      "publishedAt": "2026-11-10T01:33:14Z",
+      "description": "The Jacksonville Jaguars made three defensive additions ahead of Tuesday’s NFL trade deadline, but their acquisition of Jessie Bates III comes with an unusual scheduling wrinkle that even caught the attention of former NFL star and current CBS color analyst J…",
+      "maMarket": "us"
+    },
+    {
+      "title": "三井化学、JSRを1兆8400億円で買収　「国内トップクラスの半導体材料企業に」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
+      "source": "Itmedia.co.jp",
+      "publishedAt": "2026-11-10T00:28:51Z",
+      "description": "国内化学業界で過去最大規模のM＆Aとなる。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "HBO & Paramount Bundle Hits Early 2027",
+      "url": "https://www.darkhorizons.com/hbo-paramount-bundle-hits-early-2027/",
+      "source": "Dark Horizons",
+      "publishedAt": "2026-11-10T01:29:25Z",
+      "description": "Skydance has just had its first earnings report since its acquisition of Warner Bros. Discovery and spoken about the future of Paramount+ and HBO Max. David Ellison confirmed in a letter to shareholders on Monday that an early 2027 date is being targeted for …",
+      "maMarket": "us"
+    },
+    {
+      "title": "投資情報サービスのIRBANK、マネックスグループと資本業務提携し7.2億円を調達",
+      "url": "https://thebridge.jp/2026/11/irbank-monex-group-capital-alliance-720-million-yen",
+      "source": "Thebridge.jp",
+      "publishedAt": "2026-11-10T00:02:02Z",
+      "description": "個人投資家向けの投資情報サービス「IRBANK」を運営する IRBANK は9日、マネックスグループと資本業務提携し、総額7億2,000万円の資金調達を完了したと発表した。マネックスグループから6億円、個人投資家から計6 […]",
+      "maMarket": "jp"
+    },
+    {
+      "title": "255-Mile 2020 Ford GT Carbon Series",
+      "url": "https://bringatrailer.com/listing/2020-ford-gt-32/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-11-10T01:00:13Z",
+      "description": "This 2020 Ford GT was optioned with the $70k “lightweight” Carbon Series package and was initially sold in California before the selling dealer's acquisition on BaT in February 2023. Finished in Frozen White over a black Alcantara, it is powered by a twin-tur…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic presses on with IPO as investors brace for valuation below $1.5 trillion",
-      "url": "https://www.valuewalk.com/anthropic-ipo-1point5-trillion-valuation-investors-brace/",
-      "source": "ValueWalk",
-      "publishedAt": "2026-11-08T12:10:29Z",
-      "description": "Anthropic is moving ahead with its Nasdaq IPO, but some investors now doubt the reported $1.5 trillion valuation after a steep selloff, and one sees $1 trillion to $1.25 trillion as more likely. The post Anthropic presses on with IPO as investors brace for va…",
+      "title": "Anthropic reportedly plans to move forward with IPO plans | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-10T01:29:27Z",
+      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO faces valuation concerns amid unfavorable market conditions",
-      "url": "https://cryptobriefing.com/anthropic-ipo-faces-valuation-concerns-amid-unfavorable-market-conditions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-07T14:21:13Z",
-      "description": "Anthropic's IPO challenges highlight broader market hesitancy towards large AI investments, potentially affecting future tech valuations. The post Anthropic IPO faces valuation concerns amid unfavorable market conditions appeared first on Crypto Briefing.",
+      "title": "Agility Robotics lists on Nasdaq, faces profit test despite US$300 million order",
+      "url": "https://www.digitimes.com/news/a20261109PD211/nasdaq-robot-amazon-data-revenue.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-11-10T01:21:51Z",
+      "description": "Agility Robotics listed on Nasdaq on November 5, becoming the first publicly traded US humanoid robot maker and a key benchmark for assessing the sector’s commercial value. The company raised approximately US$465 million through the listing, but continues to …",
       "ipoMarket": "us"
     },
     {
@@ -115,11 +115,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-07T13:00:01Z",
-      "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+      "title": "Seven tech giants reportedly line up $26B Anthropic stake at IPO price",
+      "url": "https://cryptobriefing.com/tech-giants-26b-anthropic-ipo-placement/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-10T01:21:25Z",
+      "description": "The strategic investment by tech giants in Anthropic highlights the intertwined nature of AI development and tech industry dependencies. The post Seven tech giants reportedly line up $26B Anthropic stake at IPO price appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     },
     {
@@ -131,69 +131,76 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO valuation: Why investors are lowering expectations after Wall Street sell-off",
-      "url": "https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html",
-      "source": "Livemint",
-      "publishedAt": "2026-11-07T01:17:06Z",
-      "description": "Anthropic's IPO valuation expectations have fallen sharply after a Wall Street sell-off, with investors now discussing a range of $1.2 trillion to $1.3 trillion, down from earlier expectations of up to $2 trillion.",
+      "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-09T23:30:15Z",
+      "description": "Anthropic's initial public offering could be a crucial test of investor confidence in the AI trade, CNBC's Jim Cramer said.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "トヨタ 軽トラックを米国で販売へ",
+      "url": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-11T00:46:12.000Z",
+      "description": ""
+    },
+    {
+      "title": "日本のエンタメを排除 きしむ日中",
+      "url": "https://news.yahoo.co.jp/pickup/6602115?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T23:01:30.000Z",
+      "description": ""
+    },
+    {
+      "title": "米国防長官 自身への弾劾「茶番」",
+      "url": "https://news.yahoo.co.jp/pickup/6602114?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T22:58:18.000Z",
+      "description": ""
+    },
+    {
+      "title": "G7外相会合 ウ支援で声明公表へ",
+      "url": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T22:26:40.000Z",
+      "description": ""
+    },
+    {
+      "title": "米・露・ウの協議 9カ月ぶり再開",
+      "url": "https://news.yahoo.co.jp/pickup/6602085?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T12:24:04.000Z",
+      "description": ""
+    },
+    {
+      "title": "パプア「三人っ子政策」導入検討",
+      "url": "https://news.yahoo.co.jp/pickup/6602061?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T08:50:36.000Z",
+      "description": ""
+    },
+    {
+      "title": "米国防長官に弾劾決議案 何が問題",
+      "url": "https://news.yahoo.co.jp/pickup/6602042?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T06:01:48.000Z",
+      "description": ""
+    },
+    {
+      "title": "NVIDIA巡る疑惑 米対応に注目",
+      "url": "https://news.yahoo.co.jp/pickup/6602035?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T05:30:14.000Z",
+      "description": ""
+    },
+    {
       "title": "北九州のド派手晴れ着 欧州初展示",
       "url": "https://news.yahoo.co.jp/pickup/6602003?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-10T01:34:32.000Z",
-      "description": ""
-    },
-    {
-      "title": "露政権批判の代表紙 編集部を閉鎖",
-      "url": "https://news.yahoo.co.jp/pickup/6602002?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-10T01:09:18.000Z",
-      "description": ""
-    },
-    {
-      "title": "仏大統領選 リネール氏が出馬表明",
-      "url": "https://news.yahoo.co.jp/pickup/6601978?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T22:34:51.000Z",
-      "description": ""
-    },
-    {
-      "title": "米国防長官の弾劾採決へ 米下院",
-      "url": "https://news.yahoo.co.jp/pickup/6601977?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T22:27:29.000Z",
-      "description": ""
-    },
-    {
-      "title": "MAGAから急進左派へ 揺らぐ米国",
-      "url": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T09:57:24.000Z",
-      "description": ""
-    },
-    {
-      "title": "米大統領 中露首脳と会談の見通し",
-      "url": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T07:23:55.000Z",
-      "description": ""
-    },
-    {
-      "title": "アフリカ カルト教団が増える背景",
-      "url": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T05:00:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "VIVANTで話題 露諜報員の実態は",
-      "url": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T03:56:53.000Z",
       "description": ""
     }
   ]
