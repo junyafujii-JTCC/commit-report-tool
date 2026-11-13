@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T02:45:07.799Z",
+  "fetchedAt": "2026-11-13T02:28:34.311Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,52 +9,60 @@
   ],
   "ma": [
     {
-      "title": "オムロン---大幅反落、決算サプライズ限定的で出尽くし感が先行 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1075293",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-11-11T02:27:39Z",
-      "description": "&lt;6645&gt; オムロン 4970 -226大幅反落。前日に第2四半期の決算を発表、7-9月期営業利益は217億円で前年同期比2.2倍となり、200億円程度の市場予想を上振れて着地。一方、通期予想は従来の800億円から880億円、前期比55.9％増に上方修正しているが、890億円程度のコンセンサスにはやや未達。買収に伴う一時費用計上などを考慮すればほぼ期待通りと捉えられるが、サプライズが乏しい決算と",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Online Travel Agencies’ Shares Drop Following OpenAI Acquisition of Travel Startup Odessia",
-      "url": "https://biztoc.com/x/cb31f27caa4042c8",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-11T01:00:17Z",
-      "description": "Shares of major online travel agencies tumbled Tuesday (Nov. 10) after artificial intelligence (AI) developer OpenAI acquired automated travel platform Odessia, Seeking Alpha reported. The transaction triggered investor concern regarding potential disruption …",
-      "maMarket": "us"
-    },
-    {
-      "title": "謎解きやイマーシブ体験のex Labs、セガサミーHDが出資",
-      "url": "https://thebridge.jp/2026/11/ex-labs-sega-sammy-investment",
-      "source": "Thebridge.jp",
-      "publishedAt": "2026-11-11T01:12:29Z",
-      "description": "謎解きやマーダーミステリーなどの体験型エンターテインメントを企画・制作・運営する ex Labs は10日、セガサミーホールディングス（セガサミー HD）から出資を受けたと発表した。出資額は明らかにしていない。両社は協業 […]",
-      "maMarket": "jp"
-    },
-    {
-      "title": "How Much Is Kyle Whittingham's Buyout At Michigan? Contract, Buyout Details In 2026",
-      "url": "https://www.foxsports.com/stories/college-football/how-much-michigans-whittingham-buyout-contract-buyout-details-2026",
-      "source": "Fox Sports",
-      "publishedAt": "2026-11-11T00:29:52Z",
-      "description": "Here's everything to know about Michigan's Kyle Whittingham's buyout and contract details in 2026.",
-      "maMarket": "us"
-    },
-    {
-      "title": "LINE Digital Frontier株式会社、株式会社ナンバーナインへ追加出資",
-      "url": "https://prtimes.jp/main/html/rd/p/000000543.000063705.html",
+      "title": "大阪ガスマーケティング株式会社による株式会社トラーチの完全子会社化について",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000164452.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-11T01:00:00Z",
-      "description": "[LINE Digital Frontier株式会社] LINE Digital Frontier株式会社 (本社：東京都港区、代表取締役社長：森啓、以下LINE Digital Frontier) は、デジタルコミックエージェンシーの株式会社ナンバーナイン（本社：東京都品川区、代表取締役社長：小...",
+      "publishedAt": "2026-11-11T23:00:00Z",
+      "description": "[株式会社トラーチ] 住宅用太陽光発電・蓄電池システムの販売・施工を手がける株式会社トラーチ（本社：奈良県奈良市／代表取締役：稲場基泰、以下「当社」）は、大阪ガス株式会社（以下「大阪ガス」）の100％子会社である大阪ガス...",
       "maMarket": "jp"
     },
     {
-      "title": "Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
-      "source": "Itmedia.co.jp",
-      "publishedAt": "2026-11-10T23:02:05Z",
-      "description": "Anthropicは、IPOに向けた修正版登録届出書を提出し、仮条件を1株70?78ドルに設定した。公開株数は8億2500万株で、調達額は最大約644億ドルとなる。Googleなど7社が260億ドル分を別途引き受ける。時価総額は最大約1兆4000億ドルに上る見込みで、11月19日に取引を開始すると報じられている。",
+      "title": "'If NCP merger happens, we will be in the loop': Maharashtra CM Devendra Fadnavis",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/if-ncp-merger-happens-we-will-be-in-the-loop-maharashtra-cm-devendra-fadnavis/articleshow/135752467.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-12T02:24:46Z",
+      "description": "Chief minister Devendra Fadnavis indicated that only Sharad Pawar and Sunetra Pawar can confirm any potential merger. Sunetra Pawar remarked that developments regarding the merger will be revealed at the appropriate time. Fadnavis suggested that any merger mu…",
+      "maMarket": "us"
+    },
+    {
+      "title": "ANAがソラシドエアとAIRDOを完全子会社化 客単価が低い国内線は儲からないのか？",
+      "url": "https://news.livedoor.com/article/detail/32795717/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-11-11T21:55:00Z",
+      "description": "ANAホールディングスは10月、国内線を専業とする「ソラシドエア」と「AIRDO」の運営会社リージョナルプラスウイングス（RPW）を完全子会社化すると公表した。缶チューハイの宝HD 終わらぬアクティビストの圧力に神経戦つづく対象会社の株主との間で、自社株式などをRPW株と交換する簡易株式交換を2027年4月に実施する。国は今年5月、大手航空会社による中堅航空会社への出資規制を撤廃していた。宮崎地盤のソラシドエアと、北海道地盤のAIRDOは1990年代の規制緩和で誕生した。 全文日刊ゲンダイDIGITAL 11月1…",
       "maMarket": "jp"
+    },
+    {
+      "title": "Secures Merger Credit Consent On A Narrative That Still Sees Value",
+      "url": "https://biztoc.com/x/6e25ae1695b22214",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-12T02:17:13Z",
+      "description": "just amended its multi borrower credit agreement, securing lender consent for an internal merger between Duke Energy Progress and Duke Energy Carolinas while keeping a US$10b revolving facility in place. Set against this financing update, Duke Energy's share …",
+      "maMarket": "us"
+    },
+    {
+      "title": "本日のスケジュール - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1075339",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-11-11T21:30:00Z",
+      "description": "[本日のスケジュール]＜国内＞08:50 国内企業物価指数(10月) 6.5％ 6.8％08:50 対外・対内証券投資(先週)10:30 浅田日銀審議委員が長崎県金融経済懇談会で講演、同記者会見11:00 東京オフィス空室率(10月) 1.85％ EQTによるカカクコムへのTOB期限＜海外＞16:00 英・鉱工業生産(9月) 1.6％16:00 英・GDP(7-9月) 1.4％18:00",
+      "maMarket": "jp"
+    },
+    {
+      "title": "サザビーリーグがARCHIVESTOCKに出資…事業会社が「自前でつくらず出資する」理由",
+      "url": "https://biz-journal.jp/company/post_396594.html",
+      "source": "Biz-journal.jp",
+      "publishedAt": "2026-11-11T21:04:00Z",
+      "description": "高級ブランド特化のフリマアプリ「ARCHIVESTOCK」が、2026年4月8日付でサザビーリーグから第三者割当増資を受け、10月25日に公表した。8月の月間流通額は前年同月の3.4倍以上で、鑑定に対応するブランドは5,500を超える。公表資料をもとに、事業会社がスタートアップに出資する理由と、評価される資産を読み解く。",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Bengals coach Zac Taylor acknowledges fault in failed trade for Eagles edge rusher Arnold Ebiketie",
+      "url": "https://www.foxnews.com/outkick-sports/bengals-coach-zac-taylor-acknowledges-fault-failed-trade-eagles-edge-rusher-arnold-ebiketie",
+      "source": "Fox News",
+      "publishedAt": "2026-11-12T01:35:30Z",
+      "description": "Zac Taylor revealed Duke Tobin's apology after a 2027 compensatory pick forfeiture derailed the Arnold Ebiketie trade with the Eagles at the deadline.",
+      "maMarket": "us"
     }
   ],
   "ipo": [
@@ -67,11 +75,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthopic opens Australian retail IPO offering as AI scrutiny intensifies",
-      "url": "https://biztoc.com/x/0a8d222c42b7b96a",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-11T01:30:47Z",
-      "description": "Anthropic, the maker of AI chatbot Claude, opened its Australian retail initial public offering on Wednesday, giving individual investors access to shares ahead of the company's planned Nasdaq listing. The offering opened at 10 a.m. Australian Eastern Dayligh…",
+      "title": "Dangote refinery IPO attracts N5.85tn subscriptions",
+      "url": "https://punchng.com/dangote-refinery-ipo-attracts-n5-85tn-subscriptions/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-11T23:38:50Z",
+      "description": "Dangote Petroleum Refinery’s initial public offering has attracted N5.85tn ($4.1bn) in share applications, nearly three times its initial target. Read More: https://punchng.com/dangote-refinery-ipo-attracts-n5-85tn-subscriptions/",
       "ipoMarket": "us"
     },
     {
@@ -83,11 +91,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthopic opens Australian retail IPO offering as AI scrutiny intensifies",
-      "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "title": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO",
+      "url": "https://www.cnbc.com/2026/11/11/anthropic-ipo-profit-computing-commitments.html",
       "source": "CNBC",
-      "publishedAt": "2026-11-11T01:26:01Z",
-      "description": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+      "publishedAt": "2026-11-11T23:30:48Z",
+      "description": "CNBC's Jim Cramer said that Anthropic must sustain extraordinary growth to cover its mounting infrastructure costs.",
       "ipoMarket": "us"
     },
     {
@@ -99,36 +107,70 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic Sets IPO Range Valuing Company At Up To $1.4 Trillion, Says AI May Pose “Existential Risks To Humanity”",
-      "url": "http://deadline.com/2026/11/anthropic-sets-ipo-range-ai-risks-1237219462/",
-      "source": "Deadline",
-      "publishedAt": "2026-11-11T00:26:34Z",
-      "description": "Anthropic has set a $70 to $78 a share range for its initial public offering, pricing that would value it at over $1.4 trillion at the high end. The AI giant will offer 825 million shares in the IPO that will trade on the Nasdaq under the stock symbol ANT. At…",
+      "title": "Anthropic Targets $1.4 Trillion Valuation In Major Nasdaq IPO",
+      "url": "https://biztoc.com/x/4238cf5ef02bff5b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-11T22:56:49Z",
+      "description": "Anthropic has launched its IPO roadshow, targeting a fully diluted valuation of approximately $1.4 trillion in an offering that could become the largest stock market debut ever. The company plans to list around 801.4 million shares on the Nasdaq Global Select…",
       "ipoMarket": "us"
     },
     {
-      "title": "本日のスケジュール - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1075032",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-11-05T21:30:00Z",
-      "description": "[本日のスケジュール]＜国内＞08:30 毎月勤労統計-現金給与総額(9月) 3.8％ 3.8％08:30 実質賃金総額(9月) 1.2％ 1.5％08:50 対外・対内証券投資(先週) estieが東証グロースに新規上場(公開価格:1100円)＜海外＞16:00 独・鉱工業生産(9月) 2.0％19:00 欧・ユーロ圏小売売上高(9月) 0.8％20:30 印・外貨準備高(先週)22:30",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Anthropic’s lower-than-expected IPO valuation: smart strategy or sign of trouble?",
-      "url": "https://fortune.com/2026/11/10/anthropic-lower-than-expected-ipo-valuation-smart-strategy-or-red-flag/",
-      "source": "Fortune",
-      "publishedAt": "2026-11-10T23:45:18Z",
-      "description": "Shares for ANT will hit the market at $70 to $78 a share, with a $1.3 trillion valuation, which is lower than experts thought earlier this year.",
+      "title": "Nvidia and Alphabet commit $10 billion each alongside Anthropic’s IPO",
+      "url": "https://cryptobriefing.com/nvidia-alphabet-anthropic-ipo-private-placement/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-11T22:53:00Z",
+      "description": "Nvidia and Alphabet's investment in Anthropic's IPO highlights the strategic importance of AI infrastructure, potentially reshaping market dynamics. The post Nvidia and Alphabet commit $10 billion each alongside Anthropic’s IPO appeared first on Crypto Briefi…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "スペイン 14年ぶりの全国ゼネスト",
-      "url": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
+      "title": "米国防長官 自身注意の衛兵に勲章",
+      "url": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-12T01:50:03.000Z",
+      "publishedAt": "2026-11-13T00:29:49.000Z",
+      "description": ""
+    },
+    {
+      "title": "米首都銃撃5人死傷 容疑者も死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T22:44:16.000Z",
+      "description": ""
+    },
+    {
+      "title": "米NYで建物崩壊8人死亡 17人負傷",
+      "url": "https://news.yahoo.co.jp/pickup/6602355?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T14:38:19.000Z",
+      "description": ""
+    },
+    {
+      "title": "米国防長官ら 墓地で衛兵から叱責",
+      "url": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T14:26:32.000Z",
+      "description": ""
+    },
+    {
+      "title": "海外からマンジャロ 韓国が容認",
+      "url": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T05:05:34.000Z",
+      "description": ""
+    },
+    {
+      "title": "米有権者 党派対立にも警戒感",
+      "url": "https://news.yahoo.co.jp/pickup/6602278?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T04:44:00.000Z",
+      "description": ""
+    },
+    {
+      "title": "駐米ロシア大使が死去 疾患が原因",
+      "url": "https://news.yahoo.co.jp/pickup/6602285?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T02:51:41.000Z",
       "description": ""
     },
     {
@@ -136,48 +178,6 @@
       "url": "https://news.yahoo.co.jp/pickup/6602256?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-12T00:12:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "「毛沢東」中国若者の間でブーム",
-      "url": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T23:39:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "約6300の学校に爆破予告メール 伊",
-      "url": "https://news.yahoo.co.jp/pickup/6602234?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T14:55:23.000Z",
-      "description": ""
-    },
-    {
-      "title": "メーガン妃の父親 保釈中に再拘束",
-      "url": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T12:51:09.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国独身の日「爆買い」から変化",
-      "url": "https://news.yahoo.co.jp/pickup/6602223?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T12:38:44.000Z",
-      "description": ""
-    },
-    {
-      "title": "クロマグロ 漁獲枠巡り日韓が対立",
-      "url": "https://news.yahoo.co.jp/pickup/6602201?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T09:46:04.000Z",
-      "description": ""
-    },
-    {
-      "title": "米財務長官 脅迫受け軍基地に転居",
-      "url": "https://news.yahoo.co.jp/pickup/6602195?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T09:00:26.000Z",
       "description": ""
     }
   ]
