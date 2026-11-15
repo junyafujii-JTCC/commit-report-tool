@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T02:03:37.415Z",
+  "fetchedAt": "2026-11-15T01:35:38.445Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,85 +9,101 @@
   ],
   "ma": [
     {
-      "title": "ワタミ---ストップ高買い気配、MBO実施報道を受けてプレミアム付与への期待感 - 最新株式ニュース",
-      "url": "https://diamond.jp/zai/articles/-/1075459",
+      "title": "【悲報】スクエニに買収されたゲームスタジオの末路が悲惨すぎる……",
+      "url": "http://kanasoku.info/articles/35460949.html",
+      "source": "Kanasoku.info",
+      "publishedAt": "2026-11-14T01:00:09Z",
+      "description": "1 View post on imgur.com 2 スクエニくん 3 やっぱ任天堂ってこういうところが優れてるよな 見る目があるというか 6 >>3 閉鎖＝失敗じゃないんだけどね 9 >>6 子会社的に本社とは独立してゲーム作らせるか 社内の部署として管理して作らせるかの違いじゃね...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "Biotech Dealmaker: Early-Stage Platforms And Tools Draw Capital As Full Buyouts Remain On The Sidelines This Week",
+      "url": "https://biztoc.com/x/4364809b2d69e63b",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-14T01:27:18Z",
+      "description": "agreed to acquire privately held Unnatural Products for $550 million upfront and up to roughly $1.15 billion in total value, contingent on development and regulatory milestones. - BioNTech (BNTX) agreed to purchase a rare pediatric disease priority review vou…",
+      "maMarket": "us"
+    },
+    {
+      "title": "新型NX7は救世主となるか？東風日産の10月販売が1万8000台まで落ち込む―中国メディア",
+      "url": "https://news.livedoor.com/article/detail/32815161/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-11-13T22:00:02Z",
+      "description": "中国メディアの快科技は12日、「新型NX7は救世主となるか？東風日産の10月の販売台数が1万8000台まで落ち込む」とする記事を掲載した。東風日産は、中国の東風汽車集団と日本の日産自動車が50％ずつ出資し、日産、インフィニティおよび独自ブランドのヴェヌーシアの現地生産モデルの乗用車の製造、販売を手掛けている。日産（中国）投資有限公司は12日、市場全体の需要低迷と競争激化を背景に、日産の中国における10月の販売台数は2万2295台となり、前年同月比で67．1％減少したと発表 全文Record China 11月14…",
+      "maMarket": "jp"
+    },
+    {
+      "title": "argus-quarry 0.4.0",
+      "url": "https://pypi.org/project/argus-quarry/0.4.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-14T00:59:51Z",
+      "description": "Provenance-first acquisition of public-domain / CC0 portrait images for the Argus suite",
+      "maMarket": "us"
+    },
+    {
+      "title": "順風満帆だったM＆A仲介市場に逆風！最大手日本M＆AセンターとM＆A総合研究所は踊り場!?“四天王”でも成約件数前年超えは至難の業に - 社喰い",
+      "url": "https://diamond.jp/articles/-/403230",
       "source": "Diamond.jp",
-      "publishedAt": "2026-11-13T02:02:39Z",
-      "description": "&lt;7522&gt; ワタミ 1008カ -ストップ高買い気配。MBOを実施することがわかったと報じられている。創業者である渡辺会長兼社長の資産管理会社が近くTOBを実施し、年内にも完了させる見込みのようだ。居酒屋市場が伸び悩む中、ファストフードの出店や海外や宅食事業など、中長期的な成長戦略を進めやすくするようだ。TOB価格など詳細は不明だが、TOBプレミアム付与への期待感が先行。会社側では本日の取締役会",
+      "publishedAt": "2026-11-13T19:35:00Z",
+      "description": "中小企業の後継者問題を背景に急成長を遂げてきたM＆A仲介業界。業界最大手の日本M＆Aセンターを筆頭にストライク、M＆Aキャピタルパートナーズ（MACP）は「御三家」とも呼ばれている。近年は、2018年に設立されたM＆A総合研究所などの新興勢力も台頭する中、2023年には通称″ルシアン事件″を機に「悪質な買い手」問題が噴出。順風満帆のように思えたM＆A仲介業界に逆風が吹いている。では、各社は実際にどれほどのM＆Aを成立させているのだろうか。",
       "maMarket": "jp"
     },
     {
-      "title": "CEO of world's largest AI models repository, Hugging Face, calls Jensen Huang's resignation as Nvidia CEO 'sad'; says: I want to make one thing clear that we will keep fighting for ...",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-worlds-largest-ai-models-repository-hugging-face-calls-jensen-huangs-resignation-as-nvidia-ceo-sad-says-i-want-to-make-one-thing-clear-that-we-will-keep-fighting-for-/articleshow/135786332.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-13T02:01:16Z",
-      "description": "Clement Delangue, the CEO of Hugging Face, voiced his worries regarding Jensen Huang's exit from Nvidia. With Hugging Face's $12.9 billion acquisition by Nvidia approaching, regulatory pressures have increased. Delangue reaffirmed his commitment to open-sourc…",
+      "title": "James Gunn Says “No One From Skydance Has Seen” ‘Man Of Tomorrow’: “There Are A Lot Of Untrue Rumors Going Around”",
+      "url": "http://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/",
+      "source": "Deadline",
+      "publishedAt": "2026-11-14T00:35:06Z",
+      "description": "James Gunn is clearing up some rumors following his exit as co-head of DC Studios. With Skydance making changes amid the Paramount and Warner Bros. merger, Peter Safran and Gunn announced they would not be heading DC Studios. Amid their exits, many rumors hav…",
       "maMarket": "us"
     },
     {
-      "title": "ソフトウェア開発体制のさらなる強化に向け、株式会社ケイエムを子会社化",
-      "url": "https://prtimes.jp/main/html/rd/p/000000095.000006066.html",
+      "title": "SBCメディカルグループ、台湾の生成AI企業NeuroBrain Dynamicsと資本業務提携 ― 医療AIで国内外287院の収益力を強化、アジアBtoB展開の基盤へ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000097803.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-13T01:40:55Z",
-      "description": "[株式会社サトー] 株式会社サトー（本社：東京都港区、以下「当社」）は、自動認識ソリューションに関するソフトウェア開発事業を展開する株式会社ケイエム（本社：福岡県福岡市、以下「ケイエム社」）の議決権を有する株式の全て...",
+      "publishedAt": "2026-11-13T11:30:00Z",
+      "description": "SBC Medical Group Holdings Inc.のプレスリリース（2026年11月13日 20時30分）SBCメディカルグループ、台湾の生成AI企業NeuroBrain Dynamicsと資本業務提携 ― 医療AIで国内外287院の収益力を強化、アジアBtoB展開の基盤へ",
       "maMarket": "jp"
     },
     {
-      "title": "Maersk’s Legacy-System Incident Shows M&A’s New Cyber Requirement",
-      "url": "https://www.pymnts.com/cybersecurity/2026/maersks-legacy-system-incident-shows-mas-new-cyber-requirement/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-11-13T01:50:14Z",
-      "description": "Shipping giant A.P. Moller-Maersk disclosed Wednesday (Nov. 11) that an unauthorized party accessed and extracted data from a legacy IT system inherited through a previous acquisition. Maersk has not reported a companywide compromise, but the incident illustr…",
-      "maMarket": "us"
-    },
-    {
-      "title": "ドラゴンパス、デジタルバウチャーのiCouponを買収　ロイヤルティ基盤の構築へ",
-      "url": "https://www.traicy.com/posts/20261113387741/",
-      "source": "Traicy.com",
-      "publishedAt": "2026-11-13T01:15:50Z",
-      "description": "ドラゴンパスは、デジタルバウチャー技術を手掛けるiCouponを買収した。 ドラゴンパスは世界4,500万人以上の会員を持ち、世界の大手銀行50行のうち35行にロイヤルティ基盤を提供している。一方、iCouponは200 […] 投稿 ドラゴンパス、デジタルバウチャーのiCouponを買収 ロイヤルティ基盤の構築へ は TRAICY（トライシー） に最初に表示されました。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "NHC Foods expands portfolio with Sachmaas acquisition; Q2 net up 16 times",
-      "url": "https://www.business-standard.com/companies/news/nhc-foods-expands-portfolio-with-sachmaas-acquisition-q2-net-up-16-times-126111201291_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-13T01:24:11Z",
-      "description": "NHC Foods Ltd, an exporter of agricultural commodities and spices, reported a sharp improvement in financial performance for the September quarter",
-      "maMarket": "us"
-    },
-    {
-      "title": "J:COM・いい生活、不動産業界と地域社会のDX推進に向けた業務資本提携契約を締結　不動産取引のほか、マンション管理組合などのデジタル化を支援",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2156001.html",
-      "source": "Impress.co.jp",
-      "publishedAt": "2026-11-12T21:00:00Z",
-      "description": "JCOM株式会社と株式会社いい生活は11月12日、不動産業界と地域社会のDX推進に向けた業務資本提携契約を締結した。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Chinese e-commerce giant JD.com completes €1.3 billion takeover of German retailer CECONOMY",
-      "url": "https://cryptobriefing.com/jd-com-deal-completes-ceconomy-takeover-2026-11/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-13T01:17:51Z",
-      "description": "JD.com's acquisition of CECONOMY enhances its European retail footprint, potentially reshaping market dynamics and competitive strategies. The post Chinese e-commerce giant JD.com completes €1.3 billion takeover of German retailer CECONOMY appeared first on C…",
+      "title": "Ogun seeks NERC support for electricity market takeover",
+      "url": "https://punchng.com/ogun-seeks-nerc-support-for-electricity-market-takeover/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-14T00:09:07Z",
+      "description": "The Ogun State Electricity Regulatory Commission has sought the support of NERC as it prepares to assume full regulatory oversight of the electricity marke Read More: https://punchng.com/ogun-seeks-nerc-support-for-electricity-market-takeover/",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "CVCファンド投資先の株式会社RECEPTIONISTが東証グロース市場に新規上場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000975.000000168.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-11-13T00:37:19Z",
-      "description": "[トレイダーズホールディングス] トレイダーズホールディングス株式会社（以下「当社」）は、有限責任組合員として出資するコーポレートベンチャーキャピタル（CVC）ファンド「トレイダーズFinTech1号投資事業有限責任組合」（以下「本ファンド」...",
+      "title": "株式会社WHI HoldingsWHI Holdings、新規上場承認に関するお知らせ",
+      "url": "https://japan.cnet.com/release/31223938/",
+      "source": "CNET",
+      "publishedAt": "2026-11-13T10:13:36Z",
+      "description": "株式会社WHI Holdings(本社:東京都港区、代表取締役最高経営責任者:安斎富太郎、以下「当社」という。)は、本日、株式会社東京証券取引所(以下「東京証券取引所」という。)より、当社株式の東京証券取引所プライム市場への新規上場を承認されましたことをお知らせいたします。なお、東京証券取引所プライム市場への上...",
       "ipoMarket": "jp"
     },
     {
-      "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
-      "url": "https://biztoc.com/x/76ac700fb3b0d4b7",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-13T01:09:26Z",
-      "description": "As Anthropic's blockbuster initial public offering gets set to take center stage on Wall Street, CNBC's Jim Cramer argued Thursday that several questions remain about the artificial intelligence startup's long-term prospects. The Claude developer plans to pri…",
+      "title": "Former Anthropic researcher says an IPO roadshow slide helped push him out",
+      "url": "https://cryptobriefing.com/former-anthropic-researcher-ipo-slide-departure/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-14T00:11:35Z",
+      "description": "Coxon's departure highlights growing concerns about AI's rapid advancement, emphasizing the need for robust safety measures and ethical oversight. The post Former Anthropic researcher says an IPO roadshow slide helped push him out appeared first on Crypto Bri…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "コンヴァノ、連結子会社アクセルマークの第34回新株予約権116,500個を全数引受けへ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000179.000006824.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-11-13T07:40:50Z",
+      "description": "[株式会社コンヴァノ] 株式会社コンヴァノ（本社：東京都渋谷区、代表取締役社長：上四元 絢、証券コード：6574、以下「当社」）は、2026年11月13日開催の取締役会において、連結子会社であるアクセルマーク株式会社（東証グロース市場...",
+      "ipoMarket": "jp"
+    },
+    {
+      "title": "Leftist Groups Are Trying to Stop Workers From Owning a Piece of Anthropic",
+      "url": "https://www.thegatewaypundit.com/2026/11/leftist-groups-are-trying-stop-workers-owning-piece/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-11-13T23:00:11Z",
+      "description": "A leftist campaign that says billionaires capture the gains from companies like Anthropic is trying to block the initial public offering (IPO) that would let ordinary Americans buy shares in the company. The post Leftist Groups Are Trying to Stop Workers From…",
       "ipoMarket": "us"
     },
     {
@@ -99,31 +115,65 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO draws sixfold demand, targets $1.4 trillion valuation",
-      "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-13T00:08:02Z",
-      "description": "The strong investor response comes as the artificial intelligence company prepares a potentially record-breaking listing alongside a substantial private placement",
+      "title": "US Stock Market today: S&P 500, Nasdaq fall ahead of Nvidia earnings report, Anthropic IPO. List of Wall Street stocks that rise on Friday",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-nasdaq-fall-ahead-of-nvidia-earnings-report-anthropic-ipo-list-of-wall-street-stocks-that-rise-on-friday/articleshow/135818905.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-13T22:48:51Z",
+      "description": "S&P 500, Nasdaq's losses came ahead of AI company Anthropic's much-anticipated IPO next week. Nvidia is scheduled to announce earnings report on next Tuesday, November 17.",
       "ipoMarket": "us"
     },
     {
-      "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
-      "url": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-12T23:45:00Z",
-      "description": "Jim Cramer identified three lingering questions about Anthropic ahead of its highly anticipated IPO.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Nscale expects 14-fold revenue surge in amended IPO filing",
-      "url": "https://www.channelnewsasia.com/business/nscale-expects-14-fold-revenue-surge-in-amended-ipo-filing-6547716",
-      "source": "CNA",
-      "publishedAt": "2026-11-12T23:23:23Z",
-      "description": "Nov 12 : Nscale, a British cloud provider backed by chip giant Nvidia, amended its initial public offering filing on Thursday and said it expects revenue to jump 1,344 per cent in the first nine months of the year. Here are more details: • The London-based co…",
+      "title": "Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030",
+      "url": "https://biztoc.com/x/a6c0301d73e4a760",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-13T22:24:56Z",
+      "description": "Many smaller space stocks stumbled this year for two reasons. First, SpaceX's (NASDAQ: SPCX) IPO in June drew many investors away from its smaller competitors. Second, the Fed's interest rate hike in September -- its first in three years -- depressed growth s…",
       "ipoMarket": "us"
     }
   ],
   "world": [
+    {
+      "title": "米知事選 民主党が計6州を奪還",
+      "url": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-15T01:02:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "ウのNATO加盟で東部撤退 米打診",
+      "url": "https://news.yahoo.co.jp/pickup/6602627?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-14T23:42:31.000Z",
+      "description": ""
+    },
+    {
+      "title": "米中露会談 3首脳の思惑が交錯",
+      "url": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-14T23:41:26.000Z",
+      "description": ""
+    },
+    {
+      "title": "米の航空混乱 途方に暮れる乗客",
+      "url": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-14T08:45:15.000Z",
+      "description": ""
+    },
+    {
+      "title": "米中露会談 核兵器削減を協議へ",
+      "url": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-14T03:13:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "米空港で混乱 原因はハードウエア",
+      "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-14T02:54:59.000Z",
+      "description": ""
+    },
     {
       "title": "全米 航空機の地上待機命令を解除",
       "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
@@ -132,59 +182,10 @@
       "description": ""
     },
     {
-      "title": "FRB 市場の最大脅威は「AI関連」",
-      "url": "https://news.yahoo.co.jp/pickup/6602514?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T00:53:09.000Z",
-      "description": ""
-    },
-    {
-      "title": "米でタンカーがクルーズ船に衝突",
-      "url": "https://news.yahoo.co.jp/pickup/6602509?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T00:20:23.000Z",
-      "description": ""
-    },
-    {
       "title": "米中露首脳会談 19日に中国で開催",
       "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-14T00:02:05.000Z",
-      "description": ""
-    },
-    {
-      "title": "バンス氏 米大統領選見送り検討か",
-      "url": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T23:17:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "米NYでビル崩壊 瞬間の内部映像",
-      "url": "https://news.yahoo.co.jp/pickup/6602476?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T14:13:17.000Z",
-      "description": ""
-    },
-    {
-      "title": "北朝鮮が国旗規格変更 建国以来初",
-      "url": "https://news.yahoo.co.jp/pickup/6602436?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T08:40:15.000Z",
-      "description": ""
-    },
-    {
-      "title": "イラン側 バーレーンの米施設攻撃",
-      "url": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T03:57:37.000Z",
-      "description": ""
-    },
-    {
-      "title": "米国防長官 自身注意の衛兵に勲章",
-      "url": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T00:29:49.000Z",
       "description": ""
     }
   ]
