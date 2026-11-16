@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T01:35:38.445Z",
+  "fetchedAt": "2026-11-16T01:39:32.145Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,6 +9,54 @@
   ],
   "ma": [
     {
+      "title": "渋谷・宮下公園エリアに、KUDOCHI sauna監修のピラティススタジオ「Pilates SUI Shibuya」が誕生",
+      "url": "https://prtimes.jp/main/html/rd/p/000000560.000027235.html",
+      "source": "Prtimes.jp",
+      "publishedAt": "2026-11-14T04:00:00Z",
+      "description": "[DYM] WEB事業、人材事業、海外医療事業などを中心に、M&A事業やスポーツ事業など多角的に事業を展開する株式会社DYM（読み：ディーワイエム、本社：東京都品川区、代表取締役社長：水谷佑毅）のグループ会社である...",
+      "maMarket": "jp"
+    },
+    {
+      "title": "What is Jeff Lebby's buyout after Mississippi State loses sixth straight vs Auburn?",
+      "url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2026/11/14/jeff-lebby-buyout-salary-contract-mississippi-state-coach/92747961007/",
+      "source": "Clarion Ledger",
+      "publishedAt": "2026-11-15T01:08:46Z",
+      "description": "Here is Mississippi State football coach Jeff Lebby's contract, including salary and buyout after the Bulldogs lost their sixth straight game.",
+      "maMarket": "us"
+    },
+    {
+      "title": "【報道】TeslaとSpaceXの合併、早ければ12月にも発表か $TSLA $SPCX",
+      "url": "https://touchlab.jp/2026/11/tesla_spacex_merger_december/",
+      "source": "Touchlab.jp",
+      "publishedAt": "2026-11-14T03:55:41Z",
+      "description": "Bloombergが、テスラとSpaceXの合併は早ければ12月にも発表され、2027年初めにずれ込む案も出ている、と報じました。 数か月早まった発表時期 関係者の話として伝えたもので、両社の取締役会とアドバイザーが、合 […]©2019 \"Touch Lab - タッチ ラボ\".",
+      "maMarket": "jp"
+    },
+    {
+      "title": "harp-timestampgeneratorgen3 1.4.0",
+      "url": "https://pypi.org/project/harp-timestampgeneratorgen3/1.4.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-15T01:03:11Z",
+      "description": "Interface for data acquisition and control of Harp Timestamp Generator Gen3 devices.",
+      "maMarket": "us"
+    },
+    {
+      "title": "JR四国　2026年度上半期は59億円の経常黒字　鉄道運輸収入は3.5％増",
+      "url": "https://news.livedoor.com/article/detail/32816436/",
+      "source": "Livedoor.com",
+      "publishedAt": "2026-11-14T02:35:00Z",
+      "description": "JR四国 JR四国が13日、2026年度第２四半期の決算を発表しました。連結の営業収益は前年同期と比べて36.4％増の379億円、経常利益は15.6％増の59億円でした。 特急「しおかぜ」と「南風」の運行55周年キャンペーンやシルバーウィークの旅行重要などで鉄道事業が増収となった他、ホテル開業などによる売上や高松オルネのテナント収入、四国医療器の連結子会社化による増収などが寄与しました。全文KSB瀬戸内海放送 11月14日11時35分",
+      "maMarket": "jp"
+    },
+    {
+      "title": "2k-Mile 2018 Mercedes-Maybach G650 Landaulet",
+      "url": "https://bringatrailer.com/listing/2018-mercedes-benz-g650-landaulet/",
+      "source": "Bringatrailer.com",
+      "publishedAt": "2026-11-15T00:59:03Z",
+      "description": "This 2018 Mercedes-Maybach is one of 99 G650 Landaulet models produced worldwide and spent time in Canada, Arizona, and Florida before the selling dealer's acquisition in 2026. Finished in Designo Mystic White 2 over Designo black and white leather, the truck…",
+      "maMarket": "us"
+    },
+    {
       "title": "【悲報】スクエニに買収されたゲームスタジオの末路が悲惨すぎる……",
       "url": "http://kanasoku.info/articles/35460949.html",
       "source": "Kanasoku.info",
@@ -17,59 +65,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Biotech Dealmaker: Early-Stage Platforms And Tools Draw Capital As Full Buyouts Remain On The Sidelines This Week",
-      "url": "https://biztoc.com/x/4364809b2d69e63b",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-14T01:27:18Z",
-      "description": "agreed to acquire privately held Unnatural Products for $550 million upfront and up to roughly $1.15 billion in total value, contingent on development and regulatory milestones. - BioNTech (BNTX) agreed to purchase a rare pediatric disease priority review vou…",
-      "maMarket": "us"
-    },
-    {
-      "title": "新型NX7は救世主となるか？東風日産の10月販売が1万8000台まで落ち込む―中国メディア",
-      "url": "https://news.livedoor.com/article/detail/32815161/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-11-13T22:00:02Z",
-      "description": "中国メディアの快科技は12日、「新型NX7は救世主となるか？東風日産の10月の販売台数が1万8000台まで落ち込む」とする記事を掲載した。東風日産は、中国の東風汽車集団と日本の日産自動車が50％ずつ出資し、日産、インフィニティおよび独自ブランドのヴェヌーシアの現地生産モデルの乗用車の製造、販売を手掛けている。日産（中国）投資有限公司は12日、市場全体の需要低迷と競争激化を背景に、日産の中国における10月の販売台数は2万2295台となり、前年同月比で67．1％減少したと発表 全文Record China 11月14…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "argus-quarry 0.4.0",
-      "url": "https://pypi.org/project/argus-quarry/0.4.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-14T00:59:51Z",
-      "description": "Provenance-first acquisition of public-domain / CC0 portrait images for the Argus suite",
-      "maMarket": "us"
-    },
-    {
-      "title": "順風満帆だったM＆A仲介市場に逆風！最大手日本M＆AセンターとM＆A総合研究所は踊り場!?“四天王”でも成約件数前年超えは至難の業に - 社喰い",
-      "url": "https://diamond.jp/articles/-/403230",
-      "source": "Diamond.jp",
-      "publishedAt": "2026-11-13T19:35:00Z",
-      "description": "中小企業の後継者問題を背景に急成長を遂げてきたM＆A仲介業界。業界最大手の日本M＆Aセンターを筆頭にストライク、M＆Aキャピタルパートナーズ（MACP）は「御三家」とも呼ばれている。近年は、2018年に設立されたM＆A総合研究所などの新興勢力も台頭する中、2023年には通称″ルシアン事件″を機に「悪質な買い手」問題が噴出。順風満帆のように思えたM＆A仲介業界に逆風が吹いている。では、各社は実際にどれほどのM＆Aを成立させているのだろうか。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "James Gunn Says “No One From Skydance Has Seen” ‘Man Of Tomorrow’: “There Are A Lot Of Untrue Rumors Going Around”",
-      "url": "http://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/",
-      "source": "Deadline",
-      "publishedAt": "2026-11-14T00:35:06Z",
-      "description": "James Gunn is clearing up some rumors following his exit as co-head of DC Studios. With Skydance making changes amid the Paramount and Warner Bros. merger, Peter Safran and Gunn announced they would not be heading DC Studios. Amid their exits, many rumors hav…",
-      "maMarket": "us"
-    },
-    {
-      "title": "SBCメディカルグループ、台湾の生成AI企業NeuroBrain Dynamicsと資本業務提携 ― 医療AIで国内外287院の収益力を強化、アジアBtoB展開の基盤へ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000407.000097803.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-11-13T11:30:00Z",
-      "description": "SBC Medical Group Holdings Inc.のプレスリリース（2026年11月13日 20時30分）SBCメディカルグループ、台湾の生成AI企業NeuroBrain Dynamicsと資本業務提携 ― 医療AIで国内外287院の収益力を強化、アジアBtoB展開の基盤へ",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Ogun seeks NERC support for electricity market takeover",
-      "url": "https://punchng.com/ogun-seeks-nerc-support-for-electricity-market-takeover/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-14T00:09:07Z",
-      "description": "The Ogun State Electricity Regulatory Commission has sought the support of NERC as it prepares to assume full regulatory oversight of the electricity marke Read More: https://punchng.com/ogun-seeks-nerc-support-for-electricity-market-takeover/",
+      "title": "Clemson’s Dabo Swinney Buyout Details in Contract Surface",
+      "url": "https://heavy.com/sports/college-football/clemson-tigers/clemson-dabo-swinney-buyout-details-contract/",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-14T23:51:46Z",
+      "description": "It’s not Dabo Swinney’s fault that his quarterbacks are dealing with injuries, but at the end of the day, what happens with the Clemson Tigers football program comes back to the head coach, the leader of the entire enterprise. That’s Swinney, and he’s under s…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Former Anthropic researcher says an IPO roadshow slide helped push him out",
-      "url": "https://cryptobriefing.com/former-anthropic-researcher-ipo-slide-departure/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-14T00:11:35Z",
-      "description": "Coxon's departure highlights growing concerns about AI's rapid advancement, emphasizing the need for robust safety measures and ethical oversight. The post Former Anthropic researcher says an IPO roadshow slide helped push him out appeared first on Crypto Bri…",
+      "title": "Anthropic's blockbuster IPO will test Wall Street's cooling enthusiasm for AI",
+      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-14T18:56:19Z",
+      "description": "There were no rockets decking Wall Street bank lobbies this past week, unlike the spectacle surrounding SpaceX's blockbuster June listing.Instead, bankers marketing Anthropic's (ANTH.PVT) potentially record-breaking initial public offering this week faced an …",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Leftist Groups Are Trying to Stop Workers From Owning a Piece of Anthropic",
-      "url": "https://www.thegatewaypundit.com/2026/11/leftist-groups-are-trying-stop-workers-owning-piece/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-11-13T23:00:11Z",
-      "description": "A leftist campaign that says billionaires capture the gains from companies like Anthropic is trying to block the initial public offering (IPO) that would let ordinary Americans buy shares in the company. The post Leftist Groups Are Trying to Stop Workers From…",
+      "title": "Anthropic IPO to test Wall Street's faith in AI as skepticism mounts",
+      "url": "https://biztoc.com/x/875b3b142af41839",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-14T18:24:29Z",
+      "description": "There were no rockets decking Wall Street bank lobbies this past week, unlike the spectacle surrounding SpaceX's blockbuster June listing. Instead, bankers marketing Anthropic's (ANTH.PVT) potentially record-breaking initial public offering this week faced an…",
       "ipoMarket": "us"
     },
     {
@@ -115,77 +115,84 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "US Stock Market today: S&P 500, Nasdaq fall ahead of Nvidia earnings report, Anthropic IPO. List of Wall Street stocks that rise on Friday",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-nasdaq-fall-ahead-of-nvidia-earnings-report-anthropic-ipo-list-of-wall-street-stocks-that-rise-on-friday/articleshow/135818905.cms",
+      "title": "Anthropic IPO buyers have more influence on price than SpaceX",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-11-13T22:48:51Z",
-      "description": "S&P 500, Nasdaq's losses came ahead of AI company Anthropic's much-anticipated IPO next week. Nvidia is scheduled to announce earnings report on next Tuesday, November 17.",
+      "publishedAt": "2026-11-14T05:03:57Z",
+      "description": "Anthropic PBC is gearing up for its initial public offering, setting ambitious price targets to capture investor interest. The firm aspires to achieve record fundraising that could eclipse SpaceX's previous achievements. High-profile tech investors back Anthr…",
       "ipoMarket": "us"
     },
     {
-      "title": "Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030",
-      "url": "https://biztoc.com/x/a6c0301d73e4a760",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-13T22:24:56Z",
-      "description": "Many smaller space stocks stumbled this year for two reasons. First, SpaceX's (NASDAQ: SPCX) IPO in June drew many investors away from its smaller competitors. Second, the Fed's interest rate hike in September -- its first in three years -- depressed growth s…",
+      "title": "Former Anthropic researcher says an IPO roadshow slide helped push him out",
+      "url": "https://cryptobriefing.com/former-anthropic-researcher-ipo-slide-departure/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-14T00:11:35Z",
+      "description": "Coxon's departure highlights growing concerns about AI's rapid advancement, emphasizing the need for robust safety measures and ethical oversight. The post Former Anthropic researcher says an IPO roadshow slide helped push him out appeared first on Crypto Bri…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "米知事選 民主党が計6州を奪還",
-      "url": "https://news.yahoo.co.jp/pickup/6602637?source=rss",
+      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T01:02:20.000Z",
+      "publishedAt": "2026-11-16T00:24:20.000Z",
       "description": ""
     },
     {
-      "title": "ウのNATO加盟で東部撤退 米打診",
-      "url": "https://news.yahoo.co.jp/pickup/6602627?source=rss",
+      "title": "エボラ アフリカ中部で今なお猛威",
+      "url": "https://news.yahoo.co.jp/pickup/6602757?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T23:42:31.000Z",
+      "publishedAt": "2026-11-16T00:17:16.000Z",
       "description": ""
     },
     {
-      "title": "米中露会談 3首脳の思惑が交錯",
-      "url": "https://news.yahoo.co.jp/pickup/6602626?source=rss",
+      "title": "エストニア ロシアとの国境閉鎖へ",
+      "url": "https://news.yahoo.co.jp/pickup/6602742?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T23:41:26.000Z",
+      "publishedAt": "2026-11-15T22:20:16.000Z",
       "description": ""
     },
     {
-      "title": "米の航空混乱 途方に暮れる乗客",
-      "url": "https://news.yahoo.co.jp/pickup/6602568?source=rss",
+      "title": "MS障害 インド政府機関混乱なし",
+      "url": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T08:45:15.000Z",
+      "publishedAt": "2026-11-15T14:27:33.000Z",
       "description": ""
     },
     {
-      "title": "米中露会談 核兵器削減を協議へ",
-      "url": "https://news.yahoo.co.jp/pickup/6602532?source=rss",
+      "title": "独プールで4人搬送 MS障害影響",
+      "url": "https://news.yahoo.co.jp/pickup/6602715?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T03:13:51.000Z",
+      "publishedAt": "2026-11-15T12:11:46.000Z",
       "description": ""
     },
     {
-      "title": "米空港で混乱 原因はハードウエア",
-      "url": "https://news.yahoo.co.jp/pickup/6602529?source=rss",
+      "title": "仏のデモおさまらず みえぬ打開策",
+      "url": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T02:54:59.000Z",
+      "publishedAt": "2026-11-15T10:26:37.000Z",
       "description": ""
     },
     {
-      "title": "全米 航空機の地上待機命令を解除",
-      "url": "https://news.yahoo.co.jp/pickup/6602522?source=rss",
+      "title": "「中国の元スパイ」語る 接近手口",
+      "url": "https://news.yahoo.co.jp/pickup/6602697?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T01:50:35.000Z",
+      "publishedAt": "2026-11-15T08:56:52.000Z",
       "description": ""
     },
     {
-      "title": "米中露首脳会談 19日に中国で開催",
-      "url": "https://news.yahoo.co.jp/pickup/6602511?source=rss",
+      "title": "米中露が会談へ 日本は蚊帳の外か",
+      "url": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T00:02:05.000Z",
+      "publishedAt": "2026-11-15T04:19:08.000Z",
+      "description": ""
+    },
+    {
+      "title": "米の「中国脅威論」どう生まれた",
+      "url": "https://news.yahoo.co.jp/pickup/6602656?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-15T03:40:02.000Z",
       "description": ""
     }
   ]
