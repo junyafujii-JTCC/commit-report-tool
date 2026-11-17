@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T01:39:32.145Z",
+  "fetchedAt": "2026-11-17T04:22:03.853Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,67 +9,67 @@
   ],
   "ma": [
     {
-      "title": "渋谷・宮下公園エリアに、KUDOCHI sauna監修のピラティススタジオ「Pilates SUI Shibuya」が誕生",
-      "url": "https://prtimes.jp/main/html/rd/p/000000560.000027235.html",
+      "title": "ＭＩＲＡＩＮＩ---インド子会社株式を追加取得し実質完全子会社化へ - 最新株式ニュース",
+      "url": "https://diamond.jp/zai/articles/-/1075573",
+      "source": "Diamond.jp",
+      "publishedAt": "2026-11-16T02:30:11Z",
+      "description": "&lt;%%%546A%%%&gt; ＭＩＲＡＩＮＩ 2166 -99MIRAINIホールディングス&lt;%%%546A%%%&gt;は、13日、連結子会社であるSM Electronic Technologies Pvt. Ltd.（以下、SMエレクトロニクス社）の株式を追加取得することを決議したと発表した。同社は佐鳥電機を通じてSMエレクトロニクス社の株式1,867,657株（議決権所有割合75.1％）を保有し、連",
+      "maMarket": "jp"
+    },
+    {
+      "title": "From the Fun Palace to the Fish: Architecture’s Triumph or Computation’s Takeover?",
+      "url": "https://www.archdaily.com/1188572/from-the-fun-palace-to-the-fish-architectures-triumph-or-computations-takeover",
+      "source": "ArchDaily",
+      "publishedAt": "2026-11-16T04:00:00Z",
+      "description": "The Heydar Aliyev Center in Baku, Azerbaijan, rises in fluid curves and folds in the midst of a wide clearing in the city's gridded forest of urban blocks. The striking structure, completed in 2013 by Zaha Hadid Architects, acts as a primary venue for the cou…",
+      "maMarket": "us"
+    },
+    {
+      "title": "エチオピアで電動モビリティ事業を展開するDodai社への出資について",
+      "url": "https://prtimes.jp/main/html/rd/p/000001520.000021766.html",
       "source": "Prtimes.jp",
-      "publishedAt": "2026-11-14T04:00:00Z",
-      "description": "[DYM] WEB事業、人材事業、海外医療事業などを中心に、M&A事業やスポーツ事業など多角的に事業を展開する株式会社DYM（読み：ディーワイエム、本社：東京都品川区、代表取締役社長：水谷佑毅）のグループ会社である...",
+      "publishedAt": "2026-11-16T02:00:00Z",
+      "description": "[東京ガス株式会社] 東京ガス株式会社（取締役 代表執行役社長 CEO：笹山 晋一、以下「東京ガス」）は、このたび、エチオピアで電動二輪車の製造・販売およびバッテリー交換事業を展開するDodai Group, Inc.（ドダイ・グループ・イ...",
       "maMarket": "jp"
     },
     {
-      "title": "What is Jeff Lebby's buyout after Mississippi State loses sixth straight vs Auburn?",
-      "url": "https://www.clarionledger.com/story/sports/college/mississippi-state/2026/11/14/jeff-lebby-buyout-salary-contract-mississippi-state-coach/92747961007/",
-      "source": "Clarion Ledger",
-      "publishedAt": "2026-11-15T01:08:46Z",
-      "description": "Here is Mississippi State football coach Jeff Lebby's contract, including salary and buyout after the Bulldogs lost their sixth straight game.",
+      "title": "49ers fan takeover of ‘Jerry World’ wasn’t just optics: ‘It makes a difference’",
+      "url": "https://nypost.com/2026/11/15/sports/49ers-fan-invasion-vs-cowboys-made-an-impact-on-the-field/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-16T03:26:20Z",
+      "description": "The sea of red alone was an embarrassing scene for the Cowboys. But it wasn't just about optics.",
       "maMarket": "us"
     },
     {
-      "title": "【報道】TeslaとSpaceXの合併、早ければ12月にも発表か $TSLA $SPCX",
-      "url": "https://touchlab.jp/2026/11/tesla_spacex_merger_december/",
-      "source": "Touchlab.jp",
-      "publishedAt": "2026-11-14T03:55:41Z",
-      "description": "Bloombergが、テスラとSpaceXの合併は早ければ12月にも発表され、2027年初めにずれ込む案も出ている、と報じました。 数か月早まった発表時期 関係者の話として伝えたもので、両社の取締役会とアドバイザーが、合 […]©2019 \"Touch Lab - タッチ ラボ\".",
+      "title": "ギャル系ブランド｢ANAP｣の経営混乱に透けるアパレルの苦悩…調査報告書が明らかにした\"ガバナンス不全\"の実態 | ビジネス | 東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/964627?display=b",
+      "source": "Toyokeizai.net",
+      "publishedAt": "2026-11-15T21:00:00Z",
+      "description": "平成の時代を駆け抜けたギャル系ブランドは、再起できるのか。アパレルブランド「ANAP」を展開するANAPホールディングス（HD）は10月23日、2025年8月期に買収事業の減損損失を計上した経緯をめ…",
       "maMarket": "jp"
     },
     {
-      "title": "harp-timestampgeneratorgen3 1.4.0",
-      "url": "https://pypi.org/project/harp-timestampgeneratorgen3/1.4.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-15T01:03:11Z",
-      "description": "Interface for data acquisition and control of Harp Timestamp Generator Gen3 devices.",
+      "title": "49ers fan takeover of ‘Jerry World’ wasn’t just optics: ‘It makes a difference’",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_95b014b5-05a6-488a-8985-08fcce70f787",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T03:26:20Z",
+      "description": "The sea of red alone was an embarrassing scene for the Cowboys. But it wasn't just about optics.",
       "maMarket": "us"
     },
     {
-      "title": "JR四国　2026年度上半期は59億円の経常黒字　鉄道運輸収入は3.5％増",
-      "url": "https://news.livedoor.com/article/detail/32816436/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-11-14T02:35:00Z",
-      "description": "JR四国 JR四国が13日、2026年度第２四半期の決算を発表しました。連結の営業収益は前年同期と比べて36.4％増の379億円、経常利益は15.6％増の59億円でした。 特急「しおかぜ」と「南風」の運行55周年キャンペーンやシルバーウィークの旅行重要などで鉄道事業が増収となった他、ホテル開業などによる売上や高松オルネのテナント収入、四国医療器の連結子会社化による増収などが寄与しました。全文KSB瀬戸内海放送 11月14日11時35分",
+      "title": "キャデラックF1の買収交渉に障害 FSGにNASCAR王者の承認問題",
+      "url": "https://f1-gate.com/cadillac/232734.html",
+      "source": "F1-gate.com",
+      "publishedAt": "2026-11-15T01:52:00Z",
+      "description": "キャデラックF1チームへの巨額投資を検討しているフェンウェイ・スポーツ・グループ（FSG）が、思わぬ契約上の障害に直面している。NASCARカップシリーズの元王者ブラッド・ケセロウスキーが、FSGによるF1への投資を承認していないことが明ら…",
       "maMarket": "jp"
     },
     {
-      "title": "2k-Mile 2018 Mercedes-Maybach G650 Landaulet",
-      "url": "https://bringatrailer.com/listing/2018-mercedes-benz-g650-landaulet/",
-      "source": "Bringatrailer.com",
-      "publishedAt": "2026-11-15T00:59:03Z",
-      "description": "This 2018 Mercedes-Maybach is one of 99 G650 Landaulet models produced worldwide and spent time in Canada, Arizona, and Florida before the selling dealer's acquisition in 2026. Finished in Designo Mystic White 2 over Designo black and white leather, the truck…",
-      "maMarket": "us"
-    },
-    {
-      "title": "【悲報】スクエニに買収されたゲームスタジオの末路が悲惨すぎる……",
-      "url": "http://kanasoku.info/articles/35460949.html",
-      "source": "Kanasoku.info",
-      "publishedAt": "2026-11-14T01:00:09Z",
-      "description": "1 View post on imgur.com 2 スクエニくん 3 やっぱ任天堂ってこういうところが優れてるよな 見る目があるというか 6 >>3 閉鎖＝失敗じゃないんだけどね 9 >>6 子会社的に本社とは独立してゲーム作らせるか 社内の部署として管理して作らせるかの違いじゃね...",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Clemson’s Dabo Swinney Buyout Details in Contract Surface",
-      "url": "https://heavy.com/sports/college-football/clemson-tigers/clemson-dabo-swinney-buyout-details-contract/",
-      "source": "Heavy.com",
-      "publishedAt": "2026-11-14T23:51:46Z",
-      "description": "It’s not Dabo Swinney’s fault that his quarterbacks are dealing with injuries, but at the end of the day, what happens with the Clemson Tigers football program comes back to the head coach, the leader of the entire enterprise. That’s Swinney, and he’s under s…",
+      "title": "IDP Education rejects Blackstone’s $564.5 million takeover bid for third time",
+      "url": "https://biztoc.com/x/4405b88bcef94b79",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-16T03:11:23Z",
+      "description": "Investing.com -- IDP Education (ASX:IEL) on Monday rejected a third takeover proposal from Blackstone, saying the revised A$3-per-share cash offer, which values the Australian education services company at A$833.7 million ($564.5 million), substantially under…",
       "maMarket": "us"
     }
   ],
@@ -83,11 +83,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic's blockbuster IPO will test Wall Street's cooling enthusiasm for AI",
-      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-14T18:56:19Z",
-      "description": "There were no rockets decking Wall Street bank lobbies this past week, unlike the spectacle surrounding SpaceX's blockbuster June listing.Instead, bankers marketing Anthropic's (ANTH.PVT) potentially record-breaking initial public offering this week faced an …",
+      "title": "Anthropic’s trillion-dollar IPO is open to Australians. There’s a catch for small investors",
+      "url": "https://theconversation.com/anthropics-trillion-dollar-ipo-is-open-to-australians-theres-a-catch-for-small-investors-296603",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-11-16T03:24:46Z",
+      "description": "As decades of US data show, getting a slice doesn’t guarantee getting a good deal. Here’s who usually profits from tech IPOs – and who misses out.",
       "ipoMarket": "us"
     },
     {
@@ -99,11 +99,11 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO to test Wall Street's faith in AI as skepticism mounts",
-      "url": "https://biztoc.com/x/875b3b142af41839",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-14T18:24:29Z",
-      "description": "There were no rockets decking Wall Street bank lobbies this past week, unlike the spectacle surrounding SpaceX's blockbuster June listing. Instead, bankers marketing Anthropic's (ANTH.PVT) potentially record-breaking initial public offering this week faced an…",
+      "title": "Asian shares fall before Nvidia earnings and Anthropic IPO",
+      "url": "https://www.straitstimes.com/business/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally",
+      "source": "The Straits Times",
+      "publishedAt": "2026-11-16T03:02:40Z",
+      "description": "Asian shares fall as Nvidia earnings and Anthropic IPO test the AI rally and Fed rate expectations. Read more at straitstimes.com.",
       "ipoMarket": "us"
     },
     {
@@ -115,84 +115,77 @@
       "ipoMarket": "jp"
     },
     {
-      "title": "Anthropic IPO buyers have more influence on price than SpaceX",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-14T05:03:57Z",
-      "description": "Anthropic PBC is gearing up for its initial public offering, setting ambitious price targets to capture investor interest. The firm aspires to achieve record fundraising that could eclipse SpaceX's previous achievements. High-profile tech investors back Anthr…",
+      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+      "url": "https://www.business-standard.com/markets/news/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally-126111600048_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-16T02:45:39Z",
+      "description": "In Asia on Monday, Japan's Nikkei fell 0.6%, while South Korea slipped 0.2%. MSCI's broadest index of Asia-Pacific shares outside Japan eased 0.1%",
       "ipoMarket": "us"
     },
     {
-      "title": "Former Anthropic researcher says an IPO roadshow slide helped push him out",
-      "url": "https://cryptobriefing.com/former-anthropic-researcher-ipo-slide-departure/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-14T00:11:35Z",
-      "description": "Coxon's departure highlights growing concerns about AI's rapid advancement, emphasizing the need for robust safety measures and ethical oversight. The post Former Anthropic researcher says an IPO roadshow slide helped push him out appeared first on Crypto Bri…",
+      "title": "The 10 biggest stock market IPOs",
+      "url": "https://biztoc.com/x/653832a0ce5f81e3",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-16T02:10:41Z",
+      "description": "Anthropic, the developer of the Claude chatbot, is set to start trading on Wall Street on Thursday. The offering could raise as much as $64.4 billion, which would make it the second-largest IPO in history. Here is the ranking of the 10 largest IPOs on record,…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "7-9月期実質GDP 4期ぶりマイナス",
-      "url": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
+      "title": "イラン「汚い爆弾」米高官狙いか",
+      "url": "https://news.yahoo.co.jp/pickup/6602889?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-16T00:24:20.000Z",
+      "publishedAt": "2026-11-17T02:45:26.000Z",
       "description": ""
     },
     {
-      "title": "エボラ アフリカ中部で今なお猛威",
-      "url": "https://news.yahoo.co.jp/pickup/6602757?source=rss",
+      "title": "米中露 共同コミュニケを発表へ",
+      "url": "https://news.yahoo.co.jp/pickup/6602883?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-16T00:17:16.000Z",
+      "publishedAt": "2026-11-17T02:13:12.000Z",
       "description": ""
     },
     {
-      "title": "エストニア ロシアとの国境閉鎖へ",
-      "url": "https://news.yahoo.co.jp/pickup/6602742?source=rss",
+      "title": "米大統領 金正恩氏と会談の可能性",
+      "url": "https://news.yahoo.co.jp/pickup/6602867?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T22:20:16.000Z",
+      "publishedAt": "2026-11-17T00:09:18.000Z",
       "description": ""
     },
     {
-      "title": "MS障害 インド政府機関混乱なし",
-      "url": "https://news.yahoo.co.jp/pickup/6602734?source=rss",
+      "title": "ネパールに「ガチ中華」急増 なぜ",
+      "url": "https://news.yahoo.co.jp/pickup/6602865?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T14:27:33.000Z",
+      "publishedAt": "2026-11-16T23:58:55.000Z",
       "description": ""
     },
     {
-      "title": "独プールで4人搬送 MS障害影響",
-      "url": "https://news.yahoo.co.jp/pickup/6602715?source=rss",
+      "title": "米大統領 フアン氏復帰検討に理解",
+      "url": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T12:11:46.000Z",
+      "publishedAt": "2026-11-16T23:08:34.000Z",
       "description": ""
     },
     {
-      "title": "仏のデモおさまらず みえぬ打開策",
-      "url": "https://news.yahoo.co.jp/pickup/6602707?source=rss",
+      "title": "日露会談「否定しない」露報道官",
+      "url": "https://news.yahoo.co.jp/pickup/6602860?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T10:26:37.000Z",
+      "publishedAt": "2026-11-16T23:05:40.000Z",
       "description": ""
     },
     {
-      "title": "「中国の元スパイ」語る 接近手口",
-      "url": "https://news.yahoo.co.jp/pickup/6602697?source=rss",
+      "title": "トランプ大統領 アジア歴訪へ出発",
+      "url": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T08:56:52.000Z",
+      "publishedAt": "2026-11-16T21:21:32.000Z",
       "description": ""
     },
     {
-      "title": "米中露が会談へ 日本は蚊帳の外か",
-      "url": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
+      "title": "3カ国会談巡り中国「戦勝国」強調",
+      "url": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T04:19:08.000Z",
-      "description": ""
-    },
-    {
-      "title": "米の「中国脅威論」どう生まれた",
-      "url": "https://news.yahoo.co.jp/pickup/6602656?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T03:40:02.000Z",
+      "publishedAt": "2026-11-16T14:25:07.000Z",
       "description": ""
     }
   ]
