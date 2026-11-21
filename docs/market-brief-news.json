@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T02:52:56.033Z",
+  "fetchedAt": "2026-11-21T03:01:16.900Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -17,11 +17,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
-      "url": "https://biztoc.com/x/827355f29e4ea4b2",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-19T02:38:14Z",
-      "description": "Palo Alto Networks plans to acquire Applied Compute, a platform for post-training and inference of open-weight models, in an all-stock transaction valued at $4.5 billion, the company said in a Wednesday (Nov. 18) press release. The planned acquisition will bo…",
+      "title": "hertzforge 0.1.19",
+      "url": "https://pypi.org/project/hertzforge/0.1.19/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-20T02:47:23Z",
+      "description": "Data acquisition and structural dynamics in one toolset.",
       "maMarket": "us"
     },
     {
@@ -33,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Palo Alto Networks to buy AI startup Applied Compute for US$4.5 billion in stock",
-      "url": "https://www.digitimes.com/news/a20261119VL206/palo-alto-networks-ai-inference-startup-acquisition-business.html",
-      "source": "Digitimes",
-      "publishedAt": "2026-11-19T01:44:40Z",
-      "description": "Palo Alto Networks has agreed to acquire Applied Compute, a platform for post-training and inference of open-weight AI models, in an all-stock deal valued at US$4.5 billion, subject to adjustments, the cybersecurity company announced on November 18. The deal …",
+      "title": "Sanofi Reportedly Gears Up For The Biggest Biotech Deal In Years",
+      "url": "https://biztoc.com/x/1370158d980c3460",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-20T01:55:51Z",
+      "description": "stock surged Thursday on a rumored takeover bid from French pharma giant Sanofi (SNY). The potential takeover would follow biotech Insmed's launch of respiratory drug Brinsupri in 2025. The news sent Insmed stock flying as much as 24.4% to a recent high at 14…",
       "maMarket": "us"
     },
     {
@@ -49,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/palo-alto-networks-plans-4-5-billion-acquisition-of-ai-startup-applied-compute/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-11-19T01:39:20Z",
-      "description": "Palo Alto Networks plans to acquire Applied Compute, a platform for post-training and inference of open-weight models, in an all-stock transaction valued at $4.5 billion, the company said in a Wednesday (Nov. 18) press release. The planned acquisition will bo…",
+      "title": "As Robert Pattinson's James Bond casting sends ripples, former James Bond girl Lea Seydoux doesn't care will succeeds her",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/as-robert-pattinsons-james-bond-casting-sends-ripples-former-james-bond-girl-lea-seydoux-doesnt-care-will-succeeds-her/articleshow/136009531.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-20T01:18:52Z",
+      "description": "During a chat on 'The Runthrough' podcast, Lea Seydoux, noted for her performances in two James Bond films, revealed she has no desire to be the next Bond girl. Acknowledging the franchise's new phase following Amazon MGM Studios' acquisition, she praised Den…",
       "maMarket": "us"
     },
     {
@@ -65,119 +65,110 @@
       "maMarket": "jp"
     },
     {
-      "title": "Musk hints at potential SpaceX-Tesla merger within a year",
-      "url": "https://cryptobriefing.com/musk-hints-at-potential-spacex-tesla-merger-within-a-year/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-19T01:38:09Z",
-      "description": "A potential SpaceX-Tesla merger could reshape market dynamics, influence investor sentiment, and alter the strategic direction of both companies. The post Musk hints at potential SpaceX-Tesla merger within a year appeared first on Crypto Briefing.",
+      "title": "Jimmy Pitaro Defends Pat McAfee & Joe Buck-Troy Aikman Tension, Plus Jake Butt on Michigan’s Kyle Whittingham Buyout & CFP Contenders",
+      "url": "https://radio.foxnews.com/2026/11/19/jimmy-pitaro-defends-pat-mcafee-joe-buck-troy-aikman-tension-plus-jake-butt-on-michigans-kyle-whittingham-buyout-cfp-contenders/",
+      "source": "Fox News",
+      "publishedAt": "2026-11-20T00:40:00Z",
+      "description": "Dan Dakich reacts to ESPN chairman Jimmy Pitaro’s candid comments at Sports Business Journal’s Media Innovators event in New York. Pitaro explained why ESPN continues to back Pat McAfee despite the critics, revealing that College GameDay’s 18-to-24-year-old a…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "株式会社WHI HoldingsWHI Holdings、新規上場承認に関するお知らせ",
-      "url": "https://japan.cnet.com/release/31223938/",
-      "source": "CNET",
-      "publishedAt": "2026-11-13T10:13:36Z",
-      "description": "株式会社WHI Holdings(本社:東京都港区、代表取締役最高経営責任者:安斎富太郎、以下「当社」という。)は、本日、株式会社東京証券取引所(以下「東京証券取引所」という。)より、当社株式の東京証券取引所プライム市場への新規上場を承認されましたことをお知らせいたします。なお、東京証券取引所プライム市場への上...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Anthropic prices record IPO at US$83 per share ahead of Nasdaq debut",
-      "url": "https://www.digitimes.com/news/a20261119VL211/anthropic-ipo-nasdaq-revenue.html",
-      "source": "Digitimes",
-      "publishedAt": "2026-11-19T02:52:17Z",
-      "description": "Anthropic, PBC priced its initial public offering (IPO) at US$83 per share on Wednesday, soaring past its initial targeted range of US$70-78 and setting the stage for the largest first-time share sale in stock market history when trading begins November 19 on…",
+      "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
+      "url": "https://www.channelnewsasia.com/business/anthropic-biggest-ipo-numbers-6567146",
+      "source": "CNA",
+      "publishedAt": "2026-11-20T03:00:00Z",
+      "description": "A record US$81 billion IPO vaults Anthropic into the public market with a US$1.5 trillion valuation, the biggest stock market debut on record.",
       "ipoMarket": "us"
     },
     {
-      "title": "コンヴァノ、連結子会社アクセルマークの第34回新株予約権116,500個を全数引受けへ",
-      "url": "https://prtimes.jp/main/html/rd/p/000000179.000006824.html",
-      "source": "Prtimes.jp",
-      "publishedAt": "2026-11-13T07:40:50Z",
-      "description": "[株式会社コンヴァノ] 株式会社コンヴァノ（本社：東京都渋谷区、代表取締役社長：上四元 絢、証券コード：6574、以下「当社」）は、2026年11月13日開催の取締役会において、連結子会社であるアクセルマーク株式会社（東証グロース市場...",
-      "ipoMarket": "jp"
-    },
-    {
-      "title": "Live blog: Anthropic’s nearly $1.5 trillion IPO is today",
-      "url": "https://sfstandard.com/2026/11/18/anthropic-stock-debut-san-francisco/",
-      "source": "Sfstandard.com",
-      "publishedAt": "2026-11-19T02:51:20Z",
-      "description": "San Francisco’s AI gold rush is about to make some people a lot richer. Not everyone is happy about it.",
+      "title": "Anthropic IPO windfall: Over 5,000 employees become millionaires; 600 join the $100 million club",
+      "url": "https://www.livemint.com/companies/news/anthropic-ipo-windfall-over-5-000-employees-become-millionaires-600-join-the-100-million-club-11795141454809.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-20T02:41:50Z",
+      "description": "Anthropic's record IPO has turned an estimated 5,100 employees into millionaires, with nearly 600 holding equity worth over $100 million. The windfall could boost San Francisco's housing market and charitable giving.",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic IPO: Who gains the most from the biggest offering ever?",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
-      "source": "Bloomberg",
-      "publishedAt": "2026-11-19T02:41:46Z",
-      "description": "Here’s how much some of the largest and most notable financial investors in Anthropic stand to gain from the company’s IPO",
+      "title": "Anthropic IPO Does Little for AI Stocks as Dow Futures Fall",
+      "url": "https://biztoc.com/x/dab3944e8e10f002",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-20T02:41:22Z",
+      "description": "Anthropic PBC shares traded well above their IPO price in Thursday’s Nasdaq debut, but the IPO did little to lift the AI trade.",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic Sets Record With $81.3 Billion Share Sale Before Nasdaq Debut",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-sets-record-with-81-3-billion-share-sale-before-nasdaq-debut/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-11-19T02:37:16Z",
-      "description": "Anthropic has priced its initial public offering of its Class A common stock at $83 per share and expects the shares to begin trading on the Nasdaq Global Select Market on Thursday (Nov. 19), the company said in a Wednesday (Nov. 18) announcement. The offerin…",
+      "title": "Markets News, Nov. 19, 2026: Dow Plunges 1,100 Points, S&P 500 Falls for 6th Straight Day as Anthropic’s Historic IPO Fails to Stem Broad Sell-Off - I",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186802092",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-20T02:32:49Z",
+      "description": "Markets News, Nov. 19, 2026: Dow Plunges 1,100 Points, S&P 500 Falls for 6th Straight Day as Anthropic’s Historic IPO Fails to Stem Broad Sell-OffInvestopedia SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debutCNBC Why Is…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "執行中に死刑囚が激痛訴える 米",
+      "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T02:06:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "ミサイル落下 ポーランドが露非難",
+      "url": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T01:04:45.000Z",
+      "description": ""
+    },
+    {
+      "title": "正恩氏 トランプ氏本気度に疑心か",
+      "url": "https://news.yahoo.co.jp/pickup/6603378?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T01:04:25.000Z",
+      "description": ""
+    },
+    {
+      "title": "久石譲さんに名誉学位 英王立音大",
+      "url": "https://news.yahoo.co.jp/pickup/6603359?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T22:59:10.000Z",
+      "description": ""
+    },
+    {
+      "title": "米株式市場急落 ナスダック5%安",
+      "url": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T22:30:18.000Z",
+      "description": ""
+    },
+    {
+      "title": "上海で邦人死亡 別の邦人を拘束",
+      "url": "https://news.yahoo.co.jp/pickup/6603308?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T08:31:46.000Z",
+      "description": ""
+    },
+    {
+      "title": "ネパールで邦人35人拘束 詐欺疑い",
+      "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T06:30:01.000Z",
+      "description": ""
+    },
+    {
+      "title": "独メルツ首相 米中露会談を批判",
+      "url": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T04:28:15.000Z",
+      "description": ""
+    },
+    {
       "title": "ロヒンギャ巡る判決 内容精査と米",
       "url": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-20T00:24:46.000Z",
-      "description": ""
-    },
-    {
-      "title": "露 クリミア橋攻撃受け報復宣言",
-      "url": "https://news.yahoo.co.jp/pickup/6603235?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T23:31:08.000Z",
-      "description": ""
-    },
-    {
-      "title": "習氏 台湾問題で米大統領をけん制",
-      "url": "https://news.yahoo.co.jp/pickup/6603226?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T22:22:36.000Z",
-      "description": ""
-    },
-    {
-      "title": "APECが閉幕 AI活用の推進で一致",
-      "url": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T13:23:12.000Z",
-      "description": ""
-    },
-    {
-      "title": "高市首相を「冷遇」? 中国が反論",
-      "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T13:03:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "米中露首脳「平和宣言」を発表",
-      "url": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T11:59:20.000Z",
-      "description": ""
-    },
-    {
-      "title": "3カ国会談 中露は「戦勝国」強調",
-      "url": "https://news.yahoo.co.jp/pickup/6603198?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T11:14:06.000Z",
-      "description": ""
-    },
-    {
-      "title": "夜景ショー終了にみる 香港の低迷",
-      "url": "https://news.yahoo.co.jp/pickup/6603183?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T10:44:45.000Z",
       "description": ""
     }
   ]
