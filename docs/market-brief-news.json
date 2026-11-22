@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T03:01:16.900Z",
+  "fetchedAt": "2026-11-22T01:58:03.797Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -17,11 +17,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "hertzforge 0.1.19",
-      "url": "https://pypi.org/project/hertzforge/0.1.19/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-20T02:47:23Z",
-      "description": "Data acquisition and structural dynamics in one toolset.",
+      "title": "CrowdStrike reportedly in talks to acquire cybersecurity provider Zscaler",
+      "url": "https://siliconangle.com/2026/11/20/crowdstrike-reportedly-in-talks-to-acquire-cybersecurity-provider-zscaler/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-11-21T01:50:36Z",
+      "description": "CrowdStrike Holdings Inc. is reportedly in talks to buy Zscaler Inc., a publicly traded provider of cybersecurity software. Sources told Bloomberg today that the acquisition could “come together soon.” However, they cautioned that it’s still possible the talk…",
       "maMarket": "us"
     },
     {
@@ -33,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Sanofi Reportedly Gears Up For The Biggest Biotech Deal In Years",
-      "url": "https://biztoc.com/x/1370158d980c3460",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-20T01:55:51Z",
-      "description": "stock surged Thursday on a rumored takeover bid from French pharma giant Sanofi (SNY). The potential takeover would follow biotech Insmed's launch of respiratory drug Brinsupri in 2025. The news sent Insmed stock flying as much as 24.4% to a recent high at 14…",
+      "title": "deimos-daq 0.21.3",
+      "url": "https://pypi.org/project/deimos-daq/0.21.3/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-21T01:13:35Z",
+      "description": "Control-loop and data pipeline for the Deimos data acquisition system",
       "maMarket": "us"
     },
     {
@@ -49,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "As Robert Pattinson's James Bond casting sends ripples, former James Bond girl Lea Seydoux doesn't care will succeeds her",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/as-robert-pattinsons-james-bond-casting-sends-ripples-former-james-bond-girl-lea-seydoux-doesnt-care-will-succeeds-her/articleshow/136009531.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-20T01:18:52Z",
-      "description": "During a chat on 'The Runthrough' podcast, Lea Seydoux, noted for her performances in two James Bond films, revealed she has no desire to be the next Bond girl. Acknowledging the franchise's new phase following Amazon MGM Studios' acquisition, she praised Den…",
+      "title": "Japan Attempts to Revive an American Industrial Icon",
+      "url": "https://freerepublic.com/focus/f-news/4403809/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-21T01:09:47Z",
+      "description": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh. For years, the Edgar Thomson steel mill stood on the outskirts of Pittsb…",
       "maMarket": "us"
     },
     {
@@ -65,110 +65,103 @@
       "maMarket": "jp"
     },
     {
-      "title": "Jimmy Pitaro Defends Pat McAfee & Joe Buck-Troy Aikman Tension, Plus Jake Butt on Michigan’s Kyle Whittingham Buyout & CFP Contenders",
-      "url": "https://radio.foxnews.com/2026/11/19/jimmy-pitaro-defends-pat-mcafee-joe-buck-troy-aikman-tension-plus-jake-butt-on-michigans-kyle-whittingham-buyout-cfp-contenders/",
-      "source": "Fox News",
-      "publishedAt": "2026-11-20T00:40:00Z",
-      "description": "Dan Dakich reacts to ESPN chairman Jimmy Pitaro’s candid comments at Sports Business Journal’s Media Innovators event in New York. Pitaro explained why ESPN continues to back Pat McAfee despite the critics, revealing that College GameDay’s 18-to-24-year-old a…",
+      "title": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154907/tiny-desk-radio-first-aid-kit-snoh-aalegra-robyn",
+      "source": "NPR",
+      "publishedAt": "2026-11-21T01:05:48Z",
+      "description": "It's a Swedish musical takeover! Or do we call it a smorgasbord? <br><br>Look for <em>Tiny Desk Radio</em> on your local NPR station.<br><br>",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
-      "url": "https://www.channelnewsasia.com/business/anthropic-biggest-ipo-numbers-6567146",
-      "source": "CNA",
-      "publishedAt": "2026-11-20T03:00:00Z",
-      "description": "A record US$81 billion IPO vaults Anthropic into the public market with a US$1.5 trillion valuation, the biggest stock market debut on record.",
+      "title": "Breitbart Business Digest: The AI Sky Is Falling",
+      "url": "https://www.breitbart.com/economy/2026/11/20/breitbart-business-digest-the-ai-sky-is-falling/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-21T00:15:44Z",
+      "description": "It somehow seems fitting that the Anthropic initial public offering occurred amid a mysterious series of malfunctions of critical digital systems. The post Breitbart Business Digest: The AI Sky Is Falling appeared first on Breitbart.",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic IPO windfall: Over 5,000 employees become millionaires; 600 join the $100 million club",
-      "url": "https://www.livemint.com/companies/news/anthropic-ipo-windfall-over-5-000-employees-become-millionaires-600-join-the-100-million-club-11795141454809.html",
-      "source": "Livemint",
-      "publishedAt": "2026-11-20T02:41:50Z",
-      "description": "Anthropic's record IPO has turned an estimated 5,100 employees into millionaires, with nearly 600 holding equity worth over $100 million. The windfall could boost San Francisco's housing market and charitable giving.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic IPO Does Little for AI Stocks as Dow Futures Fall",
-      "url": "https://biztoc.com/x/dab3944e8e10f002",
+      "title": "Anthropic Stocks Jump 17.07% in Record Debut as $26 Billion Chipmaker Placement Lands",
+      "url": "https://biztoc.com/x/86b10ee0bfc7f6ea",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-20T02:41:22Z",
-      "description": "Anthropic PBC shares traded well above their IPO price in Thursday’s Nasdaq debut, but the IPO did little to lift the AI trade.",
+      "publishedAt": "2026-11-20T22:42:50Z",
+      "description": "This article first appeared on GuruFocus. Anthropic (NASDAQ:ANT) closed its first trading day at $97.17 at 4:00 p.m. ET on November 19, up 17.07% from its $83 IPO price on Nasdaq. The ride was wild. The first trade crossed at $111.50 at 11:48 a.m. ET, ran to …",
       "ipoMarket": "us"
     },
     {
-      "title": "Markets News, Nov. 19, 2026: Dow Plunges 1,100 Points, S&P 500 Falls for 6th Straight Day as Anthropic’s Historic IPO Fails to Stem Broad Sell-Off - I",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186802092",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-20T02:32:49Z",
-      "description": "Markets News, Nov. 19, 2026: Dow Plunges 1,100 Points, S&P 500 Falls for 6th Straight Day as Anthropic’s Historic IPO Fails to Stem Broad Sell-OffInvestopedia SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debutCNBC Why Is…",
+      "title": "Hyperliquid’s Anthropic perp traded near $111 before the Nasdaq opening bell",
+      "url": "https://cryptobriefing.com/hyperliquid-anthropic-perp-nasdaq-ipo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-20T22:04:47Z",
+      "description": "The close alignment of crypto and traditional markets in Anthropic's IPO highlights the growing influence of digital finance on Wall Street. The post Hyperliquid’s Anthropic perp traded near $111 before the Nasdaq opening bell appeared first on Crypto Briefin…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
+      "url": "https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596",
+      "source": "CNA",
+      "publishedAt": "2026-11-20T21:49:06Z",
+      "description": "NEW YORK: Technology shares nosedived on Friday (Nov 20) and dragged stocks into the red around the world, after AI firm Anthropic's bumper market debut failed to dispel growing worries about the sector's massive investments and sky-high valuations.Anthropic …",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "ブラジル南部 猛烈な嵐で4人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-22T01:21:51.000Z",
+      "description": ""
+    },
+    {
+      "title": "若者の手芸ブーム AI時代になぜ",
+      "url": "https://news.yahoo.co.jp/pickup/6603515?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-22T01:05:26.000Z",
+      "description": ""
+    },
+    {
+      "title": "「脱化石」削除巡り紛糾 COP31",
+      "url": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-22T00:26:56.000Z",
+      "description": ""
+    },
+    {
+      "title": "ゼレンスキー氏 露大統領は人殺し",
+      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T11:51:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "米中露がICC非難 トランプ氏強調",
+      "url": "https://news.yahoo.co.jp/pickup/6603442?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T09:30:46.000Z",
+      "description": ""
+    },
+    {
+      "title": "韓国兵役終え日本直行 男性の感謝",
+      "url": "https://news.yahoo.co.jp/pickup/6603432?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T08:41:22.000Z",
+      "description": ""
+    },
+    {
+      "title": "デンマークで暗殺阻止 露が計画か",
+      "url": "https://news.yahoo.co.jp/pickup/6603402?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T05:47:10.000Z",
+      "description": ""
+    },
+    {
       "title": "執行中に死刑囚が激痛訴える 米",
       "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-21T02:06:22.000Z",
-      "description": ""
-    },
-    {
-      "title": "ミサイル落下 ポーランドが露非難",
-      "url": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T01:04:45.000Z",
-      "description": ""
-    },
-    {
-      "title": "正恩氏 トランプ氏本気度に疑心か",
-      "url": "https://news.yahoo.co.jp/pickup/6603378?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T01:04:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "久石譲さんに名誉学位 英王立音大",
-      "url": "https://news.yahoo.co.jp/pickup/6603359?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-20T22:59:10.000Z",
-      "description": ""
-    },
-    {
-      "title": "米株式市場急落 ナスダック5%安",
-      "url": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-20T22:30:18.000Z",
-      "description": ""
-    },
-    {
-      "title": "上海で邦人死亡 別の邦人を拘束",
-      "url": "https://news.yahoo.co.jp/pickup/6603308?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-20T08:31:46.000Z",
-      "description": ""
-    },
-    {
-      "title": "ネパールで邦人35人拘束 詐欺疑い",
-      "url": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-20T06:30:01.000Z",
-      "description": ""
-    },
-    {
-      "title": "独メルツ首相 米中露会談を批判",
-      "url": "https://news.yahoo.co.jp/pickup/6603280?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-20T04:28:15.000Z",
-      "description": ""
-    },
-    {
-      "title": "ロヒンギャ巡る判決 内容精査と米",
-      "url": "https://news.yahoo.co.jp/pickup/6603242?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-20T00:24:46.000Z",
       "description": ""
     }
   ]
