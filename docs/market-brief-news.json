@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-22T01:58:03.797Z",
+  "fetchedAt": "2026-11-23T02:23:29.585Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -17,11 +17,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "CrowdStrike reportedly in talks to acquire cybersecurity provider Zscaler",
-      "url": "https://siliconangle.com/2026/11/20/crowdstrike-reportedly-in-talks-to-acquire-cybersecurity-provider-zscaler/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-11-21T01:50:36Z",
-      "description": "CrowdStrike Holdings Inc. is reportedly in talks to buy Zscaler Inc., a publicly traded provider of cybersecurity software. Sources told Bloomberg today that the acquisition could “come together soon.” However, they cautioned that it’s still possible the talk…",
+      "title": "Amazon eyes $7.5 billion Decart deal to boost AI chip efficiency, challenge Nvidia | 5 things to know",
+      "url": "https://www.livemint.com/companies/news/amazon-eyes-7-5-billion-decart-deal-to-boost-ai-chip-efficiency-challenge-nvidia-5-things-to-know-11795310250674.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-22T01:50:46Z",
+      "description": "Amazon is reportedly nearing a $7.5 billion acquisition of AI startup Decart, whose software helps AI models use chips more efficiently. The deal could strengthen AWS’s ability to compete with Nvidia&nbsp;",
       "maMarket": "us"
     },
     {
@@ -33,11 +33,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "deimos-daq 0.21.3",
-      "url": "https://pypi.org/project/deimos-daq/0.21.3/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-21T01:13:35Z",
-      "description": "Control-loop and data pipeline for the Deimos data acquisition system",
+      "title": "Access Holdings chief urges graduates on AI skills",
+      "url": "https://punchng.com/access-holdings-chief-urges-graduates-on-ai-skills/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-22T00:37:59Z",
+      "description": "Access Holdings CEO Innocent Ike urges FUTA graduates to acquire AI and digital skills to stay relevant in a fast-changing job market. Read More: https://punchng.com/access-holdings-chief-urges-graduates-on-ai-skills/",
       "maMarket": "us"
     },
     {
@@ -49,11 +49,11 @@
       "maMarket": "jp"
     },
     {
-      "title": "Japan Attempts to Revive an American Industrial Icon",
-      "url": "https://freerepublic.com/focus/f-news/4403809/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-21T01:09:47Z",
-      "description": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh. For years, the Edgar Thomson steel mill stood on the outskirts of Pittsb…",
+      "title": "Ireland’s councils sought to CPO just one derelict building via An Coimisiún Pleanála in October",
+      "url": "https://www.thejournal.ie/ireland-dereliction-cpo-an-coimisiun-pleanala-kilkenny-7228004-Nov2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-22T00:05:43Z",
+      "description": "Just one council applied to the commission to CPO a site last month.",
       "maMarket": "us"
     },
     {
@@ -65,103 +65,110 @@
       "maMarket": "jp"
     },
     {
-      "title": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154907/tiny-desk-radio-first-aid-kit-snoh-aalegra-robyn",
-      "source": "NPR",
-      "publishedAt": "2026-11-21T01:05:48Z",
-      "description": "It's a Swedish musical takeover! Or do we call it a smorgasbord? <br><br>Look for <em>Tiny Desk Radio</em> on your local NPR station.<br><br>",
+      "title": "Chicago Atlantic Real Estate Finance: 3 Key Takeaways for Long-Term Investors",
+      "url": "https://biztoc.com/x/53b29d2b1f59374d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-22T00:01:30Z",
+      "description": "On its third-quarter 2026 earnings call, held on Nov. 10, 2026, Chicago Atlantic Real Estate Finance (NASDAQ:REFI) deployed over $85 million in new principal funding while moving forward with its proposed merger. For long-term investors, the lender's loan por…",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Breitbart Business Digest: The AI Sky Is Falling",
-      "url": "https://www.breitbart.com/economy/2026/11/20/breitbart-business-digest-the-ai-sky-is-falling/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-21T00:15:44Z",
-      "description": "It somehow seems fitting that the Anthropic initial public offering occurred amid a mysterious series of malfunctions of critical digital systems. The post Breitbart Business Digest: The AI Sky Is Falling appeared first on Breitbart.",
+      "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186822810",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-21T22:33:41Z",
+      "description": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEOFox Business Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon ValleyThe New York Times Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall St…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic Stocks Jump 17.07% in Record Debut as $26 Billion Chipmaker Placement Lands",
-      "url": "https://biztoc.com/x/86b10ee0bfc7f6ea",
+      "title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
+      "url": "https://biztoc.com/x/98a25e086097b6f3",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-20T22:42:50Z",
-      "description": "This article first appeared on GuruFocus. Anthropic (NASDAQ:ANT) closed its first trading day at $97.17 at 4:00 p.m. ET on November 19, up 17.07% from its $83 IPO price on Nasdaq. The ride was wild. The first trade crossed at $111.50 at 11:48 a.m. ET, ran to …",
+      "publishedAt": "2026-11-21T20:13:30Z",
+      "description": "The post $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? appeared first on 24/7 Wall St.. A $1,000 investment would have purchased around 12 shares of Anthropic (NASDAQ: ANT) at its IPO price of $83 on November 19, 2026. The same amoun…",
       "ipoMarket": "us"
     },
     {
-      "title": "Hyperliquid’s Anthropic perp traded near $111 before the Nasdaq opening bell",
-      "url": "https://cryptobriefing.com/hyperliquid-anthropic-perp-nasdaq-ipo/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-11-20T22:04:47Z",
-      "description": "The close alignment of crypto and traditional markets in Anthropic's IPO highlights the growing influence of digital finance on Wall Street. The post Hyperliquid’s Anthropic perp traded near $111 before the Nasdaq opening bell appeared first on Crypto Briefin…",
+      "title": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister.",
+      "url": "https://freerepublic.com/focus/f-chat/4403871/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-21T19:31:18Z",
+      "description": "Dario and Daniela Amodei were on top of the biggest IPO ever Thursday–and a market rout one day later. It’s the latest unusual development for a company that is anything but normal.Two years before she pulled off the largest public offering of all time, Danie…",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
-      "url": "https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596",
-      "source": "CNA",
-      "publishedAt": "2026-11-20T21:49:06Z",
-      "description": "NEW YORK: Technology shares nosedived on Friday (Nov 20) and dragged stocks into the red around the world, after AI firm Anthropic's bumper market debut failed to dispel growing worries about the sector's massive investments and sky-high valuations.Anthropic …",
+      "title": "The Anthropic IPO Was a Massive Wealth Transfer",
+      "url": "https://www.motherjones.com/politics/2026/11/anthropic-ipo-new-millionaires-wealth-transfer/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-11-21T16:41:20Z",
+      "description": "The vast majority of employees of the tech company Anthropic are now millionaires, thanks to the Claude-maker’s record-breaking IPO this week. That’s about 5,100 people, or 96% of their workforce. There are so many newly-minted AI millionaires that some write…",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ブラジル南部 猛烈な嵐で4人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6603516?source=rss",
+      "title": "キーウに攻撃 がれき下の7歳救助",
+      "url": "https://news.yahoo.co.jp/pickup/6603649?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T01:21:51.000Z",
+      "publishedAt": "2026-11-23T02:15:35.000Z",
       "description": ""
     },
     {
-      "title": "若者の手芸ブーム AI時代になぜ",
-      "url": "https://news.yahoo.co.jp/pickup/6603515?source=rss",
+      "title": "トランプ氏 イラン再攻撃に言及",
+      "url": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T01:05:26.000Z",
+      "publishedAt": "2026-11-23T02:04:58.000Z",
       "description": ""
     },
     {
-      "title": "「脱化石」削除巡り紛糾 COP31",
-      "url": "https://news.yahoo.co.jp/pickup/6603508?source=rss",
+      "title": "リビアで露軍艦爆発 無人機攻撃か",
+      "url": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T00:26:56.000Z",
+      "publishedAt": "2026-11-23T00:25:34.000Z",
       "description": ""
     },
     {
-      "title": "ゼレンスキー氏 露大統領は人殺し",
-      "url": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
+      "title": "「ほぼ日手帳」海外で人気のワケ",
+      "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T11:51:20.000Z",
+      "publishedAt": "2026-11-23T00:20:14.000Z",
       "description": ""
     },
     {
-      "title": "米中露がICC非難 トランプ氏強調",
-      "url": "https://news.yahoo.co.jp/pickup/6603442?source=rss",
+      "title": "米民主党が下‌院で258議席 報道",
+      "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T09:30:46.000Z",
+      "publishedAt": "2026-11-22T23:30:14.000Z",
       "description": ""
     },
     {
-      "title": "韓国兵役終え日本直行 男性の感謝",
-      "url": "https://news.yahoo.co.jp/pickup/6603432?source=rss",
+      "title": "COP31 合意文書採択できず閉幕",
+      "url": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T08:41:22.000Z",
+      "publishedAt": "2026-11-22T21:58:55.000Z",
       "description": ""
     },
     {
-      "title": "デンマークで暗殺阻止 露が計画か",
-      "url": "https://news.yahoo.co.jp/pickup/6603402?source=rss",
+      "title": "米大統領側 訪日時のオバマ氏やゆ",
+      "url": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T05:47:10.000Z",
+      "publishedAt": "2026-11-22T12:11:40.000Z",
       "description": ""
     },
     {
-      "title": "執行中に死刑囚が激痛訴える 米",
-      "url": "https://news.yahoo.co.jp/pickup/6603384?source=rss",
+      "title": "工場火災30人超不明 インドネシア",
+      "url": "https://news.yahoo.co.jp/pickup/6603590?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-21T02:06:22.000Z",
+      "publishedAt": "2026-11-22T10:50:38.000Z",
+      "description": ""
+    },
+    {
+      "title": "ホルムズ海峡を遠泳 環境被害訴え",
+      "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-22T09:08:26.000Z",
       "description": ""
     }
   ]
