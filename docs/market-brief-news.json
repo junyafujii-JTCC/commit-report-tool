@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-23T02:23:29.585Z",
+  "fetchedAt": "2026-11-24T05:46:49.321Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,166 +9,127 @@
   ],
   "ma": [
     {
-      "title": "JR東海の営業利益率「40％超」圧倒的なのに株価で見ると違う景色が広がる理由 - ニュース・経営",
-      "url": "https://jbpress.ismedia.jp/articles/-/97800",
-      "source": "Ismedia.jp",
-      "publishedAt": "2026-11-16T20:45:00Z",
-      "description": "営業利益率10％超の富士フイルムホールディングス、40％超のJR東海（東海旅客鉄道）。どちらも本業でしっかり稼いでいる、高収益企業といわれている。ところが、株価を見ると違う景色が広がる。決算書を読んでも、その理由を突き止めるのは簡単ではない。そこで、企業の実例をふんだんに取り入れながら、現代の財務や会計の仕組みを紐解く本連載の第3回は富士フイルム、JR東海、そして1兆円買収の末に誕生したレゾナック・ホールディングスを題材に、そのカラクリを紐解いていく。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Amazon eyes $7.5 billion Decart deal to boost AI chip efficiency, challenge Nvidia | 5 things to know",
-      "url": "https://www.livemint.com/companies/news/amazon-eyes-7-5-billion-decart-deal-to-boost-ai-chip-efficiency-challenge-nvidia-5-things-to-know-11795310250674.html",
-      "source": "Livemint",
-      "publishedAt": "2026-11-22T01:50:46Z",
-      "description": "Amazon is reportedly nearing a $7.5 billion acquisition of AI startup Decart, whose software helps AI models use chips more efficiently. The deal could strengthen AWS’s ability to compete with Nvidia&nbsp;",
-      "maMarket": "us"
-    },
-    {
-      "title": "レッドブルF1誕生の秘話 フォードからの買収額はわずか1ドル",
-      "url": "https://f1-gate.com/redbull/232798.html",
-      "source": "F1-gate.com",
-      "publishedAt": "2026-11-16T13:38:00Z",
-      "description": "レッドブルF1が誕生するきっかけとなったジャガー・レーシングの買収額は、わずか1ドルだった。2004年11月15日、フォードはF1チームをレッドブルに売却したことを正式発表。名目上の買収額は驚くほど低かったが、その裏には巨額の投資を伴う条件…",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Access Holdings chief urges graduates on AI skills",
-      "url": "https://punchng.com/access-holdings-chief-urges-graduates-on-ai-skills/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-22T00:37:59Z",
-      "description": "Access Holdings CEO Innocent Ike urges FUTA graduates to acquire AI and digital skills to stay relevant in a fast-changing job market. Read More: https://punchng.com/access-holdings-chief-urges-graduates-on-ai-skills/",
-      "maMarket": "us"
-    },
-    {
-      "title": "独コメルツ銀買収を承認　伊金融大手が推進―欧州委",
-      "url": "https://www.jiji.com/jc/article?k=2026111601016&g=int",
-      "source": "Jiji.com",
-      "publishedAt": "2026-11-16T13:37:00Z",
-      "description": "【ブリュッセル時事】欧州連合（ＥＵ）欧州委員会は１６日、イタリア金融大手ウニクレディトによるドイツ同業コメルツ銀行の買収計画を承認した。ＥＵ加盟国にノルウェーなど３カ国を加えた欧州経済領域（ＥＥＡ）で競争上の懸念は生じないと判断した。",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Ireland’s councils sought to CPO just one derelict building via An Coimisiún Pleanála in October",
-      "url": "https://www.thejournal.ie/ireland-dereliction-cpo-an-coimisiun-pleanala-kilkenny-7228004-Nov2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-11-22T00:05:43Z",
-      "description": "Just one council applied to the commission to CPO a site last month.",
-      "maMarket": "us"
-    },
-    {
-      "title": "銀行の中間決算　秋田銀行は増収増益・純利益は過去最高を更新　合併控える北都銀行は2行合算で増収増益に",
-      "url": "https://news.livedoor.com/article/detail/32830920/",
-      "source": "Livedoor.com",
-      "publishedAt": "2026-11-16T08:35:00Z",
-      "description": "秋田銀行は今年度の中間決算が増収増益だったと発表しました。純利益は過去最高を更新しています。一方、来年1月に合併を控える北都銀行は2行合算で中間決算を発表し、こちらも増収増益でした。経営のトップに就いて3年目、秋田銀行の芦田晃輔頭取は今年度の中間決算を次のように評価しました。秋田銀行芦田晃輔頭取「努力を職員が積み重ねてきた結果という意味では80点ぐらいはあげたいなと思いますが、ここで立ち止まるわけにはいきませんから、さらに先を目指していきたいという全文ABS秋田放送 11月16日17時35分",
-      "maMarket": "jp"
-    },
-    {
-      "title": "Chicago Atlantic Real Estate Finance: 3 Key Takeaways for Long-Term Investors",
-      "url": "https://biztoc.com/x/53b29d2b1f59374d",
+      "title": "Brookfield to Acquire PGP Glass, a Leading Global Manufacturer of Specialty Glass Packaging from Blackstone for $1.7 billion",
+      "url": "https://biztoc.com/x/aafcf4177aa8fe42",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-22T00:01:30Z",
-      "description": "On its third-quarter 2026 earnings call, held on Nov. 10, 2026, Chicago Atlantic Real Estate Finance (NASDAQ:REFI) deployed over $85 million in new principal funding while moving forward with its proposed merger. For long-term investors, the lender's loan por…",
+      "publishedAt": "2026-11-23T05:34:44Z",
+      "description": "Opportunity to deliver an AI-led transformation of a major industrial businessMUMBAI, Nov. 23, 2026 (GLOBE NEWSWIRE) -- Brookfield and Blackstone today",
+      "maMarket": "us"
+    },
+    {
+      "title": "Wild Lose Out on Dylan Larkin",
+      "url": "https://heavy.com/sports/nhl/minnesota-wild/wild-lose-out-on-dylan-larkin/",
+      "source": "Heavy.com",
+      "publishedAt": "2026-11-23T05:27:56Z",
+      "description": "The Minnesota Wild tried their best to acquire former Detroit Red Wings captain Dylan Larkin, but in the end, they came up short. On Sunday, the Red Wings announced they completed a blockbuster trade with the Montreal Canadiens, one sending Larkin to Canada f…",
+      "maMarket": "us"
+    },
+    {
+      "title": "Brookfield to acquire PGP Glass from Blackstone for $1.7 billion",
+      "url": "https://www.livemint.com/companies/news/brookfield-to-acquire-pgp-glass-blackstone-1-7-billion-11795409557465.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-23T05:27:36Z",
+      "description": "PGP Glass said the partnership with Brookfield will accelerate the company’s next phase of growth.",
+      "maMarket": "us"
+    },
+    {
+      "title": "Brookfield to acquire PGP Glass from Blackstone for $1.7 billion",
+      "url": "https://www.thehindubusinessline.com/companies/brookfield-to-acquire-pgp-glass-from-blackstone-for-17-billion/article71733410.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-23T05:15:39Z",
+      "description": "Brookfield to acquire Indian glass packaging maker PGP Glass from Blackstone for $1.7 billion, serving cosmetics, fragrances, spirits, food, and pharma.",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186822810",
+      "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "url": "https://www.business-standard.com/world-news/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-126112300108_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-23T03:54:55Z",
+      "description": "With SpaceX's IPO in June, bankers chafed over how tightly the Elon Musk-led company controlled the months-long process and kept financial and other information private",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "This Week in Tech 1111: That's What Xi Said",
+      "url": "https://twit.tv/shows/this-week-in-tech/episodes/1111",
+      "source": "Twit.tv",
+      "publishedAt": "2026-11-23T03:43:39Z",
+      "description": "From Anthropic's record-breaking IPO to the turbulent leadership drama at NVIDIA, Leo and the panel ask if visionary founders really are indispensable, or if their flaws can topple entire companies. Find out what can happen when the tech industry's biggest pl…",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186833577",
       "source": "Slashdot.org",
-      "publishedAt": "2026-11-21T22:33:41Z",
-      "description": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEOFox Business Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon ValleyThe New York Times Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall St…",
+      "publishedAt": "2026-11-22T20:52:44Z",
+      "description": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jittersYahoo Finance When Can Anthropic Insiders Sell? What the Post-IPO Lockup Period Means for Shareholders.The Motley Fool Anthropic’s Debut Shows the Disconnect Between Wall Street and Sili…",
       "ipoMarket": "us"
     },
     {
-      "title": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
-      "url": "https://biztoc.com/x/98a25e086097b6f3",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-21T20:13:30Z",
-      "description": "The post $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? appeared first on 24/7 Wall St.. A $1,000 investment would have purchased around 12 shares of Anthropic (NASDAQ: ANT) at its IPO price of $83 on November 19, 2026. The same amoun…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "They Run Anthropic. They Want to Keep It Weird. They’re Brother and Sister.",
-      "url": "https://freerepublic.com/focus/f-chat/4403871/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-21T19:31:18Z",
-      "description": "Dario and Daniela Amodei were on top of the biggest IPO ever Thursday–and a market rout one day later. It’s the latest unusual development for a company that is anything but normal.Two years before she pulled off the largest public offering of all time, Danie…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "The Anthropic IPO Was a Massive Wealth Transfer",
-      "url": "https://www.motherjones.com/politics/2026/11/anthropic-ipo-new-millionaires-wealth-transfer/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-11-21T16:41:20Z",
-      "description": "The vast majority of employees of the tech company Anthropic are now millionaires, thanks to the Claude-maker’s record-breaking IPO this week. That’s about 5,100 people, or 96% of their workforce. There are so many newly-minted AI millionaires that some write…",
+      "title": "Anthropic’s Record IPO Raises Hopes for a Charitable Windfall That Has Nonprofits Preparing to Scale",
+      "url": "https://www.kqed.org/news/12111073/anthropics-record-ipo-raises-hopes-for-a-charitable-windfall-that-has-nonprofits-preparing-to-scale",
+      "source": "KQED",
+      "publishedAt": "2026-11-22T20:45:08Z",
+      "description": "The Claude AI tool maker has already pledged 5% of its shares, and its seven co-founders say they'll give away 80% of their equity.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "キーウに攻撃 がれき下の7歳救助",
-      "url": "https://news.yahoo.co.jp/pickup/6603649?source=rss",
+      "title": "NVIDIAフアンCEO復帰 3つの懸念",
+      "url": "https://news.yahoo.co.jp/pickup/6603782?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-23T02:15:35.000Z",
+      "publishedAt": "2026-11-24T03:34:48.000Z",
       "description": ""
     },
     {
-      "title": "トランプ氏 イラン再攻撃に言及",
-      "url": "https://news.yahoo.co.jp/pickup/6603648?source=rss",
+      "title": "フアン氏のCEO復帰 米議会反発",
+      "url": "https://news.yahoo.co.jp/pickup/6603761?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-23T02:04:58.000Z",
+      "publishedAt": "2026-11-24T00:40:56.000Z",
       "description": ""
     },
     {
-      "title": "リビアで露軍艦爆発 無人機攻撃か",
-      "url": "https://news.yahoo.co.jp/pickup/6603637?source=rss",
+      "title": "タジキスタンがICC脱退を通告",
+      "url": "https://news.yahoo.co.jp/pickup/6603758?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-23T00:25:34.000Z",
+      "publishedAt": "2026-11-24T00:19:01.000Z",
       "description": ""
     },
     {
-      "title": "「ほぼ日手帳」海外で人気のワケ",
-      "url": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
+      "title": "米正副大統領 フアン氏復帰に関与",
+      "url": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-23T00:20:14.000Z",
+      "publishedAt": "2026-11-23T21:28:40.000Z",
       "description": ""
     },
     {
-      "title": "米民主党が下‌院で258議席 報道",
-      "url": "https://news.yahoo.co.jp/pickup/6603631?source=rss",
+      "title": "露が核衛星を年内打ち上げか 報道",
+      "url": "https://news.yahoo.co.jp/pickup/6603720?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T23:30:14.000Z",
+      "publishedAt": "2026-11-23T12:54:35.000Z",
       "description": ""
     },
     {
-      "title": "COP31 合意文書採択できず閉幕",
-      "url": "https://news.yahoo.co.jp/pickup/6603614?source=rss",
+      "title": "麻雀クラブ なぜ米国の若者に人気",
+      "url": "https://news.yahoo.co.jp/pickup/6603717?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T21:58:55.000Z",
+      "publishedAt": "2026-11-23T12:41:51.000Z",
       "description": ""
     },
     {
-      "title": "米大統領側 訪日時のオバマ氏やゆ",
-      "url": "https://news.yahoo.co.jp/pickup/6603598?source=rss",
+      "title": "ガソリン価格下落 米大統領恨み節",
+      "url": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T12:11:40.000Z",
+      "publishedAt": "2026-11-23T07:50:15.000Z",
       "description": ""
     },
     {
-      "title": "工場火災30人超不明 インドネシア",
-      "url": "https://news.yahoo.co.jp/pickup/6603590?source=rss",
+      "title": "番組中にわいせつな音 BBCが謝罪",
+      "url": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T10:50:38.000Z",
-      "description": ""
-    },
-    {
-      "title": "ホルムズ海峡を遠泳 環境被害訴え",
-      "url": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T09:08:26.000Z",
+      "publishedAt": "2026-11-23T06:15:44.000Z",
       "description": ""
     }
   ]
