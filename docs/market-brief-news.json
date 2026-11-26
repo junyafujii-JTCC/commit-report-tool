@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T04:48:52.159Z",
+  "fetchedAt": "2026-11-26T04:01:03.619Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,127 +9,127 @@
   ],
   "ma": [
     {
-      "title": "RBI gives approval to SBI MF to acquire up to 9.99% of South Indian Bank’s paid-up share capital",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-gives-approval-to-sbi-mf-to-acquire-up-to-999-of-south-indian-banks-paid-up-share-capital/article71737202.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-24T04:47:44Z",
-      "description": "Mutual funds hold 15.13% in the bank (Kotak Mahindra Trustee Co Ltd) A/C Kotak Multicap Fund 6.05%, Bandhan Small Cap Fund 4.69%, SBI Banking & Financial Services Fund 2.90%",
-      "maMarket": "us"
-    },
-    {
-      "title": "Reliance Worldwide Shares Jump 12% as AustralianSuper Backs Brookfield Takeover Ahead of December Vote",
-      "url": "https://www.ibtimes.com.au/reliance-worldwide-shares-rise-australiansuper-backs-brookfield-takeover-1879266",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-11-24T04:46:38Z",
-      "description": "Reliance Worldwide shares rose nearly 12% after AustralianSuper said it would support Brookfield's proposed takeover, improving the deal's prospects ahead of the 2 December shareholder meeting.",
-      "maMarket": "us"
-    },
-    {
-      "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
-      "url": "https://biztoc.com/x/f8850b31c2e5165b",
+      "title": "Is ICG (LSE:ICG) Fully Valued After Its €8 A Share Buyout?",
+      "url": "https://biztoc.com/x/e949eb85dc063d8f",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-24T04:24:28Z",
-      "description": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - The bulk of the registered shares are warrants that allow OpenAI and Meta to acquire up to 160 million AMD shares. - AMD stock dipped 1…",
+      "publishedAt": "2026-11-25T03:46:34Z",
+      "description": "The €1.2b management buyout of Irish Continental Group (LSE:ICG) has closed, with the ferry operator leaving both the Dublin and London exchanges and investors receiving €8 per share in cash. For existing investors, the bigger picture is that ICG's share pric…",
       "maMarket": "us"
     },
     {
-      "title": "Skydance Products & Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure",
-      "url": "https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267/",
-      "source": "Deadline",
-      "publishedAt": "2026-11-24T03:56:13Z",
-      "description": "Josh Silverman, President of Global Products & Publishing for Skydance, has set the division’s senior leadership team and announced the departure of one high-level executive. Since the close of the $110 billion merger of Paramount and Warner Bros. Discovery l…",
+      "title": "APL Apollo Tubes shares hit 10% lower circuit as brokerages downgrade, cut target by 44% after Tata Steel’s purchase",
+      "url": "https://m.economictimes.com/markets/stocks/news/apl-apollo-tubes-shares-in-focus-as-brokerages-downgrade-cut-target-price-by-44-after-tata-steels-purchase/articleshow/136146849.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-25T03:29:43Z",
+      "description": "Shares of APL Apollo Tubes dropped significantly following Tata Steel's announcement of a considerable stake acquisition. Brokerages downgraded the stock due to anticipated earnings dilution and increased leverage. Tata Steel has completed a purchase and is p…",
+      "maMarket": "us"
+    },
+    {
+      "title": "MAG to acquire 10 Boeing 787 Dreamliners with option for 6 more",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/25/mag-to-acquire-10-boeing-787-dreamliner-with-option-for-6-more",
+      "source": "Free Malaysia Today",
+      "publishedAt": "2026-11-25T03:27:00Z",
+      "description": "MAG president and group CEO Nasaruddin A Bakar says Malaysia Airlines will be the first Malaysian airline to operate the 787 Dreamliner variant.",
+      "maMarket": "us"
+    },
+    {
+      "title": "The Worst Long-Term Customers to Acquire",
+      "url": "https://blog.minethatdata.com/2026/11/the-worst-long-term-customers-to-acquire.html",
+      "source": "Minethatdata.com",
+      "publishedAt": "2026-11-25T03:10:00Z",
+      "description": "Database Marketing, Data Mining, Analytics, Big Data, Forecasting, Segmentation, Predictive Modeling, Measurement, Catalog, Business",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "GEMI Stock Near $1.56 as Gemini Taps a Treasury Cost Cutter for COO",
-      "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/gemi-stock-gemini-coo-john-york-treasury/",
-      "source": "Dcforecasts.com",
-      "publishedAt": "2026-11-24T03:50:30Z",
-      "description": "Gemini named former Treasury management chief John York as COO, filling a seat vacant since February, as GEMI stock sits about 94% below its IPO price.",
+      "title": "Wall Street jitters: Nasdaq retreats after Nvidia-fuelled rally; Anthropic slips below IPO price",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/wall-street-jitters-nasdaq-retreats-after-nvidia-fuelled-rally-anthropic-slips-below-ipo-price/articleshow/136146455.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-25T03:18:02Z",
+      "description": "Wall Street retreated on Tuesday as technology stocks gave back some of the previous day's sharp gains, with investors booking profits and turning",
       "ipoMarket": "us"
     },
     {
-      "title": "Anthropic stock falls as Monday's tech rally takes off - Yahoo Finance",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186847063",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-24T01:32:18Z",
-      "description": "Anthropic stock falls as Monday's tech rally takes offYahoo Finance Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon ValleyThe New York Times Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to …",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Opening Day: Anthropic debuts on Nasdaq following historic IPO",
-      "url": "https://biztoc.com/x/cf370ac1c81d56e3",
+      "title": "Investors shut out of Anthropic's IPO may be the lucky ones",
+      "url": "https://biztoc.com/x/0eadd88ac5b64375",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-23T23:52:09Z",
-      "description": "Anthropic began trading on the Nasdaq on Thursday after pricing its IPO at $83 per share, raising about $81.3 billion the largest IPO in history. LATEST IPOS AND DIRECT LISTINGS: - Cizzle Brands (CZZL) opened on November 20 at $4.00. The company priced its 3.…",
+      "publishedAt": "2026-11-25T02:15:02Z",
+      "description": "Almost everyone has been turned away at the door at least once. The concert sells out, or the restaurant runs out of tables, and you head home, certain the people inside got the better night. Every so often, the ones who got in walk out wishing they had staye…",
       "ipoMarket": "us"
     },
     {
-      "title": "Was Anthropic’s record US$81 billion listing a vote of confidence in AI?",
-      "url": "https://freerepublic.com/focus/f-chat/4404092/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-23T23:44:38Z",
-      "description": "The blockbuster stock market listing comes at a nervous moment in the AI sector, says this RMIT University finance professor.Anthropic, the artificial intelligence giant behind Claude, has just pulled off the biggest initial public offering (IPO) in history. …",
+      "title": "WSJ Says OpenAI IPO Delay May Increase Exposure to Potential AI Downturn",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wsj-says-openai-ipo-delay-may-increase-exposure-to-potential-ai-downturn/",
+      "source": "pymnts.com",
+      "publishedAt": "2026-11-24T23:57:01Z",
+      "description": "The longer OpenAI waits to launch its initial public offering, the more time it is exposed to any potential downturn in the artificial intelligence (AI) market, the Wall Street Journal reported Tuesday (Nov. 24). “I don’t see a compelling reason to wait more …",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "What market pros are saying about Anthropic falling below its IPO price days after going public",
+      "url": "https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11",
+      "source": "Business Insider",
+      "publishedAt": "2026-11-24T20:14:26Z",
+      "description": "Anthropic stock has dropped below its $83 IPO price, struggling against AI uncertainty and a bout of volatility that's hobbled markets in recent weeks.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "中国ファーウェイに有罪評決 米",
-      "url": "https://news.yahoo.co.jp/pickup/6603905?source=rss",
+      "title": "露のCS戦場使用巡り EUなど声明",
+      "url": "https://news.yahoo.co.jp/pickup/6604039?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T03:06:55.000Z",
+      "publishedAt": "2026-11-26T03:16:33.000Z",
       "description": ""
     },
     {
-      "title": "SHEINが和解金160億円支払いへ 米",
-      "url": "https://news.yahoo.co.jp/pickup/6603899?source=rss",
+      "title": "香港高層住宅火災1年 遺族の思い",
+      "url": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T02:29:53.000Z",
+      "publishedAt": "2026-11-26T03:15:50.000Z",
       "description": ""
     },
     {
-      "title": "米比首脳会談の合意巡り食い違い",
-      "url": "https://news.yahoo.co.jp/pickup/6603894?source=rss",
+      "title": "インドネシアの鉱山浸水 13人死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6604028?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T02:15:52.000Z",
+      "publishedAt": "2026-11-26T02:10:28.000Z",
       "description": ""
     },
     {
-      "title": "米CIAのシステム ハッカーが侵入",
-      "url": "https://news.yahoo.co.jp/pickup/6603881?source=rss",
+      "title": "エジプトで複数台事故 30人超死亡",
+      "url": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T01:12:51.000Z",
+      "publishedAt": "2026-11-25T23:29:24.000Z",
       "description": ""
     },
     {
-      "title": "NVIDIAは善良な企業 米司法長官",
-      "url": "https://news.yahoo.co.jp/pickup/6603870?source=rss",
+      "title": "米36州がDC事業者に規制を導入",
+      "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-24T23:32:03.000Z",
+      "publishedAt": "2026-11-25T23:09:25.000Z",
       "description": ""
     },
     {
-      "title": "EUのEV優遇 修正案でも日本除外",
-      "url": "https://news.yahoo.co.jp/pickup/6603839?source=rss",
+      "title": "米 日中やEUなどに新関税を提案",
+      "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-24T12:39:02.000Z",
+      "publishedAt": "2026-11-25T15:17:03.000Z",
       "description": ""
     },
     {
-      "title": "禁止解除の「GTA」サウジで人気",
-      "url": "https://news.yahoo.co.jp/pickup/6603816?source=rss",
+      "title": "露船撃沈 場所にリビア選ばれた訳",
+      "url": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-24T08:41:28.000Z",
+      "publishedAt": "2026-11-25T06:32:03.000Z",
       "description": ""
     },
     {
-      "title": "高市首相の到着時 タラップ故障か",
-      "url": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
+      "title": "中国の富裕層マネーが香港に 背景",
+      "url": "https://news.yahoo.co.jp/pickup/6603920?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-24T07:52:18.000Z",
+      "publishedAt": "2026-11-25T05:27:54.000Z",
       "description": ""
     }
   ]
