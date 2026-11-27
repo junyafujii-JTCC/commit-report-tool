@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T04:01:03.619Z",
+  "fetchedAt": "2026-11-27T03:58:52.565Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,127 +9,127 @@
   ],
   "ma": [
     {
-      "title": "Is ICG (LSE:ICG) Fully Valued After Its €8 A Share Buyout?",
-      "url": "https://biztoc.com/x/e949eb85dc063d8f",
+      "title": "BOE eyes Visionox takeover as CNY4.6 billion funding crunch looms",
+      "url": "https://www.digitimes.com/news/a20261125PD231/visionox-boe-display-takeover-government.html",
+      "source": "Digitimes",
+      "publishedAt": "2026-11-26T03:55:29Z",
+      "description": "China's display giant BOE Technology is considering acquiring fellow panel maker Visionox, expanding the target from a single OLED production line to the entire company. Reports from The Elec and DealSite said BOE executives and senior officials from the Hefe…",
+      "maMarket": "us"
+    },
+    {
+      "title": "US Consortium announces deal to acquire sanctioned Russian oil company Lukoil's global subsidiary - The Kyiv Independent",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186872725",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-26T03:52:50Z",
+      "description": "US Consortium announces deal to acquire sanctioned Russian oil company Lukoil's global subsidiaryThe Kyiv Independent Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources sayCNBC Russian oil firm Lukoil’s ov…",
+      "maMarket": "us"
+    },
+    {
+      "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work",
+      "url": "https://biztoc.com/x/1845160389bcbd21",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-25T03:46:34Z",
-      "description": "The €1.2b management buyout of Irish Continental Group (LSE:ICG) has closed, with the ferry operator leaving both the Dublin and London exchanges and investors receiving €8 per share in cash. For existing investors, the bigger picture is that ICG's share pric…",
+      "publishedAt": "2026-11-26T03:46:37Z",
+      "description": "OpenAI’s merger of Chat and Work in ChatGPT could lead to a small fraction of the tool’s heaviest users hitting their usage limits sooner, TechCrunch reported Wednesday (Nov. 25), citing an OpenAI spokesperson. Most users are not expected to see more frequent…",
       "maMarket": "us"
     },
     {
-      "title": "APL Apollo Tubes shares hit 10% lower circuit as brokerages downgrade, cut target by 44% after Tata Steel’s purchase",
-      "url": "https://m.economictimes.com/markets/stocks/news/apl-apollo-tubes-shares-in-focus-as-brokerages-downgrade-cut-target-price-by-44-after-tata-steels-purchase/articleshow/136146849.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-25T03:29:43Z",
-      "description": "Shares of APL Apollo Tubes dropped significantly following Tata Steel's announcement of a considerable stake acquisition. Brokerages downgraded the stock due to anticipated earnings dilution and increased leverage. Tata Steel has completed a purchase and is p…",
-      "maMarket": "us"
-    },
-    {
-      "title": "MAG to acquire 10 Boeing 787 Dreamliners with option for 6 more",
-      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/25/mag-to-acquire-10-boeing-787-dreamliner-with-option-for-6-more",
-      "source": "Free Malaysia Today",
-      "publishedAt": "2026-11-25T03:27:00Z",
-      "description": "MAG president and group CEO Nasaruddin A Bakar says Malaysia Airlines will be the first Malaysian airline to operate the 787 Dreamliner variant.",
-      "maMarket": "us"
-    },
-    {
-      "title": "The Worst Long-Term Customers to Acquire",
-      "url": "https://blog.minethatdata.com/2026/11/the-worst-long-term-customers-to-acquire.html",
-      "source": "Minethatdata.com",
-      "publishedAt": "2026-11-25T03:10:00Z",
-      "description": "Database Marketing, Data Mining, Analytics, Big Data, Forecasting, Segmentation, Predictive Modeling, Measurement, Catalog, Business",
+      "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International’s Global Energy Portfolio",
+      "url": "https://en.antaranews.com/news/445463/american-led-consortium-announces-agreement-to-acquire-lukoil-internationals-global-energy-portfolio",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-11-26T03:28:49Z",
+      "description": "-A U.S.-led consortium today announced that it has entered a definitive agreement to acquire LUKOIL International GmbH (LIG) through a transaction to secure ...",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Wall Street jitters: Nasdaq retreats after Nvidia-fuelled rally; Anthropic slips below IPO price",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/wall-street-jitters-nasdaq-retreats-after-nvidia-fuelled-rally-anthropic-slips-below-ipo-price/articleshow/136146455.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-25T03:18:02Z",
-      "description": "Wall Street retreated on Tuesday as technology stocks gave back some of the previous day's sharp gains, with investors booking profits and turning",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Investors shut out of Anthropic's IPO may be the lucky ones",
-      "url": "https://biztoc.com/x/0eadd88ac5b64375",
+      "title": "Core PCE Hits 3.3% as the AI Selloff Returns",
+      "url": "https://biztoc.com/x/d3ca5af390a744d2",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-25T02:15:02Z",
-      "description": "Almost everyone has been turned away at the door at least once. The concert sells out, or the restaurant runs out of tables, and you head home, certain the people inside got the better night. Every so often, the ones who got in walk out wishing they had staye…",
+      "publishedAt": "2026-11-25T22:29:02Z",
+      "description": "Core PCE runs hot… the Nasdaq is approaching a bear market… ANT follows the IPO pattern… where Eric Fry is investing today… Brian Hunt shows that the U.S. consumer is alive and well Editor’s Note: Our InvestorPlace offices are closed tomorrow and Friday for t…",
       "ipoMarket": "us"
     },
     {
-      "title": "WSJ Says OpenAI IPO Delay May Increase Exposure to Potential AI Downturn",
-      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wsj-says-openai-ipo-delay-may-increase-exposure-to-potential-ai-downturn/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-11-24T23:57:01Z",
-      "description": "The longer OpenAI waits to launch its initial public offering, the more time it is exposed to any potential downturn in the artificial intelligence (AI) market, the Wall Street Journal reported Tuesday (Nov. 24). “I don’t see a compelling reason to wait more …",
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return - CNBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186870365",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-11-25T20:33:09Z",
+      "description": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns returnCNBC US stocks fall further as fears over AI intensifyYahoo! Finance Canada Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updat…",
       "ipoMarket": "us"
     },
     {
-      "title": "What market pros are saying about Anthropic falling below its IPO price days after going public",
-      "url": "https://www.businessinsider.com/anthropic-stock-falls-below-ipo-investor-reactions-2026-11",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-24T20:14:26Z",
-      "description": "Anthropic stock has dropped below its $83 IPO price, struggling against AI uncertainty and a bout of volatility that's hobbled markets in recent weeks.",
+      "title": "Anthropic’s IPO slide fuels fresh concerns over AI valuations; 37 stocks decline despite positive earnings multiples",
+      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/anthropics-ipo-slide-fuels-fresh-concerns-over-ai-valuations/articleshow/136171888.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-25T19:35:02Z",
+      "description": "Anthropic’s fall below its IPO price has intensified concerns over lofty AI valuations, even as earnings forecasts improve across the technology sector. Investors are increasingly focused on whether heavy spending can translate into durable profits.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Prediction markets push OpenAI IPO expectations to 2027",
+      "url": "https://cryptobriefing.com/prediction-markets-openai-ipo-2027/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-11-25T17:25:13Z",
+      "description": "The shift in OpenAI IPO expectations underscores the volatility in AI valuations and highlights prediction markets as real-time sentiment indicators. The post Prediction markets push OpenAI IPO expectations to 2027 appeared first on Crypto Briefing.",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
+      "title": "ロシア 高市氏との首脳対話認める",
+      "url": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T23:17:23.000Z",
+      "description": ""
+    },
+    {
+      "title": "製油所で爆発9人負傷 バンコク",
+      "url": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T22:49:45.000Z",
+      "description": ""
+    },
+    {
+      "title": "ECB総裁にデコス氏 EU首脳が合意",
+      "url": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T21:06:20.000Z",
+      "description": ""
+    },
+    {
+      "title": "北朝鮮が露軍事支援停止か ウ発表",
+      "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T14:22:48.000Z",
+      "description": ""
+    },
+    {
+      "title": "中国 アメリカの新関税案に反発",
+      "url": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T11:37:31.000Z",
+      "description": ""
+    },
+    {
+      "title": "もう限界 カナリア諸島に移民殺到",
+      "url": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T06:27:34.000Z",
+      "description": ""
+    },
+    {
+      "title": "習近平氏の粛清止まらず 後継者は",
+      "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-26T06:17:22.000Z",
+      "description": ""
+    },
+    {
       "title": "露のCS戦場使用巡り EUなど声明",
       "url": "https://news.yahoo.co.jp/pickup/6604039?source=rss",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-26T03:16:33.000Z",
-      "description": ""
-    },
-    {
-      "title": "香港高層住宅火災1年 遺族の思い",
-      "url": "https://news.yahoo.co.jp/pickup/6604041?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T03:15:50.000Z",
-      "description": ""
-    },
-    {
-      "title": "インドネシアの鉱山浸水 13人死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6604028?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T02:10:28.000Z",
-      "description": ""
-    },
-    {
-      "title": "エジプトで複数台事故 30人超死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6604004?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T23:29:24.000Z",
-      "description": ""
-    },
-    {
-      "title": "米36州がDC事業者に規制を導入",
-      "url": "https://news.yahoo.co.jp/pickup/6604002?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T23:09:25.000Z",
-      "description": ""
-    },
-    {
-      "title": "米 日中やEUなどに新関税を提案",
-      "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T15:17:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "露船撃沈 場所にリビア選ばれた訳",
-      "url": "https://news.yahoo.co.jp/pickup/6603931?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T06:32:03.000Z",
-      "description": ""
-    },
-    {
-      "title": "中国の富裕層マネーが香港に 背景",
-      "url": "https://news.yahoo.co.jp/pickup/6603920?source=rss",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-25T05:27:54.000Z",
       "description": ""
     }
   ]
