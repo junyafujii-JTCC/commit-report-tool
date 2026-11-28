@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T03:58:52.565Z",
+  "fetchedAt": "2026-11-28T03:46:36.297Z",
   "maProvider": "https://newsapi.org/",
   "ipoProvider": "https://newsapi.org/",
   "worldProvider": "Yahoo!ニュース RSS（国際＋経済トピックス・見出しフィルタ）",
@@ -9,127 +9,119 @@
   ],
   "ma": [
     {
-      "title": "BOE eyes Visionox takeover as CNY4.6 billion funding crunch looms",
-      "url": "https://www.digitimes.com/news/a20261125PD231/visionox-boe-display-takeover-government.html",
+      "title": "8th Pay Commission completes 70% tenure — DA merger, high fitment factor, revised pay structure among top demands",
+      "url": "https://www.livemint.com/money/8th-cpc-pay-commission-complete-70-pc-tenure-da-merger-high-fitment-factor-revised-pay-structure-salary-hike-top-demands-11795744933321.html",
+      "source": "Livemint",
+      "publishedAt": "2026-11-27T03:21:00Z",
+      "description": "Over a year since it was commissioned, the 8th CPC has completed 70% of its tenure — DA merger, higher fitment factor, revised pay structure and salary hike are among the top demands by employees and pensioner groups.&nbsp;",
+      "maMarket": "us"
+    },
+    {
+      "title": "Samsung bolsters M&A team as it eyes robotics, AI",
+      "url": "https://www.digitimes.com/news/a20261127VL207/samsung-cooling-data-center-equipment-2026.html",
       "source": "Digitimes",
-      "publishedAt": "2026-11-26T03:55:29Z",
-      "description": "China's display giant BOE Technology is considering acquiring fellow panel maker Visionox, expanding the target from a single OLED production line to the entire company. Reports from The Elec and DealSite said BOE executives and senior officials from the Hefe…",
+      "publishedAt": "2026-11-27T03:04:17Z",
+      "description": "Samsung Electronics is strengthening its mergers and acquisitions (M&A) operations as it seeks growth in robotics, artificial intelligence (AI), and data center cooling to offset weakness in its consumer electronics businesses.",
       "maMarket": "us"
     },
     {
-      "title": "US Consortium announces deal to acquire sanctioned Russian oil company Lukoil's global subsidiary - The Kyiv Independent",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186872725",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-26T03:52:50Z",
-      "description": "US Consortium announces deal to acquire sanctioned Russian oil company Lukoil's global subsidiaryThe Kyiv Independent Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources sayCNBC Russian oil firm Lukoil’s ov…",
-      "maMarket": "us"
-    },
-    {
-      "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work",
-      "url": "https://biztoc.com/x/1845160389bcbd21",
+      "title": "KKR planning to withdraw buyout proposal for Sankei Real Estate, sources say",
+      "url": "https://biztoc.com/x/1c53d9f6a38dfbfc",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-26T03:46:37Z",
-      "description": "OpenAI’s merger of Chat and Work in ChatGPT could lead to a small fraction of the tool’s heaviest users hitting their usage limits sooner, TechCrunch reported Wednesday (Nov. 25), citing an OpenAI spokesperson. Most users are not expected to see more frequent…",
+      "publishedAt": "2026-11-27T03:00:39Z",
+      "description": "The U.S. private equity firm submitted a proposed bid to Sankei earlier this month, but is not planning to proceed with the offer.",
       "maMarket": "us"
     },
     {
-      "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International’s Global Energy Portfolio",
-      "url": "https://en.antaranews.com/news/445463/american-led-consortium-announces-agreement-to-acquire-lukoil-internationals-global-energy-portfolio",
-      "source": "Antaranews.com",
-      "publishedAt": "2026-11-26T03:28:49Z",
-      "description": "-A U.S.-led consortium today announced that it has entered a definitive agreement to acquire LUKOIL International GmbH (LIG) through a transaction to secure ...",
+      "title": "Dubai seals deal for $159 billion Islamic banking giant",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/dubai-seals-deal-for-159-billion-islamic-banking-giant/articleshow/136206936.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-27T02:12:29Z",
+      "description": "Dubai Islamic Bank PJSC will acquire Emirates Islamic Bank PJSC in an all-stock deal to boost its banking presence. The merger will result in the formation of a strong Islamic banking group with substantial assets. This transaction indicates a strategic move …",
       "maMarket": "us"
     }
   ],
   "ipo": [
     {
-      "title": "Core PCE Hits 3.3% as the AI Selloff Returns",
-      "url": "https://biztoc.com/x/d3ca5af390a744d2",
+      "title": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs",
+      "url": "https://biztoc.com/x/c5c9ab44cf88838a",
       "source": "Biztoc.com",
-      "publishedAt": "2026-11-25T22:29:02Z",
-      "description": "Core PCE runs hot… the Nasdaq is approaching a bear market… ANT follows the IPO pattern… where Eric Fry is investing today… Brian Hunt shows that the U.S. consumer is alive and well Editor’s Note: Our InvestorPlace offices are closed tomorrow and Friday for t…",
+      "publishedAt": "2026-11-26T17:27:10Z",
+      "description": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs When Elon Musk took SpaceX (NASDAQ: SPCX) public in June in what was then the largest initial public offering (IPO) in history, he didn't …",
       "ipoMarket": "us"
     },
     {
-      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return - CNBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186870365",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-25T20:33:09Z",
-      "description": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns returnCNBC US stocks fall further as fears over AI intensifyYahoo! Finance Canada Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updat…",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Anthropic’s IPO slide fuels fresh concerns over AI valuations; 37 stocks decline despite positive earnings multiples",
-      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/anthropics-ipo-slide-fuels-fresh-concerns-over-ai-valuations/articleshow/136171888.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-25T19:35:02Z",
-      "description": "Anthropic’s fall below its IPO price has intensified concerns over lofty AI valuations, even as earnings forecasts improve across the technology sector. Investors are increasingly focused on whether heavy spending can translate into durable profits.",
-      "ipoMarket": "us"
-    },
-    {
-      "title": "Prediction markets push OpenAI IPO expectations to 2027",
-      "url": "https://cryptobriefing.com/prediction-markets-openai-ipo-2027/",
+      "title": "Anthropic stock slips below its IPO price as growth worries surface",
+      "url": "https://cryptobriefing.com/anthropic-stock-falls-below-ipo-price/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-11-25T17:25:13Z",
-      "description": "The shift in OpenAI IPO expectations underscores the volatility in AI valuations and highlights prediction markets as real-time sentiment indicators. The post Prediction markets push OpenAI IPO expectations to 2027 appeared first on Crypto Briefing.",
+      "publishedAt": "2026-11-26T15:21:02Z",
+      "description": "Anthropic's stock dip highlights investor caution in AI growth, signaling potential reevaluation of tech valuations amid competitive pressures. The post Anthropic stock slips below its IPO price as growth worries surface appeared first on Crypto Briefing.",
+      "ipoMarket": "us"
+    },
+    {
+      "title": "Anthropic stock nosedives below initial $83 IPO price",
+      "url": "https://www.naturalnews.com/2026-11-26-anthropic-stock-nosedives-below-initial-ipo-cost.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-26T06:00:00Z",
+      "description": "Anthropic’s stock fell below its IPO price of $83 for the first time on Nov. 24, closing at $81.91 after a 6.5% decline, briefly dropping its market cap below $1 trillion. The stock had surged to $115.10 on its debut day following the largest IPO in history. …",
       "ipoMarket": "us"
     }
   ],
   "world": [
     {
-      "title": "ロシア 高市氏との首脳対話認める",
-      "url": "https://news.yahoo.co.jp/pickup/6604138?source=rss",
+      "title": "独 核禁止条約再検討会議を欠席へ",
+      "url": "https://news.yahoo.co.jp/pickup/6604275?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T23:17:23.000Z",
+      "publishedAt": "2026-11-28T01:11:26.000Z",
       "description": ""
     },
     {
-      "title": "製油所で爆発9人負傷 バンコク",
-      "url": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
+      "title": "鎌田大地選手を英国で起訴 英報道",
+      "url": "https://news.yahoo.co.jp/pickup/6604273?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T22:49:45.000Z",
+      "publishedAt": "2026-11-28T01:00:59.000Z",
       "description": ""
     },
     {
-      "title": "ECB総裁にデコス氏 EU首脳が合意",
-      "url": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
+      "title": "ロシア 最新鋭の原潜を極東配備へ",
+      "url": "https://news.yahoo.co.jp/pickup/6604264?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T21:06:20.000Z",
+      "publishedAt": "2026-11-27T23:47:07.000Z",
       "description": ""
     },
     {
-      "title": "北朝鮮が露軍事支援停止か ウ発表",
-      "url": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
+      "title": "邦人を売春させた疑い 韓国で捜査",
+      "url": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T14:22:48.000Z",
+      "publishedAt": "2026-11-27T23:08:30.000Z",
       "description": ""
     },
     {
-      "title": "中国 アメリカの新関税案に反発",
-      "url": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
+      "title": "3カ国と加入交渉へ TPP閣僚会合",
+      "url": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T11:37:31.000Z",
+      "publishedAt": "2026-11-27T12:47:03.000Z",
       "description": ""
     },
     {
-      "title": "もう限界 カナリア諸島に移民殺到",
-      "url": "https://news.yahoo.co.jp/pickup/6604068?source=rss",
+      "title": "韓国の入試不正 前年より69.9%増",
+      "url": "https://news.yahoo.co.jp/pickup/6604213?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T06:27:34.000Z",
+      "publishedAt": "2026-11-27T09:09:00.000Z",
       "description": ""
     },
     {
-      "title": "習近平氏の粛清止まらず 後継者は",
-      "url": "https://news.yahoo.co.jp/pickup/6604044?source=rss",
+      "title": "露指示とされる破壊工作 欧州激化",
+      "url": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T06:17:22.000Z",
+      "publishedAt": "2026-11-27T08:37:30.000Z",
       "description": ""
     },
     {
-      "title": "露のCS戦場使用巡り EUなど声明",
-      "url": "https://news.yahoo.co.jp/pickup/6604039?source=rss",
+      "title": "インド最大野党 メタと政府を提訴",
+      "url": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-26T03:16:33.000Z",
+      "publishedAt": "2026-11-27T06:23:19.000Z",
       "description": ""
     }
   ]
